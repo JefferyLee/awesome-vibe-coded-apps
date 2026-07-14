@@ -1,0 +1,34 @@
+[
+ {
+  "slug": "getkaijin",
+  "title": "Kaijin | One workspace for manga and manhwa creators",
+  "short_description": "Plan chapters, draw panels, and publish manga and manhwa in one workspace.",
+  "live_url": "http://getkaijin.com",
+  "published_at": "2026-07-03T08:04:08.273+00:00",
+  "updated_at": "2026-07-09T10:12:38.381094+00:00"
+ },
+ {
+  "slug": "aiinterviewcoaches",
+  "title": "C91 AI Interview Coach",
+  "short_description": "Practice job interviews with an AI coach that gives real feedback.",
+  "live_url": "https://aiinterviewcoaches.com",
+  "published_at": "2026-07-05T02:58:15.67+00:00",
+  "updated_at": "2026-07-09T10:10:54.688575+00:00"
+ },
+ {
+  "slug": "aip-aicortexo",
+  "title": "Agentic Infrastructure Platform — AI Worker Platform",
+  "short_description": "Hire AI agents to automate business tasks like customer support, sales, and operations.",
+  "live_url": "https://aip.aicortexo.com",
+  "published_at": "2026-07-02T13:02:25.021+00:00",
+  "updated_at": "2026-07-09T10:10:32.121111+00:00"
+ },
+ {
+  "slug": "debuggptapp-netlify",
+  "title": "DebugGPT — Built by AI. Understood by humans.",
+  "short_description": "@gezimqaili https://t.co/aRps4l6EWD Lets connect",
+  "live_url": "http://debuggptapp.netlify.app",
+  "published_at": "2026-07-03T01:54:18.688+00:00",
+  "updated_at": "2026-07-09T08:46:17.137565+00:00"
+ }
+]
