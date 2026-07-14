@@ -197,7 +197,11 @@
    "automation",
    "productivity"
   ],
-  "detected_stack": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js",
+   "Google Analytics"
+  ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
@@ -216,7 +220,10 @@
    "feedback-voting",
    "productivity"
   ],
-  "detected_stack": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
@@ -237,7 +244,11 @@
    "developer-tool",
    "automation"
   ],
-  "detected_stack": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js",
+   "Supabase"
+  ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
@@ -372,7 +383,9 @@
    "south-africa",
    "productivity"
   ],
-  "detected_stack": null,
+  "detected_stack": [
+   "Lovable"
+  ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
@@ -394,7 +407,9 @@
    "food",
    "productivity"
   ],
-  "detected_stack": null,
+  "detected_stack": [
+   "Lovable"
+  ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
@@ -436,7 +451,9 @@
    "website-builder",
    "social"
   ],
-  "detected_stack": null,
+  "detected_stack": [
+   "Lovable"
+  ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
@@ -457,7 +474,9 @@
    "music",
    "game"
   ],
-  "detected_stack": null,
+  "detected_stack": [
+   "Lovable"
+  ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
@@ -477,7 +496,9 @@
    "chatbot",
    "productivity"
   ],
-  "detected_stack": null,
+  "detected_stack": [
+   "Lovable"
+  ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
@@ -497,7 +518,9 @@
    "fun",
    "game"
   ],
-  "detected_stack": null,
+  "detected_stack": [
+   "Lovable"
+  ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
@@ -518,7 +541,9 @@
    "game",
    "hindi"
   ],
-  "detected_stack": null,
+  "detected_stack": [
+   "Lovable"
+  ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,

@@ -640,7 +640,7 @@ Apps that were live on this list and have since gone dark — the liveness stand
 The catalog is queryable — useful for prior-art checks ("has someone already vibe-coded this?") from Claude Code, Cursor, Codex, or any MCP client. Three ways, cheapest first:
 
 - **Data files (preferred for browsing/filtering)** — [`data/projects.json`](data/projects.json) and [`data/graveyard.json`](data/graveyard.json) in this repo: the full public catalog (slugs, descriptions, categories, tags, detected stack, stars, tries), regenerated daily, CC0. Fetch the raw file and filter locally — no API, no rate limits, and `git log` gives you the catalog's history for free.
-- **Skill** — [`skills/onesvibe-prior-art`](skills/onesvibe-prior-art/SKILL.md) teaches an agent the routing below: snapshot for browsing, live API only for semantic similarity.
+- **Skill** — [`skills/onesvibe-prior-art`](skills/onesvibe-prior-art/SKILL.md) teaches an agent the routing below: snapshot for browsing, live API only for semantic similarity. Install: `npx skills add JefferyLee/awesome-vibe-coded-apps`.
 - **Live search (semantic similarity only)** — [`https://onesvibe.app/api/reference?q=online+chess+game&limit=6`](https://onesvibe.app/api/reference?q=online+chess+game&limit=6) (plain JSON, provenance included), or as MCP: `claude mcp add --transport http onesvibe https://onesvibe.app/api/mcp`. Docs: [https://onesvibe.app/for-agents](https://onesvibe.app/for-agents).
 
 ## About
