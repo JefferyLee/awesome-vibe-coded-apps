@@ -2071,7 +2071,7 @@
   "detected_stack": [
    "Vercel"
   ],
-  "is_featured": false,
+  "is_featured": true,
   "github_stars": null,
   "recent_try_count": 0,
   "published_at": "2026-07-14T20:01:45.468+00:00",
@@ -3785,7 +3785,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 0,
+  "recent_try_count": 1,
   "published_at": "2026-07-13T22:21:47.841+00:00",
   "live_check_status": "live"
  },
@@ -4814,7 +4814,7 @@
   ],
   "is_featured": true,
   "github_stars": 0,
-  "recent_try_count": 0,
+  "recent_try_count": 1,
   "published_at": "2026-07-13T01:20:12.951+00:00",
   "live_check_status": "live"
  },
@@ -9426,7 +9426,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 0,
+  "recent_try_count": 1,
   "published_at": "2026-07-12T11:52:25.389+00:00",
   "live_check_status": "live"
  },
@@ -11296,7 +11296,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 0,
+  "recent_try_count": 1,
   "published_at": "2026-07-12T10:21:48.488+00:00",
   "live_check_status": "live"
  },
@@ -23981,7 +23981,7 @@
   ],
   "is_featured": false,
   "github_stars": 25,
-  "recent_try_count": 1,
+  "recent_try_count": 2,
   "published_at": "2026-07-09T22:17:19.7+00:00",
   "live_check_status": "live"
  },
@@ -33111,7 +33111,8 @@
    "seo"
   ],
   "detected_stack": [
-   "Cloudflare"
+   "Cloudflare",
+   "Google Analytics"
   ],
   "is_featured": false,
   "github_stars": null,
@@ -33322,7 +33323,9 @@
   "tag_slugs": null,
   "detected_stack": [
    "Vercel",
-   "Tailwind"
+   "Tailwind",
+   "Google Analytics",
+   "Vercel Analytics"
   ],
   "is_featured": false,
   "github_stars": null,
@@ -33846,6 +33849,7 @@
   ],
   "detected_stack": [
    "Cloudflare",
+   "PostHog",
    "Turnstile"
   ],
   "is_featured": false,
@@ -35114,7 +35118,7 @@
    "data"
   ],
   "detected_stack": [
-   "Vercel",
+   "Cloudflare",
    "Next.js",
    "Radix UI",
    "Supabase",
@@ -35928,9 +35932,7 @@
    "design"
   ],
   "detected_stack": [
-   "HTML",
-   "JavaScript",
-   "Dockerfile"
+   "Fly.io"
   ],
   "is_featured": false,
   "github_stars": 9,
@@ -36046,7 +36048,9 @@
   ],
   "detected_stack": [
    "Cloudflare",
-   "Next.js"
+   "Next.js",
+   "Supabase",
+   "Lemon Squeezy"
   ],
   "is_featured": false,
   "github_stars": null,
@@ -36068,10 +36072,7 @@
    "productivity"
   ],
   "detected_stack": [
-   "TypeScript",
-   "CSS",
-   "JavaScript",
-   "HTML"
+   "Cloudflare"
   ],
   "is_featured": false,
   "github_stars": 37,
@@ -36494,8 +36495,7 @@
    "education"
   ],
   "detected_stack": [
-   "Cloudflare",
-   "Google Analytics"
+   "Cloudflare"
   ],
   "is_featured": false,
   "github_stars": null,
@@ -36587,9 +36587,7 @@
    "pirate"
   ],
   "detected_stack": [
-   "Cloudflare",
-   "Google Analytics",
-   "PostHog"
+   "Cloudflare"
   ],
   "is_featured": false,
   "github_stars": null,
@@ -36881,7 +36879,8 @@
   ],
   "detected_stack": [
    "Cloudflare",
-   "Radix UI"
+   "Radix UI",
+   "Google Analytics"
   ],
   "is_featured": false,
   "github_stars": null,
@@ -37715,7 +37714,8 @@
   ],
   "detected_stack": [
    "Vercel",
-   "Next.js"
+   "Next.js",
+   "Supabase"
   ],
   "is_featured": false,
   "github_stars": null,
@@ -37923,7 +37923,8 @@
   ],
   "detected_stack": [
    "Vercel",
-   "Next.js"
+   "Next.js",
+   "Google Analytics"
   ],
   "is_featured": false,
   "github_stars": null,
@@ -38436,7 +38437,8 @@
    "search"
   ],
   "detected_stack": [
-   "Cloudflare"
+   "Cloudflare",
+   "Tawk.to"
   ],
   "is_featured": false,
   "github_stars": null,
@@ -40356,7 +40358,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 4,
+  "recent_try_count": 5,
   "published_at": "2026-07-06T00:13:03.394+00:00",
   "live_check_status": "live"
  },
@@ -46985,7 +46987,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 0,
+  "recent_try_count": 1,
   "published_at": "2026-07-05T01:14:20.775+00:00",
   "live_check_status": "live"
  },
@@ -49530,6 +49532,7 @@
   ],
   "detected_stack": [
    "Cloudflare",
+   "Google Analytics",
    "Plausible"
   ],
   "is_featured": false,
@@ -49765,6 +49768,7 @@
   ],
   "detected_stack": [
    "Cloudflare",
+   "Radix UI",
    "Google Analytics"
   ],
   "is_featured": false,
@@ -52328,7 +52332,8 @@
   "detected_stack": [
    "Vercel",
    "Next.js",
-   "Supabase"
+   "Supabase",
+   "Google Analytics"
   ],
   "is_featured": false,
   "github_stars": null,
@@ -52950,7 +52955,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 2,
+  "recent_try_count": 3,
   "published_at": "2026-07-02T21:18:23.046+00:00",
   "live_check_status": "live"
  },
@@ -56882,24 +56887,25 @@
   "live_check_status": "live"
  },
  {
-  "slug": "forclubandcountry",
-  "title": "For Club and Country",
-  "short_description": "Browse which club each 2026 World Cup player plays for, including all squads, groups, and schedule.",
-  "short_description_zh": "浏览每位2026 World Cup球员所在的俱乐部，包括所有球队、小组和赛程。",
-  "live_url": "https://forclubandcountry.football",
-  "primary_category": "utilities",
+  "slug": "verisite",
+  "title": "Verisite",
+  "short_description": "Paste your URL to get security findings for web apps explained in plain English",
+  "short_description_zh": "粘贴 URL 获取 web apps 的安全发现，用通俗易懂的方式呈现",
+  "live_url": "https://verisite.luqman.cloud",
+  "primary_category": "developer_tools",
   "tag_slugs": [
+   "developer-tool",
+   "security",
    "no-login",
-   "data",
-   "sports",
-   "fun"
+   "analytics"
   ],
   "detected_stack": [
-   "Vercel"
+   "Vercel",
+   "Next.js"
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 0,
+  "recent_try_count": 1,
   "published_at": "2026-07-01T15:23:22.302033+00:00",
   "live_check_status": "live"
  },
@@ -56918,6 +56924,28 @@
   ],
   "detected_stack": [
    "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-07-01T15:23:22.302033+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "forclubandcountry",
+  "title": "For Club and Country",
+  "short_description": "Browse which club each 2026 World Cup player plays for, including all squads, groups, and schedule.",
+  "short_description_zh": "浏览每位2026 World Cup球员所在的俱乐部，包括所有球队、小组和赛程。",
+  "live_url": "https://forclubandcountry.football",
+  "primary_category": "utilities",
+  "tag_slugs": [
+   "no-login",
+   "data",
+   "sports",
+   "fun"
+  ],
+  "detected_stack": [
+   "Vercel"
   ],
   "is_featured": false,
   "github_stars": null,
@@ -56948,29 +56976,6 @@
   "live_check_status": "live"
  },
  {
-  "slug": "verisite",
-  "title": "Verisite",
-  "short_description": "Paste your URL to get security findings for web apps explained in plain English",
-  "short_description_zh": "粘贴 URL 获取 web apps 的安全发现，用通俗易懂的方式呈现",
-  "live_url": "https://verisite.luqman.cloud",
-  "primary_category": "developer_tools",
-  "tag_slugs": [
-   "developer-tool",
-   "security",
-   "no-login",
-   "analytics"
-  ],
-  "detected_stack": [
-   "Vercel",
-   "Next.js"
-  ],
-  "is_featured": false,
-  "github_stars": null,
-  "recent_try_count": 1,
-  "published_at": "2026-07-01T15:23:22.302033+00:00",
-  "live_check_status": "live"
- },
- {
   "slug": "base44",
   "title": "Base44",
   "short_description": "Create functional apps by describing them in plain language, no coding required.",
@@ -56992,52 +56997,6 @@
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
-  "published_at": "2026-07-01T14:55:03.674747+00:00",
-  "live_check_status": "live"
- },
- {
-  "slug": "game-buddy",
-  "title": "Game Buddy",
-  "short_description": "Play arcade Keepy-Uppy King and browse FIFA World Cup 2026 fixtures and scores.",
-  "short_description_zh": "玩街机Keepy-Uppy King游戏，浏览FIFA World Cup 2026的赛程和比分。",
-  "live_url": "https://www.game-buddy.co.uk",
-  "primary_category": "games_play",
-  "tag_slugs": [
-   "game",
-   "arcade",
-   "fun",
-   "united-kingdom"
-  ],
-  "detected_stack": [
-   "Vercel",
-   "Google Analytics"
-  ],
-  "is_featured": false,
-  "github_stars": null,
-  "recent_try_count": 1,
-  "published_at": "2026-07-01T14:55:03.674747+00:00",
-  "live_check_status": "live"
- },
- {
-  "slug": "anniescene",
-  "title": "annie's scene",
-  "short_description": "Click through a Gen-Z bedroom with working iPod, bookshelf, and hidden easter eggs.",
-  "short_description_zh": "点击浏览 Gen-Z 卧室，内有可用的 iPod、书架和隐藏彩蛋。",
-  "live_url": "https://anniescene.com",
-  "primary_category": "games_play",
-  "tag_slugs": [
-   "fun",
-   "design",
-   "no-login",
-   "arcade",
-   "game"
-  ],
-  "detected_stack": [
-   "Netlify"
-  ],
-  "is_featured": false,
-  "github_stars": null,
-  "recent_try_count": 1,
   "published_at": "2026-07-01T14:55:03.674747+00:00",
   "live_check_status": "live"
  },
@@ -57065,6 +57024,52 @@
   "live_check_status": "live"
  },
  {
+  "slug": "anniescene",
+  "title": "annie's scene",
+  "short_description": "Click through a Gen-Z bedroom with working iPod, bookshelf, and hidden easter eggs.",
+  "short_description_zh": "点击浏览 Gen-Z 卧室，内有可用的 iPod、书架和隐藏彩蛋。",
+  "live_url": "https://anniescene.com",
+  "primary_category": "games_play",
+  "tag_slugs": [
+   "fun",
+   "design",
+   "no-login",
+   "arcade",
+   "game"
+  ],
+  "detected_stack": [
+   "Netlify"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 1,
+  "published_at": "2026-07-01T14:55:03.674747+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "game-buddy",
+  "title": "Game Buddy",
+  "short_description": "Play arcade Keepy-Uppy King and browse FIFA World Cup 2026 fixtures and scores.",
+  "short_description_zh": "玩街机Keepy-Uppy King游戏，浏览FIFA World Cup 2026的赛程和比分。",
+  "live_url": "https://www.game-buddy.co.uk",
+  "primary_category": "games_play",
+  "tag_slugs": [
+   "game",
+   "arcade",
+   "fun",
+   "united-kingdom"
+  ],
+  "detected_stack": [
+   "Vercel",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 1,
+  "published_at": "2026-07-01T14:55:03.674747+00:00",
+  "live_check_status": "live"
+ },
+ {
   "slug": "mcprobe",
   "title": "MCProbe",
   "short_description": "Paste a URL to audit an MCP server and get a conformance score with fix recommendations.",
@@ -57082,31 +57087,10 @@
    "Next.js",
    "Google Analytics"
   ],
-  "is_featured": true,
+  "is_featured": false,
   "github_stars": 6,
   "recent_try_count": 4,
   "published_at": "2026-07-01T14:55:03.674747+00:00",
-  "live_check_status": "live"
- },
- {
-  "slug": "caddis",
-  "title": "Caddis",
-  "short_description": "Create animations and motion graphics with layer-based timeline editing and node-based compositing.",
-  "short_description_zh": "通过基于图层的时间线编辑和节点型合成创建动画和运动图形。",
-  "live_url": "https://www.caddis.app",
-  "primary_category": "creative_tools",
-  "tag_slugs": [
-   "design",
-   "video",
-   "3d"
-  ],
-  "detected_stack": [
-   "Framer"
-  ],
-  "is_featured": false,
-  "github_stars": null,
-  "recent_try_count": 7,
-  "published_at": "2026-07-01T14:44:40.770996+00:00",
   "live_check_status": "live"
  },
  {
@@ -57130,6 +57114,27 @@
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
+  "published_at": "2026-07-01T14:44:40.770996+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "caddis",
+  "title": "Caddis",
+  "short_description": "Create animations and motion graphics with layer-based timeline editing and node-based compositing.",
+  "short_description_zh": "通过基于图层的时间线编辑和节点型合成创建动画和运动图形。",
+  "live_url": "https://www.caddis.app",
+  "primary_category": "creative_tools",
+  "tag_slugs": [
+   "design",
+   "video",
+   "3d"
+  ],
+  "detected_stack": [
+   "Framer"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 7,
   "published_at": "2026-07-01T14:44:40.770996+00:00",
   "live_check_status": "live"
  },
