@@ -1,5 +1,53 @@
 [
  {
+  "slug": "117-72-40-129-8001",
+  "title": "Streamlit",
+  "short_description": "AI application for table question-answering, text OCR, and table image structure recognition.",
+  "live_url": "http://117.72.40.129:8001",
+  "published_at": "2026-07-12T11:50:28.982+00:00",
+  "updated_at": "2026-07-21T03:02:17.525099+00:00"
+ },
+ {
+  "slug": "importer-kvolts-lab",
+  "title": "Platform Agnostic Tool to Convert Any Website into a Webflow Site",
+  "short_description": "Paste a website URL to convert it into a Webflow site with pixel-perfect layout and styling preserved.",
+  "live_url": "https://importer.kvolts-lab.com",
+  "published_at": "2026-07-05T13:11:43.511+00:00",
+  "updated_at": "2026-07-21T03:02:17.071376+00:00"
+ },
+ {
+  "slug": "trysona-studio",
+  "title": "Sona — Find proven ideas. Write in your voice.",
+  "short_description": "AI tool that analyzes successful content across platforms and helps you create original writing in your own voice.",
+  "live_url": "https://trysona.studio/",
+  "published_at": "2026-07-02T23:26:17.141+00:00",
+  "updated_at": "2026-07-21T03:02:16.601141+00:00"
+ },
+ {
+  "slug": "vert-quest",
+  "title": "VERT",
+  "short_description": "Set daily pushup goals with financial charges if you miss your streak.",
+  "live_url": "https://vert.quest",
+  "published_at": "2026-07-11T23:15:01.805+00:00",
+  "updated_at": "2026-07-21T03:02:16.106189+00:00"
+ },
+ {
+  "slug": "noteoffline-lovable",
+  "title": "Offline notes",
+  "short_description": "Offline note-taking app with Serbian interface, folders, tags, and local browser storage.",
+  "live_url": "https://noteoffline.lovable.app/",
+  "published_at": "2026-07-05T13:58:22.571+00:00",
+  "updated_at": "2026-07-21T03:02:15.631228+00:00"
+ },
+ {
+  "slug": "proxy-kilometers-budgets-cornell-trycloudflare",
+  "title": "A股 + 美股动量系统",
+  "short_description": "Analyze momentum across A-shares and US stocks to find short-term trading signals.",
+  "live_url": "https://proxy-kilometers-budgets-cornell.trycloudflare.com/",
+  "published_at": "2026-07-05T20:20:52.971+00:00",
+  "updated_at": "2026-07-21T03:02:15.106612+00:00"
+ },
+ {
   "slug": "x-melea",
   "title": "melea - Hijack the trends your audience follows.",
   "short_description": "@itsydesigns @X 👀 Content and growth its about https://t.co/dTRLvKawpy",
