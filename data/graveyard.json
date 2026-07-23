@@ -1,5 +1,77 @@
 [
  {
+  "slug": "property-aura-pro-lovable",
+  "title": "AURA ESTATES — Luxury Real Estate Redefined",
+  "short_description": "Browse curated luxury real estate residences including private villas, coastal estates, and alpine retreats worldwide.",
+  "live_url": "https://property-aura-pro.lovable.app",
+  "published_at": "2026-07-08T19:50:10.286+00:00",
+  "updated_at": "2026-07-23T05:51:15.0108+00:00"
+ },
+ {
+  "slug": "papermarket-space",
+  "title": "Paper Market",
+  "short_description": "Send AI agents to compete and trade in an experimental stock market.",
+  "live_url": "http://papermarket.space",
+  "published_at": "2026-07-05T22:40:08.34+00:00",
+  "updated_at": "2026-07-23T05:51:14.542351+00:00"
+ },
+ {
+  "slug": "oddeye",
+  "title": "Odd Eye — Understand your code before asking AI to fix it",
+  "short_description": "Understand code flow and app connections before asking AI to help modify your app.",
+  "live_url": "https://oddeye.app",
+  "published_at": "2026-07-08T22:11:46.856+00:00",
+  "updated_at": "2026-07-23T05:51:13.955965+00:00"
+ },
+ {
+  "slug": "djemissoukro-lovable",
+  "title": "Mon Restaurant — Commandez vos plats préférés",
+  "short_description": "Order food from restaurants with delivery, make reservations, and pay on delivery or via Mobile Money.",
+  "live_url": "https://djemissoukro.lovable.app",
+  "published_at": "2026-07-09T20:19:42.746+00:00",
+  "updated_at": "2026-07-23T05:51:13.420724+00:00"
+ },
+ {
+  "slug": "betaer-github",
+  "title": "AI Signal Guard · browser analyzer",
+  "short_description": "Check what network and browser signals you expose before using AI services.",
+  "live_url": "https://betaer.github.io/AISignalGuard/",
+  "published_at": "2026-07-09T19:43:20.544+00:00",
+  "updated_at": "2026-07-23T05:51:12.935205+00:00"
+ },
+ {
+  "slug": "ajk8-lovable",
+  "title": "AJAY-A4MP-REDDY",
+  "short_description": "Voice-powered AI assistant with interactive 20-chart data analytics dashboard.",
+  "live_url": "https://ajk8.lovable.app",
+  "published_at": "2026-07-09T20:17:19.403+00:00",
+  "updated_at": "2026-07-23T05:51:12.341995+00:00"
+ },
+ {
+  "slug": "ajk7-lovable",
+  "title": "AJAY-A4MP-REDDY",
+  "short_description": "Voice, chat, and image AI assistant supporting Telugu, Hindi, and English.",
+  "live_url": "https://ajk7.lovable.app",
+  "published_at": "2026-07-09T20:17:46.529+00:00",
+  "updated_at": "2026-07-23T05:51:11.798602+00:00"
+ },
+ {
+  "slug": "ajk11-lovable",
+  "title": "AJAY-A4MP-REDDY",
+  "short_description": "Upload a teacher's photo to get AI-powered tutoring with live whiteboards and English coaching.",
+  "live_url": "https://ajk11.lovable.app",
+  "published_at": "2026-07-09T20:15:55.847+00:00",
+  "updated_at": "2026-07-23T05:51:11.15226+00:00"
+ },
+ {
+  "slug": "ajk10-lovable",
+  "title": "AJAY-A4MP-REDDY",
+  "short_description": "Upload CSV or Excel data for AI-powered insights, charts, and automatic data cleaning.",
+  "live_url": "https://ajk10.lovable.app",
+  "published_at": "2026-07-09T20:16:14.414+00:00",
+  "updated_at": "2026-07-23T05:51:10.362633+00:00"
+ },
+ {
   "slug": "117-72-40-129-8001",
   "title": "Streamlit",
   "short_description": "AI application for table question-answering, text OCR, and table image structure recognition.",
