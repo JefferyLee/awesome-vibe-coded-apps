@@ -1,5 +1,61 @@
 [
  {
+  "slug": "talent-category-necessarily-self-trycloudflare",
+  "title": "Hermes × COTI — Private Agent Messaging Demo",
+  "short_description": "Private multi-agent messaging with AES encryption on COTI Network mainnet.",
+  "live_url": "https://talent-category-necessarily-self.trycloudflare.com",
+  "published_at": "2026-07-12T20:13:36.244+00:00",
+  "updated_at": "2026-07-26T07:29:11.525014+00:00"
+ },
+ {
+  "slug": "product-tracer-vercel",
+  "title": "OpenProduct — Cross-platform indie product signals",
+  "short_description": "Track trending indie products across GitHub, Hacker News, Product Hunt, and YouTube.",
+  "live_url": "https://product-tracer.vercel.app/",
+  "published_at": "2026-07-05T11:29:14.281+00:00",
+  "updated_at": "2026-07-26T07:29:11.121225+00:00"
+ },
+ {
+  "slug": "paytree-to",
+  "title": "Paytree — The bio link for creators who monetize",
+  "short_description": "AI-powered bio link for creators with commerce, analytics, and 0% platform fees.",
+  "live_url": "https://paytree.to",
+  "published_at": "2026-07-05T21:36:04.775+00:00",
+  "updated_at": "2026-07-26T07:29:10.632665+00:00"
+ },
+ {
+  "slug": "merge-risk-vercel",
+  "title": "Merge Risk — Is your AI-built app leaking data?",
+  "short_description": "Paste a public GitHub repo and get an honest A–F security grade in seconds.",
+  "live_url": "https://merge-risk.vercel.app/",
+  "published_at": "2026-07-14T20:18:07.152+00:00",
+  "updated_at": "2026-07-26T07:29:10.153347+00:00"
+ },
+ {
+  "slug": "marksave",
+  "title": "marksave - your X bookmarks, finally organized",
+  "short_description": "Import your X bookmarks and access them in a fast, organized, searchable library.",
+  "live_url": "https://marksave.app",
+  "published_at": "2026-07-17T04:32:53.21+00:00",
+  "updated_at": "2026-07-26T07:29:09.676437+00:00"
+ },
+ {
+  "slug": "jobcloudai",
+  "title": "JobCloud AI - Automate Job Search & Beat ATS Filters",
+  "short_description": "Automate job search with AI that scores matches and generates personalized learning paths.",
+  "live_url": "https://Jobcloudai.com",
+  "published_at": "2026-07-07T05:33:23.271+00:00",
+  "updated_at": "2026-07-26T07:29:09.178266+00:00"
+ },
+ {
+  "slug": "christ-cafe-hub-lovable",
+  "title": "Café Chrétien — Un café spirituel pour nourrir l'âme",
+  "short_description": "A global spiritual platform with Christian teachings, prayers, broadcasts, films and testimonies.",
+  "live_url": "https://christ-cafe-hub.lovable.app",
+  "published_at": "2026-07-11T20:05:36.132+00:00",
+  "updated_at": "2026-07-26T07:29:08.684153+00:00"
+ },
+ {
   "slug": "property-aura-pro-lovable",
   "title": "AURA ESTATES — Luxury Real Estate Redefined",
   "short_description": "Browse curated luxury real estate residences including private villas, coastal estates, and alpine retreats worldwide.",

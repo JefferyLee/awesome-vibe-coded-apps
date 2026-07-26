@@ -4,23 +4,23 @@
 
 Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-checks each app's liveness on a rolling ~3-day cycle, so dead links drop off this list automatically. "Live checked" means the URL was recently reachable — it is not a safety audit or an endorsement.
 
-**3,859 apps** · regenerated 2026-07-26 · want your app here? [Submit it on One's Vibe](https://onesvibe.app/submit) — once published, it appears in the next regeneration.
+**3,852 apps** · regenerated 2026-07-25 · want your app here? [Submit it on One's Vibe](https://onesvibe.app/submit) — once published, it appears in the next regeneration.
 
 ## Contents
 
 - [Editor's Picks](#editors-picks)
 - [Games & Play](#games--play) (315)
-- [Productivity](#productivity) (600)
+- [Productivity](#productivity) (598)
 - [Education](#education) (218)
 - [Creative Tools](#creative-tools) (659)
-- [AI Agents](#ai-agents) (330)
-- [Developer Tools](#developer-tools) (581)
-- [Finance & Business](#finance--business) (566)
+- [AI Agents](#ai-agents) (329)
+- [Developer Tools](#developer-tools) (579)
+- [Finance & Business](#finance--business) (565)
 - [Health & Wellness](#health--wellness) (125)
-- [Social & Community](#social--community) (122)
+- [Social & Community](#social--community) (121)
 - [Utilities](#utilities) (239)
 - [Other](#other) (104)
-- [Graveyard](#graveyard) (20)
+- [Graveyard](#graveyard) (27)
 - [Use it from your agent](#use-it-from-your-agent)
 
 ## Editor's Picks
@@ -140,7 +140,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [pileax](https://pileax.ai/screenshots/main.gif) - AI-powered e-book reader that integrates notes, reading, and AI responses to build and systematize your personal knowledge base. ([details](https://onesvibe.app/projects/pileax))
 - [ToolPDFs. Every document task. One fast workspace](https://toolpdfs.com) - Edit, merge, compress, and convert PDFs with 57 free browser-based tools. No signup, uploads, or watermarks required. ([details](https://onesvibe.app/projects/toolpdfs))
 - [MetaDesc.io](https://glowing-tiramisu-7b2633.netlify.app) - Generate SEO meta descriptions for your pages using AI with 20 free calls daily. ([details](https://onesvibe.app/projects/glowing-tiramisu-7b2633-netlify))
-- …and [550 more in Productivity](https://onesvibe.app/explore?category=productivity).
+- …and [548 more in Productivity](https://onesvibe.app/explore?category=productivity).
 
 ## Education
 
@@ -302,7 +302,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [foomchat](https://foomchat.com) - An AI chat that builds and installs custom UI features on request. ([details](https://onesvibe.app/projects/foomchat))
 - [Vibes-Coded](https://vibes-coded.com/start) - An AI skills marketplace where agents discover, purchase, and hire capabilities via API. ([details](https://onesvibe.app/projects/vibes-coded))
 - [ALLCHAT טכנולוגיית צ'אט בוטים וסוכני AI - AllChat | סוכני AI לעסקים](https://allchat.co.il/) - Build AI chatbots and agents for websites, WhatsApp, and business. ([details](https://onesvibe.app/projects/allchat))
-- …and [280 more in AI Agents](https://onesvibe.app/explore?category=ai_agents).
+- …and [279 more in AI Agents](https://onesvibe.app/explore?category=ai_agents).
 
 ## Developer Tools
 
@@ -356,7 +356,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Spectacular](https://spec.tacul.ar) - Write software functional specifications designed to work for both humans and AI. ⭐ 25 ([details](https://onesvibe.app/projects/spec-tacul-ar))
 - [Skilly for Builders](https://tryskilly.app/) - Add voice-guided help to your website or app from documentation and product content. ⭐ 20 ([details](https://onesvibe.app/projects/tryskilly))
 - [Install eve Agents with One Command · evex](https://evex.sh) - Browse, preview, and install community-built eve agents via npm. ⭐ 17 ([details](https://onesvibe.app/projects/evex-sh))
-- …and [531 more in Developer Tools](https://onesvibe.app/explore?category=developer_tools).
+- …and [529 more in Developer Tools](https://onesvibe.app/explore?category=developer_tools).
 
 ## Finance & Business
 
@@ -410,7 +410,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Tools · Offer Buildr](https://offerbuildr.com/tools) - Free calculators to help homebuyers understand their offer before submitting. ([details](https://onesvibe.app/projects/offerbuildr))
 - [SkuParse](https://www.skuparse.com/) - Convert messy supplier catalogs to Shopify-ready CSV files with AI. ([details](https://onesvibe.app/projects/skuparse))
 - [Is Your Brand Showing Up in AI Answers?](https://www.promptscout.app/) - Monitor how your brand appears in AI-powered search results and chat platforms. ([details](https://onesvibe.app/projects/promptscout))
-- …and [516 more in Finance & Business](https://onesvibe.app/explore?category=finance_business).
+- …and [515 more in Finance & Business](https://onesvibe.app/explore?category=finance_business).
 
 ## Health & Wellness
 
@@ -518,7 +518,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Whispr](https://thewhispr.com) - A marketplace for paid one-on-one messaging between creators and their fans. ([details](https://onesvibe.app/projects/thewhispr))
 - [Roast My SaaS 🔥](https://roastmysaas.lol) - Post your SaaS product and receive anonymous feedback from the community. ([details](https://onesvibe.app/projects/roastmysaas-lol))
 - [CrowdWis](https://crowdwis.app/) - Write questions and get automatically routed to the people best suited to answer them. ([details](https://onesvibe.app/projects/crowdwis))
-- …and [72 more in Social & Community](https://onesvibe.app/explore?category=social_community).
+- …and [71 more in Social & Community](https://onesvibe.app/explore?category=social_community).
 
 ## Utilities
 
@@ -632,6 +632,13 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 
 Apps that were live on this list and have since gone dark — the liveness standard, demonstrated. URLs are intentionally not linked (they stopped responding to our checks; visit at your own risk). Full memorial at [onesvibe.app/graveyard](https://onesvibe.app/graveyard).
 
+- **Hermes × COTI** · `talent-category-necessarily-self.trycloudflare.com` (Jul 2026) - Private multi-agent messaging with AES encryption on COTI Network mainnet.
+- **OpenProduct** · `product-tracer.vercel.app` (Jul 2026) - Track trending indie products across GitHub, Hacker News, Product Hunt, and YouTube.
+- **Paytree** · `paytree.to` (Jul 2026) - AI-powered bio link for creators with commerce, analytics, and 0% platform fees.
+- **Merge Risk** · `merge-risk.vercel.app` (Jul 2026) - Paste a public GitHub repo and get an honest A–F security grade in seconds.
+- **marksave** · `marksave.app` (Jul 2026) - Import your X bookmarks and access them in a fast, organized, searchable library.
+- **JobCloud AI** · `Jobcloudai.com` (Jul 2026) - Automate job search with AI that scores matches and generates personalized learning paths.
+- **Café Chrétien** · `christ-cafe-hub.lovable.app` (Jul 2026) - A global spiritual platform with Christian teachings, prayers, broadcasts, films and testimonies.
 - **AURA ESTATES** · `property-aura-pro.lovable.app` (Jul 2026) - Browse curated luxury real estate residences including private villas, coastal estates, and alpine retreats worldwide.
 - **Paper Market** · `papermarket.space` (Jul 2026) - Send AI agents to compete and trade in an experimental stock market.
 - **Odd Eye** · `oddeye.app` (Jul 2026) - Understand code flow and app connections before asking AI to help modify your app.

@@ -25008,12 +25008,14 @@
    "community",
    "productivity"
   ],
-  "detected_stack": null,
+  "detected_stack": [
+   "Next.js"
+  ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
   "published_at": "2026-07-17T21:59:18.505+00:00",
-  "live_check_status": "at_risk"
+  "live_check_status": "live"
  },
  {
   "slug": "venturekiln",
@@ -28742,26 +28744,6 @@
   "live_check_status": "live"
  },
  {
-  "slug": "marksave",
-  "title": "marksave - your X bookmarks, finally organized",
-  "short_description": "Import your X bookmarks and access them in a fast, organized, searchable library.",
-  "short_description_zh": "导入 X 书签，自动分类整理，快速查找。",
-  "live_url": "https://marksave.app",
-  "primary_category": "productivity",
-  "tag_slugs": [
-   "search",
-   "bookmarks",
-   "social",
-   "productivity"
-  ],
-  "detected_stack": null,
-  "is_featured": false,
-  "github_stars": null,
-  "recent_try_count": 0,
-  "published_at": "2026-07-17T04:32:53.21+00:00",
-  "live_check_status": "at_risk"
- },
- {
   "slug": "lomote",
   "title": "Lomote — All-in-one creative AI suite",
   "short_description": "Create, enhance, and edit images, videos, and 3D models with AI in one unified studio.",
@@ -32257,7 +32239,7 @@
   "github_stars": null,
   "recent_try_count": 0,
   "published_at": "2026-07-15T19:46:16.854+00:00",
-  "live_check_status": "at_risk"
+  "live_check_status": "unavailable"
  },
  {
   "slug": "backscroll",
@@ -34368,31 +34350,6 @@
   "recent_try_count": 0,
   "published_at": "2026-07-14T20:18:44.166+00:00",
   "live_check_status": "live"
- },
- {
-  "slug": "merge-risk-vercel",
-  "title": "Merge Risk — Is your AI-built app leaking data?",
-  "short_description": "Paste a public GitHub repo and get an honest A–F security grade in seconds.",
-  "short_description_zh": "粘贴公开 GitHub 仓库，获取 A-F 安全等级评分。",
-  "live_url": "https://merge-risk.vercel.app/",
-  "primary_category": "developer_tools",
-  "tag_slugs": [
-   "analytics",
-   "no-login",
-   "security-scanner",
-   "developer-tool",
-   "automation"
-  ],
-  "detected_stack": [
-   "Vercel",
-   "Next.js",
-   "Supabase"
-  ],
-  "is_featured": false,
-  "github_stars": null,
-  "recent_try_count": 0,
-  "published_at": "2026-07-14T20:18:07.152+00:00",
-  "live_check_status": "at_risk"
  },
  {
   "slug": "future-kids-ai-branding-lovable",
@@ -39979,29 +39936,6 @@
   "live_check_status": "live"
  },
  {
-  "slug": "talent-category-necessarily-self-trycloudflare",
-  "title": "Hermes × COTI — Private Agent Messaging Demo",
-  "short_description": "Private multi-agent messaging with AES encryption on COTI Network mainnet.",
-  "short_description_zh": "Hermes × COTI 私密多智能体消息传递，采用 AES 加密。",
-  "live_url": "https://talent-category-necessarily-self.trycloudflare.com",
-  "primary_category": "ai_agents",
-  "tag_slugs": [
-   "blockchain-based",
-   "crypto",
-   "agent",
-   "social",
-   "private-messaging"
-  ],
-  "detected_stack": [
-   "Cloudflare"
-  ],
-  "is_featured": false,
-  "github_stars": null,
-  "recent_try_count": 0,
-  "published_at": "2026-07-12T20:13:36.244+00:00",
-  "live_check_status": "at_risk"
- },
- {
   "slug": "jiki",
   "title": "Jiki - Learn to Code the Fun Way",
   "short_description": "Learn to code and build projects through interactive games and challenges designed for the LLM era",
@@ -43204,14 +43138,13 @@
    "chinese"
   ],
   "detected_stack": [
-   "Cloudflare",
    "Google Analytics"
   ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
   "published_at": "2026-07-12T11:11:31.288+00:00",
-  "live_check_status": "at_risk"
+  "live_check_status": "live"
  },
  {
   "slug": "writehybrid",
@@ -52365,29 +52298,6 @@
   "recent_try_count": 0,
   "published_at": "2026-07-11T20:05:51.821+00:00",
   "live_check_status": "live"
- },
- {
-  "slug": "christ-cafe-hub-lovable",
-  "title": "Café Chrétien — Un café spirituel pour nourrir l'âme",
-  "short_description": "A global spiritual platform with Christian teachings, prayers, broadcasts, films and testimonies.",
-  "short_description_zh": "Café Chrétien是全球基督教灵性平台，提供教导、祷告、广播、电影和见证分享。",
-  "live_url": "https://christ-cafe-hub.lovable.app",
-  "primary_category": "social_community",
-  "tag_slugs": [
-   "education",
-   "french",
-   "video",
-   "social",
-   "faith-based"
-  ],
-  "detected_stack": [
-   "Lovable"
-  ],
-  "is_featured": false,
-  "github_stars": null,
-  "recent_try_count": 0,
-  "published_at": "2026-07-11T20:05:36.132+00:00",
-  "live_check_status": "at_risk"
  },
  {
   "slug": "volt-spare-hub-lovable",
@@ -66039,7 +65949,7 @@
   "github_stars": null,
   "recent_try_count": 0,
   "published_at": "2026-07-07T23:53:03.446+00:00",
-  "live_check_status": "at_risk"
+  "live_check_status": "unavailable"
  },
  {
   "slug": "renticai",
@@ -70028,30 +69938,6 @@
   "recent_try_count": 0,
   "published_at": "2026-07-07T05:33:47.283+00:00",
   "live_check_status": "live"
- },
- {
-  "slug": "jobcloudai",
-  "title": "JobCloud AI - Automate Job Search & Beat ATS Filters",
-  "short_description": "Automate job search with AI that scores matches and generates personalized learning paths.",
-  "short_description_zh": "JobCloud AI 自动搜索职位、评分匹配度并生成个性化学习路径。",
-  "live_url": "https://Jobcloudai.com",
-  "primary_category": "productivity",
-  "tag_slugs": [
-   "job-search",
-   "education",
-   "agent",
-   "resume",
-   "automation"
-  ],
-  "detected_stack": [
-   "Cloudflare",
-   "Tailwind"
-  ],
-  "is_featured": false,
-  "github_stars": null,
-  "recent_try_count": 0,
-  "published_at": "2026-07-07T05:33:23.271+00:00",
-  "live_check_status": "at_risk"
  },
  {
   "slug": "instantvideos",
@@ -75107,31 +74993,6 @@
   "live_check_status": "live"
  },
  {
-  "slug": "paytree-to",
-  "title": "Paytree — The bio link for creators who monetize",
-  "short_description": "AI-powered bio link for creators with commerce, analytics, and 0% platform fees.",
-  "short_description_zh": "为创意工作者打造的AI简介链接，支持变现、分析、零佣金。",
-  "live_url": "https://paytree.to",
-  "primary_category": "finance_business",
-  "tag_slugs": [
-   "analytics",
-   "marketing",
-   "agent",
-   "finance",
-   "social",
-   "productivity"
-  ],
-  "detected_stack": [
-   "Vercel",
-   "Next.js"
-  ],
-  "is_featured": false,
-  "github_stars": null,
-  "recent_try_count": 0,
-  "published_at": "2026-07-05T21:36:04.775+00:00",
-  "live_check_status": "at_risk"
- },
- {
   "slug": "redrun",
   "title": "RedRun - detection-only security testing, with proof",
   "short_description": "Runs real exploits against your web apps, APIs, and AI features with proof of each finding.",
@@ -75409,7 +75270,7 @@
   "github_stars": null,
   "recent_try_count": 0,
   "published_at": "2026-07-05T20:26:35.661+00:00",
-  "live_check_status": "at_risk"
+  "live_check_status": "unavailable"
  },
  {
   "slug": "love2flow",
@@ -78484,29 +78345,6 @@
   "recent_try_count": 0,
   "published_at": "2026-07-05T11:29:46.466+00:00",
   "live_check_status": "live"
- },
- {
-  "slug": "product-tracer-vercel",
-  "title": "OpenProduct — Cross-platform indie product signals",
-  "short_description": "Track trending indie products across GitHub, Hacker News, Product Hunt, and YouTube.",
-  "short_description_zh": "跟踪 GitHub、Hacker News、Product Hunt 和 YouTube 上的热门产品。",
-  "live_url": "https://product-tracer.vercel.app/",
-  "primary_category": "developer_tools",
-  "tag_slugs": [
-   "analytics",
-   "developer-tool",
-   "search",
-   "data"
-  ],
-  "detected_stack": [
-   "Vercel",
-   "Next.js"
-  ],
-  "is_featured": false,
-  "github_stars": null,
-  "recent_try_count": 0,
-  "published_at": "2026-07-05T11:29:14.281+00:00",
-  "live_check_status": "at_risk"
  },
  {
   "slug": "owsterlabs",
@@ -84892,7 +84730,7 @@
   "github_stars": null,
   "recent_try_count": 0,
   "published_at": "2026-07-03T06:53:53.138+00:00",
-  "live_check_status": "at_risk"
+  "live_check_status": "unavailable"
  },
  {
   "slug": "vendordesk",
@@ -87831,7 +87669,7 @@
   "github_stars": 46,
   "recent_try_count": 0,
   "published_at": "2026-07-02T14:12:03.585+00:00",
-  "live_check_status": "at_risk"
+  "live_check_status": "live"
  },
  {
   "slug": "kaiel",
@@ -90596,20 +90434,43 @@
   "live_check_status": "live"
  },
  {
-  "slug": "forclubandcountry",
-  "title": "For Club and Country",
-  "short_description": "Browse which club each 2026 World Cup player plays for, including all squads, groups, and schedule.",
-  "short_description_zh": "浏览每位2026 World Cup球员所在的俱乐部，包括所有球队、小组和赛程。",
-  "live_url": "https://forclubandcountry.football",
-  "primary_category": "utilities",
+  "slug": "verisite",
+  "title": "Verisite",
+  "short_description": "Paste your URL to get security findings for web apps explained in plain English",
+  "short_description_zh": "粘贴 URL 获取 web apps 的安全发现，用通俗易懂的方式呈现",
+  "live_url": "https://verisite.luqman.cloud",
+  "primary_category": "developer_tools",
   "tag_slugs": [
-   "sports",
+   "analytics",
    "no-login",
-   "fun",
-   "data"
+   "developer-tool",
+   "security"
   ],
   "detected_stack": [
-   "Vercel"
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 1,
+  "published_at": "2026-07-01T15:23:22.302033+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "worldcupfor",
+  "title": "World Cup Predictor",
+  "short_description": "Predict World Cup 2026 match scores based on statistical analysis.",
+  "short_description_zh": "基于统计分析预测2026年World Cup比赛比分。",
+  "live_url": "https://worldcupfor.fun",
+  "primary_category": "games_play",
+  "tag_slugs": [
+   "sports",
+   "fun",
+   "game"
+  ],
+  "detected_stack": [
+   "Vercel",
+   "Google Analytics"
   ],
   "is_featured": false,
   "github_stars": null,
@@ -90640,47 +90501,24 @@
   "live_check_status": "live"
  },
  {
-  "slug": "worldcupfor",
-  "title": "World Cup Predictor",
-  "short_description": "Predict World Cup 2026 match scores based on statistical analysis.",
-  "short_description_zh": "基于统计分析预测2026年World Cup比赛比分。",
-  "live_url": "https://worldcupfor.fun",
-  "primary_category": "games_play",
+  "slug": "forclubandcountry",
+  "title": "For Club and Country",
+  "short_description": "Browse which club each 2026 World Cup player plays for, including all squads, groups, and schedule.",
+  "short_description_zh": "浏览每位2026 World Cup球员所在的俱乐部，包括所有球队、小组和赛程。",
+  "live_url": "https://forclubandcountry.football",
+  "primary_category": "utilities",
   "tag_slugs": [
    "sports",
+   "no-login",
    "fun",
-   "game"
+   "data"
   ],
   "detected_stack": [
-   "Vercel",
-   "Google Analytics"
+   "Vercel"
   ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
-  "published_at": "2026-07-01T15:23:22.302033+00:00",
-  "live_check_status": "live"
- },
- {
-  "slug": "verisite",
-  "title": "Verisite",
-  "short_description": "Paste your URL to get security findings for web apps explained in plain English",
-  "short_description_zh": "粘贴 URL 获取 web apps 的安全发现，用通俗易懂的方式呈现",
-  "live_url": "https://verisite.luqman.cloud",
-  "primary_category": "developer_tools",
-  "tag_slugs": [
-   "analytics",
-   "no-login",
-   "developer-tool",
-   "security"
-  ],
-  "detected_stack": [
-   "Vercel",
-   "Next.js"
-  ],
-  "is_featured": false,
-  "github_stars": null,
-  "recent_try_count": 1,
   "published_at": "2026-07-01T15:23:22.302033+00:00",
   "live_check_status": "live"
  },
@@ -90754,6 +90592,30 @@
   "live_check_status": "live"
  },
  {
+  "slug": "mcprobe",
+  "title": "MCProbe",
+  "short_description": "Paste a URL to audit an MCP server and get a conformance score with fix recommendations.",
+  "short_description_zh": "粘贴URL来审计MCP服务器，获得符合性评分和修复建议。",
+  "live_url": "https://mcprobe.org",
+  "primary_category": "developer_tools",
+  "tag_slugs": [
+   "analytics",
+   "developer-tool",
+   "api",
+   "automation"
+  ],
+  "detected_stack": [
+   "Vercel",
+   "Next.js",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": 6,
+  "recent_try_count": 0,
+  "published_at": "2026-07-01T14:55:03.674747+00:00",
+  "live_check_status": "live"
+ },
+ {
   "slug": "base44",
   "title": "Base44",
   "short_description": "Create functional apps by describing them in plain language, no coding required.",
@@ -90779,27 +90641,25 @@
   "live_check_status": "live"
  },
  {
-  "slug": "mcprobe",
-  "title": "MCProbe",
-  "short_description": "Paste a URL to audit an MCP server and get a conformance score with fix recommendations.",
-  "short_description_zh": "粘贴URL来审计MCP服务器，获得符合性评分和修复建议。",
-  "live_url": "https://mcprobe.org",
-  "primary_category": "developer_tools",
+  "slug": "caddis",
+  "title": "Caddis",
+  "short_description": "Create animations and motion graphics with layer-based timeline editing and node-based compositing.",
+  "short_description_zh": "通过基于图层的时间线编辑和节点型合成创建动画和运动图形。",
+  "live_url": "https://www.caddis.app",
+  "primary_category": "creative_tools",
   "tag_slugs": [
-   "analytics",
-   "developer-tool",
-   "api",
-   "automation"
+   "3d",
+   "video",
+   "design"
   ],
   "detected_stack": [
-   "Vercel",
-   "Next.js",
-   "Google Analytics"
+   "Cloudflare",
+   "Framer"
   ],
   "is_featured": false,
-  "github_stars": 6,
-  "recent_try_count": 0,
-  "published_at": "2026-07-01T14:55:03.674747+00:00",
+  "github_stars": null,
+  "recent_try_count": 1,
+  "published_at": "2026-07-01T14:44:40.770996+00:00",
   "live_check_status": "live"
  },
  {
@@ -90823,28 +90683,6 @@
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
-  "published_at": "2026-07-01T14:44:40.770996+00:00",
-  "live_check_status": "live"
- },
- {
-  "slug": "caddis",
-  "title": "Caddis",
-  "short_description": "Create animations and motion graphics with layer-based timeline editing and node-based compositing.",
-  "short_description_zh": "通过基于图层的时间线编辑和节点型合成创建动画和运动图形。",
-  "live_url": "https://www.caddis.app",
-  "primary_category": "creative_tools",
-  "tag_slugs": [
-   "3d",
-   "video",
-   "design"
-  ],
-  "detected_stack": [
-   "Cloudflare",
-   "Framer"
-  ],
-  "is_featured": false,
-  "github_stars": null,
-  "recent_try_count": 1,
   "published_at": "2026-07-01T14:44:40.770996+00:00",
   "live_check_status": "live"
  },
