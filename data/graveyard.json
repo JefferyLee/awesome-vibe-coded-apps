@@ -1,5 +1,45 @@
 [
  {
+  "slug": "greatbookscompanion",
+  "title": "The Great Books Companion",
+  "short_description": "AI-enhanced ebook reader for studying and exploring great classical literature.",
+  "live_url": "https://Greatbookscompanion.com",
+  "published_at": "2026-07-05T13:07:35.105+00:00",
+  "updated_at": "2026-07-30T16:00:26.507906+00:00"
+ },
+ {
+  "slug": "fxusd-0xdrvv",
+  "title": "fxUSD Observer — An independent tracker for the f(x) Protocol ecosystem",
+  "short_description": "Track and explore on-chain data for the f(x) Protocol and fxUSD.",
+  "live_url": "https://fxusd.0xdrvv.xyz",
+  "published_at": "2026-07-02T08:37:55.14+00:00",
+  "updated_at": "2026-07-30T16:00:26.409591+00:00"
+ },
+ {
+  "slug": "tryopenram",
+  "title": "Open RAM — Run open-source AI on rented compute",
+  "short_description": "Rent GPU/CPU compute and deploy open-source AI models with an API router.",
+  "live_url": "https://tryopenram.app/",
+  "published_at": "2026-07-04T00:27:59.281+00:00",
+  "updated_at": "2026-07-30T16:00:26.299181+00:00"
+ },
+ {
+  "slug": "widgetmidget",
+  "title": "Widget Midget | Put your friend inside a widget",
+  "short_description": "Upload a photo of a friend and turn them into a stylized widget buddy for your phone home screen.",
+  "live_url": "https://widgetmidget.com",
+  "published_at": "2026-07-03T20:14:16.1+00:00",
+  "updated_at": "2026-07-30T16:00:26.108598+00:00"
+ },
+ {
+  "slug": "silversoulsmail",
+  "title": "SilverMailer — AI Campaign Strategist for Cold Email",
+  "short_description": "AI-powered cold email platform that segments leads, generates copy, and tracks deliverability.",
+  "live_url": "https://silversoulsmail.com",
+  "published_at": "2026-07-05T13:49:17.227+00:00",
+  "updated_at": "2026-07-30T16:00:25.936455+00:00"
+ },
+ {
   "slug": "talent-category-necessarily-self-trycloudflare",
   "title": "Hermes × COTI — Private Agent Messaging Demo",
   "short_description": "Private multi-agent messaging with AES encryption on COTI Network mainnet.",
