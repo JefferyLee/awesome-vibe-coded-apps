@@ -1,5 +1,13 @@
 [
  {
+  "slug": "tryopenram",
+  "title": "Open RAM — Run open-source AI on rented compute",
+  "short_description": "Rent GPU/CPU compute and deploy open-source AI models with an API router.",
+  "live_url": "https://tryopenram.app/",
+  "published_at": "2026-07-04T00:27:59.281+00:00",
+  "updated_at": "2026-08-01T16:01:08.39264+00:00"
+ },
+ {
   "slug": "greatbookscompanion",
   "title": "The Great Books Companion",
   "short_description": "AI-enhanced ebook reader for studying and exploring great classical literature.",
@@ -14,14 +22,6 @@
   "live_url": "https://fxusd.0xdrvv.xyz",
   "published_at": "2026-07-02T08:37:55.14+00:00",
   "updated_at": "2026-07-30T16:00:26.409591+00:00"
- },
- {
-  "slug": "tryopenram",
-  "title": "Open RAM — Run open-source AI on rented compute",
-  "short_description": "Rent GPU/CPU compute and deploy open-source AI models with an API router.",
-  "live_url": "https://tryopenram.app/",
-  "published_at": "2026-07-04T00:27:59.281+00:00",
-  "updated_at": "2026-07-30T16:00:26.299181+00:00"
  },
  {
   "slug": "widgetmidget",
@@ -176,28 +176,12 @@
   "updated_at": "2026-07-21T03:02:17.525099+00:00"
  },
  {
-  "slug": "importer-kvolts-lab",
-  "title": "Platform Agnostic Tool to Convert Any Website into a Webflow Site",
-  "short_description": "Paste a website URL to convert it into a Webflow site with pixel-perfect layout and styling preserved.",
-  "live_url": "https://importer.kvolts-lab.com",
-  "published_at": "2026-07-05T13:11:43.511+00:00",
-  "updated_at": "2026-07-21T03:02:17.071376+00:00"
- },
- {
   "slug": "trysona-studio",
   "title": "Sona — Find proven ideas. Write in your voice.",
   "short_description": "AI tool that analyzes successful content across platforms and helps you create original writing in your own voice.",
   "live_url": "https://trysona.studio/",
   "published_at": "2026-07-02T23:26:17.141+00:00",
   "updated_at": "2026-07-21T03:02:16.601141+00:00"
- },
- {
-  "slug": "vert-quest",
-  "title": "VERT",
-  "short_description": "Set daily pushup goals with financial charges if you miss your streak.",
-  "live_url": "https://vert.quest",
-  "published_at": "2026-07-11T23:15:01.805+00:00",
-  "updated_at": "2026-07-21T03:02:16.106189+00:00"
  },
  {
   "slug": "noteoffline-lovable",
@@ -224,35 +208,11 @@
   "updated_at": "2026-07-17T16:55:35.268201+00:00"
  },
  {
-  "slug": "getkaijin",
-  "title": "Kaijin | One workspace for manga and manhwa creators",
-  "short_description": "Plan chapters, draw panels, and publish manga and manhwa in one workspace.",
-  "live_url": "http://getkaijin.com",
-  "published_at": "2026-07-03T08:04:08.273+00:00",
-  "updated_at": "2026-07-09T10:12:38.381094+00:00"
- },
- {
-  "slug": "aiinterviewcoaches",
-  "title": "C91 AI Interview Coach",
-  "short_description": "Practice job interviews with an AI coach that gives real feedback.",
-  "live_url": "https://aiinterviewcoaches.com",
-  "published_at": "2026-07-05T02:58:15.67+00:00",
-  "updated_at": "2026-07-09T10:10:54.688575+00:00"
- },
- {
   "slug": "aip-aicortexo",
   "title": "Agentic Infrastructure Platform — AI Worker Platform",
   "short_description": "Hire AI agents to automate business tasks like customer support, sales, and operations.",
   "live_url": "https://aip.aicortexo.com",
   "published_at": "2026-07-02T13:02:25.021+00:00",
   "updated_at": "2026-07-09T10:10:32.121111+00:00"
- },
- {
-  "slug": "debuggptapp-netlify",
-  "title": "DebugGPT — Built by AI. Understood by humans.",
-  "short_description": "@gezimqaili https://t.co/aRps4l6EWD Lets connect",
-  "live_url": "http://debuggptapp.netlify.app",
-  "published_at": "2026-07-03T01:54:18.688+00:00",
-  "updated_at": "2026-07-09T08:46:17.137565+00:00"
  }
 ]
