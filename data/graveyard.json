@@ -1,5 +1,53 @@
 [
  {
+  "slug": "47-107-180-19-8080",
+  "title": "DrinkRank",
+  "short_description": "Record and rank your favorite and least favorite drinks with local storage.",
+  "live_url": "http://47.107.180.19:8080/",
+  "published_at": "2026-07-15T19:46:16.854+00:00",
+  "updated_at": "2026-08-02T16:01:11.631256+00:00"
+ },
+ {
+  "slug": "5letterwordsfinder",
+  "title": "5 Letter Word Finder for Wordle and Word Games Online",
+  "short_description": "Fast 5-letter word finder for Wordle, Scrabble, and crosswords with position and letter filtering.",
+  "live_url": "https://5letterwordsfinder.org/",
+  "published_at": "2026-07-03T22:14:53.655+00:00",
+  "updated_at": "2026-08-02T16:01:10.796918+00:00"
+ },
+ {
+  "slug": "essora",
+  "title": "essora.ai | Your digital twin, always on",
+  "short_description": "Save notes, reminders, and ideas—then chat with AI twins that remember your knowledge.",
+  "live_url": "https://essora.ai",
+  "published_at": "2026-07-03T06:53:53.138+00:00",
+  "updated_at": "2026-08-02T16:01:09.44459+00:00"
+ },
+ {
+  "slug": "quantumdash-agaamiai",
+  "title": "QuantumDash · Beta V2.0",
+  "short_description": "Upload any dataset and query it through natural language to get insights and visualizations.",
+  "live_url": "https://quantumdash.agaamiai.com",
+  "published_at": "2026-07-17T22:53:10.934+00:00",
+  "updated_at": "2026-08-02T16:01:08.638598+00:00"
+ },
+ {
+  "slug": "gravibase",
+  "title": "Gravibase - AI Agent Platform for Discovering, Researching & Creating Content",
+  "short_description": "AI agent platform to help discover ideas, research topics, and create content.",
+  "live_url": "https://gravibase.co",
+  "published_at": "2026-07-07T23:53:03.446+00:00",
+  "updated_at": "2026-08-02T16:01:07.805362+00:00"
+ },
+ {
+  "slug": "yacdb-fyi",
+  "title": "YAC DB — the NFL stats query engine",
+  "short_description": "Query NFL statistics using natural language or YACQL, instantly create shareable tables and charts.",
+  "live_url": "https://Yacdb.fyi",
+  "published_at": "2026-07-15T01:19:42.482+00:00",
+  "updated_at": "2026-08-02T16:01:06.905141+00:00"
+ },
+ {
   "slug": "tryopenram",
   "title": "Open RAM — Run open-source AI on rented compute",
   "short_description": "Rent GPU/CPU compute and deploy open-source AI models with an API router.",

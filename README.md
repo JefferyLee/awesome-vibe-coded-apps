@@ -4,27 +4,28 @@
 
 Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-checks each app's liveness on a rolling ~3-day cycle, so dead links drop off this list automatically. "Live checked" means the URL was recently reachable — it is not a safety audit or an endorsement.
 
-**4,676 apps** · regenerated 2026-08-01 · want your app here? [Submit it on One's Vibe](https://onesvibe.app/submit) — once published, it appears in the next regeneration.
+**4,802 apps** · regenerated 2026-08-02 · want your app here? [Submit it on One's Vibe](https://onesvibe.app/submit) — once published, it appears in the next regeneration.
 
 ## Contents
 
 - [Editor's Picks](#editors-picks)
-- [Games & Play](#games--play) (371)
-- [Productivity](#productivity) (708)
+- [Games & Play](#games--play) (379)
+- [Productivity](#productivity) (713)
 - [Education](#education) (260)
-- [Creative Tools](#creative-tools) (766)
-- [AI Agents](#ai-agents) (390)
-- [Developer Tools](#developer-tools) (702)
-- [Finance & Business](#finance--business) (689)
+- [Creative Tools](#creative-tools) (787)
+- [AI Agents](#ai-agents) (393)
+- [Developer Tools](#developer-tools) (731)
+- [Finance & Business](#finance--business) (695)
 - [Health & Wellness](#health--wellness) (145)
-- [Social & Community](#social--community) (152)
-- [Utilities](#utilities) (284)
-- [Other](#other) (209)
-- [Graveyard](#graveyard) (27)
+- [Social & Community](#social--community) (155)
+- [Utilities](#utilities) (282)
+- [Other](#other) (262)
+- [Graveyard](#graveyard) (33)
 - [Use it from your agent](#use-it-from-your-agent)
 
 ## Editor's Picks
 
+- [video-shotcraft](https://vincentwei1021.github.io/video-shotcraft/) - Create product promo videos with cinematic shot recipes in Claude Code. ⭐ 80 ([details](https://onesvibe.app/projects/vincentwei1021-github))
 - [DEFCOD](https://defcod.vercel.app) - Scan your app for leaked API keys, open databases, and auth bypasses. ([details](https://onesvibe.app/projects/defcod-vercel))
 - [Misata Studio](https://misata.studio) - Generate relational synthetic test data with exact outcomes. ⭐ 63 ([details](https://onesvibe.app/projects/misata-studio))
 - [Remnus](https://remnus.com) - Build databases, kanban boards, and notes for AI agents to collaborate on. ⭐ 54 ([details](https://onesvibe.app/projects/remnus))
@@ -32,19 +33,28 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [draw-your-font](https://drawyourfont.com/) - Convert a photo of your handwritten alphabet into a usable font file (TTF, WOFF, WOFF2). ([details](https://onesvibe.app/projects/drawyourfont))
 - [Tatto.dev](https://tatto.dev) - Turn story ideas into 3D-printable tactile Braille pages for blind and low-vision children. ([details](https://onesvibe.app/projects/tatto))
 - [dim](https://dim.cog.ooo) - Import 2D paths from Adobe Illustrator, transform them in 3D, and export as vectors without rasterizing. ([details](https://onesvibe.app/projects/dim-cog-ooo))
-- [Free Online CAD Editor](https://kulmanlab.com) - Draw and edit 2D CAD designs in your browser, then export as DXF or PDF. ⭐ 4 ([details](https://onesvibe.app/projects/kulmanlab))
 
 ## Games & Play
 
 - [Room 100](https://rocket-breeze-cobalt-glow.grok.me) - Play in a competition where 100 vibe coders race to earn their first dollar for $1M. ([details](https://onesvibe.app/projects/rocket-breeze-cobalt-glow-grok))
-- [AI Arcade](https://ai-arcade.app) - Play arcade games designed and created by AI. ([details](https://onesvibe.app/projects/ai-arcade))
+- [Card Dynasty League](https://CardDynastyLeague.com) - Compete in AI-judged tournaments with original visual collectible art, featuring narrative tournament brackets. ([details](https://onesvibe.app/projects/carddynastyleague))
+- [Model Millionaire](https://millionaire-episode-replay.diegocabezas01.chatgpt.site) - Watch AI models compete in a Millionaire-style trivia game where Claude Code and Codex race to answer complex questions. ([details](https://onesvibe.app/projects/millionaire-episode-replay-diegocabezas01-chatgpt-site))
 - [tinker-2048](https://tinker.liriliri.io/zh/guide/official-games/2048.html) - A browser-based 2048 puzzle game. ⭐ 216 ([details](https://onesvibe.app/projects/tinker-liriliri))
 - [Buzrr](https://buzrr.in) - Play ranked 1v1 quiz battles or host live multiplayer quiz rooms with instant scoring and leaderboards. ⭐ 7 ([details](https://onesvibe.app/projects/buzrr-in))
 - [LeetFut](https://www.leetfut.tech) - Generate a FIFA-style player card rating your LeetCode profile based on problems solved, contest rating, and streaks. ⭐ 6 ([details](https://onesvibe.app/projects/leetfut-tech))
+- [AgentPlaybooks](https://agentplaybooks.ai) - A vendor-neutral home for AI agent skills, personas, MCP servers, project instructions, and memory. Keep your setup portable and in sync across platforms without vendor lock-in. ⭐ 4 ([details](https://onesvibe.app/projects/agentplaybooks))
 - [Agent Brawl Club](https://brawlclub.fly.dev/#/) - Create AI agents to play Bomberman, Snake, and Texas Hold'em against each other. ⭐ 2 ([details](https://onesvibe.app/projects/brawlclub-fly))
 - [英语麻将](https://englishmahjong.com) - Play mahjong with English letter tiles to test and improve vocabulary. ⭐ 1 ([details](https://onesvibe.app/projects/englishmahjong))
 - [职场黄历](https://noir-hedgehog.github.io/pm-calendar/) - Check daily auspicious activities, taboos, and fortune predictions for your workplace role. ⭐ 1 ([details](https://onesvibe.app/projects/noir-hedgehog-github))
 - [Critical Window](https://criticalwindow.org/) - Play a strategy game about the AI race where you govern the US or China through 2030. ⭐ 1 ([details](https://onesvibe.app/projects/criticalwindow))
+- [thoughtica.io](https://Thoughtica.io) - @Sarakhan49309 Defining the of Self-improvement, gamified. ([details](https://onesvibe.app/projects/thoughtica))
+- [LemonSugar Ai](https://lemonsugar.ai) - AI tutor for every student — middle school, high school, college, and beyond. ([details](https://onesvibe.app/projects/lemonsugar))
+- [Yippito](https://yippito.com/) - Yippito turns any topic into a playful quiz in minutes — with AI. Host live games, learn together, and find your yip. Every answer is a tiny win. ([details](https://onesvibe.app/projects/yippito))
+- [Hold The Line](https://holdtheline.world) - Humanity vs the machine, one duel a day! ([details](https://onesvibe.app/projects/holdtheline-world))
+- [Snowman](https://snowstreak.app/) - Wordle related game. Need testers. Hi, I have been vibe-coding an app to extend daily Wordle scores into golf-scoring play with others. Just getting to the point to get some fee. ([details](https://onesvibe.app/projects/snowstreak))
+- [ARINA FC— Football Club Manager Game](https://sunny-maker-space.lovable.app) - Build your club, sign players, set your formation and play every match with the keyboard in Dream League 2026. ([details](https://onesvibe.app/projects/sunny-maker-space-lovable))
+- [ARES OUTPOST by Francisstudio](https://francisstudio.itch.io/ares-outpost) - LANELESS TOWER DEFENSE. ([details](https://onesvibe.app/projects/francisstudio-itch))
+- [MakePlay](https://makeplay.ai) - MakePlay is a free AI game builder. Describe a game in one line and AI makes it real — pixel art, code, music, levels — instantly playable in your browser. You don't write code, yo. ([details](https://onesvibe.app/projects/makeplay))
 - [arena-roomcomm](https://arena.roomcomm.xyz/) - Play board and arcade games in your browser with AI agent opponents. ([details](https://onesvibe.app/projects/arena-roomcomm))
 - [OpenTrade](https://opentrade.live) - OpenTrade is where you play stock market games on real companies with friends and AI. ([details](https://onesvibe.app/projects/opentrade-live))
 - [Wordpeek](https://wordpeek.app) - Guess words hidden in pictures using AI-powered visual analysis. ([details](https://onesvibe.app/projects/wordpeek))
@@ -63,11 +73,9 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [blog-image-xemails-top](https://blog-image.xemails.top/2026/d479c9b9fb8dc557ef8ba811f5d139f7.webp) - Play Chinese chess with hidden pieces in real-time multiplayer matches. ([details](https://onesvibe.app/projects/blog-image-xemails-top))
 - [Mentiss](https://werewolf.mentiss.ai) - Play Werewolf/Mafia board game with AI opponents and benchmark language models. ([details](https://onesvibe.app/projects/werewolf-mentiss))
 - [Lets Go Bambasaur! by dragonhindix](https://dragonhindix.itch.io/lets-go-bambasaur) - Help Bamba find his mother in this browser-based puzzle game. ([details](https://onesvibe.app/projects/dragonhindix-itch))
-- [Card Dynasty League](https://CardDynastyLeague.com) - Compete in AI-judged tournaments with original visual collectible art, featuring narrative tournament brackets. ([details](https://onesvibe.app/projects/carddynastyleague))
 - [Catie Jump to Heaven](https://catie-jump-to-heaven.com) - Guide Catie's spirit through 100 physics-based tiles toward heaven in this free browser game. ([details](https://onesvibe.app/projects/catie-jump-to-heaven))
 - [Mayank Chaurasia](https://porthaven.netlify.app/) - Explore an interactive portfolio designed like an open-world game. ([details](https://onesvibe.app/projects/porthaven-netlify))
 - [Lybls Explorer](https://lybls.grok.me) - Explore Lybls, a 3D ocean world orbiting Vega, in an interactive planetary explorer. ([details](https://onesvibe.app/projects/lybls-grok))
-- [Model Millionaire](https://millionaire-episode-replay.diegocabezas01.chatgpt.site) - Watch AI models compete in a Millionaire-style trivia game where Claude Code and Codex race to answer complex questions. ([details](https://onesvibe.app/projects/millionaire-episode-replay-diegocabezas01-chatgpt-site))
 - [Wolfcha](https://www.wolf-cha.com) - Play werewolf social deduction game against AI opponents with optional voice acting. ([details](https://onesvibe.app/projects/wolf-cha))
 - [CodeDuel](https://www.duelai.dev/) - Compete against Claude AI on coding challenges evaluated by speed, correctness, and quality. ([details](https://onesvibe.app/projects/duelai))
 - [Evolvers](https://www.evolversgame.com) - Tap to grow creatures, fuse hybrids, battle bosses, and ascend in this idle browser game. ([details](https://onesvibe.app/projects/evolversgame))
@@ -78,15 +86,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [SportIQ](https://sportiq-ai-caster.lovable.app) - Watch live football with AI-powered real-time commentary, tactical analysis and Q&A. ([details](https://onesvibe.app/projects/sportiq-ai-caster-lovable))
 - [Human or AI?](https://foreverse.app/labs/turing-arena) - Play a daily quiz guessing whether fiction passages are written by humans or AI. ([details](https://onesvibe.app/projects/foreverse))
 - [SlipGrid](https://slipgrid.online) - Deduce safe paths through hidden minefields on isometric grids, alone or against rivals. ([details](https://onesvibe.app/projects/slipgrid-online))
-- [Dinjure](https://dinjure.com/) - Daily logic puzzle where you deduce codes in 8 guesses with feedback, playable solo or in online multiplayer. ([details](https://onesvibe.app/projects/dinjure))
-- [AI 人格测试｜TYPE/24](https://ai-personality-test.artful-fig-3838.chatgpt.site) - Take a 16-question personality test to discover which AI model matches your thinking style. ([details](https://onesvibe.app/projects/ai-personality-test-artful-fig-3838-chatgpt-site))
-- [Sporeling Dash](https://thoughtcrimegpt.github.io/sporeling-dash/) - Browser platformer where air-dashing creates temporary platforms beneath you. ([details](https://onesvibe.app/projects/thoughtcrimegpt-github))
-- [Pulse Arcade](https://arcade.thecrpulse.com) - Play seven free news-themed games including puzzles and classic arcade games. ([details](https://onesvibe.app/projects/arcade-thecrpulse))
-- [Crystal Arcade](https://crystalarcade.online) - Crystal Arcade — built on Replit. Update this description to reflect the app. ([details](https://onesvibe.app/projects/crystalarcade-online))
-- [Fight Life](https://fightlife.gg) - A pixel art boxing game with procedural animation playable in any browser. ([details](https://onesvibe.app/projects/fightlife))
-- [CountryDraft](https://countrydraft.com) - Guess country rankings across categories to draft your ultimate nation. ([details](https://onesvibe.app/projects/countrydraft))
-- [Morpion Arena](https://morpiondottourney.lovable.app) - Play tic-tac-toe in quick games, tournaments, or world ranking modes. ([details](https://onesvibe.app/projects/morpiondottourney-lovable))
-- …and [321 more in Games & Play](https://onesvibe.app/explore?category=games_play).
+- …and [329 more in Games & Play](https://onesvibe.app/explore?category=games_play).
 
 ## Productivity
 
@@ -104,6 +104,11 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [AudioPen](https://AudioPen.ai) - Convert spoken thoughts into polished written text with AI rewriting in custom styles. ⭐ 1 ([details](https://onesvibe.app/projects/audiopen))
 - [FOMO · 每日 AI 信息源打卡纸](https://chasen-liao.github.io/FOMO/) - Daily AI news aggregator that curates information sources to help you stay informed and reduce FOMO. ⭐ 1 ([details](https://onesvibe.app/projects/chasen-liao-github))
 - [HyperFurion VK](https://liamghennigan.github.io/HyperFurion-VK/) - System-wide voice input device that turns speech into text, edits, and terminal commands. ⭐ 1 ([details](https://onesvibe.app/projects/liamghennigan-github))
+- [Lurio](https://www.lurio.app/en/) - Track personal expenses, split costs with your partner or group, and scan receipts with AI. Free expense tracker app — start in seconds. ([details](https://onesvibe.app/projects/lurio))
+- [WiFiGuard AI](https://rogue-net-detect.lovable.app) - Live security score, threat summary and one-tap scanning to spot rogue Wi-Fi hotspots. ([details](https://onesvibe.app/projects/rogue-net-detect-lovable))
+- [Shepherd's Gap](https://shepherdsgap.lovable.app) - A quiet, mobile-first tracker for pastors to log contact with members and visitors — so no one falls through the cracks. ([details](https://onesvibe.app/projects/shepherdsgap-lovable))
+- [Wage Against the Machine](https://watm.ddyo.dev/) - Compare how many AI tasks an hour of work buys across countries, models, reasoning efforts, and benchmark costs per task. ([details](https://onesvibe.app/projects/watm-ddyo))
+- [Jotei](https://jotei.app) - A focused weekly task and habit tracker. ([details](https://onesvibe.app/projects/jotei))
 - [Tautan Lumina](https://tautanlumina.appwrite.network/) - Smart bookmark and note manager with AI-generated titles, voice notes, and encrypted PIN-protected folders. ([details](https://onesvibe.app/projects/tautanlumina-appwrite-network))
 - [Warranty Tracker](https://warrantytracker.cloud) - Organize and track product warranties, receipts, and maintenance with automated alerts. ([details](https://onesvibe.app/projects/warrantytracker))
 - [wordinweb collab](https://collab.word-in-web.com/) - Collaborative online DOCX editor with MS Word parity, shareable via anonymous links. ([details](https://onesvibe.app/projects/collab-word-in-web))
@@ -135,12 +140,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Tome](https://santosh-read-tracker.lovable.app) - A quiet reading tracker: log pages, watch your progress fill, and keep your shelves in order. ([details](https://onesvibe.app/projects/santosh-read-tracker-lovable))
 - [पहली नौकरी](https://freshjobhub.lovable.app) - Job board for fresh graduates offering internships and government recruitment positions with salary and qualification details. ([details](https://onesvibe.app/projects/freshjobhub-lovable))
 - [21ZHAO · NexDo 图谱化任务规划与独立产品系统](https://21zhao.com) - Organize todos and dependencies into executable task graphs for indie teams. ([details](https://onesvibe.app/projects/21zhao))
-- [GeneratePPT: AI Deck Generator](https://www.generateppt.com/) - Create AI-powered presentation slides in under 60 seconds by providing your own API key. ([details](https://onesvibe.app/projects/generateppt))
-- [AI Search Console](https://search-console.ai/) - Track brand mentions and citations across AI search engines including ChatGPT and Perplexity. ([details](https://onesvibe.app/projects/search-console))
-- [PaperTrace](https://Papertrace.co) - Conduct systematic literature reviews with AI-assisted search, screening, extraction, and synthesis. ([details](https://onesvibe.app/projects/papertrace))
-- [Interview Resources](https://www.interviewresources.app/) - Get AI-researched interview prep reports with company-specific questions and evidence. ([details](https://onesvibe.app/projects/interviewresources))
-- [DocAudit](https://docauditapp.netlify.app/) - Audit documents and identify cleanup opportunities in your Notion workspace. ([details](https://onesvibe.app/projects/docauditapp-netlify))
-- …and [658 more in Productivity](https://onesvibe.app/explore?category=productivity).
+- …and [663 more in Productivity](https://onesvibe.app/explore?category=productivity).
 
 ## Education
 
@@ -202,8 +202,6 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [ChatGPT Image 2](https://www.gptimages2.net) - Generate and edit AI images, restyle photos, and create videos in one workspace. ([details](https://onesvibe.app/projects/gptimages2))
 - [Free Online CAD Editor](https://kulmanlab.com) - Draw and edit 2D CAD designs in your browser, then export as DXF or PDF. ⭐ 4 ([details](https://onesvibe.app/projects/kulmanlab))
 - [Explore](https://layers.to/explore) - Explore and reuse design layers and UI components shared by the community. ([details](https://onesvibe.app/projects/layers-to))
-- [portfolico](https://prtfl.co) - Turn your PDF portfolio into an interactive online gallery with multiple viewing modes. ([details](https://onesvibe.app/projects/prtfl))
-- [Interior design AI: trasforma i tuoi interni](https://interniia.com) - Upload a photo of your interior, describe changes you want, and get photorealistic design renderings instantly. ([details](https://onesvibe.app/projects/interniia))
 - [GritRender](https://gritrender.com/) - Edit videos with AI assistance while maintaining full creative control. ([details](https://onesvibe.app/projects/gritrender))
 - [Free Browser Video Tools](https://artplayer.org/tools/) - Edit, compress, convert, and merge video and audio files in your browser. ⭐ 3,956 ([details](https://onesvibe.app/projects/artplayer))
 - [AI Pixel Art Generator & Editor for Game Assets](https://www.spritefusion.com/pixel-art-generator) - Create professional pixel art sprites and icons with AI, then edit and export them in your browser. ⭐ 2,213 ([details](https://onesvibe.app/projects/spritefusion))
@@ -227,31 +225,35 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [zoxilsi studio](https://studio.zoxilsi.cc) - Design and export beautiful mesh gradients, waves, and patterns with GPU-accelerated effects. ⭐ 3 ([details](https://onesvibe.app/projects/studio-zoxilsi-cc))
 - [#1 AI Music & Song Generator Free Online](https://deepsong.ai) - Create original, royalty-free songs and music online with AI. ⭐ 2 ([details](https://onesvibe.app/projects/deepsong))
 - [Videodance - Seedance 2.0 AI Video Generator](https://videodance.cc) - Generate cinematic AI videos with synchronized audio and multi-shot narrative coherence. ⭐ 2 ([details](https://onesvibe.app/projects/videodance-cc))
+- [RearAware](https://www.rearaware.com) - RearAware is a Chrome extension that uses on-device AI to detect and censor cat butts during video calls. Real time, private, free. ⭐ 1 ([details](https://onesvibe.app/projects/rearaware))
 - [OpenCharts](https://opencharts.com) - Create flowcharts, whiteboards, notes, and presentations with AI. Upload PDFs or describe what you need — OpenCharts builds it in seconds. Real-time collaboration included. ⭐ 1 ([details](https://onesvibe.app/projects/opencharts))
 - [PrettyShot](https://prettyshot.site) - Apply custom styles to screenshots and export them as beautifully formatted images. ⭐ 1 ([details](https://onesvibe.app/projects/prettyshot-site))
 - [CodexThemes](https://codexthemes.ai) - Browse and install Codex themes with workspace previews, or submit your own designs. ⭐ 1 ([details](https://onesvibe.app/projects/codexthemes))
 - [Isekai Gemcraft](https://penny-yu10013.github.io/isekai_gemcraft/) - Simulate cutting gemstones with a realistic 3D faceting machine in your browser. ⭐ 1 ([details](https://onesvibe.app/projects/penny-yu10013-github))
-- [Baduz](https://baduz.com/) - Create, play, and share 3D third-person adventure games. ([details](https://onesvibe.app/projects/baduz))
-- [Free Minecraft Pixel Art Generator Online](https://minecraftpixel.app) - Convert photos to Minecraft pixel art with automatic block generation and export to PNG, schematic, or litematica. ([details](https://onesvibe.app/projects/minecraftpixel))
-- [Minecraft Circle Generator](https://minecraftcirclegen.com/) - Generate perfect Minecraft block circles by diameter and export row-by-row building blueprints. ([details](https://onesvibe.app/projects/minecraftcirclegen))
-- [Cyberelf Labs](https://cyberelf.link) - Whetstone compares AI candidates against a baseline, vetoes regressions, checks evaluation leakage, and returns an auditable PASS, HOLD, or BLOCK decision. ([details](https://onesvibe.app/projects/cyberelf-link))
-- [Ventnaa](https://www.ventnaa.in/) - @CricTalk29 Turn real reviews into revenue. ([details](https://onesvibe.app/projects/ventnaa-in))
-- [Freelancer Runway](https://freelancerunway.com) - Create professional invoices in seconds. Track your financial runway, manage clients, and visualize revenue trends. The #1 free financial toolkit for freelancers, contractors, and. ([details](https://onesvibe.app/projects/freelancerunway))
-- [Free BaZi, I Ching, Qimen, Zi Wei & Zodiac Charts Online](https://lushn.one) - Free BaZi four pillars and luck cycles, I Ching divination (Liu Yao & Mei Hua), Qi Men Dun Jia for timing, Zi Wei birth chart, and Chinese zodiac by Li Chun — all in your browser. ([details](https://onesvibe.app/projects/lushn-one))
-- [Skydex](https://skydex.online) - Skydex is a free multiplayer flight world in your browser: fly an FPV drone or soar as a gull over the real Earth — satellite terrain, real cities, other pilots live. Creative voxe. ([details](https://onesvibe.app/projects/skydex-online))
-- [Prompts Gallery AI](https://promptsgalleryai.com/) - Browse a curated gallery of AI image prompts with results, explanations, and model comparisons to improve your generations. ([details](https://onesvibe.app/projects/promptsgalleryai))
-- [AI Photo Editor No Sign Up](https://aiphotoeditornosignup.online/) - Remove objects, replace backgrounds, and enhance photos using AI—no signup required. ([details](https://onesvibe.app/projects/aiphotoeditornosignup-online))
-- [Phosphor Icons](https://phosphoricons.com/) - Browse and use a flexible icon library with animations for interfaces and diagrams. ([details](https://onesvibe.app/projects/phosphoricons))
-- [FundedOrFucked](https://fundedorfucked.com) - Post your SaaS idea. Get voted Funded 💰 or Fucked 💀 by real founders. AI roasts, meme generator, leaderboard. No VC bullshit. Just the truth. ([details](https://onesvibe.app/projects/fundedorfucked))
-- [SEO & GEO traffic on autopilot: articles & backlinks](https://Meeeters.com) - Meeeters finds what your customers search, writes the articles and gets you backlinks. More traffic from Google and AI every month, on autopilot. No agency. ([details](https://onesvibe.app/projects/meeeters))
-- [Castalore From an idea to a whole channel, automatically](https://www.castalore.com/) - Castalore turns an idea or a voice recording into a fully illustrated video script, voiceover, consistent characters and thumbnails ready for YouTube, TikTok and Instagram. ([details](https://onesvibe.app/projects/castalore))
-- [condensr](https://Condensr.ai) - Summarize any YouTube, TikTok, or Instagram video with AI in seconds. Free video summarizer for lectures, podcasts, and more. ([details](https://onesvibe.app/projects/condensr))
-- [AnveVoice](https://anvevoice.app) - Voice infrastructure for web applications — the #1 voicebot and Voice OS for websites in 2026. Embeddable voice agent + TTS/STT APIs, agentic DOM actions, 50+ languages, 487ms P50. ([details](https://onesvibe.app/projects/anvevoice))
-- [Chamber Inventory](https://inventorychamber.com) - @anupamrjp Early access is open 👀 Track items across multiple locations with AI-powered photo entry. Building this for small business owners tired of clunky inventory tools. Contac. ([details](https://onesvibe.app/projects/inventorychamber))
-- …and [716 more in Creative Tools](https://onesvibe.app/explore?category=creative_tools).
+- [Zelvune](https://zelvune.com) - Turn text prompts, images or reference clips into cinematic AI videos. Seedance, Kling and Veo 3 in one workspace. Free credits, no credit card. ([details](https://onesvibe.app/projects/https-zelvune-com))
+- [Kavel](https://kavel.ai) - Kavel is a free AI image and video studio — swap an outfit, restore a torn photo, see yourself bald, and 30 more one-click tools. First images free, no account. ([details](https://onesvibe.app/projects/kavel))
+- [GPT Transcribe](https://gpttranscribe.net/) - Convert video to text or audio to searchable transcripts with GPT Transcribe, an AI transcript generator for captions, notes, research, and content workflows. ([details](https://onesvibe.app/projects/gpttranscribe))
+- [GenMuseAI](https://genmuseai.com/en) - Create AI images in seconds with GenMuseAI using prompts, styles, reference images, and a flexible browser-based workspace. ([details](https://onesvibe.app/projects/genmuseai))
+- [An AI employee that works 24/7](https://firstemployee.ai/) - Hire an AI employee that works 24/7 on your business: it builds your site in minutes, then works a shift every night and leaves a receipted report by morning. The build is free. ([details](https://onesvibe.app/projects/firstemployee))
+- [Toolease](https://toolease.app) - Tiny, precise browser tools for contact centre agents — SLA timer, discount calculator, NATO phonetic, ticket age checker, and an AI tone softener. Free, no login, no installs. ([details](https://onesvibe.app/projects/toolease))
+- [8bit.page](https://8bit.page) - Create pixel art and frame-by-frame animation in your browser. Export images, GIFs, sprite sheets, and video, or publish your Artwork on its own 8bit.page. ([details](https://onesvibe.app/projects/8bit-page))
+- [Raccolta.dev](https://raccolta.dev) - Raccolta.dev is smart feedback software that captures customer signals from Discord, Slack, Telegram, GitHub, Linear, and X in one workspace. AI triage, Kanban board, Reply Studio,. ([details](https://onesvibe.app/projects/raccolta))
+- [TorrentCDN](https://torrentcdn.store) - TorrentCDN uses WebTorrent P2P technology to deliver video at a fraction of traditional CDN costs. The more people watch, the less you pay. Start free with 100GB bandwidth. ([details](https://onesvibe.app/projects/torrentcdn-store))
+- [SpliceDetect Pro](https://sourav2010f.github.io/slice/) - @anupamrjp I too have buddy. ([details](https://onesvibe.app/projects/sourav2010f-github))
+- [AI Website Builder for Google + AI Search (GEO Optimized)](https://locuspilot.com) - The Vibe SEO stack for local businesses. Generate 30 to 60 page sites for Google + AI search, then vibe-code edits in your browser. llms.txt, schema, 95+ PageSpeed. ([details](https://onesvibe.app/projects/locuspilot))
+- [Naoma AI - AI Video Sales Agent](https://Naoma.ai) - AI video sales agent that runs personalized product demos instantly. Convert 6-20% of visitors with multilingual AI demos in 33 languages. Start demos in 10 seconds. ([details](https://onesvibe.app/projects/naoma))
+- [FaltaUno.pe](https://faltauno.pe) - Nos falta uno para jugar. Encuentra o completa partidos y canchas deportivas cerca de ti, en cualquier ciudad del Perú. ([details](https://onesvibe.app/projects/faltauno-pe))
+- [Turn a product photo into a real 3D render](https://spinproduct.com) - Upload one photo, get an interactive 3D render. Unlimited downloads after 1 generation — export as often as you like, in every format. ([details](https://onesvibe.app/projects/spinproduct))
+- [Create. Remix. Earn](https://www.marcelix.com) - Create. Remix. Earn. Marcelix is an AI image and video platform where creators generate media, remix reusable templates, publish visual work, and earn Creator Rewards. ([details](https://onesvibe.app/projects/marcelix))
+- [Feedback board, changelog and widget for SaaS founders · ShipLog](https://Shiplog.ca) - Stop building features nobody asked for. Feedback board, changelog and embeddable widget for solo SaaS founders. $9/mo. ([details](https://onesvibe.app/projects/shiplog-ca))
+- [Contrastly](https://contrastly.co) - Simulate color blindness and low vision on any design, check WCAG contrast, and get smart palette fixes — instantly, free, no signup. ([details](https://onesvibe.app/projects/contrastly))
+- [Tradevo](https://tradevo.ai) - Tradevo connects your market view, live positions, and trade history in one workspace — so you can see exactly what's working, what's costing you, and where to improve. ([details](https://onesvibe.app/projects/tradevo))
+- …and [737 more in Creative Tools](https://onesvibe.app/explore?category=creative_tools).
 
 ## AI Agents
 
+- [Mad World](https://www.madworld.space) - Watch AI models debate your questions from different perspectives. ([details](https://onesvibe.app/projects/madworld-space))
+- [IronClaw](https://Ironclaw.com) - IronClaw: Unleash Your AI Agent, With Peace of Mind. The open-source secure runtime that runs AI agents in encrypted enclaves on NEAR AI Cloud. ⭐ 12,588 ([details](https://onesvibe.app/projects/ironclaw))
 - [AEE](https://aee.eli-labz.com/) - Propose actions and watch an AI control plane evaluate policies, handle approvals, execute, and verify results in real-time. ⭐ 251 ([details](https://onesvibe.app/projects/aee-eli-labz))
 - [AgentKey](https://agentkey.app/) - Connect your AI agents to live web search, social media, and blockchain data. ⭐ 219 ([details](https://onesvibe.app/projects/agentkey))
 - [Remnus](https://remnus.com) - Build databases, kanban boards, and notes for AI agents to collaborate on. ⭐ 54 ([details](https://onesvibe.app/projects/remnus))
@@ -261,6 +263,11 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Ejentum](https://ejentum.com) - Inject engineered cognitive abilities into AI agents at inference time. ⭐ 4 ([details](https://onesvibe.app/projects/ejentum))
 - [回音堂](https://anachron.qizhen.xyz) - Debate with AI-powered historical figures in real-time cross-temporal conversations. ⭐ 2 ([details](https://onesvibe.app/projects/anachron-qizhen))
 - [OpenCorp](https://OpenCorp.live) - AI agent that handles market research, user discovery, SEO, and outreach while you build. ⭐ 2 ([details](https://onesvibe.app/projects/opencorp-live))
+- [Ask AI Pro: AskPromptAI](https://askpromptai.com) - Ask AI Pro: AskPromptAI is an AI Assistant built by Davidayo. Chat, generate high-quality images, write code, and ideas in seconds. ([details](https://onesvibe.app/projects/askpromptai))
+- [AI Agent Reliability Platform](https://zespan.com) - Zespan is an AI agent reliability platform. Trace every decision, tool call, and handoff in production. Free tier, 5-min setup. ([details](https://onesvibe.app/projects/zespan))
+- [High-Agency Agent for Top Talent](https://laand.me) - Land your next role—or hire top talent with Taste. One high-agency AI agent, built for both. ([details](https://onesvibe.app/projects/laand))
+- [One Thing at a Time](https://onethingatatime.app/) - One Thing at a Time is an ADHD-friendly planner that lets you brain dump, hides the overwhelming todo pile, and shows only the next useful step. ([details](https://onesvibe.app/projects/onethingatatime))
+- [pronto](https://pronto.stream/) - Pronto — Real-time Signal Intelligence Command Center. Live data feeds from 17+ global providers across 13 domains. ([details](https://onesvibe.app/projects/pronto-stream))
 - [Try LOLM](https://lolm.imagineqira.com/try.html) - An LLM agent that tracks goals and plans across sessions while showing exactly what it retrieves, verifies, and fails on. ([details](https://onesvibe.app/projects/lolm-imagineqira))
 - [Mimetic](https://trymimetic.com) - Mimetic scans across browsers and devices, finds the gaps between marketing and engineering that are losing you customers, and generates a fix you can review and merge. ([details](https://onesvibe.app/projects/trymimetic))
 - [StateSync](https://statesync.it) - Prevent context loss and AI agent amnesia. StateSync provides real-time state persistence and agent handoffs over MCP. ([details](https://onesvibe.app/projects/statesync-it))
@@ -295,21 +302,13 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Indexly](https://useindexly.com) - AI agent that finds keywords your competitors rank for and auto-publishes SEO-optimized articles to your blog. ([details](https://onesvibe.app/projects/useindexly))
 - [Fulminare](https://fulmina.re) - Free AI agent that executes tasks with real shell, browser, and file access on an isolated cloud sandbox. ([details](https://onesvibe.app/projects/fulmina-re))
 - [Vyne](https://app.vyne.finance) - Create and deploy DeFi agents on Solana using a drag-and-drop workflow builder. ([details](https://onesvibe.app/projects/app-vyne-finance))
-- [WisdomTwin.ai](https://expertise-sculpt.lovable.app) - AI-powered Wisdom Twin assistant helps preserve institutional knowledge and judgment for enterprise employees. ([details](https://onesvibe.app/projects/expertise-sculpt-lovable))
-- [AI Agent for Sales & Support](https://yoursalemate.com/) - AI chatbot that automates sales and customer support with lead capture. ([details](https://onesvibe.app/projects/yoursalemate))
-- [NoClick](https://www.noclick.com/) - Build always-on AI agents and automations using your existing AI subscriptions. ([details](https://onesvibe.app/projects/noclick))
-- [Agent](https://app.elfa.ai/?referralCode=orbitant) - AI agent that synthesizes trading signals from social, on-chain, and off-chain market data. ([details](https://onesvibe.app/projects/app-elfa))
-- [Segue](https://segue.ai/) - Save context blocks from one AI and load them by handle in another. ([details](https://onesvibe.app/projects/segue))
-- [Startup HQ](https://startuphq.site/) - AI co-founder platform helping indie founders from idea to launch with multi-agent research, validation, GTM, and planning. ([details](https://onesvibe.app/projects/startuphq-site))
-- [Flagon](https://app.flagon.ai) - Demo platform that uses AI agents to showcase products to prospects without sales reps. ([details](https://onesvibe.app/projects/app-flagon))
-- …and [340 more in AI Agents](https://onesvibe.app/explore?category=ai_agents).
+- …and [343 more in AI Agents](https://onesvibe.app/explore?category=ai_agents).
 
 ## Developer Tools
 
 - [HEADROOM](https://ar5en1c.github.io/headroom/) - Measure your GPU's real memory-bandwidth ceiling for local AI in 30 seconds. ([details](https://onesvibe.app/projects/ar5en1c-github))
 - [Nodl](https://getnodl.app) - Visual mapping tool for IT system architecture that automatically syncs with Jira. ([details](https://onesvibe.app/projects/getnodl))
 - [21st.dev - Crafted React components and templates, not AI slop](https://21st.dev) - Hand-crafted React components and templates for building polished user interfaces. ([details](https://onesvibe.app/projects/21st))
-- [Pyor](https://pyor.review/) - Review GitHub pull requests in a native app without opening github.com. ([details](https://onesvibe.app/projects/pyor-review))
 - [Typst WASM Playground](https://typst-wasm-playground-cloudflare.will-bradshaw50.workers.dev/) - Compile and preview Typst documents directly in your browser using WebAssembly. ⭐ 54,951 ([details](https://onesvibe.app/projects/typst-wasm-playground-cloudflare-will-bradshaw50-workers))
 - [Happy](https://happy.engineering) - Open-source remote control for Claude Code and Codex on iOS, Android, and web. ⭐ 22,652 ([details](https://onesvibe.app/projects/happy-engineering))
 - [Free Mermaid Editor Online](https://mermaid-live-editor.com/) - Draw Mermaid diagrams online with 33+ chart types, export to PNG/SVG/PDF. ⭐ 6,706 ([details](https://onesvibe.app/projects/mermaid-live-editor))
@@ -356,7 +355,8 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [HoverSource](https://loerei.github.io/HoverSource/) - Capture UI elements with code context and screenshots to share with AI agents for debugging visual bugs. ⭐ 5 ([details](https://onesvibe.app/projects/loerei-github))
 - [unlocalhost · Turn localhost into a link only your friends can open](https://unlocalhost.tech) - Share your local development app with friends via a secure link with built-in authentication. ⭐ 4 ([details](https://onesvibe.app/projects/unlocalhost-tech))
 - [skymap-sh](https://skymap.sh) - @anupamrjp a plain-text sky map that lives in your CLI just curl it. ⭐ 3 ([details](https://onesvibe.app/projects/skymap-sh))
-- …and [652 more in Developer Tools](https://onesvibe.app/explore?category=developer_tools).
+- [ClaudeLines](https://claudelines.com) - Discover and install custom Claude Code status line scripts. ⭐ 3 ([details](https://onesvibe.app/projects/claudelines))
+- …and [681 more in Developer Tools](https://onesvibe.app/explore?category=developer_tools).
 
 ## Finance & Business
 
@@ -372,6 +372,12 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [MentionLeads](https://mentionleads.com) - Finds customers asking for solutions on Reddit, X, and Hacker News; scores intent and drafts replies you approve. ⭐ 1 ([details](https://onesvibe.app/projects/mentionleads))
 - [payrequest.me](https://payrequest.me) - Get a free payment link to collect payments for products, tips, or donations. ⭐ 1 ([details](https://onesvibe.app/projects/payrequest))
 - [Toki - TON 스테이킹을 쉽게](https://toki.tokamak.network) - One-click TON staking service offering 20%+ APR with no setup fees. ⭐ 1 ([details](https://onesvibe.app/projects/toki-tokamak-network))
+- [ZeFi](https://www.zefi.ae/) - Research markets, understand your wallet, model complex transactions, and turn natural-language intent into verified onchain actions. ([details](https://onesvibe.app/projects/zefi-ae))
+- [Nexora](https://nexora-avdhesh.vercel.app/) - Nexora connects ambitious students with verified mentors for focused, structured sessions. Book your first session today. ([details](https://onesvibe.app/projects/nexora-avdhesh-vercel))
+- [Gestions](https://www.gestions.app) - Gestions es el software de gestion que centraliza CRM, facturacion electronica, proyectos y finanzas para que tomes mejores decisiones sin herramientas dispersas. ([details](https://onesvibe.app/projects/gestions))
+- [WordPress Bug Fixes & Maintenance](https://bugshield.co.uk) - Professional WordPress bug fixing, 24/7 monitoring, cloud backups, and encrypted credential storage. Request a fix or choose a maintenance plan. ([details](https://onesvibe.app/projects/bugshield))
+- [Flonix](https://flonix.pro) - Flonix automates Instagram DMs, comment triggers, story replies, and follow-gate workflows — plus a built-in link-in-bio page — so creators, brands, and agencies can grow faster, p. ([details](https://onesvibe.app/projects/flonix))
+- [Base44 APP](https://convivial-biz-wise-flow.base44.app/) - BizWiz Ai This is an AI that will answer all business ideas,questions. ([details](https://onesvibe.app/projects/convivial-biz-wise-flow-base44))
 - [LuBot](https://lubot.ai) - Ask plain-English questions about stocks, website traffic, and files to get instant, grounded answers. ([details](https://onesvibe.app/projects/lubot))
 - [TikTok Coin Calculator](https://coinvaluecalc.com/) - Calculate TikTok Coin costs and estimate creator earnings from live gift donations. ([details](https://onesvibe.app/projects/coinvaluecalc))
 - [Klarix](https://getklarix.com) - Klarix gives your agency the clarity to manage clients, generate documents, collaborate in real time, and ship projects faster. Free to start. ([details](https://onesvibe.app/projects/getklarix))
@@ -404,13 +410,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Say About Us - Collect & Showcase Customer Testimonials](https://SayAbout.Us) - Collect and showcase customer testimonials from Twitter/X, LinkedIn, G2, and other sources. ([details](https://onesvibe.app/projects/sayabout-us))
 - [Lusfera](https://lusfera.com/) - Monetization infrastructure for creators to sell subscriptions, PPV, paid messages, and manage payouts. ([details](https://onesvibe.app/projects/lusfera))
 - [Taking Agency](https://Scoreincome.com) - Optimize your covered call strategy with detailed ROI tracking and position management. ([details](https://onesvibe.app/projects/scoreincome))
-- [One AI Platform for All Your Marketing Data](https://Analyse8.com) - Ask questions about your GA4, Google Ads, and Search Console data to generate shareable reports. ([details](https://onesvibe.app/projects/analyse8))
-- [Hagglerr](https://hagglerr.com) - Buy button that lets customers name their price privately to reduce cart abandonment. ([details](https://onesvibe.app/projects/hagglerr))
-- [Chikoochi](https://www.chikoochi.com) - Software for voice invoicing, pharmacy billing, encrypted family records, and WhatsApp automation for businesses. ([details](https://onesvibe.app/projects/chikoochi))
-- [PolyTrackers](https://polytrackers.com) - Track Polymarket whales, browse live prediction markets, and practice with paper trading. ([details](https://onesvibe.app/projects/polytrackers))
-- [Moodeng Credit](https://moodeng.app) - Get microloans in USDC with transparent terms and build on-chain credit history. ([details](https://onesvibe.app/projects/moodeng))
-- [MarketRada](https://www.marketrada.com) - Find and compare real-time prices from local vendors near you. ([details](https://onesvibe.app/projects/marketrada))
-- …and [639 more in Finance & Business](https://onesvibe.app/explore?category=finance_business).
+- …and [645 more in Finance & Business](https://onesvibe.app/explore?category=finance_business).
 
 ## Health & Wellness
 
@@ -469,6 +469,9 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 ## Social & Community
 
 - [blog-est-im](https://blog.est.im/images/2026/stdout-28.01.avif) - Share updates and moments on a web-based social network inspired by WeChat Moments. ⭐ 8 ([details](https://onesvibe.app/projects/blog-est-im))
+- [AEO Pluse](https://Aeopluse.com/?product_hunt) - AEO Pluse - Answer Engine Optimization analytics. Stop guessing what AI thinks about your brand. Get actionable data and discover content gaps across ChatGPT, Perplexity, Claude, a. ([details](https://onesvibe.app/projects/aeopluse))
+- [AI Meetings & Multi-AI Chat (ChatGPT, Claude, Gemini) · PayCall.ai](https://paycall.ai) - Combine multiple AI models in one place. Run multi-AI chat and AI meetings where ChatGPT, Claude, Gemini and more collaborate, compare, and debate. Start free. ([details](https://onesvibe.app/projects/paycall))
+- [Agent Rez AI](https://agentrez.space) - Build professional, ATS-optimized resumes for free with Agent Rez AI. Features 6 premium templates, AI cover letter generator, and cloud saving. ([details](https://onesvibe.app/projects/agentrez-space))
 - [AI-Powered Post-Event Lead Automation & Follow-Up CRM](https://meet2lead.com/) - Turn event handshakes into closed deals. Scan business cards, capture leads & automate follow-ups after events, meetings, and networking sessions. ([details](https://onesvibe.app/projects/meet2lead))
 - [MemeVerse](https://memeverse-lemon.vercel.app/) - MemeVerse is the ultimate platform for memes, short-form videos, and viral content. Join the community, fire off reactions, and ride every wave. ([details](https://onesvibe.app/projects/memeverse-lemon-vercel))
 - [sharenow · your agent built it, now send the link](https://sharenow.today) - Your agent built something. Paste one prompt and get a real link you can share. 3 free permanent Sites, no card to start. ([details](https://onesvibe.app/projects/sharenow-today))
@@ -515,14 +518,10 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Wheesper](https://wheesper.com) - Get honest feedback in private discussions using stable pseudonyms. ([details](https://onesvibe.app/projects/wheesper))
 - [Kindred](https://verve-heart-sync.lovable.app) - Curated dating platform with thoughtful introductions for depth-focused relationships. ([details](https://onesvibe.app/projects/verve-heart-sync-lovable))
 - [Your GOV.UK](https://emmaderbyshire.github.io/your-govuk/) - Follow UK government activities and community initiatives relevant to you. ([details](https://onesvibe.app/projects/emmaderbyshire-github))
-- [Groundbeat](https://groundbeat.com) - Vote on real-time polls and analyze results by demographic to see how opinions shift. ([details](https://onesvibe.app/projects/groundbeat))
-- [TIMxAI Lobby](https://TIMxAI.ai) - Explore a walkable 3D virtual lobby with AI products, games, a movie theater, and chat spaces. ([details](https://onesvibe.app/projects/timxai))
-- [WallOfStartup · Feature your startup on the wall, €1 a pixel](https://wallofstartup.com) - Buy pixels on a permanent digital wall to display your startup logo. ([details](https://onesvibe.app/projects/wallofstartup))
-- …and [102 more in Social & Community](https://onesvibe.app/explore?category=social_community).
+- …and [105 more in Social & Community](https://onesvibe.app/explore?category=social_community).
 
 ## Utilities
 
-- [Lunaria · Moon of the Day](https://kokoro-ele.github.io/Lunaria/) - Visualize the moon's appearance from any location and date with realistic 3D rendering including phase, libration, and observation angle. ⭐ 3 ([details](https://onesvibe.app/projects/kokoro-ele-github))
 - [PornPrompt.ai](https://pornprompt.ai) - Search and discover adult videos using natural language AI. ([details](https://onesvibe.app/projects/pornprompt))
 - [The Quiet Map](https://thequietmap.org/) - Live map showing Earth's quietest locations based on real-time seismic noise data. ([details](https://onesvibe.app/projects/thequietmap))
 - [Pitstop](https://pitstop.community) - Find bathrooms, outlets, snacks, seating, Wi-Fi, and water along your route in NYC with community-verified data. ([details](https://onesvibe.app/projects/pitstop-community))
@@ -532,6 +531,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Flashpaper](https://flashpaper.app/) - Send self-destructing notes and files with zero-knowledge encryption and screenshot protection. ⭐ 11 ([details](https://onesvibe.app/projects/flashpaper))
 - [Design Slop Cop](https://slopcop.adriankrebs.ch) - Scan websites for AI design patterns and score how AI-generated their design looks. ⭐ 9 ([details](https://onesvibe.app/projects/slopcop-adriankrebs-ch))
 - [JellyJump Player](https://jellyjump.voidall.com) - A neobrutalist video player for watching IPTV streams on web and mobile browsers. ⭐ 5 ([details](https://onesvibe.app/projects/jellyjump-voidall))
+- [Lunaria · Moon of the Day](https://kokoro-ele.github.io/Lunaria/) - Visualize the moon's appearance from any location and date with realistic 3D rendering including phase, libration, and observation angle. ⭐ 3 ([details](https://onesvibe.app/projects/kokoro-ele-github))
 - [nully](https://nully.chat/) - Simple AI chat for OpenRouter models with no login, no tracking, self-hostable. ⭐ 2 ([details](https://onesvibe.app/projects/nully-chat))
 - [AI Census](https://ai-census.com/) - Compare public opinions and benchmarks tracking how people perceive leading AI models. ([details](https://onesvibe.app/projects/ai-census))
 - [Dzzz](https://dzzz.ai) - 90+ free browser tools for converting, compressing, and calculating files entirely on your device. ([details](https://onesvibe.app/projects/dzzz))
@@ -572,7 +572,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [EasyBites](https://easybites.vercel.app) - Order fast food from local restaurants through an intuitive, playful interface. ([details](https://onesvibe.app/projects/easybites-vercel))
 - [Releases · KBlip](https://kblip.com/releases) - Daily digest of AI/LLM news and model launches from 100+ sources. ([details](https://onesvibe.app/projects/kblip))
 - [Global eSIM Price Compare](https://bestesimcompare.com/) - Compare eSIM travel plans across 20+ destinations by price, data allowance and coverage. ([details](https://onesvibe.app/projects/bestesimcompare))
-- …and [234 more in Utilities](https://onesvibe.app/explore?category=utilities).
+- …and [232 more in Utilities](https://onesvibe.app/explore?category=utilities).
 
 ## Other
 
@@ -582,56 +582,62 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [troniti](https://troniti.com) - Non-custodial TRON yield: staking, voting rewards & energy rental in your own wallet — via an on-chain permission that can never move your funds. ⭐ 1 ([details](https://onesvibe.app/projects/troniti))
 - [AI2Web](https://ai2web.dev/) - Unified API layer to integrate your website with multiple AI systems. ⭐ 1 ([details](https://onesvibe.app/projects/ai2web))
 - [AskLedger](https://Askledger.org) - Scan your AI bills to find waste and prove savings with tamper-evident evidence. ⭐ 1 ([details](https://onesvibe.app/projects/askledger))
-- [SecNav](https://secnavpro.com) - The premier forensic proficiency platform for security professionals. Verify your tactical skills through high-fidelity adversarial simulations. ([details](https://onesvibe.app/projects/secnavpro))
-- [Sekondi](https://sekondi.app) - Staff clock-in and time tracking for bars, restaurants and cafés. Managers see who's working live and generate payroll reports instantly. ([details](https://onesvibe.app/projects/sekondi))
-- [Avallon](https://avallon.ca) - Build your website with AI instantly. No code, no design skills needed. ([details](https://onesvibe.app/projects/avallon-ca))
-- [Leadfication](https://Leadfication.com/en) - Paste your URL — Leadfication reads your site and builds popups that match your brand in seconds. No coding, no designers. 14-day free trial. ([details](https://onesvibe.app/projects/leadfication))
-- [GrowthAI, Verified Remote AI & Tech Jobs, Updated Daily](https://growth-remote-ai.lovable.app) - Real AI, ML, and tech job listings pulled directly from company career pages. No ghost jobs, updated daily. Free to browse. ([details](https://onesvibe.app/projects/growth-remote-ai-lovable))
-- [NewsSnap.ai](https://NewsSnap.ai) - NewsSnap.ai helps you catch up on breaking news faster with AI-powered summaries, multiple-source perspectives, personalized topics, and audio briefings. ([details](https://onesvibe.app/projects/newssnap))
-- [Naktra](Https://naktra.app) - Create private rooms for family, friends, teams and communities. Plan occasions, chat, share photos, keep notes and use Room Memory so nothing important is forgotten. ([details](https://onesvibe.app/projects/naktra))
-- [Migrate Wizard](https://migratewizard.com) - Email migration that just works — Gmail, Outlook, Yahoo, and more. ([details](https://onesvibe.app/projects/migratewizard))
-- [Hire Remote Talent: 300,000+ Vetted Pros](https://Pavago.co) - Hire remote talent from a network of 300,000+ pre-vetted professionals across sales, marketing, engineering, finance and admin. Search free, no agency fees. ([details](https://onesvibe.app/projects/pavago))
-- [Bug reports that fix themselves](https://buganalyst.com) - Add a bug report widget in 30 seconds. It captures errors, user journeys and failed API calls — then AI analyzes your code and opens a pull request with the fix. ([details](https://onesvibe.app/projects/buganalyst))
-- [فصيل / Fasil](https://fasil.quotefather.com) - Fasil — where people disagree well, so truth emerges where minds meet. 18 debate phases, AI evaluation, cryptographic voting. ([details](https://onesvibe.app/projects/fasil-quotefather))
-- [Intelexus](https://intelexus.co) - @Joi2James. ([details](https://onesvibe.app/projects/intelexus))
-- [Conflicted Sports](https://ConflictedApp.com) - Conflicted tracks every player across every fantasy league you run, so you know who to cheer for in real time. ([details](https://onesvibe.app/projects/conflictedapp))
-- [MUN JobHunter](https://Munreader.com) - AI-powered job search with intelligent agents, smart cover letters, real-time career coaching, and gamified application tracking. Find your next role faster. ([details](https://onesvibe.app/projects/munreader))
-- [NoMenu](https://Nomenu.us) - Replace your clunky POS with NoMenu. Get unified QR code menus, Kitchen Display Systems (KDS), digital payments, and marketing automation in one seamless platform. ([details](https://onesvibe.app/projects/nomenu-us))
-- [Residex](https://residex.app) - Travel tracking and residency intelligence for people and advisers working across borders. ([details](https://onesvibe.app/projects/residex))
-- [Rentoria](https://Rentoria.co.in) - Find verified rental properties in Bengaluru, Gorakhpur, and Deoria — flats, rooms, and houses. No broker, no commission. Contact owners directly. ([details](https://onesvibe.app/projects/rentoria))
-- [Ghost Stock](https://www.ghost-stock.co.uk/) - Detect ghost inventory in your Shopify store before it costs you money. ([details](https://onesvibe.app/projects/ghost-stock))
-- [Afterword](https://afterword.spremtlabs.com/) - Record the people you love in their own voice. ([details](https://onesvibe.app/projects/afterword-spremtlabs))
-- [Infinomni, Build Robots With Words](https://infinomni.com/) - Describe a robot in plain language. Infinomni compiles it into printable 8 mm brick parts, checked to fit — then simulate and walk it around San Francisco. ([details](https://onesvibe.app/projects/infinomni))
-- [Core](https://core.gradien.ai) - Core keeps your integrations, files, decisions, preferences, and prior work available across every AI tool you use. Try Core free for 14 days. ([details](https://onesvibe.app/projects/core-gradien))
-- [Viewfy](https://Viewfy.ai) - More than 1 in 4 launched products cannot be read by an AI engine. Check yours free, no account. Then he writes your blog daily, opens the SEO pull request on your repo, posts on X. ([details](https://onesvibe.app/projects/viewfy))
-- [qwen3tts.net](https://www.qwen3tts.net/) - Details are being auto-filled from the live check. ([details](https://onesvibe.app/projects/qwen3tts-net))
-- [rougeapex](https://polish-pal-studio.base44.app) - @omkarships. ([details](https://onesvibe.app/projects/polish-pal-studio-base44))
-- [Bonotol](https://Bonotol.com) - @omkarships. ([details](https://onesvibe.app/projects/bonotol))
-- [GlobiGuard](https://globiguard.com) - GlobiGuard inspects sensitive data, authorizes actions, and logs every governed AI decision before it executes. ([details](https://onesvibe.app/projects/globiguard))
-- [Woza Woza Kitchen](https://woza-kitchen-stories.lovable.app) - Browse South African home-cooked meals and view daily specials. ([details](https://onesvibe.app/projects/woza-kitchen-stories-lovable))
-- [Navigate Dubrovnik](https://navigate-dubrovnikcom.lovable.app) - Book private airport transfers and luxury tour services in Dubrovnik. ([details](https://onesvibe.app/projects/navigate-dubrovnikcom-lovable))
-- [reference2video.com](https://reference2video.com/) - Details are being auto-filled from the live check. ([details](https://onesvibe.app/projects/reference2video-com))
-- [House for Sale in Bantry Bay, Cape Town](https://cape2cairo.africa/listings/tuscan-inspired-sanctuary-above-the-atlantic-in-bantry-bay) - R59M • 4 bed, 5 bath house in Bantry Bay, Cape Town | Pool, Security. Listed by DG Properties. ([details](https://onesvibe.app/projects/cape2cairo-africa))
-- [Black Hat Swipe](https://blackhatswipe.com) - Your ultimate swipe file for winning ads and offers. ([details](https://onesvibe.app/projects/blackhatswipe))
-- [ShotCanvas](https://shotcanvas.app) - ShotCanvas Studio turns raw app screenshots into store-ready listings — 26 pro templates, AI-designed layouts and headlines, and one-click export in every App Store and Google Play. ([details](https://onesvibe.app/projects/shotcanvas))
-- [RobinRank](https://www.robinrank.ai) - Publish SEO content and earn verified backlinks. RobinRank plans, writes, and publishes your articles while matching your site with relevant link opportunities. ([details](https://onesvibe.app/projects/robinrank))
-- [Siiqo](https://siiqo.com) - Buy and sell anything in Nigeria — physical products, digital downloads, or services. Pay with bank transfer, card, USSD, or crypto (USDT/USDC). Every seller verified. Every paymen. ([details](https://onesvibe.app/projects/siiqo))
-- [Sinthrone Streetwear Brand](https://Sinthrone.in) - Sinthrone – Gen-Z streetwear brand with trendy, comfy, premium outfits. Shop fresh drops and elevate your style. ([details](https://onesvibe.app/projects/sinthrone-in))
-- [On-Model](https://on-model.com/) - AI fashion photography platform for e-commerce: model swap, flat-lay to on-model, garment recolor, and AI packshots, with pixel-perfect garment preservation. ([details](https://onesvibe.app/projects/on-model))
-- [Rootgraph](https://rootgraph.xyz) - Sign bilateral trust links on-chain. Build your decentralized trust network. ([details](https://onesvibe.app/projects/rootgraph))
-- [Trusted Childcare and Kids' Programs Marketplace](https://HappiKid.com) - HappiKid helps parents discover, compare, and enroll in childcare, camps, after-school, and enrichment programs faster, while giving providers a modern channel to increase visibili. ([details](https://onesvibe.app/projects/happikid))
-- [Damian](https://usedamian.com) - Damian is the platform that lets people gain real work experience before they get the job. Build a verified portfolio through realistic industry projects. ([details](https://onesvibe.app/projects/usedamian))
-- [Certus · Safety docs for physical systems](https://certusai.dev) - Certus drafts safety documentation for physical systems: cars, drones, and robots. Customize hazard analyses and risk ratings to your process, with humans still in the review loop. ([details](https://onesvibe.app/projects/certusai))
-- [Weekend Group Trips from Your City](https://groupvoyage.in) - Discover curated weekend group trips from your city. Compare 1-day and 2-day getaways, trekking adventures, budget trips, and scenic experiences that run every weekend. ([details](https://onesvibe.app/projects/groupvoyage-in))
-- [Trafficbase360](https://www.trafficbase360.com) - Trafficbase360 is a privacy-first website traffic analytics platform with real-time visitor tracking, lightweight tracking scripts, and clear analytics dashboards. ([details](https://onesvibe.app/projects/trafficbase360))
-- [AI Job Search Automation](https://www.loopcv.pro/) - Upload your CV once and let LoopCV auto-apply to hundreds of matching jobs every week - on LinkedIn, Indeed, Glassdoor and 30+ platforms. Free to start. ([details](https://onesvibe.app/projects/loopcv))
-- [dagg.fun](https://dagg.fun) - A bonding-curve launchpad, multichain by design. Graduate to a locked pool position at 3.7 ETH. ([details](https://onesvibe.app/projects/dagg))
-- …and [159 more in Other](https://onesvibe.app/explore?category=other).
+- [老黄历 · 手撕皇历](https://11d62f9d.pinme.dev/) - 复刻老黄历解压网站 简介：一个复刻纸质老黄历的网站，还可以解压地撕撕撕，哈哈哈 网站地址：. ([details](https://onesvibe.app/projects/11d62f9d-pinme))
+- [Koboyo Icons](https://koboyo.com/icons) - Search 71,262 free hand-drawn SVG icons — by group and synonym ("oops" finds facepalm, "deploy" finds rocket). currentColor, no attribution required. ([details](https://onesvibe.app/projects/koboyo))
+- [roast.me](https://resume-roast-me.netlify.app) - Upload your resume. Answer a few questions you'll regret answering honestly. Get roasted. ([details](https://onesvibe.app/projects/resume-roast-me-netlify))
+- [BlogMachine](https://www.faali.ae) - Crawl, plan, generate, and publish blog content for all your clients — powered by AI. ([details](https://onesvibe.app/projects/faali-ae))
+- [Thorio, Verified Remote tech jobs, Updated Daily](https://thorio.co) - Real remote tech job listings, including AI and ML, pulled directly from company career pages. No ghost jobs, updated daily. Free to browse. ([details](https://onesvibe.app/projects/thorio))
+- [almamaps.ai](https://www.almamaps.ai) - Mobile-first agricultural UI design system. ([details](https://onesvibe.app/projects/almamaps))
+- [Avriz](https://Avriz.io) - An AI employee that lives on its own private cloud machine. Talk to it like a person — it builds, runs, and keeps working while you're away. Free tier, no card. ([details](https://onesvibe.app/projects/avriz))
+- [Sievin - Segment Anything for Audio](https://sievin.com) - Segment Anything for Audio — made simple. Separate audio with a text prompt. Isolate vocals, remove background music, extract speech from noise. Privacy-first stem splitter powered. ([details](https://onesvibe.app/projects/sievin))
+- [Is the grid clean?](https://Isgridclean.com) - @anupamrjp. ([details](https://onesvibe.app/projects/isgridclean))
+- [We Connect Africans To Vetted Global Remote Jobs » Remote Career Africa](https://www.remotecareer.africa/) - We connect Africans to vetted global remote jobs. ([details](https://onesvibe.app/projects/remotecareer-africa))
+- [BetriqAI](https://betriqai.com) - AI-powered sports predictions and analysis platform. ([details](https://onesvibe.app/projects/betriqai))
+- [Binder](https://Bindertrading.com) - Build, organize, and grow your card collection with AI-powered scanning, real-time market values, and a beautiful digital binder designed for collectors. ([details](https://onesvibe.app/projects/bindertrading))
+- [Bridgemode](https://bridgemode.network) - Bridgemode is a network testing place with outgoing TCP ports test and highly detailed Network Layout Builder to keep a log of your topologies and simulator. ([details](https://onesvibe.app/projects/bridgemode-network))
+- [Free YouTube Tools for Creators](https://100xtuber.com) - 100Xtuber gives YouTubers free tools to grow: YouTube thumbnail downloader, transcript extractor, AI tag generator, CTR predictor, video idea generator, and RPM calculator. No sign. ([details](https://onesvibe.app/projects/100xtuber))
+- [Stylokit Icons](https://icons.stylokit.com/) - Browse 7,584+ consistent SVG icons for React, Figma, and Framer. Search Round and Sharp icon styles, then copy clean SVG, TSX, or React components for your next product. ([details](https://onesvibe.app/projects/icons-stylokit))
+- [LinkBazaar - Link Exchange Marketplace for SEO & AEO](https://linkbazaar.app) - Exchange quality backlinks with 300+ verified websites. LinkBazaar is the marketplace where website owners find relevant partners and exchange contextual backlinks to boost SEO and. ([details](https://onesvibe.app/projects/linkbazaar))
+- [litra™](https://litra.us) - An intellectual companion for the digital aristocracy. ([details](https://onesvibe.app/projects/litra-us))
+- [Peeng](https://peeng.dev) - Centralize logs, search fast, and understand errors instantly with AI. Peeng is the observability platform built for small engineering teams. ([details](https://onesvibe.app/projects/peeng))
+- [Never lose an SEO prospect to an empty screen](https://larpconsole.com) - Type the clicks, impressions and position you want. Get 16 months of Search Console, every screen and every table agreeing, ready to walk a client through live. ([details](https://onesvibe.app/projects/larpconsole))
+- [Glenlist](https://glenlist.com) - Rent houses, real estate, apartments, buy and sell vehicles, job postings, services. ([details](https://onesvibe.app/projects/glenlist))
+- [Be yourself](https://www.getunmaskd.com) - Unmaskd. is a social platform for friendship, dating, and collaboration, designed with neurodiversity in mind and open to adults who value communicating without masking. Free to jo. ([details](https://onesvibe.app/projects/getunmaskd))
+- [Naviya](https://www.naviya.tech/) - Generate personalized travel itineraries with AI. ([details](https://onesvibe.app/projects/naviya-tech))
+- [Intervu](https://intervu.ca) - AI interview preparation for job seekers, students, and career changers. Upload your resume and job post, practice a mock interview, and get AI feedback. ([details](https://onesvibe.app/projects/intervu-ca))
+- [简约文件床 - 图片、文档与压缩包外链托管](https://pic.sl.al) - 简约文件床提供图片、文档、压缩包、音视频等常见文件外链托管，单文件最大 200MB，支持拖拽上传、粘贴图片、直链分享、Range 分段读取与边缘缓存加速。 ([details](https://onesvibe.app/projects/pic-sl-al))
+- [Hazra Food House](https://hazra.lovable.app) - Order Authentic Mauritian & Indian Cuisine for Takeaway From Hazra Food House - HFH. ([details](https://onesvibe.app/projects/hazra-lovable))
+- [Ndoka Plumber](https://cameroon-plumber-finder.lovable.app) - Trouvez un plombier de confiance près de chez vous au Cameroun. ([details](https://onesvibe.app/projects/cameroon-plumber-finder-lovable))
+- [Pocket Kakeibo](https://pocketkakeibo.lovable.app) - A simple budgeting app that tracks spending in USD and Japanese yen. ([details](https://onesvibe.app/projects/pocketkakeibo-lovable))
+- [Aurum AI](https://decision-compass-x.lovable.app) - Décision claire, justification argumentée, débat IA haussier/baissier et gestion du risque sur XAU/USD, Forex, crypto et indices. ([details](https://onesvibe.app/projects/decision-compass-x-lovable))
+- [Mukhlis Premium Store](https://mukhlispremiumstore.lovable.app) - A curated collection of premium everyday objects, made to last and designed to be lived with. ([details](https://onesvibe.app/projects/mukhlispremiumstore-lovable))
+- [HUMM](https://hummfeed.lovable.app) - Speak or type a rough thought and HUMM turns it into a message worth sending. 30+ tones, 16 languages, a private journal and a browser extension. ([details](https://onesvibe.app/projects/hummfeed-lovable))
+- [Gloire de Dieu Collection](https://gloire-shop-style.lovable.app) - Commandez en ligne chaussures, habits, sacs et accessoires pour homme, femme et enfant. Livraison rapide, paiement à la réception. ([details](https://onesvibe.app/projects/gloire-shop-style-lovable))
+- [Kisumu Youth Assembly](https://kisumuyouthassembly.lovable.app) - Official platform of the Kisumu Youth Assembly: 35 ward MPs, 12 ministries, and transparent youth-led governance across Kisumu County, Kenya. ([details](https://onesvibe.app/projects/kisumuyouthassembly-lovable))
+- [FIT](https://fit-at-your-best.lovable.app) - FIT is a premium athletic wear brand for men and women. Performance-driven apparel, minimalist design, and serious comfort for every training session. ([details](https://onesvibe.app/projects/fit-at-your-best-lovable))
+- [蛋雞飼養管理｜產蛋、飼料與健康紀錄](https://pal-creator-pro.lovable.app) - 每日記錄產蛋數、飼料與飲水、雞隻健康狀況，並查看月統計、庫存提醒與 AI 飼養建議。 ([details](https://onesvibe.app/projects/pal-creator-pro-lovable))
+- [LeadMap AI](https://find-foreclosure-ai.lovable.app) - Search US foreclosure, sheriff sale and REO opportunities by state, county and city. AI-scored deals, live map and instant alerts. ([details](https://onesvibe.app/projects/find-foreclosure-ai-lovable))
+- [LeadMap AI](https://leadmap-ai-insight.lovable.app) - Search foreclosures, tax liens, probate, REO and vacant property leads by state, county, city or ZIP — with AI scoring that ranks the best deals first. ([details](https://onesvibe.app/projects/leadmap-ai-insight-lovable))
+- [NotaryVisit](https://NotaryVisit.com) - Let clients book online while smart scheduling manages your availability and travel time — no tech skills needed. ([details](https://onesvibe.app/projects/notaryvisit))
+- [Cents FYI](https://cents.fyi) - A calm family ledger for allowance, spending, and the balance that remains. No kid debit card or bank connection. ([details](https://onesvibe.app/projects/cents-fyi))
+- [ReMix100｜AI 音频降噪、去混响与人声增强](https://remix100.com/) - 在线处理录音中的背景噪声、街道噪音和房间混响，无需专用降噪麦克风，也能获得更清晰自然的人声。 ([details](https://onesvibe.app/projects/remix100))
+- [LotteryWin](https://lotterywin.co.uk) - Explore worldwide lottery results, draw history, number frequencies, gaps and statistical analysis tools with LotteryWin. ([details](https://onesvibe.app/projects/lotterywin))
+- [Aspen](https://aspen-rival.vercel.app/) - Aspen tracks the companies you compete with — news, reviews, patents, stock data — and writes a sourced report on each one: what they're doing, where they're weak, and what to do a. ([details](https://onesvibe.app/projects/aspen-rival-vercel))
+- [Antalytix](https://www.blackatlasnetwork.com/) - Score any AI market opportunity in 60 seconds — before you waste 6 months building the wrong thing. Antalytix, the intelligence engine inside the Black Atlas Founder OS. ([details](https://onesvibe.app/projects/blackatlasnetwork))
+- [weightlift](https://weightlift.dev/) - In-browser AI model manager with download progress tracking. ([details](https://onesvibe.app/projects/weightlift))
+- [HiveWeaver FM](https://hiveweaver.fm/en/) - HiveWeaver's public showcase: listen to the station live and watch, in real time, what the AI presenters say and why they say it. ([details](https://onesvibe.app/projects/hiveweaver-fm))
+- …and [212 more in Other](https://onesvibe.app/explore?category=other).
 
 ## Graveyard
 
 Apps that were live on this list and have since gone dark — the liveness standard, demonstrated. URLs are intentionally not linked (they stopped responding to our checks; visit at your own risk). Full memorial at [onesvibe.app/graveyard](https://onesvibe.app/graveyard).
 
+- **DrinkRank** · `47.107.180.19:8080` (Jul 2026 – Aug 2026) - Record and rank your favorite and least favorite drinks with local storage.
+- **5 Letter Word Finder for Wordle and Word Games Online** · `5letterwordsfinder.org` (Jul 2026 – Aug 2026) - Fast 5-letter word finder for Wordle, Scrabble, and crosswords with position and letter filtering.
+- **essora.ai** · `essora.ai` (Jul 2026 – Aug 2026) - Save notes, reminders, and ideas—then chat with AI twins that remember your knowledge.
+- **QuantumDash · Beta V2.0** · `quantumdash.agaamiai.com` (Jul 2026 – Aug 2026) - Upload any dataset and query it through natural language to get insights and visualizations.
+- **Gravibase** · `gravibase.co` (Jul 2026 – Aug 2026) - AI agent platform to help discover ideas, research topics, and create content.
+- **YAC DB** · `Yacdb.fyi` (Jul 2026 – Aug 2026) - Query NFL statistics using natural language or YACQL, instantly create shareable tables and charts.
 - **Open RAM** · `tryopenram.app` (Jul 2026 – Aug 2026) - Rent GPU/CPU compute and deploy open-source AI models with an API router.
 - **The Great Books Companion** · `Greatbookscompanion.com` (Jul 2026) - AI-enhanced ebook reader for studying and exploring great classical literature.
 - **fxUSD Observer** · `fxusd.0xdrvv.xyz` (Jul 2026) - Track and explore on-chain data for the f(x) Protocol and fxUSD.
