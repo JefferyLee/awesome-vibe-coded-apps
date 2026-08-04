@@ -1,5 +1,13 @@
 [
  {
+  "slug": "tryopenram",
+  "title": "Open RAM — Run open-source AI on rented compute",
+  "short_description": "Rent GPU/CPU compute and deploy open-source AI models with an API router.",
+  "live_url": "https://tryopenram.app/",
+  "published_at": "2026-07-04T00:27:59.281+00:00",
+  "updated_at": "2026-08-03T16:01:02.953058+00:00"
+ },
+ {
   "slug": "47-107-180-19-8080",
   "title": "DrinkRank",
   "short_description": "Record and rank your favorite and least favorite drinks with local storage.",
@@ -46,14 +54,6 @@
   "live_url": "https://Yacdb.fyi",
   "published_at": "2026-07-15T01:19:42.482+00:00",
   "updated_at": "2026-08-02T16:01:06.905141+00:00"
- },
- {
-  "slug": "tryopenram",
-  "title": "Open RAM — Run open-source AI on rented compute",
-  "short_description": "Rent GPU/CPU compute and deploy open-source AI models with an API router.",
-  "live_url": "https://tryopenram.app/",
-  "published_at": "2026-07-04T00:27:59.281+00:00",
-  "updated_at": "2026-08-01T16:01:08.39264+00:00"
  },
  {
   "slug": "greatbookscompanion",
