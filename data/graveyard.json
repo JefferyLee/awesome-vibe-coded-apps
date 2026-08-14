@@ -1,5 +1,21 @@
 [
  {
+  "slug": "mama-guid-replit",
+  "title": "MamaGuide",
+  "short_description": "A maternal health companion designed to support expecting mothers.",
+  "live_url": "https://mama-guid.replit.app",
+  "published_at": "2026-07-15T19:15:37.847+00:00",
+  "updated_at": "2026-08-13T16:00:47.775004+00:00"
+ },
+ {
+  "slug": "nully-chat",
+  "title": "nully: super simple AI chat. fast, private, self-hostable",
+  "short_description": "Simple AI chat for OpenRouter models with no login, no tracking, self-hostable.",
+  "live_url": "https://nully.chat/",
+  "published_at": "2026-07-09T01:17:16.336+00:00",
+  "updated_at": "2026-08-13T16:00:47.363247+00:00"
+ },
+ {
   "slug": "tryopenram",
   "title": "Open RAM — Run open-source AI on rented compute",
   "short_description": "Rent GPU/CPU compute and deploy open-source AI models with an API router.",
