@@ -1,5 +1,13 @@
 [
  {
+  "slug": "study-clash-vercel",
+  "title": "StudyClash",
+  "short_description": "Turn your study notes into competitive quiz battles and get AI coaching on weak topics.",
+  "live_url": "https://study-clash.vercel.app/",
+  "published_at": "2026-07-10T01:40:55.281+00:00",
+  "updated_at": "2026-08-14T16:00:49.349576+00:00"
+ },
+ {
   "slug": "mama-guid-replit",
   "title": "MamaGuide",
   "short_description": "A maternal health companion designed to support expecting mothers.",
