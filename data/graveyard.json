@@ -1,5 +1,37 @@
 [
  {
+  "slug": "rooster-pxxl-run",
+  "title": "Roster — Employee Management MVP",
+  "short_description": "Interactive employee management system with payroll, attendance, and performance tracking.",
+  "live_url": "https://rooster.pxxl.run/",
+  "published_at": "2026-07-05T20:17:52.491+00:00",
+  "updated_at": "2026-08-17T16:00:45.667235+00:00"
+ },
+ {
+  "slug": "stovvy",
+  "title": "Stovvy",
+  "short_description": "Ranks recipes by available ingredients, effort level, and additional shopping needs.",
+  "live_url": "https://stovvy.app",
+  "published_at": "2026-07-05T11:07:25.416+00:00",
+  "updated_at": "2026-08-17T16:00:45.261362+00:00"
+ },
+ {
+  "slug": "httpsfaithhubbible-lovable",
+  "title": "FaithHub — Read, Understand & Live the Bible with AI",
+  "short_description": "Read the Bible with AI-powered verse insights, follow reading plans, journal prayers, and grow with a faith community.",
+  "live_url": "https://httpsfaithhubbible.lovable.app",
+  "published_at": "2026-07-12T20:15:45.44+00:00",
+  "updated_at": "2026-08-16T16:00:46.589841+00:00"
+ },
+ {
+  "slug": "duiduixia",
+  "title": "怼怼侠 - 优雅怼人神器，骂人不带脏话",
+  "short_description": "AI tool that generates witty, non-vulgar comebacks to sarcasm and passive-aggressive comments.",
+  "live_url": "https://www.duiduixia.com",
+  "published_at": "2026-07-12T11:01:33.243+00:00",
+  "updated_at": "2026-08-16T16:00:46.182912+00:00"
+ },
+ {
   "slug": "study-clash-vercel",
   "title": "StudyClash",
   "short_description": "Turn your study notes into competitive quiz battles and get AI coaching on weak topics.",
