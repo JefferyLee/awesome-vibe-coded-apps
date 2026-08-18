@@ -1,5 +1,21 @@
 [
  {
+  "slug": "app-zaps-wtf",
+  "title": "World's first onchain capital allocation network powered by behavioral trust ora",
+  "short_description": "Earn Zaps and build your zScore reputation on an onchain capital allocation and leaderboard platform.",
+  "live_url": "https://app.zaps.wtf/clans/453",
+  "published_at": "2026-07-05T14:25:14.969+00:00",
+  "updated_at": "2026-08-18T16:00:47.792069+00:00"
+ },
+ {
+  "slug": "freeusernames",
+  "title": "FreeUsernames.com — Free Username Generator for Every Platform",
+  "short_description": "Generate unique usernames instantly for Instagram, TikTok, Discord, Roblox, and 20+ platforms.",
+  "live_url": "https://freeusernames.com/",
+  "published_at": "2026-07-05T19:53:55.741+00:00",
+  "updated_at": "2026-08-18T16:00:47.394078+00:00"
+ },
+ {
   "slug": "rooster-pxxl-run",
   "title": "Roster — Employee Management MVP",
   "short_description": "Interactive employee management system with payroll, attendance, and performance tracking.",
