@@ -1,5 +1,21 @@
 [
  {
+  "slug": "gooo",
+  "title": "Gooo — AI Governance Dashboard for South African Builders",
+  "short_description": "Track AI usage, apply guardrails, and maintain audit evidence for your projects.",
+  "live_url": "https://www.gooo.co.za",
+  "published_at": "2026-07-07T23:34:29.239+00:00",
+  "updated_at": "2026-08-19T16:00:49.000677+00:00"
+ },
+ {
+  "slug": "oneclicksearch-playcode",
+  "title": "一键搜 - 自定义搜索启动工具",
+  "short_description": "Open multiple custom search engines at once and search across all of them.",
+  "live_url": "https://oneclicksearch.playcode.io/",
+  "published_at": "2026-07-07T19:20:45.371+00:00",
+  "updated_at": "2026-08-19T16:00:48.60746+00:00"
+ },
+ {
   "slug": "app-zaps-wtf",
   "title": "World's first onchain capital allocation network powered by behavioral trust ora",
   "short_description": "Earn Zaps and build your zScore reputation on an onchain capital allocation and leaderboard platform.",
