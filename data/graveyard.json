@@ -1,5 +1,37 @@
 [
  {
+  "slug": "creatorium-ai-xi-vercel",
+  "title": "Creatorium AI — Crée, partage et vends tes projets IA",
+  "short_description": "Community marketplace for sharing and selling AI-created projects.",
+  "live_url": "https://creatorium-ai-xi.vercel.app/",
+  "published_at": "2026-07-19T01:52:13.126+00:00",
+  "updated_at": "2026-08-20T16:00:50.017308+00:00"
+ },
+ {
+  "slug": "worldfishatlas",
+  "title": "World Fish Atlas · Mediterranean Fisher",
+  "short_description": "Browser fishing game with Mediterranean habitats, fish codex notes, and dynamic line-tension mechanics.",
+  "live_url": "https://worldfishatlas.com/",
+  "published_at": "2026-07-18T21:32:17.547+00:00",
+  "updated_at": "2026-08-20T16:00:49.632398+00:00"
+ },
+ {
+  "slug": "ai-heist-vercel",
+  "title": "VAULTHEIST — Crack the vault, steal the key",
+  "short_description": "Solve daily prompt-injection puzzles by socially engineering an AI vault guardian.",
+  "live_url": "https://ai-heist.vercel.app/",
+  "published_at": "2026-07-09T01:24:05.868+00:00",
+  "updated_at": "2026-08-20T16:00:49.242778+00:00"
+ },
+ {
+  "slug": "brexcodex-vercel",
+  "title": "BrexCodex — A codex of crafted components",
+  "short_description": "Copy-paste React and Tailwind components with no dependencies.",
+  "live_url": "https://brexcodex.vercel.app",
+  "published_at": "2026-07-18T21:53:05.693+00:00",
+  "updated_at": "2026-08-20T16:00:48.840212+00:00"
+ },
+ {
   "slug": "gooo",
   "title": "Gooo — AI Governance Dashboard for South African Builders",
   "short_description": "Track AI usage, apply guardrails, and maintain audit evidence for your projects.",
