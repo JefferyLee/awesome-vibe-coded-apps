@@ -1,5 +1,29 @@
 [
  {
+  "slug": "bilibili",
+  "title": "bilibili",
+  "short_description": "Interactive toy: tap buttons to trigger humorous sounds.",
+  "live_url": "https://www.bilibili.com/toy/Dagou-Tap/index.html",
+  "published_at": "2026-07-22T19:46:53.98+00:00",
+  "updated_at": "2026-08-21T16:00:47.043944+00:00"
+ },
+ {
+  "slug": "blossom-esim-mobi",
+  "title": "Crypto eSIM Store | Buy Travel Mobile Data with USDT & BTC",
+  "short_description": "Purchase international travel eSIM profiles with cryptocurrency, delivered instantly via QR code, no registration required.",
+  "live_url": "https://blossom-esim.mobi",
+  "published_at": "2026-07-09T21:46:34.917+00:00",
+  "updated_at": "2026-08-21T16:00:46.647437+00:00"
+ },
+ {
+  "slug": "qiming-playcode",
+  "title": "起名小工具",
+  "short_description": "Generate alternative usernames by finding homophones and combining characters to create unique variations.",
+  "live_url": "https://qiming.playcode.io/",
+  "published_at": "2026-07-10T20:10:31.49+00:00",
+  "updated_at": "2026-08-21T16:00:46.241423+00:00"
+ },
+ {
   "slug": "creatorium-ai-xi-vercel",
   "title": "Creatorium AI — Crée, partage et vends tes projets IA",
   "short_description": "Community marketplace for sharing and selling AI-created projects.",
