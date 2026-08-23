@@ -1,11 +1,19 @@
 [
  {
-  "slug": "bilibili",
-  "title": "bilibili",
-  "short_description": "Interactive toy: tap buttons to trigger humorous sounds.",
-  "live_url": "https://www.bilibili.com/toy/Dagou-Tap/index.html",
-  "published_at": "2026-07-22T19:46:53.98+00:00",
-  "updated_at": "2026-08-21T16:00:47.043944+00:00"
+  "slug": "chargers-davis-rabbit-barrier-trycloudflare",
+  "title": "图片加水印工具",
+  "short_description": "Add text and image watermarks to your photos with batch export and real-time preview.",
+  "live_url": "https://chargers-davis-rabbit-barrier.trycloudflare.com",
+  "published_at": "2026-07-19T19:17:43.246+00:00",
+  "updated_at": "2026-08-22T16:00:34.330918+00:00"
+ },
+ {
+  "slug": "cc1f4f3f-app-enclave-host",
+  "title": "llm-chat on Enclave",
+  "short_description": "Interactive LLM chat interface running on Enclave's confidential compute platform.",
+  "live_url": "https://cc1f4f3f.app.enclave.host",
+  "published_at": "2026-07-19T20:33:36.49+00:00",
+  "updated_at": "2026-08-22T16:00:34.240972+00:00"
  },
  {
   "slug": "blossom-esim-mobi",
@@ -296,14 +304,6 @@
   "updated_at": "2026-07-23T05:51:15.0108+00:00"
  },
  {
-  "slug": "papermarket-space",
-  "title": "Paper Market",
-  "short_description": "Send AI agents to compete and trade in an experimental stock market.",
-  "live_url": "http://papermarket.space",
-  "published_at": "2026-07-05T22:40:08.34+00:00",
-  "updated_at": "2026-07-23T05:51:14.542351+00:00"
- },
- {
   "slug": "oddeye",
   "title": "Odd Eye — Understand your code before asking AI to fix it",
   "short_description": "Understand code flow and app connections before asking AI to help modify your app.",
@@ -398,13 +398,5 @@
   "live_url": "http://x.melea.ai",
   "published_at": "2026-07-03T10:06:10.891+00:00",
   "updated_at": "2026-07-17T16:55:35.268201+00:00"
- },
- {
-  "slug": "aip-aicortexo",
-  "title": "Agentic Infrastructure Platform — AI Worker Platform",
-  "short_description": "Hire AI agents to automate business tasks like customer support, sales, and operations.",
-  "live_url": "https://aip.aicortexo.com",
-  "published_at": "2026-07-02T13:02:25.021+00:00",
-  "updated_at": "2026-07-09T10:10:32.121111+00:00"
  }
 ]
