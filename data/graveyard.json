@@ -1,5 +1,37 @@
 [
  {
+  "slug": "voicejournalapp-vercel",
+  "title": "Voice Journal — Private, on-device recordings",
+  "short_description": "Record voice journal entries that are stored completely on your device with no login required.",
+  "live_url": "https://voicejournalapp.vercel.app",
+  "published_at": "2026-07-17T22:44:28.703+00:00",
+  "updated_at": "2026-08-25T16:00:33.745732+00:00"
+ },
+ {
+  "slug": "negotia",
+  "title": "Negotia — Practice the raise before you ask",
+  "short_description": "AI coach for practicing salary and freelance negotiations with prep, role-play, and scored feedback.",
+  "live_url": "https://negotia.dev",
+  "published_at": "2026-07-21T01:55:12.676+00:00",
+  "updated_at": "2026-08-25T16:00:33.571551+00:00"
+ },
+ {
+  "slug": "listimo",
+  "title": "Listimo | Smart To-Do Lists with Chat Built In",
+  "short_description": "To-do list app with built-in chat for task organization and accountability.",
+  "live_url": "https://Listimo.io",
+  "published_at": "2026-07-03T01:54:46.101+00:00",
+  "updated_at": "2026-08-25T16:00:33.377067+00:00"
+ },
+ {
+  "slug": "wallofstartup",
+  "title": "WallOfStartup · Feature your startup on the wall, €1 a pixel",
+  "short_description": "Buy pixels on a permanent digital wall to display your startup logo.",
+  "live_url": "https://wallofstartup.com",
+  "published_at": "2026-07-21T01:54:57.063+00:00",
+  "updated_at": "2026-08-25T16:00:33.141292+00:00"
+ },
+ {
   "slug": "chargers-davis-rabbit-barrier-trycloudflare",
   "title": "图片加水印工具",
   "short_description": "Add text and image watermarks to your photos with batch export and real-time preview.",
