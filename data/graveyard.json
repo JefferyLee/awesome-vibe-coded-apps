@@ -1,5 +1,37 @@
 [
  {
+  "slug": "chat-connect-english-lovable",
+  "title": "BolChaal — Speak English Confidently",
+  "short_description": "Free AI English conversation tutor with Hindi support for Indian learners.",
+  "live_url": "https://chat-connect-english.lovable.app",
+  "published_at": "2026-07-18T21:26:14.462+00:00",
+  "updated_at": "2026-08-28T16:00:53.258145+00:00"
+ },
+ {
+  "slug": "kimi3",
+  "title": "Kimi K3 AI Workspace | Kimi 3 Agent, Research, Docs and Code",
+  "short_description": "AI workspace for long-context chat, agent planning, research, docs, code and deployment.",
+  "live_url": "https://kimi3.org/",
+  "published_at": "2026-07-22T20:07:44.092+00:00",
+  "updated_at": "2026-08-28T16:00:52.895604+00:00"
+ },
+ {
+  "slug": "devthropology",
+  "title": "devthropology",
+  "short_description": "Devthropology – Better Insights for GitHub Repos",
+  "live_url": "https://devthropology.com/demo",
+  "published_at": "2026-07-09T19:12:16.644+00:00",
+  "updated_at": "2026-08-28T16:00:52.547739+00:00"
+ },
+ {
+  "slug": "petro-ghostroute-icu",
+  "title": "Petro — Find Fuel Before You're Running on Fumes | Ghostroute",
+  "short_description": "Find verified filling stations near your location, sorted closest-first.",
+  "live_url": "https://petro.ghostroute.icu",
+  "published_at": "2026-07-09T22:18:45.114+00:00",
+  "updated_at": "2026-08-28T16:00:52.17776+00:00"
+ },
+ {
   "slug": "voicejournalapp-vercel",
   "title": "Voice Journal — Private, on-device recordings",
   "short_description": "Record voice journal entries that are stored completely on your device with no login required.",
