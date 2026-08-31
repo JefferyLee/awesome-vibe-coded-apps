@@ -1,5 +1,53 @@
 [
  {
+  "slug": "forgee",
+  "title": "Forge, Autonomous AI Coding Agent",
+  "short_description": "AI agent that generates, builds, runs, and deploys complete projects from text prompts.",
+  "live_url": "https://forgee.xyz",
+  "published_at": "2026-07-10T21:55:25.719+00:00",
+  "updated_at": "2026-08-30T16:00:52.665441+00:00"
+ },
+ {
+  "slug": "growagardencalculator-quest",
+  "title": "Grow a Garden Calculator Pet & Value Tool [August 2025]",
+  "short_description": "Calculate pet values, mutations, and recipes for Roblox's Grow a Garden game.",
+  "live_url": "https://www.growagardencalculator.quest",
+  "published_at": "2026-07-12T12:44:33.251+00:00",
+  "updated_at": "2026-08-30T16:00:52.500351+00:00"
+ },
+ {
+  "slug": "lensgoai",
+  "title": "LensGo AI: AI Video & Image Generator | Text to Anime Art",
+  "short_description": "Generate AI videos and images from text with anime and 3D cartoon art styles.",
+  "live_url": "https://lensgoai.co",
+  "published_at": "2026-07-12T09:27:11.308+00:00",
+  "updated_at": "2026-08-30T16:00:52.336429+00:00"
+ },
+ {
+  "slug": "seed-audio",
+  "title": "Seed Audio - AI Voice Generator, Text to Speech & Voice Cloning",
+  "short_description": "Create AI voices, convert text to speech, and clone existing voices.",
+  "live_url": "https://seed-audio.org",
+  "published_at": "2026-07-12T07:08:21.001+00:00",
+  "updated_at": "2026-08-30T16:00:52.170392+00:00"
+ },
+ {
+  "slug": "soulmatedrawing-live",
+  "title": "Soulmate Drawing – Draw My Soulmate | Soulmate Sketch",
+  "short_description": "Generate personalized AI drawings of your soulmate in seconds.",
+  "live_url": "https://soulmatedrawing.live",
+  "published_at": "2026-07-12T10:30:59.677+00:00",
+  "updated_at": "2026-08-30T16:00:51.996636+00:00"
+ },
+ {
+  "slug": "thegoattracker",
+  "title": "The Goat Tracker",
+  "short_description": "Vote on who's the GOAT in sports and entertainment matchups.",
+  "live_url": "https://thegoattracker.com/",
+  "published_at": "2026-07-10T19:37:25.487+00:00",
+  "updated_at": "2026-08-30T16:00:51.822655+00:00"
+ },
+ {
   "slug": "chat-connect-english-lovable",
   "title": "BolChaal — Speak English Confidently",
   "short_description": "Free AI English conversation tutor with Hindi support for Indian learners.",
