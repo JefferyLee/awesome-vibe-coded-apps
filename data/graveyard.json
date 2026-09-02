@@ -1,5 +1,29 @@
 [
  {
+  "slug": "bookrice-in",
+  "title": "Bookrice — Find the Best Price on Every Book",
+  "short_description": "Compare book prices across multiple retailers to find cheaper options.",
+  "live_url": "https://BookRice.in",
+  "published_at": "2026-07-12T20:10:20.636+00:00",
+  "updated_at": "2026-09-01T16:01:00.099438+00:00"
+ },
+ {
+  "slug": "crowdwis",
+  "title": "CrowdWis",
+  "short_description": "Write questions and get automatically routed to the people best suited to answer them.",
+  "live_url": "https://crowdwis.app/",
+  "published_at": "2026-07-14T01:45:24.286+00:00",
+  "updated_at": "2026-09-01T16:00:59.833963+00:00"
+ },
+ {
+  "slug": "basis-finance",
+  "title": "Basis — Trade on proof",
+  "short_description": "Backtest trading strategies using historical stock market data.",
+  "live_url": "https://basis-finance.com",
+  "published_at": "2026-07-17T05:51:25.566+00:00",
+  "updated_at": "2026-09-01T16:00:59.644251+00:00"
+ },
+ {
   "slug": "forgee",
   "title": "Forge, Autonomous AI Coding Agent",
   "short_description": "AI agent that generates, builds, runs, and deploys complete projects from text prompts.",
