@@ -1,5 +1,21 @@
 [
  {
+  "slug": "stockvale-lovable",
+  "title": "Umlomo Stokvel — Savings Group Tracker",
+  "short_description": "Track stokvel savings group contributions, rotation order, and member payouts in a clear ledger.",
+  "live_url": "https://stockvale.lovable.app",
+  "published_at": "2026-07-14T20:13:15.635+00:00",
+  "updated_at": "2026-09-03T16:01:20.539866+00:00"
+ },
+ {
+  "slug": "aicassai-in",
+  "title": "AICassAI — AI Voice Agent for Your Business",
+  "short_description": "AI voice agent widget you can embed on your website to automate customer interactions.",
+  "live_url": "https://aicassai.in",
+  "published_at": "2026-07-03T22:26:45.997+00:00",
+  "updated_at": "2026-09-03T16:01:20.331303+00:00"
+ },
+ {
   "slug": "bookrice-in",
   "title": "Bookrice — Find the Best Price on Every Book",
   "short_description": "Compare book prices across multiple retailers to find cheaper options.",
