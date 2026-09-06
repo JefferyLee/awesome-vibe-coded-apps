@@ -1,5 +1,13 @@
 [
  {
+  "slug": "alhkmy-store",
+  "title": "HkeeemAI — تسوّق أذكى… وفّر أكثر",
+  "short_description": "AI-powered shopping platform combining deals, price comparisons, real estate and cars.",
+  "live_url": "https://www.alhkmy.store",
+  "published_at": "2026-07-26T00:51:18.206+00:00",
+  "updated_at": "2026-09-05T16:00:38.708045+00:00"
+ },
+ {
   "slug": "stockvale-lovable",
   "title": "Umlomo Stokvel — Savings Group Tracker",
   "short_description": "Track stokvel savings group contributions, rotation order, and member payouts in a clear ledger.",
@@ -54,14 +62,6 @@
   "live_url": "https://www.growagardencalculator.quest",
   "published_at": "2026-07-12T12:44:33.251+00:00",
   "updated_at": "2026-08-30T16:00:52.500351+00:00"
- },
- {
-  "slug": "lensgoai",
-  "title": "LensGo AI: AI Video & Image Generator | Text to Anime Art",
-  "short_description": "Generate AI videos and images from text with anime and 3D cartoon art styles.",
-  "live_url": "https://lensgoai.co",
-  "published_at": "2026-07-12T09:27:11.308+00:00",
-  "updated_at": "2026-08-30T16:00:52.336429+00:00"
  },
  {
   "slug": "seed-audio",
