@@ -1,5 +1,29 @@
 [
  {
+  "slug": "papervoicelab",
+  "title": "PaperVoiceLab — AI Podcast Studio. Turn any topic into a crafted podcast.",
+  "short_description": "Create podcasts from topics with AI research, writing, and studio-quality audio generation.",
+  "live_url": "https://papervoicelab.com",
+  "published_at": "2026-07-08T01:17:21.932+00:00",
+  "updated_at": "2026-09-06T16:00:41.29044+00:00"
+ },
+ {
+  "slug": "tarotqa",
+  "title": "tarotqa",
+  "short_description": "Draw tarot cards and receive AI interpretations for love, career, and fortune guidance.",
+  "live_url": "https://tarotqa.com",
+  "published_at": "2026-07-12T11:11:31.288+00:00",
+  "updated_at": "2026-09-06T16:00:41.10843+00:00"
+ },
+ {
+  "slug": "storexray",
+  "title": "StoreXray — Instant Technical Audit & Intelligence for Shopify Stores",
+  "short_description": "Instantly audit any Shopify store to see its technical setup, apps, and bestsellers.",
+  "live_url": "https://storexray.app",
+  "published_at": "2026-07-26T05:18:45.771+00:00",
+  "updated_at": "2026-09-06T16:00:40.932664+00:00"
+ },
+ {
   "slug": "alhkmy-store",
   "title": "HkeeemAI — تسوّق أذكى… وفّر أكثر",
   "short_description": "AI-powered shopping platform combining deals, price comparisons, real estate and cars.",
