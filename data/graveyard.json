@@ -1,5 +1,13 @@
 [
  {
+  "slug": "mechfind-ghostroute-icu",
+  "title": "MechFind — Find a Vetted Mechanic Near You | Ghostroute",
+  "short_description": "MechFind helps you find verified auto repair shops near your location sorted by distance.",
+  "live_url": "https://mechfind.ghostroute.icu",
+  "published_at": "2026-07-08T21:56:23.776+00:00",
+  "updated_at": "2026-09-07T16:01:16.42595+00:00"
+ },
+ {
   "slug": "papervoicelab",
   "title": "PaperVoiceLab — AI Podcast Studio. Turn any topic into a crafted podcast.",
   "short_description": "Create podcasts from topics with AI research, writing, and studio-quality audio generation.",
