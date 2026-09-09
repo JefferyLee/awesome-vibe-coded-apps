@@ -1,5 +1,13 @@
 [
  {
+  "slug": "vortix-data-vercel",
+  "title": "VortixData — AI Resume Parsing",
+  "short_description": "Drag-and-drop AI resume parser that extracts data, scores resumes, and exports to Excel or JSON.",
+  "live_url": "https://vortix-data.vercel.app",
+  "published_at": "2026-07-27T01:50:32.386+00:00",
+  "updated_at": "2026-09-08T16:00:51.505347+00:00"
+ },
+ {
   "slug": "mechfind-ghostroute-icu",
   "title": "MechFind — Find a Vetted Mechanic Near You | Ghostroute",
   "short_description": "MechFind helps you find verified auto repair shops near your location sorted by distance.",
