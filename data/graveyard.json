@@ -1,5 +1,29 @@
 [
  {
+  "slug": "superprofit-lovable",
+  "title": "Deriv Digit Predictor — Live Market Analysis",
+  "short_description": "Real-time market analysis and digit predictions for Deriv volatility index trading.",
+  "live_url": "https://superprofit.lovable.app",
+  "published_at": "2026-07-27T19:51:58.093+00:00",
+  "updated_at": "2026-09-09T16:01:08.062018+00:00"
+ },
+ {
+  "slug": "lc-tailb96c07-ts",
+  "title": "LANChat",
+  "short_description": "A self-hosted chat room for real-time group messaging over the web.",
+  "live_url": "https://lc.tailb96c07.ts.net",
+  "published_at": "2026-07-28T01:20:06.211+00:00",
+  "updated_at": "2026-09-09T16:01:07.691643+00:00"
+ },
+ {
+  "slug": "nav-chatgpt-plus-top",
+  "title": "AI快讯助手 - 每日AI资讯，实时更新",
+  "short_description": "Browse daily AI news with real-time updates.",
+  "live_url": "https://nav.chatgpt-plus.top",
+  "published_at": "2026-07-12T08:03:43.881+00:00",
+  "updated_at": "2026-09-09T16:01:07.304724+00:00"
+ },
+ {
   "slug": "vortix-data-vercel",
   "title": "VortixData — AI Resume Parsing",
   "short_description": "Drag-and-drop AI resume parser that extracts data, scores resumes, and exports to Excel or JSON.",
