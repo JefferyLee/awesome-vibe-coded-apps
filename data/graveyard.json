@@ -1,5 +1,45 @@
 [
  {
+  "slug": "kindred-ai-pro",
+  "title": "Kindred AI",
+  "short_description": "Personalized AI journaling companion that provides emotional support and guidance.",
+  "live_url": "https://www.kindred-ai-pro.org",
+  "published_at": "2026-07-24T01:49:05.069+00:00",
+  "updated_at": "2026-09-10T16:01:05.950691+00:00"
+ },
+ {
+  "slug": "voice-clone",
+  "title": "Voice Clone – Instantly Clone Your Voice with AI Technology",
+  "short_description": "Create an AI clone of your voice and generate speech from any text.",
+  "live_url": "https://voice-clone.org",
+  "published_at": "2026-07-12T10:31:23.348+00:00",
+  "updated_at": "2026-09-10T16:01:05.588015+00:00"
+ },
+ {
+  "slug": "pixelflow-neuorix",
+  "title": "Pixel Flow",
+  "short_description": "PixelFlow Create Pixel art, Pixel Animations, Music & SFX , 3d Worlds , 3d Voxel painting, Asset Generation and much more!",
+  "live_url": "https://Pixelflow.neuorix.com",
+  "published_at": "2026-07-20T01:16:39.506+00:00",
+  "updated_at": "2026-09-10T16:01:05.207024+00:00"
+ },
+ {
+  "slug": "gptimg2",
+  "title": "免费在线 AI 图像和视频生成器 - GPT Image 2 | Chatimages.net",
+  "short_description": "Create and edit AI images and videos with text prompts.",
+  "live_url": "https://gptimg2.io/zh",
+  "published_at": "2026-07-12T07:54:42.56+00:00",
+  "updated_at": "2026-09-10T16:01:04.820436+00:00"
+ },
+ {
+  "slug": "api-cinchor",
+  "title": "Cinchor — Verify a real agent decision",
+  "short_description": "Verify an AI agent's decisions and test tampering with the verification records.",
+  "live_url": "https://api.cinchor.com/proof/refund",
+  "published_at": "2026-07-23T19:34:47.622+00:00",
+  "updated_at": "2026-09-10T16:01:04.383504+00:00"
+ },
+ {
   "slug": "superprofit-lovable",
   "title": "Deriv Digit Predictor — Live Market Analysis",
   "short_description": "Real-time market analysis and digit predictions for Deriv volatility index trading.",
