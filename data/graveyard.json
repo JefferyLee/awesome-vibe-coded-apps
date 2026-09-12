@@ -1,5 +1,21 @@
 [
  {
+  "slug": "fridgechef-lol",
+  "title": "FridgeChef — Foto del frigo → Ricette",
+  "short_description": "Upload a fridge photo to get personalized AI-generated recipes based on your ingredients.",
+  "live_url": "https://fridgechef.lol/",
+  "published_at": "2026-07-17T04:29:18.097+00:00",
+  "updated_at": "2026-09-11T16:00:54.137041+00:00"
+ },
+ {
+  "slug": "kyleqarbour-dot-github",
+  "title": "Free Online Tools - 20+ Tools No Signup Required",
+  "short_description": "Use 20+ free online tools like invoice generator, QR code maker, and JSON formatter without signup.",
+  "live_url": "https://kyleqarbour-dot.github.io/freetools/",
+  "published_at": "2026-07-29T01:22:35.275+00:00",
+  "updated_at": "2026-09-11T16:00:53.719853+00:00"
+ },
+ {
   "slug": "kindred-ai-pro",
   "title": "Kindred AI",
   "short_description": "Personalized AI journaling companion that provides emotional support and guidance.",
