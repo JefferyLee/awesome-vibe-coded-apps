@@ -1,5 +1,13 @@
 [
  {
+  "slug": "octobot",
+  "title": "OctoBot — GitHub notifications that reach you on Discord",
+  "short_description": "Discord bot that sends GitHub notifications as DMs for reviews, mentions, CI failures, and approvals.",
+  "live_url": "https://octobot.dev/?s=1",
+  "published_at": "2026-07-17T22:29:14.912+00:00",
+  "updated_at": "2026-09-14T16:01:10.612274+00:00"
+ },
+ {
   "slug": "requestharbor",
   "title": "RequestHarbor — One link. Clear status. Proof of work.",
   "short_description": "Secure client portal for sharing files, answers, and approvals with real-time status visibility.",
