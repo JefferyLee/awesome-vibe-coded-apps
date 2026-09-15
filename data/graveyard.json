@@ -1,5 +1,29 @@
 [
  {
+  "slug": "gossip-city-hub",
+  "title": "Gossip",
+  "short_description": "Post local stories and content to compete in city rankings and become your community's top talker.",
+  "live_url": "https://gossip-city-hub.com",
+  "published_at": "2026-07-06T09:53:02.346+00:00",
+  "updated_at": "2026-09-15T16:01:17.965828+00:00"
+ },
+ {
+  "slug": "comment2dm",
+  "title": "Echo — Instagram DM Automation for Creators",
+  "short_description": "Turn Instagram comments into DM conversations automatically.",
+  "live_url": "https://comment2dm.app",
+  "published_at": "2026-07-07T05:35:15.165+00:00",
+  "updated_at": "2026-09-15T16:01:17.589758+00:00"
+ },
+ {
+  "slug": "astrodesk",
+  "title": "Astrodesk",
+  "short_description": "Use AI agents to automate startup operations: social, blogging, SEO, revenue, and security.",
+  "live_url": "https://astrodesk.dev",
+  "published_at": "2026-07-21T20:03:39.354+00:00",
+  "updated_at": "2026-09-15T16:01:17.194228+00:00"
+ },
+ {
   "slug": "octobot",
   "title": "OctoBot — GitHub notifications that reach you on Discord",
   "short_description": "Discord bot that sends GitHub notifications as DMs for reviews, mentions, CI failures, and approvals.",
