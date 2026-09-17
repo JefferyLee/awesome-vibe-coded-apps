@@ -1,5 +1,21 @@
 [
  {
+  "slug": "conventus-pxxl-click",
+  "title": "Conventus — Where Events Come Together",
+  "short_description": "Host and discover events with tickets, guest lists, and door check-in.",
+  "live_url": "https://conventus.pxxl.click",
+  "published_at": "2026-07-22T02:17:19.214+00:00",
+  "updated_at": "2026-09-17T16:02:05.014587+00:00"
+ },
+ {
+  "slug": "sitepulseng-pxxl-click",
+  "title": "SitePulse — Free Website Audit Tool | Performance, SEO & Core Web Vitals",
+  "short_description": "Audits websites for performance scores, SEO issues, and Core Web Vitals.",
+  "live_url": "https://sitepulseng.pxxl.click",
+  "published_at": "2026-07-22T02:16:32.37+00:00",
+  "updated_at": "2026-09-17T16:02:04.639775+00:00"
+ },
+ {
   "slug": "gossip-city-hub",
   "title": "Gossip",
   "short_description": "Post local stories and content to compete in city rankings and become your community's top talker.",
