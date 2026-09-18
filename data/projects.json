@@ -1,5 +1,2389 @@
 [
  {
+  "slug": "minimax-h3max-com",
+  "title": "MiniMax H3 Max AI Video Generator | Create AI Videos",
+  "short_description": "Create AI videos from text or images with MiniMax H3 Max.",
+  "short_description_zh": "使用 MiniMax H3 Max 从文本或图像生成 AI 视频。",
+  "live_url": "https://minimax-h3max.com/",
+  "primary_category": "creative_tools",
+  "tag_slugs": [
+   "image-generation",
+   "video",
+   "automation",
+   "design"
+  ],
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T08:14:14.949+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "stackswap",
+  "title": "StackSwap | Wim remembers your project",
+  "short_description": "Wim remembers what you built, understands what changed, and tells you what to build next—across every AI builder. Discovery is free for every project.",
+  "short_description_zh": null,
+  "live_url": "https://stackswap.ai",
+  "primary_category": "social_community",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T05:31:02.825+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "oyren",
+  "title": "Oyren | Files, notes, projects and agents in one workspace",
+  "short_description": "Keep your files, notes and project tasks together. Read PDFs, ask questions and work with AI agents in one workspace.",
+  "short_description_zh": null,
+  "live_url": "https://oyren.ai",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Next.js",
+   "Tailwind"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T05:30:37.737+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "sendacomictoyourfriends",
+  "title": "Send a Comic to Your Friends",
+  "short_description": "Upload a comic you made or create one in the app. Then sell it or ship it out.",
+  "short_description_zh": null,
+  "live_url": "https://www.sendacomictoyourfriends.com/",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T05:30:13.597+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "lumotutor",
+  "title": "LumoTutor · AI tutor for your lectures and homework",
+  "short_description": "Pause any lecture and ask. Lumo explains that exact moment and draws on the frame you're stuck on.",
+  "short_description_zh": null,
+  "live_url": "https://lumotutor.com",
+  "primary_category": "education",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T05:29:21.668+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "carry-md",
+  "title": "Carry — Save ChatGPT, Claude & Grok chats to Obsidian",
+  "short_description": "Carry saves ChatGPT, Claude & Grok chats as Markdown. For Claude Projects: Instructions, Files, docs, and chats — into your own folder. Local-only.",
+  "short_description_zh": null,
+  "live_url": "https://carry.md",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T05:28:37.497+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "theplayiq",
+  "title": "PlayIQ | AI Football Film Analysis & Scouting Software",
+  "short_description": "PlayIQ is football coach software for American football coaches who need AI film breakdown, opponent scouting reports, scout cards, and playbook workflows.",
+  "short_description_zh": null,
+  "live_url": "https://theplayiq.com",
+  "primary_category": "games_play",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Bootstrap",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T05:27:53.64+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "formulaai",
+  "title": "FormulaAI - AI Excel Table Generator & Editor",
+  "short_description": "上传 Excel，用大白话描述需求，AI 自动生成和修改表格。每一处改动清晰对比，确认后再下载。文件本地解析，处理完即删，不存储用户数据。",
+  "short_description_zh": null,
+  "live_url": "https://formulaai.net",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T05:27:34.958+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "801939cb-pinme",
+  "title": "PokéName Type · 宝可梦名字属性鉴定器",
+  "short_description": "输入名字，让 AI 扫描名字里的宝可梦属性能量。",
+  "short_description_zh": null,
+  "live_url": "https://801939cb.pinme.dev/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T05:27:17.044+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "agentmemoryleaderboard",
+  "title": "Agent Memory Leaderboard",
+  "short_description": "面向开发者、研究团队与商业公司的智能体长期记忆系统公开评测。统一 Add / Search 协议，由平台统一执行 Answer 与 Eval。",
+  "short_description_zh": null,
+  "live_url": "https://agentmemoryleaderboard.ai/",
+  "primary_category": "ai_agents",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T05:26:00.32+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "modelsnap",
+  "title": "AI Fashion Model Generator for Clothing | ModelSnap",
+  "short_description": "AI fashion model generator for clothing sellers. Upload a flat lay, mannequin, or clean product photo and create listing images for Amazon, Etsy, and Shopify.",
+  "short_description_zh": null,
+  "live_url": "https://modelsnap.app/",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T05:25:28.948+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "scry",
+  "title": "Scry — programmatic internet research",
+  "short_description": "Programmatic internet research. Run programs over billions of internet documents, for fun and profit.",
+  "short_description_zh": null,
+  "live_url": "https://scry.io/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "SvelteKit"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T05:25:13.66+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "rustpoint",
+  "title": "大模型价格对比 · RustPoint",
+  "short_description": "按元/百万 tokens 对比主流大模型的输入、输出与缓存命中价格，包含官方定价来源与抓取时间。",
+  "short_description_zh": null,
+  "live_url": "https://rustpoint.com/ai-model-pricing",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T05:24:43.53+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "callirra",
+  "title": "Callirra — AI Image & Video Generator",
+  "short_description": "Generate images and videos with Seedance 2.5, GPT Image 2.5, Kling 3.0, MiniMax H3 and more in one workspace. 18 free credits to start, plans from $9.90/mo.",
+  "short_description_zh": null,
+  "live_url": "https://callirra.com",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": 52,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T05:24:18.812+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "mefast-show",
+  "title": "mefast.show — Show who you are. Make it memorable.",
+  "short_description": "Upload 1–2 photos and a few true details. Get an original vocal song, five music-matched cinematic scenes and one shareable page with your social links.",
+  "short_description_zh": null,
+  "live_url": "https://mefast.show",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T03:01:44.566+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "xn-5t8h-ws",
+  "title": "The Agent Billboard | Where AI agents advertise on-chain",
+  "short_description": "Censorship resistant ad space on Solana for AI agents. One message, fully on-chain, held until an agent values the space more.",
+  "short_description_zh": null,
+  "live_url": "https://xn--5t8h.ws/",
+  "primary_category": "ai_agents",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Netlify",
+   "SvelteKit"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T03:01:26.771+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "versuz",
+  "title": "VERSUZ - Think your agent's better? Prove it.",
+  "short_description": "The arena where the world's AIs fight - ChatGPT, Claude, Gemini, Grok - in live agentic poker. Open beta is live: create your agent, sit down at a real table, free to play. Stablec",
+  "short_description_zh": null,
+  "live_url": "https://versuz.fun/?ref=3Z4UR4",
+  "primary_category": "games_play",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Supabase",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T03:00:27.111+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "ergod",
+  "title": "Ergod - the AI agent your whole group uses",
+  "short_description": "Ask in plain English and Ergod builds it, then hands back the actual file. Everyone who signs in gets their own, free - no card, nothing to install. Use it in Telegram, Discord or ",
+  "short_description_zh": null,
+  "live_url": "https://ergod.dev",
+  "primary_category": "ai_agents",
+  "tag_slugs": null,
+  "detected_stack": [
+   "GitHub Pages",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:59:29.302+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "ai-prompt-workspace-netlify",
+  "title": "AI Prompt Workspace",
+  "short_description": "AI Prompt Workspace helps you create better AI prompts for image, video, coding, marketing, writing, and more.",
+  "short_description_zh": null,
+  "live_url": "https://ai-prompt-workspace.netlify.app/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Netlify",
+   "Tailwind",
+   "Supabase",
+   "Mixpanel"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:59:00.843+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "atlasdevacademy-netlify",
+  "title": "Atlas — The Direction for Success",
+  "short_description": "Atlas is the curated education platform. Start free, upgrade when it matters, and earn a verifiable certificate.",
+  "short_description_zh": null,
+  "live_url": "https://atlasdevacademy.netlify.app",
+  "primary_category": "games_play",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Netlify",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:58:46.447+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "linkstoree-lovable",
+  "title": "LinkStore — Save, summarize & tag any link",
+  "short_description": "LinkStore — paste any link, get it scraped, summarized, and tagged automatically.",
+  "short_description_zh": null,
+  "live_url": "https://linkstoree.lovable.app",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Lovable"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:58:19.709+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "stavewave",
+  "title": "StaveWave — Turn sheet music into editable MusicXML",
+  "short_description": "Upload a score, review uncertain measures beside the original scan, and export editable MusicXML.",
+  "short_description_zh": null,
+  "live_url": "https://stavewave.com",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:58:02.407+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "wealthsimulate",
+  "title": "Wealth Simulate — Simulate the decision. See the outcome. Make the call.",
+  "short_description": "A financial decision simulator that shows you how today's choices could change your future wealth. Buy a house, change jobs, retire early, increase your SIP — see what happens befo",
+  "short_description_zh": null,
+  "live_url": "https://WealthSimulate.com",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:57:42.19+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "bitforge-genxmims",
+  "title": "Bitforge — pixel studio",
+  "short_description": "Bitforge is a fast pixel-art studio for sprites, tiles, and loops. Draw locally, save on this device, or sign in with Google to keep a cloud library.",
+  "short_description_zh": null,
+  "live_url": "https://bitforge.genxmims.org",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Radix UI"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:56:55.822+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "aranduvalidator",
+  "title": "Aran'du — Validador de estilo corporativo em português",
+  "short_description": "Aran'du revisa textos institucionais em português com IA: linguagem simples, parecer jurídico e comunicação institucional. Uso gratuito, sem cadastro.",
+  "short_description_zh": null,
+  "live_url": "https://aranduvalidator.app",
+  "primary_category": "finance_business",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:56:34.327+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "pikaedit",
+  "title": "PikaEdit — Ücretsiz Online PDF, Görsel ve Geliştirici Araçları",
+  "short_description": "PDF birleştir, böl, sıkıştır; görsel dönüştür, boyutlandır; JSON düzenle, Base64 çevir — ücretsiz, gizlilik odaklı, kayıt gerektirmez.",
+  "short_description_zh": null,
+  "live_url": "https://pikaedit.com",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:26:40.881+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "rubrichq",
+  "title": "RubricHQ — Voice AI Testing Platform",
+  "short_description": "RubricHQ helps QA teams catch hallucinations, compliance errors, and latency spikes in voice AI agents before they reach your customers. Run batch simulations, evaluate transcripts",
+  "short_description_zh": null,
+  "live_url": "https://rubrichq.io/",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Next.js",
+   "Google Analytics",
+   "Intercom"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:26:22.072+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "agentext",
+  "title": "AgenText.pro Website",
+  "short_description": "Agentic documentation for the AI age",
+  "short_description_zh": null,
+  "live_url": "https://agentext.pro/agentic-writing",
+  "primary_category": "ai_agents",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:25:10.016+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "zlide",
+  "title": "Zlide — Presentations that live on the web",
+  "short_description": "Zlide turns presentations into creative, browser-native experiences built for the room and shared by link. Join Early Access.",
+  "short_description_zh": null,
+  "live_url": "https://Zlide.io",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:24:43.809+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "getsessiocoach",
+  "title": "Sessio — Practice management software for life coaches",
+  "short_description": "Join the Sessio open beta — practice management for life coaches. Session timer, GROW notes, clients, billing, and ambient display. Free for 6 months.",
+  "short_description_zh": null,
+  "live_url": "https://www.getsessiocoach.com",
+  "primary_category": "finance_business",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:24:16.915+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "billerbear",
+  "title": "BillerBear – Streamline your billing",
+  "short_description": "Create professional invoices, automate reminders, track partial payments, and use your own payment methods without accounting-suite complexity.",
+  "short_description_zh": null,
+  "live_url": "https://billerbear.com/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:23:59.245+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "alienart",
+  "title": "Alien Art Charts — Free Animated Chart Maker (Bar Chart Race & More) — Alien Art",
+  "short_description": "Turn spreadsheets into animated chart videos free. Create bar chart races, line chart races, animated maps, and more from CSV, Excel, or Wikipedia data. Export MP4 — no coding requ",
+  "short_description_zh": null,
+  "live_url": "https://alienart.io",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Express",
+   "Tailwind",
+   "Sentry"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:23:33.798+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "esillio",
+  "title": "Esillio OS — Living Health Intelligence & Continuity Vault",
+  "short_description": "Esillio OS (EsiWell & EsiSystem) offers the easiest ways to stay healthy by transforming scattered medical records, blood labs, and prescriptions into a unified, encrypted living h",
+  "short_description_zh": null,
+  "live_url": "https://esillio.com/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Supabase"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:20:34.103+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "nametheday-lol",
+  "title": "Name the Day — the first name of every day is free",
+  "short_description": "Every day starts blank. The first name is free, $2 takes it over, $1 more steals it, midnight UTC seals it forever. Nobody has named today yet. The first name is free.",
+  "short_description_zh": null,
+  "live_url": "https://nametheday.lol",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:20:07.524+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "ojay-financial-technology-netlify",
+  "title": "Ojay Financial Technologies | AI Financial Intelligence for SMEs",
+  "short_description": "Ojay Financial Technologies helps SMEs turn financial data into clear, actionable business decisions with AI-powered financial intelligence.",
+  "short_description_zh": null,
+  "live_url": "https://ojay-financial-technology.netlify.app/?v=2",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Netlify"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:19:41.959+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "tokenn-live",
+  "title": "WhatsApp Clinic Queue Management System India | TOKENN",
+  "short_description": "Clinic queue management system for India, built on WhatsApp. Patients book tokens with no app to install. ₹1 per patient, no monthly bill, nothing expires.",
+  "short_description_zh": null,
+  "live_url": "https://tokenn.live/",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": null,
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:19:22.413+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "quantedgesyndicate",
+  "title": "Quant Edge Syndicate — Data. Models. Edge.",
+  "short_description": "A forecasting system that scores itself against the market. Not tipsters. Honest math, transparent track record, slow on purpose. 148 audited bets, 51.0% strike, +10.1% ROI.",
+  "short_description_zh": null,
+  "live_url": "https://quantedgesyndicate.com",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Netlify"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:18:43.889+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "demonow",
+  "title": "DemoNow - Live Sales Demo Widget for High-Intent Website Visitors",
+  "short_description": "Add a live demo widget to your website so high-intent visitors can talk to an available rep right now.",
+  "short_description_zh": null,
+  "live_url": "https://www.demonow.io/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:17:58.298+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "subba",
+  "title": "subba: the AI receptionist that books your customers in",
+  "short_description": "subba is the AI receptionist and booking system for local businesses. It answers every enquiry in seconds, books customers into your diary, and takes payment, in your voice. We can",
+  "short_description_zh": null,
+  "live_url": "https://subba.pro",
+  "primary_category": "finance_business",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:17:02.694+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "fomolens",
+  "title": "Unofficial fomo.family API & Free FOMO Wallet Lookup | FomoLens",
+  "short_description": "Find wallets behind FOMO handles or the trader behind a Solana or EVM address for free, then build with the unofficial fomo.family API from FomoLens.",
+  "short_description_zh": null,
+  "live_url": "https://fomolens.app",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:16:21.01+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "actintro",
+  "title": "Actintro",
+  "short_description": "Match the right people. Act on the intro.",
+  "short_description_zh": null,
+  "live_url": "https://actintro.com",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:16:06.368+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "voiceagent-chat",
+  "title": "VoiceAgent — AI phone agent for missed calls",
+  "short_description": "Hosted AI phone system for teams that miss calls — real estate, home services, and SMB front desks. Forward your number, answer after hours, book into the calendar. Enter your numb",
+  "short_description_zh": null,
+  "live_url": "https://www.voiceagent.chat",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:15:39.47+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "signal-nowmine-site",
+  "title": "NowMine.site",
+  "short_description": "A cyberpunk developer signal feed for shipping, learning, and building.",
+  "short_description_zh": null,
+  "live_url": "https://signal.nowmine.site/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:15:17.627+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "safe-node",
+  "title": "Safenode — Zero-Knowledge Password Vault",
+  "short_description": "Safenode — Your zero-knowledge, end-to-end encrypted password vault. Beautiful, secure, open source.",
+  "short_description_zh": null,
+  "live_url": "https://safe-node.app",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:14:18.913+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "papercalm",
+  "title": "PaperCalm — Turn confusing paperwork into one calm next step.",
+  "short_description": "@Joi2James https://t.co/5mSEmAgE53",
+  "short_description_zh": null,
+  "live_url": "https://Papercalm.co",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Netlify"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:13:51.061+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "getqeelo",
+  "title": "Qeelo — personal execution intelligence for your day",
+  "short_description": "Qeelo turns whatever's on your mind into things you actually do — alone, or with people you invite. No setup, no guilt. Your day, sorted.",
+  "short_description_zh": null,
+  "live_url": "https://getqeelo.com",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:13:27.363+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "brick-lingo-bear",
+  "title": "Text & Photo to 3D Brick Models · Lingo Brick",
+  "short_description": "Create a 3D brick design from text or a photo. Explore the interactive preview, step-by-step PDF instructions and parts list.",
+  "short_description_zh": null,
+  "live_url": "https://brick.lingo-bear.com/",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 1,
+  "published_at": "2026-09-18T02:12:20.35+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "thetide",
+  "title": "The Tide — Small Acts of Kindness. Endless Waves.",
+  "short_description": "A global community of people doing small good things. Share an act of kindness, send a Wave, and watch how far it travels.",
+  "short_description_zh": null,
+  "live_url": "https://thetide.xyz",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Render",
+   "Next.js",
+   "Supabase"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:11:58.854+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "braom",
+  "title": "Braom — Active Recall and Memorization Practice",
+  "short_description": "Turn notes into active recall practice. Memorize by speaking, track recall, and review flashcards when they matter most.",
+  "short_description_zh": null,
+  "live_url": "https://Braom.com",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T02:11:08.001+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "bilyoapp",
+  "title": "Online Quotation Maker for Service Businesses | Bilyo",
+  "short_description": "Create professional quotations online and send them as a link. Clients accept or decline on their phone in one tap — no app or account. Free during beta.",
+  "short_description_zh": null,
+  "live_url": "https://bilyoapp.com",
+  "primary_category": "finance_business",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:36:30.297+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "zonded",
+  "title": "ZONDED — Keep only the insights that matter",
+  "short_description": "Stop scrolling feeds. Get what actually matters from the accounts you already follow — in one place, with a line on why it matters to you.",
+  "short_description_zh": null,
+  "live_url": "https://zonded.com",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:36:08.024+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "index-aletheia-core",
+  "title": "Agent Security Index",
+  "short_description": "Evidence-scoped research on AI agent attack classes, incidents, mitigations, and documented product coverage. Research and comparison, not certification.",
+  "short_description_zh": null,
+  "live_url": "https://Index.aletheia-core.com",
+  "primary_category": "ai_agents",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 1,
+  "published_at": "2026-09-18T01:34:18.694+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "junkerclub",
+  "title": "JunkerClub — Junk Removal Quotes from Vetted Local Pros",
+  "short_description": "Snap a photo, get free junk removal quotes from vetted local pros, and book in minutes. You pay your pro directly — no platform markup.",
+  "short_description_zh": null,
+  "live_url": "https://junkerclub.com",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "WordPress",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:33:48.188+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "spyro",
+  "title": "Spyro AI — Rank on Google. Get Cited in AI Search",
+  "short_description": "Spyro AI tracks your brand across Google, ChatGPT, Claude, Gemini & Perplexity, finds visibility gaps, and publishes content that closes them.",
+  "short_description_zh": null,
+  "live_url": "https://www.spyro.app",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:33:24.175+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "trimlnk",
+  "title": "URL Shortening & Link Tracking — TrimLnk",
+  "short_description": "Shorten links, track every click, and share smarter with TrimLnk — the simple and fast link management tool for marketers, creators, and businesses.",
+  "short_description_zh": null,
+  "live_url": "https://trimlnk.com",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Google Analytics",
+   "Stripe"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:33:01.344+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "buildtraction",
+  "title": "BuildTraction | Know what to do next to grow your product",
+  "short_description": "BuildTraction studies your product, audience, and results to recommend one focused growth move at a time.",
+  "short_description_zh": null,
+  "live_url": "https://BuildTraction.pro",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js",
+   "Clerk"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:32:29.412+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "yoursitesux-lol",
+  "title": "your site sux? one honest word for any website",
+  "short_description": "Paste a site. A real browser looks, and you get one honest word: sux, or does not sux. Plus the thing to fix first. Measured by the Brain Club Site X-ray.",
+  "short_description_zh": null,
+  "live_url": "https://YourSiteSux.lol",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": null,
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:31:42.292+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "dawnpulse",
+  "title": "DawnPulse — Plain-English Marketing Analytics & Daily Reporting",
+  "short_description": "Daily marketing analytics briefing in plain English: what changed, why, and what to do — plus 7-day projections, blended ROAS, and a budget what-if simulator.",
+  "short_description_zh": null,
+  "live_url": "https://dawnpulse.org",
+  "primary_category": "productivity",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:31:15.939+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "stockmatrix",
+  "title": "StockMatrix.AI — AI-Powered Stock Terminal",
+  "short_description": "Compare Wall Street analysts, prediction markets, community wisdom, and AI predictions — all in one terminal. Find your edge.",
+  "short_description_zh": null,
+  "live_url": "https://StockMatrix.ai",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:30:56.746+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "lowerated",
+  "title": "All-in-one Filmmaking Platform | Lowerated",
+  "short_description": "Lowerated is an All-in-one filmmaking platform. Our tools inculde ScriptWriter, IdeaGenerator, LM6 and more for smarter story ideation, scripting, planning and more.",
+  "short_description_zh": null,
+  "live_url": "https://lowerated.com",
+  "primary_category": "social_community",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Jupyter Notebook",
+   "Python",
+   "Dockerfile"
+  ],
+  "is_featured": false,
+  "github_stars": 8,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:30:33.673+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "cairenai",
+  "title": "Cairenai — DSA Reasoning Coach",
+  "short_description": "Cairenai is a reasoning-first DSA interview prep coach — think through problems, don't just memorize solutions.",
+  "short_description_zh": null,
+  "live_url": "https://Cairenai.com",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:30:00.452+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "hivemind-inc",
+  "title": "Hivemind: Portfolio Intelligence for the Individual Investor",
+  "short_description": "Hivemind maps the hidden relationships between your holdings and the world's financial events. See the connections Wall Street sees.",
+  "short_description_zh": null,
+  "live_url": "https://hivemind.inc/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Next.js",
+   "Google Analytics",
+   "Clerk"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:29:16.986+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "eventsend",
+  "title": "EventSend - Event tracking and routing for product teams",
+  "short_description": "EventSend delivers your app's events to Slack, Discord, Telegram, push and webhooks from one HTTP POST, with retries and live delivery tracking built in.",
+  "short_description_zh": null,
+  "live_url": "https://eventsend.io",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Fly.io"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:28:39.788+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "dassi",
+  "title": "dassi — Teach It Once. It Works For You.",
+  "short_description": "Teach dassi how you do a job once and it keeps doing it — on your schedule, in the web apps you're already signed into, with the approvals you set.",
+  "short_description_zh": null,
+  "live_url": "https://dassi.ai",
+  "primary_category": "productivity",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:28:05.168+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "voobin",
+  "title": "Voobin | AI Films & AI Movies – Watch and Discover AI Cinema",
+  "short_description": "Discover AI films and series on Voobin. Watch AI-generated original series, explore original stories, and support creators bringing their next episodes to life.",
+  "short_description_zh": null,
+  "live_url": "https://voobin.com",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:27:41.812+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "tokenprobe",
+  "title": "TokenProbe",
+  "short_description": "@Kiriakoscls4 https://t.co/l18kjnTeaL Free to use token scanner for RH Chain https://t.co/RSos2sFXFP",
+  "short_description_zh": null,
+  "live_url": "https://tokenprobe.app",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Render"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:27:27.691+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "thegoatdebate",
+  "title": "The GOAT Debate",
+  "short_description": "Football's permanent argument, settled with money. $1 = 1 vote.",
+  "short_description_zh": null,
+  "live_url": "https://thegoatdebate.io",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 1,
+  "published_at": "2026-09-18T01:27:03.823+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "sidereo-es",
+  "title": "Sidéreo — Tu marca en órbita desde 5 €",
+  "short_description": "Mapa orbital donde las marcas compran su sitio. Cuanto más pagas, más cerca del centro. Cualquiera puede quitártelo pagando más. Desde 5 €.",
+  "short_description_zh": null,
+  "live_url": "https://sidereo.es/?v=2",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Next.js",
+   "Supabase",
+   "Stripe"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 1,
+  "published_at": "2026-09-18T01:25:30.031+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "joinrefer",
+  "title": "ReferMe — Stop Applying. Start Getting Referred.",
+  "short_description": "ReferMe is an AI job-search agent that finds jobs, applies for you, and gets you referred by people inside those companies. Referred candidates are far more likely to land an inter",
+  "short_description_zh": null,
+  "live_url": "https://joinrefer.me/",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Next.js",
+   "Radix UI"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:25:03.257+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "home-getqeelo",
+  "title": "Qeelo — your day, sorted",
+  "short_description": "Dump whatever's on your mind and Qeelo turns it into a realistic plan for your day. No setup, no guilt. Free for 14 days.",
+  "short_description_zh": null,
+  "live_url": "https://home.getqeelo.com/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Radix UI"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:24:28.647+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "lodol",
+  "title": "Lodol | Workflow Automation",
+  "short_description": "Build an automation in minutes and run it for free. Lodol lets you connect the apps you already use and automate work visually — no code required.",
+  "short_description_zh": null,
+  "live_url": "https://lodol.com",
+  "primary_category": "productivity",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Astro",
+   "Supabase"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:23:45.934+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "inversorpro-es",
+  "title": "Simulador de Inversiones gratis | Calculadora de Interés Compuesto y Letras del ",
+  "short_description": "Simulador de inversiones gratis: calcula el interés compuesto, simula tu independencia financiera FIRE, Letras del Tesoro, inflación y cripto. Sin registro ni publicidad.",
+  "short_description_zh": null,
+  "live_url": "https://inversorpro.es",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Netlify",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:23:23.662+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "saasrivals",
+  "title": "SaaS Rivals ⚔️ | Pay-to-Rank Competitor Board",
+  "short_description": "Dethrone the giants. Challenger startups bid live to claim the #1 Alternative spot against 116+ tech behemoths on saasrivals.com.",
+  "short_description_zh": null,
+  "live_url": "https://saasrivals.com",
+  "primary_category": "finance_business",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js",
+   "Supabase",
+   "Mixpanel"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:22:55.938+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "puspa-retro-cafe-vercel",
+  "title": "PUSPA | Retro Handcrafted Cafe & Specialty Roasters (Est. 1984)",
+  "short_description": "An analog sanctuary for slow single-origin pour-overs, hand-crushed cardamom cortados, fresh cinnamon brioche, and crackling vinyl jazz. Founded in 1984 in Ghorahi, Dang.",
+  "short_description_zh": null,
+  "live_url": "https://puspa-retro-cafe.vercel.app/",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:21:09.175+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "startzig",
+  "title": "StartZig - Build Your Startup",
+  "short_description": "A training platform for growing raw ideas into startups, and inventors into founders.",
+  "short_description_zh": null,
+  "live_url": "https://www.startzig.com/",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:20:46.797+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "solofy",
+  "title": "Solofy: Post every day, stay in the conversation",
+  "short_description": "Solofy writes X posts in your voice, fills your queue and publishes on a schedule you set once. No hashtags, no emojis, no “excited to share.” Built for solopreneurs building in pu",
+  "short_description_zh": null,
+  "live_url": "https://solofy.co/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:20:28.009+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "pennysia",
+  "title": "Pennysia — The unified interface for the world's liquidity.",
+  "short_description": "All crypto exchanges gathered into one interface. Get the best trades now.",
+  "short_description_zh": null,
+  "live_url": "https://pennysia.com/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:19:49.472+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "usebraindump-vercel",
+  "title": "Brain Dump - Capture Your Ideas Instantly",
+  "short_description": "A minimal, instant capture tool for your ideas, tasks, and notes. Type, hit enter, and it's saved across all your devices. Brain Dump helps you organize thoughts, manage tasks, and",
+  "short_description_zh": null,
+  "live_url": "https://usebraindump.vercel.app",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js",
+   "Radix UI"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:19:09.825+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "sparkfeed",
+  "title": "SparkFeed | Follow any website without the noise",
+  "short_description": "Turn any website into a live feed, organize sources into folders, and read or share updates without algorithmic noise.",
+  "short_description_zh": null,
+  "live_url": "https://sparkfeed.dev",
+  "primary_category": "social_community",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Astro",
+   "Radix UI"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:18:48.882+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "striv-id",
+  "title": "STRIV CRM — Autonomous AI Sales CRM & Pipeline Engine",
+  "short_description": "Autonomous B2B CRM engineered for fast-moving sales teams. Close stalled pipeline, enrich prospect accounts, and automate follow-ups with AI agents.",
+  "short_description_zh": null,
+  "live_url": "https://striv.id",
+  "primary_category": "ai_agents",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Google Analytics",
+   "Lemon Squeezy"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:18:20.509+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "kiarashfa-github",
+  "title": "Perceptense — Have a Sense About Everything",
+  "short_description": "A free, self-directed course of 50 interactive modules for building real intuition about numbers, science, culture and the systems that shape daily life.",
+  "short_description_zh": null,
+  "live_url": "https://kiarashfa.github.io/perceptense/",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "GitHub Pages",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T01:17:59.59+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "juusto",
+  "title": "Juusto - Meal planner and digital recipe book",
+  "short_description": "Free meal planner, digital recipe book and shared grocery list in one app. Plan your week, save recipes from a link, shop from a list that writes itself.",
+  "short_description_zh": null,
+  "live_url": "https://juusto.app",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:50:45.315+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "prognosticz",
+  "title": "Prognosticz — Private-Market Intelligence Terminal",
+  "short_description": "Prognosticz is a private-market intelligence terminal for investors, lenders, and corporate strategists. Real-time funding signals, M&A tracking, financial filings, and AI-powered ",
+  "short_description_zh": null,
+  "live_url": "https://prognosticz.com/",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Express",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:50:29.953+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "letswatch",
+  "title": "Let's Watch: Movie Picker for Tonight, Solo or With Friends",
+  "short_description": "Can’t decide what to watch? Answer ten quick questions, get twenty real films with trailers and where to stream. Solo or with friends. Free, no signup.",
+  "short_description_zh": null,
+  "live_url": "https://letswatch.xyz",
+  "primary_category": "games_play",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Express"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:50:01.641+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "omni-7y2c-vercel",
+  "title": "Omni",
+  "short_description": "An AI powered app designed to assist in common tasks",
+  "short_description_zh": null,
+  "live_url": "https://omni-7y2c.vercel.app/",
+  "primary_category": "games_play",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:49:30.452+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "portreeve",
+  "title": "Portreeve — Stop trial abuse and AI credit farming",
+  "short_description": "Portreeve is a screening step in front of your signup, trial, and checkout. It catches bot signups farming your free tier, AI-driven waves mining your API credits, and card testers",
+  "short_description_zh": null,
+  "live_url": "https://portreeve.com",
+  "primary_category": "games_play",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Next.js",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:48:21.498+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "sharemydemo",
+  "title": "分享本地网站、API 与 HTML 文件 | MyShare",
+  "short_description": "把电脑或局域网里的网站、后端 API 和 HTML 文件变成分享链接，适合作品试用、开发测试、客户评审和教学。每次免费分享 60 分钟，无需注册；用临时密码控制访问，分享时保持电脑在线。",
+  "short_description_zh": null,
+  "live_url": "https://sharemydemo.com/",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:47:58.437+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "turing-jail-vercel",
+  "title": "Turing Jail // TypeSafe Jev AI 裁决终端",
+  "short_description": "Turing Jail 是一场由 TypeSafe Jev System One 裁决的 AI 审讯游戏。写下你的陈述，突破三道机械闸门，争取释放。",
+  "short_description_zh": null,
+  "live_url": "https://turing-jail.vercel.app",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "TypeScript",
+   "HTML",
+   "CSS"
+  ],
+  "is_featured": false,
+  "github_stars": 0,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:47:27.817+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "tikviewer",
+  "title": "Anonymous TikTok Story Viewer — Watch and Save Stories",
+  "short_description": "Free anonymous TikTok story viewer. Enter a username to watch stories anonymously and save them before the 24-hour window closes. No login, no app, nothing to install.",
+  "short_description_zh": null,
+  "live_url": "https://tikviewer.org/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:47:07.3+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "a-sweet-life-service-ai-win",
+  "title": "失落三十年 - 以日为鉴题材的分支剧情游戏",
+  "short_description": "基于1989—2024日本泡沫破裂与失落三十年真实历史大潮的交互式命运推演游戏。深度还原泡沫经济顶峰到失去的三十年，体验普通人的职场、资产、婚姻与时代抉择。潮涨不借钱，潮退不跳船。",
+  "short_description_zh": null,
+  "live_url": "https://a-sweet-life.service-ai.win/",
+  "primary_category": "social_community",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:46:14.86+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "joy-streak-web-lovable",
+  "title": "Momentum — Smart Habit & Goal Tracker",
+  "short_description": "Build better habits with streaks, heatmaps, gentle reminders and celebrations when you hit milestones.",
+  "short_description_zh": null,
+  "live_url": "https://joy-streak-web.lovable.app",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Lovable"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:45:54.697+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "pizza-hut-inspired-web-lovable",
+  "title": "Grójecka 48 — Pizza na warszawskiej Ochocie",
+  "short_description": "Zamów pizzę, skrzydełka i makarony z odbiorem lub dostawą na Ochocie.",
+  "short_description_zh": null,
+  "live_url": "https://pizza-hut-inspired-web.lovable.app",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Lovable"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:45:33.43+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "easiest",
+  "title": "easiest",
+  "short_description": "Vim-like, hyper-efficient, LLM power tool - 20-80k tokens not 350k+",
+  "short_description_zh": null,
+  "live_url": "https://easiest.ai/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": null,
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:44:22.769+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "portion-perfection-project-lovable",
+  "title": "Chip Count SA — Best value chips near you",
+  "short_description": "See the freshest community uploads, best value portions near you, and live shrinkflation alerts across South Africa.",
+  "short_description_zh": null,
+  "live_url": "https://portion-perfection-project.lovable.app",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Lovable"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:12:11.47+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "city-coffee-guide-lovable",
+  "title": "Brewfinder — Discover and rate coffee shops by city",
+  "short_description": "Browse cities, compare coffee shops by rating, read reviews and add the places you love.",
+  "short_description_zh": null,
+  "live_url": "https://city-coffee-guide.lovable.app",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Lovable"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:11:52.079+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "face-id-finder-lovable",
+  "title": "XAUUSD Signal Bot — Gold MA Cross + RSI",
+  "short_description": "Live gold (XAUUSD) trading signals from 9/21 moving average crossovers filtered by RSI, with price chart and recent signal history.",
+  "short_description_zh": null,
+  "live_url": "https://face-id-finder.lovable.app",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Lovable"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 1,
+  "published_at": "2026-09-18T00:10:19.662+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "jobtraill-lovable",
+  "title": "Jobtrail — resume-matched job search",
+  "short_description": "Upload your resumes, find matching jobs across LinkedIn and other job sites, and track every application.",
+  "short_description_zh": null,
+  "live_url": "https://jobtraill.lovable.app",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Lovable"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:10:00.102+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "10cbse",
+  "title": "CBSE Class 10 Prep 2026-27: Notes, Tests, Doubts | 10CBSE",
+  "short_description": "Free CBSE Class 10 preparation for 2026-27 — chapter-wise notes, previous year papers, mock tests, doubt solver & predicted score calculator. Start scoring 95+ today.",
+  "short_description_zh": null,
+  "live_url": "https://10cbse.com",
+  "primary_category": "productivity",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:09:45.722+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "customerflows",
+  "title": "CustomerFlows — The Lead-to-Revenue Platform for Businesses That Run on Leads",
+  "short_description": "A modern CRM with AI at its core. Track every visit, capture every conversation in one provider-independent inbox, manage your pipeline, and tie every marketing dollar to revenue. ",
+  "short_description_zh": null,
+  "live_url": "https://customerflows.com",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Next.js",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:08:37.215+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "dynablocks",
+  "title": "DynaBlocks (Beta)",
+  "short_description": "DynaBlocks - Beta",
+  "short_description_zh": null,
+  "live_url": "https://dynablocks.com",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": null,
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:06:58.52+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "hot-tech",
+  "title": "House of Tech Image Studio — The Ultimate Camera Comparison Toolkit | House of T",
+  "short_description": "Stop manually editing camera comparisons. Use AI to instantly match scenes, extract EXIF data, and export 4K grids for up to 6 flagships. Free to start.",
+  "short_description_zh": null,
+  "live_url": "https://hot.tech/studio",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js",
+   "Supabase"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 1,
+  "published_at": "2026-09-18T00:06:26.779+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "joinspelt",
+  "title": "Create your company | Spelt",
+  "short_description": "Bring an idea. Your AI researches the market, builds a real product, turns on payments, and chases your first customer with you. Free to start.",
+  "short_description_zh": null,
+  "live_url": "https://joinspelt.com",
+  "primary_category": "finance_business",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js",
+   "Clerk"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:05:13.392+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "dumpt-online",
+  "title": "Type your day, get a schedule back | Dumpt",
+  "short_description": "Dumpt turns your messy brain dump into a scheduled day. Type everything in plain English, get a finished calendar back. One-time payment.",
+  "short_description_zh": null,
+  "live_url": "https://dumpt.online",
+  "primary_category": "finance_business",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:04:29.08+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "jyxora-bm3m-vercel",
+  "title": "JYXORA — Custom Projects Marketplace",
+  "short_description": "Building @JYXORA | Digital Marketplace for Pre-built & White-Label Web Apps | Helping founders launch fast 🚀 Just launched the platform! Check it out here: https://t.co/clZ6yEjDFi ",
+  "short_description_zh": null,
+  "live_url": "https://jyxora-bm3m.vercel.app",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:04:03.048+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "autoyou",
+  "title": "Try AutoYou - Interactive demo and network check",
+  "short_description": "Explore the real AutoYou admin interface in your browser with sample data, and check what your network can reach before installing your own server.",
+  "short_description_zh": null,
+  "live_url": "https://www.autoyou.me/try/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:02:20.598+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "saltapp",
+  "title": "Salt - Encrypted AI Crypto Chat",
+  "short_description": "Salt is an end-to-end encrypted chat app that lets you send crypto right in the conversation, with people or AI agents.",
+  "short_description_zh": null,
+  "live_url": "https://saltapp.ai/",
+  "primary_category": "social_community",
+  "tag_slugs": null,
+  "detected_stack": null,
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:01:30.261+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "tickerlayer",
+  "title": "OpenAI (OPENAIUSDT) Perpetual Price & Data API | TickerLayer",
+  "short_description": "OpenAI perpetual (OPENAIUSDT) price, 15-minute delayed chart, day and 52-week range, and the API calls that return OPENAIUSDT in real time.",
+  "short_description_zh": null,
+  "live_url": "https://tickerlayer.com/symbols/openaiusdt-perp",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:00:40.454+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "thingstohave",
+  "title": "A calm wishlist app for you and your friends — Things To Have",
+  "short_description": "Free wishlist app — create gift lists and wishlists, share them with a link, and follow friends. No app install needed.",
+  "short_description_zh": null,
+  "live_url": "https://thingstohave.app/",
+  "primary_category": "social_community",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-18T00:00:13.719+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "goofy-face-lab-lovable",
+  "title": "Warp Face — Funny Face Distortion Photo Editor",
+  "short_description": "Upload a photo or use your webcam, then bulge, pinch, swirl and smudge faces, add goofy props and download your silly creation.",
+  "short_description_zh": null,
+  "live_url": "https://goofy-face-lab.lovable.app",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Lovable"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:59:53.285+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "crazygames",
+  "title": "🎮 Squba Bash 🕹️ Play on CrazyGames",
+  "short_description": "SQUBA BASH is a colorful arcade game where one button controls the chaos. Hold to fly, release to dive, and smash your way through 12 vibrant worlds.",
+  "short_description_zh": null,
+  "live_url": "https://www.crazygames.com/game/squba-bash",
+  "primary_category": "games_play",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 1,
+  "published_at": "2026-09-17T23:59:36.696+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "aakarshsharma",
+  "title": "Aakarsh Sharma — Full Stack Developer",
+  "short_description": "Full-stack developer · Claude Certified Architect · automation. A live console portfolio.",
+  "short_description_zh": null,
+  "live_url": "https://aakarshsharma.dev",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 1,
+  "published_at": "2026-09-17T23:59:20.247+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "speechcoach-practice-vercel",
+  "title": "Speech Coach",
+  "short_description": "Speech Coach AI coaching for becoming a better speaker.",
+  "short_description_zh": null,
+  "live_url": "https://speechcoach-practice.vercel.app/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Supabase"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:58:06.836+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "caramellab",
+  "title": "카라멜 랩 — 모든 분야의 연구자를 위한 AI 연구 워크스페이스 | 논문 분석 · 아이디에이션 · Figure · AI 첨삭 · 모의 피어리뷰",
+  "short_description": "주제 찾기부터 투고 전 심사까지, 연구의 전 과정을 한곳에서. 논문 탐색·분석, 연구 아이디에이션, 보고서·논문 작성, Figure 자동 생성(분자 2D/3D · 전기회로 · 차트 · 공정도), AI 첨삭, 모의 피어리뷰, 연구 메모리까지 — 모든 분야의 연구자를 위한 AI 연구 워크스페이스.",
+  "short_description_zh": null,
+  "live_url": "https://www.caramellab.org/",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:57:48.206+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "spotlightreading",
+  "title": "聚光阅读 Spotlight Reading · 只照亮你正在读的那一行",
+  "short_description": "免费的专注阅读工具。一读就走神、读到哪一行找不着、长文看不进去、买了没读完的电子书 —— 拖动光带，一次只读一行。网页 / 论文 / 长报告均可使用，无需安装。",
+  "short_description_zh": null,
+  "live_url": "https://spotlightreading.com",
+  "primary_category": "other",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:56:58.894+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "getemerald",
+  "title": "Emerald — Local AI Image Upscaler",
+  "short_description": "Emerald upscales images entirely on your own GPU — a private, no-upload alternative to Topaz. Inspect EXIF, choose exact dimensions, compare results, and save full resolution, all ",
+  "short_description_zh": null,
+  "live_url": "https://getemerald.co/",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": null,
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:56:40.64+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "skillcrossroads",
+  "title": "Skill Crossroads — Know before you ship.",
+  "short_description": "Skill Crossroads gives your Claude Code skills, agents, slash commands, MCP configs, and plugins an evidence-based quality grade — so you know whether to ship, fix, or rethink befo",
+  "short_description_zh": null,
+  "live_url": "https://skillcrossroads.com",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "TypeScript",
+   "JavaScript",
+   "CSS",
+   "PowerShell"
+  ],
+  "is_featured": false,
+  "github_stars": 1,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:56:24.639+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "ai-crawler-honeypot-697299601273-europe-west2-run",
+  "title": "AI Crawler Honeypot",
+  "short_description": "A public log of AI agent requests to this domain. Real client IPs are never stored. Public log at /log/today.",
+  "short_description_zh": null,
+  "live_url": "https://ai-crawler-honeypot-697299601273.europe-west2.run.app/",
+  "primary_category": "ai_agents",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Express"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:55:38.741+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "aiviral",
+  "title": "Ai Viral — your app promotes itself, every single day",
+  "short_description": "You shipped it. Now set a daily budget and let AI post, submit and advertise your app every day, with every action visible live in your dashboard.",
+  "short_description_zh": null,
+  "live_url": "https://aiviral.com",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:22:52.05+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "event-planning-system-six-vercel",
+  "title": "EventEase",
+  "short_description": "🎉 Just shipped EventEase — book event venues & caterers in one place instead of juggling calls, DMs, and spreadsheets. Built with React, TypeScript, Supabase + Vercel. Still early,",
+  "short_description_zh": null,
+  "live_url": "https://event-planning-system-six.vercel.app/",
+  "primary_category": "social_community",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:22:22.977+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "mygenrank-in",
+  "title": "MyGenRank — See how AI sees your brand",
+  "short_description": "Measure whether ChatGPT, Claude, Gemini, Grok, Perplexity, and Google AI Overviews mention, rank, and cite your brand — then fix the gaps. Free scan, no signup.",
+  "short_description_zh": null,
+  "live_url": "https://mygenrank.in",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Next.js",
+   "Clerk"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:21:47.703+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "ax-check",
+  "title": "ax-check",
+  "short_description": "Ax-Check.com – Can Agents Use Your Product?",
+  "short_description_zh": null,
+  "live_url": "https://www.ax-check.com/",
+  "primary_category": "ai_agents",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel",
+   "Next.js",
+   "Supabase",
+   "PostHog"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:21:22.845+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "radio-plasma",
+  "title": "Radio | Plasma AI",
+  "short_description": "Radio – a shared workspace for your agents and teammates",
+  "short_description_zh": null,
+  "live_url": "https://radio.plasma.ai/",
+  "primary_category": "social_community",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:20:54.276+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "gotincan",
+  "title": "Tincan. A little space for your agents to talk",
+  "short_description": "A little space for your agents to talk. Shared channels, private memory vaults, and easy connections.",
+  "short_description_zh": null,
+  "live_url": "https://gotincan.com/",
+  "primary_category": "games_play",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:20:18.484+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "stackorama-vercel",
+  "title": "Emoji Stack-o-Rama",
+  "short_description": "How many emoji can you stack on a wobbling raft? Heavy ones sink the deck. Bouncy ones bounce. Magnets pull each other built with Claude code Looping system Free, no install, plays",
+  "short_description_zh": null,
+  "live_url": "https://stackorama.vercel.app",
+  "primary_category": "games_play",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 1,
+  "published_at": "2026-09-17T23:19:35.263+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "imagetranslateai",
+  "title": "Image Translate AI - Instant Image Translate for 200+ Languages",
+  "short_description": "Translate text in images instantly with Image Translate AI. Support 200+ languages, preserve original layout and design. Perfect for e-commerce, documents, menus, comics and more. ",
+  "short_description_zh": null,
+  "live_url": "https://imagetranslateai.org/",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Next.js",
+   "Google Analytics"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:18:57.999+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "tallybite",
+  "title": "Tallybite — AI Calorie & Macro Tracker for Telegram",
+  "short_description": "Log meals, calories, macros, workouts and weight by text, voice or photo. Use Tallybite on the web or in Telegram with 15 free AI requests.",
+  "short_description_zh": null,
+  "live_url": "https://tallybite.app",
+  "primary_category": "creative_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:18:38.895+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "task-tracker-frontend-eta-vercel",
+  "title": "Task Tracker",
+  "short_description": "Just shipped a major update to TaskTracker 🚀 New UI + an AI assistant that schedules your tasks and summarizes your day for you. Try it out 👇 https://t.co/leTk9qDTIB #buildinpublic",
+  "short_description_zh": null,
+  "live_url": "https://task-tracker-frontend-eta.vercel.app/",
+  "primary_category": "productivity",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:18:04.353+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "retro-web-terminal-vercel",
+  "title": "Retro Web Terminal",
+  "short_description": "An embeddable React terminal with real-time CRT effects. Explore phosphor glow, scanlines, and a browser shell.",
+  "short_description_zh": null,
+  "live_url": "https://retro-web-terminal.vercel.app",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 1,
+  "published_at": "2026-09-17T23:17:29.631+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "share-ai-passage",
+  "title": "Passage — Your AI chats, worth sharing",
+  "short_description": "Turn public ChatGPT, Codex, and Claude conversations into links with editable highlights, a share card, and the saved conversation. No account needed.",
+  "short_description_zh": null,
+  "live_url": "https://www.share-ai-passage.com",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "TypeScript",
+   "CSS",
+   "JavaScript",
+   "Dockerfile"
+  ],
+  "is_featured": false,
+  "github_stars": 0,
+  "recent_try_count": 1,
+  "published_at": "2026-09-17T23:17:06.719+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "cultural-alignment",
+  "title": "Cultural Alignment",
+  "short_description": "Exploring real AI risks through the lens of pop culture",
+  "short_description_zh": null,
+  "live_url": "https://cultural-alignment.com",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "TypeScript",
+   "CSS",
+   "JavaScript"
+  ],
+  "is_featured": false,
+  "github_stars": 1,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:16:46.057+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "mcpjam",
+  "title": "MCPJam — MCP server testing, debugging & evals",
+  "short_description": "Test, debug, and evaluate MCP servers with MCPJam. OAuth flow testing, LLM-powered evals, and CI/CD integration — open-source and runs locally.",
+  "short_description_zh": null,
+  "live_url": "https://www.mcpjam.com",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "TypeScript",
+   "JavaScript",
+   "CSS",
+   "HTML",
+   "MDX"
+  ],
+  "is_featured": false,
+  "github_stars": 2214,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:16:03.766+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "unga81-orosei",
+  "title": "UNGA81 — Who Speaks When",
+  "short_description": "🇺🇳UNGA81 dashboard. \"Who Speaks When.\" My latest side project, built with a combination of Claude Fable 5.1, Claude Code, Codex, and Grok Bot. ➡️ https://t.co/Ngm3KCfbOD ⬅️ WHO SPE",
+  "short_description_zh": null,
+  "live_url": "https://unga81.orosei.ai",
+  "primary_category": "developer_tools",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Netlify"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:15:38.237+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "kanary-to",
+  "title": "AI Class — Kanary",
+  "short_description": "Discover your AI class from 30 days of Claude Code and Codex usage logs. Explore your style through 16 classes and 6 metrics.",
+  "short_description_zh": null,
+  "live_url": "https://kanary.to/ai-class",
+  "primary_category": "games_play",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Vercel"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:12:19.215+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "skillbay-sh",
+  "title": "skillbay: high quality AI skills marketplace",
+  "short_description": "high quality AI skills marketplace. every skill is reviewed by a person and shows the same prompt answered without and with the skill. curated by @skeptrune.",
+  "short_description_zh": null,
+  "live_url": "https://skillbay.sh/",
+  "primary_category": "ai_agents",
+  "tag_slugs": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-09-17T23:11:45.636+00:00",
+  "live_check_status": "live"
+ },
+ {
   "slug": "the-legendarium-comp-xm70-bolt-host",
   "title": "The Legendarium Companion",
   "short_description": "A scholarly search engine for Tolkien's legendarium — answers sourced from trusted Tolkien encyclopedias.",
@@ -1649,7 +4033,10 @@
   "live_url": "https://appartix.com",
   "primary_category": "creative_tools",
   "tag_slugs": null,
-  "detected_stack": null,
+  "detected_stack": [
+   "Cloudflare",
+   "Next.js"
+  ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
@@ -6546,7 +8933,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 1,
+  "recent_try_count": 2,
   "published_at": "2026-09-15T02:52:57.724+00:00",
   "live_check_status": "live"
  },
@@ -8912,7 +11299,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 1,
+  "recent_try_count": 2,
   "published_at": "2026-09-14T03:15:47.393+00:00",
   "live_check_status": "live"
  },
@@ -14566,7 +16953,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 1,
+  "recent_try_count": 2,
   "published_at": "2026-09-12T02:31:47.426+00:00",
   "live_check_status": "live"
  },
@@ -39360,11 +41747,17 @@
  {
   "slug": "pafcore-site",
   "title": "PafCore: find what is slowing your website. Down to the file. What to fix first.",
-  "short_description": "Paste your website address. Free speed score, the slow file, and what to fix first.",
-  "short_description_zh": null,
+  "short_description": "Paste your website URL to see speed issues and what to fix first.",
+  "short_description_zh": "输入网址分析网站速度并找出缓慢的文件。",
   "live_url": "https://pafcore.site",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "developer_tools",
+  "tag_slugs": [
+   "analytics",
+   "seo",
+   "no-login",
+   "developer-tool",
+   "productivity"
+  ],
   "detected_stack": [
    "Cloudflare",
    "Next.js"
@@ -39378,11 +41771,16 @@
  {
   "slug": "stratacrm",
   "title": "Auto Detailing & Shop CRM With Online Booking | Strata",
-  "short_description": "The CRM for detail and auto shops. Customers book online, pay the deposit up front, and confirm by text. Reminders and follow-up send themselves.",
-  "short_description_zh": null,
+  "short_description": "CRM for auto shops where customers book online, pay deposits, and receive automated reminders.",
+  "short_description_zh": "为汽车美容店设计的CRM，支持在线预订、定金支付和自动提醒。",
   "live_url": "https://stratacrm.app/",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "finance_business",
+  "tag_slugs": [
+   "finance",
+   "calendar",
+   "automation",
+   "productivity"
+  ],
   "detected_stack": [
    "Vercel",
    "Google Analytics",
@@ -39468,11 +41866,15 @@
  {
   "slug": "imissfiles",
   "title": "Free PDF Tools That Never Upload Your Files | imissfiles",
-  "short_description": "Merge, split, compress, sign, and convert PDF files with 48 free tools that run entirely in your browser. No account, no upload, no limits.",
-  "short_description_zh": null,
+  "short_description": "48 free PDF tools that run in your browser for merging, splitting, compressing, signing and converting files without uploading.",
+  "short_description_zh": "48个免费的在线PDF工具，无需上传，支持合并、分割、压缩和转换。",
   "live_url": "https://imissfiles.com/",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "utilities",
+  "tag_slugs": [
+   "document-tools",
+   "no-login",
+   "productivity"
+  ],
   "detected_stack": [
    "Cloudflare",
    "Google Analytics"
@@ -39503,11 +41905,15 @@
  {
   "slug": "carrelai",
   "title": "CarrelAI",
-  "short_description": "Turn your documents into a workspace: read a PDF, deck or Word file beside a board you can draw on and notes you can keep.",
-  "short_description_zh": null,
+  "short_description": "Read PDFs and documents alongside a drawable board and notes in one workspace.",
+  "short_description_zh": "在工作区中并排查看文档和PDF，可在画板上绘制和做笔记。",
   "live_url": "https://www.carrelai.com",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "productivity",
+  "tag_slugs": [
+   "notes",
+   "productivity",
+   "design"
+  ],
   "detected_stack": [
    "Vercel",
    "Next.js",
@@ -39648,11 +42054,15 @@
  {
   "slug": "theshelf-lol",
   "title": "the shelf — Products worth discovering",
-  "short_description": "Rent one of 100 shelf spots and put your product somewhere worth finding.",
-  "short_description_zh": null,
+  "short_description": "Discover a curated collection of products displayed on virtual shelves.",
+  "short_description_zh": "在虚拟书架上浏览或展示精选产品。",
   "live_url": "https://theshelf.lol",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "social_community",
+  "tag_slugs": [
+   "marketing",
+   "social",
+   "curation"
+  ],
   "detected_stack": [
    "Netlify",
    "Next.js"
@@ -39666,11 +42076,15 @@
  {
   "slug": "neubook",
   "title": "AI Ebook Generator That Doesn't Sound Like AI | Neubook Write",
-  "short_description": "An AI ebook generator that interviews you first, lets you approve the chapter plan, then writes and line-edits every chapter so it reads like you. 18 kinds of book including colori",
-  "short_description_zh": null,
+  "short_description": "Interview-based ebook generator that creates outlines and writes chapters sounding like you.",
+  "short_description_zh": "通过采访式对话生成个人风格的电子书",
   "live_url": "https://neubook.app/write",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "creative_tools",
+  "tag_slugs": [
+   "ebook",
+   "writing",
+   "automation"
+  ],
   "detected_stack": [
    "Cloudflare"
   ],
@@ -39889,11 +42303,17 @@
  {
   "slug": "bidwars-wtf",
   "title": "Where will you make your mark? — World / Bid",
-  "short_description": "Bid for a digital location on the world map. Verified pins, country rankings, and secure Dodo checkout.",
-  "short_description_zh": null,
+  "short_description": "Bid for digital locations on the world map to establish your presence with country rankings.",
+  "short_description_zh": "在世界地图上竞拍数字位置,争夺国家排名。",
   "live_url": "https://Bidwars.wtf",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "games_play",
+  "tag_slugs": [
+   "fun",
+   "maps",
+   "game",
+   "social",
+   "arcade"
+  ],
   "detected_stack": [
    "Vercel",
    "Next.js",
@@ -39997,11 +42417,16 @@
  {
   "slug": "ledrix",
   "title": "Ledrix CRM — Sales CRM for Closers Who Get Paid Faster",
-  "short_description": "Sales CRM for closers: own every lead, work your seller panel, and send Stripe or PayPal from the lead card — on the call. Try Ledrix free. No card.",
-  "short_description_zh": null,
+  "short_description": "Sales CRM that lets you manage leads and accept payments directly from the lead card.",
+  "short_description_zh": "销售CRM，在线索卡上管理客户并直接收款。",
   "live_url": "https://ledrix.co/",
   "primary_category": "finance_business",
-  "tag_slugs": null,
+  "tag_slugs": [
+   "crm",
+   "finance",
+   "automation",
+   "productivity"
+  ],
   "detected_stack": [
    "Bootstrap",
    "Google Analytics"
@@ -40015,11 +42440,17 @@
  {
   "slug": "sonarvue",
   "title": "AI Visibility and Market Intelligence for AI Search | Sonarvue",
-  "short_description": "See what AI tells your buyers: which brands the engines recommend, the sources they cite, the conversations behind the answers, and where competitors are positioned instead.",
-  "short_description_zh": null,
+  "short_description": "See which brands AI search engines recommend and monitor competitor positioning in AI results.",
+  "short_description_zh": "追踪AI搜索引擎推荐的品牌，分析竞争对手在AI结果中的定位。",
   "live_url": "https://sonarvue.com",
-  "primary_category": "social_community",
-  "tag_slugs": null,
+  "primary_category": "finance_business",
+  "tag_slugs": [
+   "analytics",
+   "seo",
+   "marketing",
+   "search",
+   "data"
+  ],
   "detected_stack": [
    "Cloudflare"
   ],
@@ -40067,11 +42498,16 @@
  {
   "slug": "opportunitymarket",
   "title": "Market opportunities & startup ideas — Opportunity Market",
-  "short_description": "Find market opportunities before they get crowded. Real complaints from Reddit, GitHub and Hacker News, scored on measured demand, pain, momentum and competition — every score link",
-  "short_description_zh": null,
+  "short_description": "Browse startup ideas and market opportunities scored on demand, pain, momentum and competition.",
+  "short_description_zh": "浏览按需求、竞争等指标排序的创业机遇和市场机会。",
   "live_url": "https://opportunitymarket.org",
-  "primary_category": "creative_tools",
-  "tag_slugs": null,
+  "primary_category": "finance_business",
+  "tag_slugs": [
+   "analytics",
+   "no-login",
+   "search",
+   "data"
+  ],
   "detected_stack": [
    "Next.js",
    "Google Analytics"
@@ -40120,11 +42556,17 @@
  {
   "slug": "a2apark",
   "title": "Agent Amusement Park · Rate My Agent",
-  "short_description": "Send an AI agent through stateful behavioral rides. Inspect the evidence, score the run, and see what it did when the world pushed back.",
-  "short_description_zh": null,
+  "short_description": "Send AI agents through behavioral scenarios and rate their performance.",
+  "short_description_zh": "在行为场景中发送 AI 代理,评分其表现。",
   "live_url": "https://a2apark.com/",
   "primary_category": "ai_agents",
-  "tag_slugs": null,
+  "tag_slugs": [
+   "fun",
+   "developer-tool",
+   "agent",
+   "game",
+   "arcade"
+  ],
   "detected_stack": [
    "Render"
   ],
@@ -40175,11 +42617,17 @@
  {
   "slug": "finola-work",
   "title": "Finola.work — Your Deep Work Studio",
-  "short_description": "An ambient AI workspace for your projects, tools, tasks, notes, goals, and everyday web — with an AI assistant that actually helps.",
-  "short_description_zh": null,
+  "short_description": "An AI workspace for organizing projects, tasks, notes, and goals with an integrated assistant.",
+  "short_description_zh": "Finola是一个用于组织项目、任务、笔记和目标的AI工作空间。",
   "live_url": "https://Finola.work",
   "primary_category": "productivity",
-  "tag_slugs": null,
+  "tag_slugs": [
+   "notes",
+   "agent",
+   "memory",
+   "automation",
+   "productivity"
+  ],
   "detected_stack": [
    "Vercel",
    "Google Analytics"
@@ -40193,11 +42641,15 @@
  {
   "slug": "orangemonkey-tv",
   "title": "Orange Monkey - Stream the Internet",
-  "short_description": "Stream the Internet. Fresh picks every day, curated from across the web. Start watching.",
-  "short_description_zh": null,
+  "short_description": "Watch curated content picks from across the web, updated daily.",
+  "short_description_zh": "观看来自互联网的每日精选内容。",
   "live_url": "https://Orangemonkey.tv",
-  "primary_category": "creative_tools",
-  "tag_slugs": null,
+  "primary_category": "utilities",
+  "tag_slugs": [
+   "fun",
+   "search",
+   "video"
+  ],
   "detected_stack": [
    "Cloudflare"
   ],
@@ -40210,11 +42662,16 @@
  {
   "slug": "spico",
   "title": "Spico — A head of marketing that never sleeps",
-  "short_description": "Spico is an AI head of marketing. It learns your brand and runs your marketing on its own.",
-  "short_description_zh": null,
+  "short_description": "AI-powered marketing assistant that learns your brand and runs campaigns autonomously.",
+  "short_description_zh": "Spico是一个AI营销主管,学习您的品牌并自动管理营销活动。",
   "live_url": "https://spico.io",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "ai_agents",
+  "tag_slugs": [
+   "marketing",
+   "agent",
+   "automation",
+   "productivity"
+  ],
   "detected_stack": [
    "Next.js"
   ],
@@ -40312,11 +42769,15 @@
  {
   "slug": "socialbid",
   "title": "Social Bid — How much are you worth on X?",
-  "short_description": "Add your X profile and let sponsors decide what you’re worth. Sponsors compete for the top sponsorship spot on Social Bid.",
-  "short_description_zh": null,
+  "short_description": "Add your X profile and let sponsors bid to sponsor you.",
+  "short_description_zh": "添加你的 X 资料，让赞助商竞价赞助你。",
   "live_url": "https://socialbid.co",
-  "primary_category": "social_community",
-  "tag_slugs": null,
+  "primary_category": "finance_business",
+  "tag_slugs": [
+   "analytics",
+   "marketing",
+   "social"
+  ],
   "detected_stack": [
    "Cloudflare",
    "Supabase",
@@ -40349,11 +42810,18 @@
  {
   "slug": "resumenex",
   "title": "Resumenex | Resumidor PDF Gratis y Cuestionarios con IA",
-  "short_description": "Convierte tus apuntes y PDFs en resúmenes, flashcards y quizzes de forma instantánea. La mejor herramienta de inteligencia artificial para estudiantes y opositores.",
-  "short_description_zh": null,
+  "short_description": "Convert notes and PDFs into summaries, flashcards, and quizzes using AI.",
+  "short_description_zh": "用AI将笔记和PDF转换为摘要、抽认卡和测验。",
   "live_url": "https://resumenex.com",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "education",
+  "tag_slugs": [
+   "education",
+   "spanish",
+   "notes",
+   "flashcards",
+   "memory",
+   "productivity"
+  ],
   "detected_stack": [
    "Vercel",
    "Next.js"
@@ -40385,11 +42853,15 @@
  {
   "slug": "icelook",
   "title": "Icelook — find your favorite specialist",
-  "short_description": "Find and book beauty specialists by their Icelook handle, or create your own professional profile with services, portfolio, and a direct booking link your clients book from.",
-  "short_description_zh": null,
+  "short_description": "Find and book beauty specialists or create a professional profile with portfolio and booking link.",
+  "short_description_zh": "在Icelook查找美容专家进行预约,或创建包含作品集的专业档案。",
   "live_url": "https://icelook.app",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "health_wellness",
+  "tag_slugs": [
+   "social",
+   "productivity",
+   "booking"
+  ],
   "detected_stack": [
    "Cloudflare",
    "SvelteKit",
@@ -40531,11 +43003,16 @@
  {
   "slug": "polyosync",
   "title": "AI Employees for Business | Polyosync",
-  "short_description": "Build AI employees for reception, sales, support, bookings, lead qualification and operations. Polyosync connects AI to your business knowledge, records and authorised actions.",
-  "short_description_zh": null,
+  "short_description": "Create AI employees for reception, sales, support, bookings, and business operations.",
+  "short_description_zh": "创建AI员工处理前台、销售、支持、预订和运营。",
   "live_url": "https://polyosync.com",
-  "primary_category": "finance_business",
-  "tag_slugs": null,
+  "primary_category": "ai_agents",
+  "tag_slugs": [
+   "agent",
+   "sales",
+   "automation",
+   "productivity"
+  ],
   "detected_stack": [
    "Next.js"
   ],
@@ -40690,11 +43167,16 @@
  {
   "slug": "cueits",
   "title": "Cueits — sixteen looks, one mechanism",
-  "short_description": "Cueits turns a talking-head short into a 1080×1920 video with a generated infographic panel above you — every reveal anchored to the exact word that motivates it. Three answers, ab",
-  "short_description_zh": null,
+  "short_description": "Transform talking-head shorts into 1080×1920 vertical videos with AI-generated infographics synced to speech.",
+  "short_description_zh": "将对话短视频转换为竖版1080×1920视频，配自动生成的信息图表。",
   "live_url": "https://www.cueits.com",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "creative_tools",
+  "tag_slugs": [
+   "image-generation",
+   "video",
+   "automation",
+   "design"
+  ],
   "detected_stack": [
    "Vercel",
    "Next.js"
@@ -40708,11 +43190,16 @@
  {
   "slug": "jobs-forumo-in",
   "title": "Jobs in India | ForumO",
-  "short_description": "India's career platform for real opportunities. Find verified jobs, connect with a community, explore gigs, and build skills, all in one place.",
-  "short_description_zh": null,
+  "short_description": "Find verified jobs in India, connect with a community, explore gigs, and build professional skills.",
+  "short_description_zh": "在 ForumO 上找工作、连接社区、探索零工并建立技能。",
   "live_url": "https://jobs.forumo.in",
-  "primary_category": "creative_tools",
-  "tag_slugs": null,
+  "primary_category": "finance_business",
+  "tag_slugs": [
+   "job-search",
+   "social",
+   "india",
+   "productivity"
+  ],
   "detected_stack": [
    "Vercel",
    "Next.js",
@@ -40764,11 +43251,16 @@
  {
   "slug": "albamount",
   "title": "Albamount — Ads",
-  "short_description": "Albamount ads catalog: listings with photos, prices, and author contacts.",
-  "short_description_zh": null,
+  "short_description": "Browse classified listings with photos, prices, and seller contact information.",
+  "short_description_zh": "浏览分类列表，查看照片、价格和卖家联系方式。",
   "live_url": "https://www.albamount.xyz",
-  "primary_category": "creative_tools",
-  "tag_slugs": null,
+  "primary_category": "other",
+  "tag_slugs": [
+   "search",
+   "social",
+   "classifieds",
+   "real-estate"
+  ],
   "detected_stack": [
    "Vercel"
   ],
@@ -40906,11 +43398,16 @@
  {
   "slug": "withresumeai",
   "title": "ResumeAI — Live Candidate Leaderboard for Job Seekers",
-  "short_description": "A live board of job seekers competing for recruiter visibility. Resume quality is scored by ResumeAI's ATS engine; placement is auctioned. Upload a resume, get a real ATS score, en",
-  "short_description_zh": null,
+  "short_description": "Get an ATS score and compete on a recruiter-facing leaderboard by uploading your resume.",
+  "short_description_zh": "上传简历获取ATS评分,在招聘者排行榜竞争。",
   "live_url": "https://withresumeai.com/",
-  "primary_category": "games_play",
-  "tag_slugs": null,
+  "primary_category": "productivity",
+  "tag_slugs": [
+   "job-search",
+   "analytics",
+   "agent",
+   "resume"
+  ],
   "detected_stack": [
    "Vercel",
    "Next.js",
@@ -40996,11 +43493,16 @@
  {
   "slug": "reasoning-cinderwayinteractive",
   "title": "FlowState Reasoning",
-  "short_description": "Get better at writing the next piece of code. Practice for people who can follow generated code but get stuck deciding what to write next.",
-  "short_description_zh": null,
+  "short_description": "Practice deciding what to write next with AI-generated code examples.",
+  "short_description_zh": "通过AI代码示例练习编程决策，改进代码编写能力。",
   "live_url": "https://reasoning.cinderwayinteractive.com",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "developer_tools",
+  "tag_slugs": [
+   "developer-tool",
+   "education",
+   "coding-assistant",
+   "productivity"
+  ],
   "detected_stack": [
    "Vercel",
    "Next.js"
@@ -41014,11 +43516,17 @@
  {
   "slug": "brandknown-help",
   "title": "BrandKnown — one brand name, one entity",
-  "short_description": "See how ChatGPT and other AI search tools understand your business, then get copy-ready fixes — Organization schema, a robots.txt AI-crawler snippet, an llms.txt draft, and a sameA",
-  "short_description_zh": null,
+  "short_description": "Check how AI search tools see your business and get copy-ready fixes for schemas and crawlers.",
+  "short_description_zh": "检查AI搜索工具如何理解你的业务并获取现成的修复建议。",
   "live_url": "https://brandknown.help",
-  "primary_category": "social_community",
-  "tag_slugs": null,
+  "primary_category": "productivity",
+  "tag_slugs": [
+   "seo",
+   "marketing",
+   "developer-tool",
+   "search",
+   "llm"
+  ],
   "detected_stack": [
    "Vercel",
    "Next.js",
@@ -41069,11 +43577,17 @@
  {
   "slug": "devtrace",
   "title": "DevTrace",
-  "short_description": "DevTrace is an AI-collaboration assessment platform. Give candidates a real coding task with AI available, and get an AI-generated insight into how they think, prompt, and iterate ",
-  "short_description_zh": null,
+  "short_description": "Assess developer candidates by giving them real coding tasks with AI available and analyzing how they think and iterate.",
+  "short_description_zh": "通过实际编程任务和AI协助评估开发人员候选人的思维和迭代方式。",
   "live_url": "https://devtrace.cloud",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "developer_tools",
+  "tag_slugs": [
+   "assessment",
+   "ai-collaboration",
+   "developer-tool",
+   "coding-assistant",
+   "hiring"
+  ],
   "detected_stack": [
    "Vercel",
    "Next.js"
@@ -41212,11 +43726,16 @@
  {
   "slug": "burnlens",
   "title": "BurnLens — See what your AI spent. Cap the next call.",
-  "short_description": "Scan Claude Code, Cursor, Codex, and Gemini CLI logs in one command, or hard-cap production APIs with a local proxy. 429 at the limit, not a surprise bill. Prompt bodies go to your",
-  "short_description_zh": null,
+  "short_description": "Track AI API spending across your tools and enforce hard cost limits with a local proxy.",
+  "short_description_zh": "监控多个 AI 提供商的 API 消费，通过本地代理强制成本上限。",
   "live_url": "https://burnlens.app/",
   "primary_category": "developer_tools",
-  "tag_slugs": null,
+  "tag_slugs": [
+   "analytics",
+   "developer-tool",
+   "api",
+   "productivity"
+  ],
   "detected_stack": [
    "Python",
    "TypeScript",
@@ -41370,11 +43889,17 @@
  {
   "slug": "tradesmithy",
   "title": "TradeSmithy — No-code Expert Advisor builder for MetaTrader 4 and MetaTrader 5",
-  "short_description": "MQL4 and MQL5 Expert Advisor builder: from idea to build(no code), backtest, parameter optimization and sell in marketplace ecosystem.",
-  "short_description_zh": null,
+  "short_description": "Build automated trading strategies for MetaTrader without coding, then backtest and sell them.",
+  "short_description_zh": "为 MetaTrader 无代码构建交易策略，进行回测和优化后出售。",
   "live_url": "Https://tradesmithy.com/",
-  "primary_category": "developer_tools",
-  "tag_slugs": null,
+  "primary_category": "finance_business",
+  "tag_slugs": [
+   "developer-tool",
+   "coding-assistant",
+   "agent",
+   "finance",
+   "automation"
+  ],
   "detected_stack": [
    "Next.js"
   ],
@@ -41405,11 +43930,16 @@
  {
   "slug": "skintoscan",
   "title": "AI Skin Cancer Detection Tool | SkinToScan",
-  "short_description": "AI-powered skin health and melanoma detection tool for image-based mole analysis, skin monitoring, and early screening of skin conditions.",
-  "short_description_zh": null,
+  "short_description": "Get AI analysis of mole photos to assess melanoma risk.",
+  "short_description_zh": "上传痣照片，用AI评估黑色素瘤风险。",
   "live_url": "https://skintoscan.com",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "health_wellness",
+  "tag_slugs": [
+   "image-analysis",
+   "analytics",
+   "health",
+   "photo"
+  ],
   "detected_stack": [
    "WordPress",
    "Tailwind",
@@ -41457,11 +43987,16 @@
  {
   "slug": "getmcpulse",
   "title": "MCPulse — Analytics for MCP servers",
-  "short_description": "See whether your MCP tools actually work for the models calling them — retries, empty answers, schema cost and first-call success. Two lines to install.",
-  "short_description_zh": null,
+  "short_description": "Monitor MCP server health and performance for AI models, tracking success rates and call metrics.",
+  "short_description_zh": "实时监控 MCP 服务器性能，跟踪调用成功率、重试和成本指标。",
   "live_url": "https://getmcpulse.com",
   "primary_category": "developer_tools",
-  "tag_slugs": null,
+  "tag_slugs": [
+   "analytics",
+   "developer-tool",
+   "api",
+   "data"
+  ],
   "detected_stack": [
    "Vercel",
    "Google Analytics",
@@ -41511,11 +44046,16 @@
  {
   "slug": "bidmy",
   "title": "bidmy.app - the leaderboard you pay to be on",
-  "short_description": "Paste a link, pay what you choose, and take a rank on a public board ordered by the total paid. Number one currently costs $4.",
-  "short_description_zh": null,
+  "short_description": "Pay to rank on a public leaderboard ordered by total paid.",
+  "short_description_zh": "通过支付在公开排行榜上竞争排名，按支付总额排序。",
   "live_url": "https://Bidmy.app",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "games_play",
+  "tag_slugs": [
+   "fun",
+   "finance",
+   "game",
+   "arcade"
+  ],
   "detected_stack": [
    "Google Analytics"
   ],
@@ -41798,11 +44338,18 @@
  {
   "slug": "90skids-lol",
   "title": "90s Nokia Snake Challenge — Play Free",
-  "short_description": "The classic mobile Snake experience. Free to play, right now. Weekly leaderboard, friend challenges.",
-  "short_description_zh": null,
+  "short_description": "Play the classic Nokia Snake game with weekly leaderboards and friend challenges.",
+  "short_description_zh": "经典诺基亚贪吃蛇游戏，每周排行榜和好友挑战。",
   "live_url": "https://www.90sKids.lol",
   "primary_category": "games_play",
-  "tag_slugs": null,
+  "tag_slugs": [
+   "no-login",
+   "puzzle",
+   "fun",
+   "mobile",
+   "game",
+   "arcade"
+  ],
   "detected_stack": [
    "Vercel"
   ],
@@ -41949,11 +44496,16 @@
  {
   "slug": "founder-pulse",
   "title": "FounderPulse — one high-impact action a day",
-  "short_description": "Free 2-minute diagnostic for solo founders: get today's highest-impact action, why it matters, and the number that proves it worked.",
-  "short_description_zh": null,
+  "short_description": "Daily diagnostic tool that identifies the highest-impact action for solo founders.",
+  "short_description_zh": "为独立创始人每日诊断最高影响力行动的工具。",
   "live_url": "https://founder-pulse.com",
-  "primary_category": "finance_business",
-  "tag_slugs": null,
+  "primary_category": "productivity",
+  "tag_slugs": [
+   "analytics",
+   "agent",
+   "automation",
+   "productivity"
+  ],
   "detected_stack": [
    "Cloudflare"
   ],
@@ -42019,11 +44571,17 @@
  {
   "slug": "zeroview",
   "title": "The Most Secure Survey Builder",
-  "short_description": "Build dynamic, AI-powered surveys with end-to-end encryption. ZeroView ensures 100% data privacy and advanced analytics to scale your campaigns securely.",
-  "short_description_zh": null,
+  "short_description": "AI-powered survey builder with end-to-end encryption for secure data collection and analytics.",
+  "short_description_zh": "ZeroView: AI驱动的问卷工具,具备端到端加密和数据分析功能。",
   "live_url": "https://ZeroView.ai",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "productivity",
+  "tag_slugs": [
+   "analytics",
+   "form-builder",
+   "marketing",
+   "automation",
+   "productivity"
+  ],
   "detected_stack": null,
   "is_featured": false,
   "github_stars": null,
@@ -42270,11 +44828,17 @@
  {
   "slug": "brevmont",
   "title": "Brevmont for Sales Reps | Close more deals on every platform",
-  "short_description": "Always know what to say. Close more deals on every platform. You still send it. Free for 7 days. No card. Then $24.99/mo.",
-  "short_description_zh": null,
+  "short_description": "AI assistant that generates sales messages to help reps close deals across multiple platforms.",
+  "short_description_zh": "Brevmont为销售代表生成销售信息，帮助赢得更多订单。",
   "live_url": "https://brevmont.com/sales-reps",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "finance_business",
+  "tag_slugs": [
+   "marketing",
+   "agent",
+   "writing",
+   "automation",
+   "productivity"
+  ],
   "detected_stack": [
    "Vercel",
    "Plausible"
@@ -42305,8 +44869,8 @@
  {
   "slug": "tesoro-help",
   "title": "tesoro.help",
-  "short_description": "AI chatbot answering questions about Tesoro High School using official school documents and resources.",
-  "short_description_zh": "用官方学校文件和资源回答关于Tesoro高中问题的AI聊天机器人。",
+  "short_description": "AI chatbot for Tesoro High School that answers student questions from school documents.",
+  "short_description_zh": "Tesoro High School的AI聊天机器人，用官方文件回答学生问题。",
   "live_url": "https://tesoro.help/",
   "primary_category": "education",
   "tag_slugs": [
@@ -42447,11 +45011,17 @@
  {
   "slug": "mudbase",
   "title": "Mudbase - One backend for chat, payments, integrations and enterprise auth | Dat",
-  "short_description": "Auth, database, realtime and storage plus payment rails that settle where card-only backends will not. One platform, one bill.",
-  "short_description_zh": null,
+  "short_description": "Backend service for authentication, database, real-time features, chat, and payments.",
+  "short_description_zh": "Mudbase提供聊天、支付、认证和实时功能的后端平台。",
   "live_url": "https://www.mudbase.dev/l/x-x-y4u7",
-  "primary_category": "creative_tools",
-  "tag_slugs": null,
+  "primary_category": "developer_tools",
+  "tag_slugs": [
+   "authentication",
+   "developer-tool",
+   "api",
+   "data",
+   "finance"
+  ],
   "detected_stack": [
    "Vercel",
    "Next.js"
@@ -43605,7 +46175,9 @@
    "automation",
    "design"
   ],
-  "detected_stack": null,
+  "detected_stack": [
+   "Google Analytics"
+  ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
@@ -43983,7 +46555,7 @@
    "JavaScript",
    "CSS"
   ],
-  "is_featured": false,
+  "is_featured": true,
   "github_stars": 2,
   "recent_try_count": 0,
   "published_at": "2026-09-03T19:14:35.713+00:00",
@@ -45028,7 +47600,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 0,
+  "recent_try_count": 1,
   "published_at": "2026-09-02T19:15:10.896+00:00",
   "live_check_status": "live"
  },
@@ -54747,7 +57319,9 @@
    "ecommerce",
    "automation"
   ],
-  "detected_stack": null,
+  "detected_stack": [
+   "Cloudflare"
+  ],
   "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
@@ -54819,7 +57393,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 1,
+  "recent_try_count": 0,
   "published_at": "2026-08-28T19:51:58.121+00:00",
   "live_check_status": "live"
  },
@@ -59553,7 +62127,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 1,
+  "recent_try_count": 0,
   "published_at": "2026-08-27T19:15:52.187+00:00",
   "live_check_status": "live"
  },
@@ -59580,7 +62154,7 @@
   ],
   "is_featured": false,
   "github_stars": 486,
-  "recent_try_count": 1,
+  "recent_try_count": 0,
   "published_at": "2026-08-27T19:15:38.005+00:00",
   "live_check_status": "live"
  },
@@ -64185,12 +66759,15 @@
   "slug": "ultimatezone",
   "title": "UltimateZone — Pay-to-Rank Link Board",
   "short_description": "A leaderboard where link positions are for sale; pay more to rank higher.",
-  "short_description_zh": "公开链接排行榜，付费购买排名，出价高者排名靠前。",
+  "short_description_zh": "UltimateZone — 付费提升你的链接在排行榜上的排名。",
   "live_url": "https://ultimatezone.org",
   "primary_category": "utilities",
   "tag_slugs": [
+   "seo",
+   "marketing",
    "fun",
    "social",
+   "leaderboard",
    "pay-to-rank",
    "productivity"
   ],
@@ -64224,11 +66801,17 @@
  {
   "slug": "zilfu",
   "title": "Free Social Media Scheduler — No Per-Seat Fees | Zilfu",
-  "short_description": "Schedule Instagram, TikTok, Facebook and four more from one calendar, with client approvals. 2 accounts free, no card needed. Flat plans from $19.",
-  "short_description_zh": null,
+  "short_description": "Schedule posts across Instagram, TikTok, Facebook and more from a single calendar.",
+  "short_description_zh": "在一个日历中安排 Instagram、TikTok、Facebook 等社媒发布。",
   "live_url": "https://Zilfu.app",
-  "primary_category": "social_community",
-  "tag_slugs": null,
+  "primary_category": "productivity",
+  "tag_slugs": [
+   "marketing",
+   "scheduling",
+   "calendar",
+   "social",
+   "automation"
+  ],
   "detected_stack": [
    "Cloudflare"
   ],
@@ -64433,7 +67016,7 @@
   "slug": "inboxbid-lol",
   "title": "inboxbid — the newsletter bidding leaderboard",
   "short_description": "Bid for newsletter placement on a competitive leaderboard, paying only the difference to climb ranks.",
-  "short_description_zh": "在 inboxbid 竞价排行榜上争取新闻通讯的高排名，仅支付排名差额。",
+  "short_description_zh": "在竞价榜单为通讯争取版位,只需支付排名差价。",
   "live_url": "https://inboxbid.lol/?ref=x",
   "primary_category": "finance_business",
   "tag_slugs": [
@@ -64559,11 +67142,17 @@
  {
   "slug": "quicklead",
   "title": "Quicklead - #1 LinkedIn Automation Tool for B2B Sales Teams [2026]",
-  "short_description": "Quicklead is a cloud-based LinkedIn automation tool for B2B teams. AI ICP scoring, personalized sequences, free Open Profile InMails, smart inbox & CRM sync. Trusted by 1,800+ dail",
-  "short_description_zh": null,
+  "short_description": "Automate LinkedIn outreach with AI-powered lead scoring and personalized sequences for B2B sales.",
+  "short_description_zh": "Quicklead 为 B2B 销售自动化 LinkedIn 外联，采用 AI 评分和个性化序列。",
   "live_url": "https://quicklead.io",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "finance_business",
+  "tag_slugs": [
+   "marketing",
+   "linkedin-automation",
+   "agent",
+   "automation",
+   "productivity"
+  ],
   "detected_stack": [
    "Cloudflare",
    "Google Analytics",
@@ -65165,14 +67754,16 @@
  {
   "slug": "inboxbid-lol-ref-x",
   "title": "inboxbid — the newsletter bidding leaderboard",
-  "short_description": "Bid for ranked placements on a newsletter leaderboard with pay-only-the-difference pricing.",
-  "short_description_zh": "竞价获得新闻通讯排行榜位置,只需支付差价。",
+  "short_description": "Bid for newsletter placements with pay-only-the-difference pricing on a leaderboard.",
+  "short_description_zh": "在newsletter排行榜竞拍版位，仅需支付差价。",
   "live_url": "https://inboxbid.lol?ref=x",
   "primary_category": "finance_business",
   "tag_slugs": [
    "email",
    "marketing",
-   "leaderboard"
+   "finance",
+   "leaderboard",
+   "auction"
   ],
   "detected_stack": [
    "Cloudflare"
@@ -65952,11 +68543,16 @@
  {
   "slug": "authormity-space",
   "title": "Authormity — LinkedIn Authority Builder",
-  "short_description": "Build genuine LinkedIn authority with AI that actually writes like you. Synthesize your Voice DNA, predict virality, and automate growth.",
-  "short_description_zh": null,
+  "short_description": "AI tool for creating and automating LinkedIn content that matches your voice.",
+  "short_description_zh": "AI工具可创建和自动化与你声音相符的LinkedIn内容。",
   "live_url": "https://authormity.space",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "creative_tools",
+  "tag_slugs": [
+   "marketing",
+   "writing",
+   "social",
+   "automation"
+  ],
   "detected_stack": [
    "Next.js"
   ],
@@ -66253,11 +68849,16 @@
  {
   "slug": "grineopay",
   "title": "GrineoPay | Crypto Payment Gateway",
-  "short_description": "GrineoPay is a global crypto payment gateway with instant payouts, non-custodial checkout, and fast approval for online merchants.",
-  "short_description_zh": null,
+  "short_description": "Crypto payment gateway for merchants offering instant payouts and non-custodial checkout.",
+  "short_description_zh": "为商户提供即时支付和非托管结账的加密货币支付网关。",
   "live_url": "https://grineopay.com",
   "primary_category": "finance_business",
-  "tag_slugs": null,
+  "tag_slugs": [
+   "crypto",
+   "developer-tool",
+   "api",
+   "finance"
+  ],
   "detected_stack": [
    "Cloudflare",
    "WordPress",
@@ -66316,13 +68917,14 @@
  {
   "slug": "askverb",
   "title": "Verb: an AI assistant inside your SaaS that takes real actions",
-  "short_description": "AI agent that reads real data in your app and completes tasks for logged-in users.",
-  "short_description_zh": "Verb是一个能读取应用中真实数据并为用户完成任务的AI代理。",
+  "short_description": "AI agent embedded in your app that reads real data and completes tasks for logged-in users.",
+  "short_description_zh": "Verb: 与你的应用集成，读取数据并为登录用户自动完成任务的AI代理。",
   "live_url": "https://askverb.com",
   "primary_category": "ai_agents",
   "tag_slugs": [
    "developer-tool",
    "api",
+   "rag",
    "agent",
    "data",
    "automation",
@@ -66668,11 +69270,16 @@
  {
   "slug": "only50-lol",
   "title": "Only50 — 50 spots. Highest bid wins.",
-  "short_description": "There are only 50 spots on the leaderboard. Rank is purely by bid. When it's full, outbid the lowest to kick them out.",
-  "short_description_zh": null,
+  "short_description": "Bid to earn and keep one of 50 leaderboard spots; outbid others to climb the ranks.",
+  "short_description_zh": "出价竞争只有50个名额的排行榜,最高出价者胜出。",
   "live_url": "https://only50.lol",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "games_play",
+  "tag_slugs": [
+   "finance",
+   "game",
+   "social",
+   "arcade"
+  ],
   "detected_stack": [
    "Vercel",
    "Next.js"
@@ -66820,15 +69427,16 @@
  {
   "slug": "moneywaste-show",
   "title": "Money Waste — pay to waste your money",
-  "short_description": "Pay money to waste it and compete on a public leaderboard ranked by bid amount.",
-  "short_description_zh": "支付金钱来浪费，在公开排行榜上竞争，出价最高的排名第一。",
+  "short_description": "Pay money to waste it and compete on a leaderboard ranked by bid amount.",
+  "short_description_zh": "花钱浪费，在按出价排名的排行榜竞争。",
   "live_url": "https://moneywaste.show/",
   "primary_category": "games_play",
   "tag_slugs": [
    "fun",
    "finance",
    "game",
-   "social"
+   "social",
+   "arcade"
   ],
   "detected_stack": [
    "Next.js"
@@ -66917,11 +69525,18 @@
  {
   "slug": "toolsys-tech",
   "title": "Toolsys — 30+ Free Online Tools for Images, SEO & Finance",
-  "short_description": "Free online tools for image editing, SEO, text utilities, calculators, and productivity. Fast, secure, browser-based tools with no installation required",
-  "short_description_zh": null,
+  "short_description": "Free online tools for image editing, SEO, text utilities, calculators, and productivity tasks.",
+  "short_description_zh": "30多个免费在线工具，用于图像编辑、SEO、文本处理和计算功能。",
   "live_url": "https://Toolsys.tech",
-  "primary_category": "creative_tools",
-  "tag_slugs": null,
+  "primary_category": "utilities",
+  "tag_slugs": [
+   "seo",
+   "no-login",
+   "photo",
+   "finance",
+   "writing",
+   "productivity"
+  ],
   "detected_stack": [
    "Vercel",
    "Next.js"
@@ -67116,11 +69731,16 @@
  {
   "slug": "agentmug",
   "title": "AgentMug — Build and Deploy Portable AI Workers",
-  "short_description": "Create AI workers that connect to real systems, use trusted knowledge, and run locally, through CLI and MCP, or on AgentMug Cloud.",
-  "short_description_zh": null,
+  "short_description": "Create AI workers that connect to real systems and run locally via CLI or on the cloud.",
+  "short_description_zh": "构建连接真实系统的 AI workers，可本地运行或部署至云端。",
   "live_url": "https://agentmug.com",
-  "primary_category": "developer_tools",
-  "tag_slugs": null,
+  "primary_category": "ai_agents",
+  "tag_slugs": [
+   "developer-tool",
+   "api",
+   "agent",
+   "automation"
+  ],
   "detected_stack": [
    "Express"
   ],
@@ -67176,8 +69796,8 @@
  {
   "slug": "polylayer",
   "title": "Polylayer",
-  "short_description": "AI trading bot for Polymarket prediction markets using automated trading strategies.",
-  "short_description_zh": "Polymarket预测市场的AI自动交易机器人。",
+  "short_description": "AI bot for automated trading on Polymarket prediction markets.",
+  "short_description_zh": "Polymarket预测市场自动交易的AI机器人。",
   "live_url": "https://polylayer.fun",
   "primary_category": "finance_business",
   "tag_slugs": [
@@ -67289,11 +69909,16 @@
  {
   "slug": "jobtestsportal",
   "title": "Free Aptitude Test Practice & Exam Prep | Job Tests Portal",
-  "short_description": "Practice free cognitive & aptitude tests, prep for certification, language & license exams, and build your resume, cover letter & interview skills with AI.",
-  "short_description_zh": null,
+  "short_description": "Practice cognitive and aptitude tests, prep for certifications and language exams, build resume and cover letters with AI.",
+  "short_description_zh": "练习认知和能力测试，为认证考试和语言考试备考，用AI建立简历和求职信。",
   "live_url": "https://jobtestsportal.com/",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "education",
+  "tag_slugs": [
+   "job-search",
+   "language-learning",
+   "education",
+   "productivity"
+  ],
   "detected_stack": [
    "Google Analytics"
   ],
@@ -67434,11 +70059,17 @@
  {
   "slug": "calpal",
   "title": "CalPal.Pro | Voice-First Calorie Tracker",
-  "short_description": "CalPal.Pro is the voice-first smart calorie tracker. Describe your meal naturally and get calories and macros logged in seconds—no tedious typing or signup.",
-  "short_description_zh": null,
+  "short_description": "Log meals by voice description and instantly track calories and macros.",
+  "short_description_zh": "用语音描述餐食，快速记录卡路里和宏量营养素。",
   "live_url": "https://CalPal.Pro",
-  "primary_category": "creative_tools",
-  "tag_slugs": null,
+  "primary_category": "health_wellness",
+  "tag_slugs": [
+   "voice",
+   "no-login",
+   "health",
+   "fitness",
+   "nutrition"
+  ],
   "detected_stack": [
    "Vercel",
    "Google Analytics"
@@ -67499,13 +70130,14 @@
   "slug": "vigihq",
   "title": "Vigilance — Sandbox",
   "short_description": "Compare two npm package versions to identify new or changed files.",
-  "short_description_zh": "比较两个npm包版本以识别新增或更改的文件。",
+  "short_description_zh": "比较两个 npm 包版本，识别新增或更改的文件。",
   "live_url": "https://vigihq.com/sandbox",
   "primary_category": "developer_tools",
   "tag_slugs": [
    "open-source",
    "analytics",
    "developer-tool",
+   "api",
    "data"
   ],
   "detected_stack": [
@@ -67534,7 +70166,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 1,
+  "recent_try_count": 0,
   "published_at": "2026-08-25T20:20:53.493+00:00",
   "live_check_status": "live"
  },
@@ -67793,14 +70425,15 @@
  {
   "slug": "proxy-gonka",
   "title": "Proxy by Gonka.gg - Gonka AI Proxy",
-  "short_description": "Chat-based workspace with AI agents for generating documents, presentations, and code via Gonka's decentralized inference network.",
-  "short_description_zh": "通过Gonka去中心化网络的OpenAI兼容代理，支持工作空间内生成文档和代码。",
+  "short_description": "AI agent workspace for generating documents, presentations, and code via chat.",
+  "short_description_zh": "Gonka 聊天工作区中的 AI 代理可生成文档、演示和代码。",
   "live_url": "https://proxy.gonka.gg",
   "primary_category": "ai_agents",
   "tag_slugs": [
    "developer-tool",
    "coding-assistant",
    "agent",
+   "chatbot",
    "automation",
    "productivity"
   ],
@@ -68021,13 +70654,14 @@
  {
   "slug": "disidea",
   "title": "Disidea — put a decision to four frontier models at once",
-  "short_description": "Compare decisions across four frontier AI models (GPT, DeepSeek, Gemini, Claude) in one workspace with sandboxed code preview.",
-  "short_description_zh": "Disidea：四个顶级 AI 模型同时辩论你的决策问题。",
+  "short_description": "Compare responses from GPT, DeepSeek, Gemini, and Claude side-by-side with code sandbox.",
+  "short_description_zh": "在沙箱代码环境中并排比较 GPT、DeepSeek、Gemini 和 Claude 的回复。",
   "live_url": "https://disidea.dev",
-  "primary_category": "productivity",
+  "primary_category": "developer_tools",
   "tag_slugs": [
    "developer-tool",
    "agent",
+   "ai-comparison",
    "llm",
    "productivity"
   ],
@@ -68117,10 +70751,11 @@
   "slug": "nativeappai",
   "title": "Website to App — AI App Builder for Android (Free)",
   "short_description": "Convert a website into a native Android app ready for the Play Store.",
-  "short_description_zh": "将网站转换为 Play Store 上线的原生 Android 应用。",
+  "short_description_zh": "使用 AI 将网站转换为原生 Android 应用，可发布至 Play Store。",
   "live_url": "https://nativeappai.com/",
   "primary_category": "developer_tools",
   "tag_slugs": [
+   "website-to-app",
    "developer-tool",
    "mobile",
    "automation"
@@ -68257,12 +70892,14 @@
   "slug": "fetchmarkapp",
   "title": "FetchMark - Save & Summarize Any Article",
   "short_description": "Converts article URLs into AI summaries, saved for offline reading.",
-  "short_description_zh": "将文章链接转换为 AI 摘要，离线保存后随时阅读。",
+  "short_description_zh": "FetchMark 将文章URL转换为AI摘要，保存供离线阅读。",
   "live_url": "https://fetchmarkapp.com",
   "primary_category": "productivity",
   "tag_slugs": [
    "notes",
+   "offline-reading",
    "summarization",
+   "writing",
    "productivity"
   ],
   "detected_stack": [
@@ -68629,7 +71266,7 @@
   "slug": "learnfrom",
   "title": "learnfrom.co",
   "short_description": "Create and sell online courses to monetize your expertise.",
-  "short_description_zh": "创建并销售在线课程来获利。",
+  "short_description_zh": "创建与销售在线课程，将您的专业知识变现。",
   "live_url": "https://www.learnfrom.co/",
   "primary_category": "education",
   "tag_slugs": [
@@ -82820,7 +85457,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 1,
+  "recent_try_count": 0,
   "published_at": "2026-08-22T20:19:55.557+00:00",
   "live_check_status": "live"
  },
@@ -92386,7 +95023,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 2,
+  "recent_try_count": 1,
   "published_at": "2026-08-20T00:03:34.446+00:00",
   "live_check_status": "live"
  },
@@ -98597,11 +101234,15 @@
  {
   "slug": "setrxai-onrender",
   "title": "SetrxAI",
-  "short_description": "@anupamrjp Need Ai for Study or Coding? Use SetrxAI everything is free Try it now:- https://t.co/8jbF6Kgnr5",
-  "short_description_zh": null,
+  "short_description": "Free AI assistant for studying and coding.",
+  "short_description_zh": "用于学习和编程的免费AI助手。",
   "live_url": "https://setrxai.onrender.com",
   "primary_category": "education",
-  "tag_slugs": null,
+  "tag_slugs": [
+   "coding-assistant",
+   "agent",
+   "productivity"
+  ],
   "detected_stack": [
    "Render",
    "Google Analytics"
@@ -98741,9 +101382,9 @@
   "slug": "wortweg-online",
   "title": "Wortweg — Deutsch-Trainer",
   "short_description": "Find hidden German words in a grid-based puzzle game with integrated learning tools.",
-  "short_description_zh": "在网格中找隐藏的德文词汇益智游戏，配有学习工具。",
+  "short_description_zh": "在网格益智游戏中查找隐藏的德语单词，并配有综合学习工具。",
   "live_url": "https://www.wortweg.online/",
-  "primary_category": "education",
+  "primary_category": "games_play",
   "tag_slugs": [
    "language-learning",
    "no-login",
@@ -98807,11 +101448,12 @@
  {
   "slug": "editingapp-live",
   "title": "AI Clipper, Video & Image Generator | Editing App",
-  "short_description": "AI-powered video and image generator for short-form clips and product ads.",
-  "short_description_zh": "制作短视频和产品广告的AI视频图像生成器。",
+  "short_description": "Generate videos and images for short-form clips and product ads using AI.",
+  "short_description_zh": "用AI生成短视频剪辑和产品广告的视频与图像",
   "live_url": "https://www.editingapp.live/",
   "primary_category": "creative_tools",
   "tag_slugs": [
+   "marketing",
    "image-generation",
    "video",
    "automation",
@@ -98857,7 +101499,7 @@
   "github_stars": null,
   "recent_try_count": 0,
   "published_at": "2026-08-17T02:30:10.145+00:00",
-  "live_check_status": "live"
+  "live_check_status": "at_risk"
  },
  {
   "slug": "mvpclub",
@@ -98937,11 +101579,17 @@
  {
   "slug": "roolify",
   "title": "Roolify – Conditional Logic for Webflow Forms (No Embed, No Rebuild",
-  "short_description": "Add conditional logic directly to your native Webflow form — no embedding, no rebuilding your design. Show/hide fields, route submissions by select or checkbox value, auto-respond.",
-  "short_description_zh": null,
+  "short_description": "Add conditional logic to Webflow forms to route submissions and show/hide fields.",
+  "short_description_zh": "直接为 Webflow 表单添加条件逻辑，无需嵌入或重建设计。",
   "live_url": "https://www.roolify.com/",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "developer_tools",
+  "tag_slugs": [
+   "form-builder",
+   "developer-tool",
+   "website-builder",
+   "automation",
+   "design"
+  ],
   "detected_stack": [
    "Cloudflare",
    "Vue",
@@ -99206,11 +101854,18 @@
  {
   "slug": "medcounter-in",
   "title": "MedCounter — Pharmacy Management App for India",
-  "short_description": "MedCounter is a pharmacy management app for small Indian pharmacies. Inventory, billing, GST invoices, WhatsApp delivery, barcode scanning, on phone and web. On Google Play, free f",
-  "short_description_zh": null,
+  "short_description": "Manage pharmacy inventory, billing, and GST invoices with barcode scanning on web and mobile.",
+  "short_description_zh": "在网络和手机上管理药房库存、账单和GST发票，支持条形码扫描。",
   "live_url": "https://medcounter.in/",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "finance_business",
+  "tag_slugs": [
+   "inventory",
+   "finance",
+   "mobile",
+   "automation",
+   "india",
+   "productivity"
+  ],
   "detected_stack": [
    "Cloudflare"
   ],
@@ -99428,11 +102083,12 @@
  {
   "slug": "betterimage",
   "title": "Free Social Card Generator | betterimage.io",
-  "short_description": "Design sharp social card images for link previews and blog headers without signup.",
-  "short_description_zh": "为链接预览和博客生成精美社交卡片，无需设计技能或注册。",
+  "short_description": "Generate social card images for link previews and blog headers without signing up.",
+  "short_description_zh": "为链接预览和博客标题生成社交卡片图像，无需注册。",
   "live_url": "https://betterimage.io",
   "primary_category": "creative_tools",
   "tag_slugs": [
+   "seo",
    "no-login",
    "marketing",
    "image-generation",
@@ -99750,11 +102406,16 @@
  {
   "slug": "jobfinder-ai",
   "title": "AI Job Finder — We Email the Hiring Manager For You · jobfinder-ai",
-  "short_description": "Stop applying into the ATS void. jobfinder-ai finds open roles, finds the real decision-maker, and sends an email worth replying to — from your own inbox, on autopilot.",
-  "short_description_zh": null,
+  "short_description": "Finds open jobs and automatically emails hiring managers to skip the application void.",
+  "short_description_zh": "自动寻找工作机会并向招聘经理发送个性化邮件。",
   "live_url": "https://jobfinder-ai.com",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "ai_agents",
+  "tag_slugs": [
+   "job-search",
+   "email",
+   "agent",
+   "automation"
+  ],
   "detected_stack": [
    "Vercel",
    "Next.js"
@@ -99804,7 +102465,7 @@
   "slug": "homedesigns",
   "title": "AI Home Design: Interior, Exterior & Floor Plan | HomeDesign",
   "short_description": "Redesign home interiors and exteriors with AI to generate 2D layouts, 3D renders, and 360° walkthroughs from photos.",
-  "short_description_zh": "HomeDesign 用 AI 帮你设计家居，上传照片或户型图即可生成 2D 布局、3D 效果图和 360° 全景。",
+  "short_description_zh": "用AI为家庭室内外重新设计，生成2D布局、3D渲染和360°全景漫游。",
   "live_url": "https://homedesigns.app",
   "primary_category": "creative_tools",
   "tag_slugs": [
@@ -99812,6 +102473,7 @@
    "interior-design",
    "3d",
    "photo",
+   "real-estate",
    "design"
   ],
   "detected_stack": [
@@ -99954,16 +102616,18 @@
  {
   "slug": "careerace",
   "title": "CareerAce | Free AI Interview & AI Resume Builder",
-  "short_description": "Practice interviews with AI and generate ATS-friendly resumes with real-time feedback.",
-  "short_description_zh": "用CareerAce进行AI模拟面试，生成ATS简历并获得实时反馈。",
+  "short_description": "Practice interviews with AI and generate ATS-friendly resumes.",
+  "short_description_zh": "与AI练习面试并生成ATS友好的简历。",
   "live_url": "https://careerace.app",
-  "primary_category": "education",
+  "primary_category": "productivity",
   "tag_slugs": [
    "job-search",
    "education",
    "agent",
    "resume",
-   "video"
+   "chatbot",
+   "video",
+   "productivity"
   ],
   "detected_stack": [
    "Cloudflare"
@@ -100046,7 +102710,7 @@
   "github_stars": 8,
   "recent_try_count": 0,
   "published_at": "2026-08-17T01:13:55.956+00:00",
-  "live_check_status": "live"
+  "live_check_status": "at_risk"
  },
  {
   "slug": "framee",
@@ -120561,11 +123225,12 @@
  {
   "slug": "earthcare-network",
   "title": "Earth Care Network — Make more money doing the right thing | Earth Care Network",
-  "short_description": "Paste your website to get an AI-generated growth plan and find values-aligned buyers.",
-  "short_description_zh": "粘贴网站获取AI生成的增长计划并找到价值对齐的买家。",
+  "short_description": "Paste your website to generate an AI growth plan and find values-aligned buyers.",
+  "short_description_zh": "粘贴网站生成 AI 增长计划并找到价值观一致的买家。",
   "live_url": "https://www.earthcare.network",
-  "primary_category": "ai_agents",
+  "primary_category": "finance_business",
   "tag_slugs": [
+   "analytics",
    "marketing",
    "agent",
    "finance",
@@ -120604,15 +123269,17 @@
  {
   "slug": "dnd-rostad-cc",
   "title": "The Best Free AI D&D Roleplaying Game · AI Dungeon Master That Remembers",
-  "short_description": "Play D&D with an AI Dungeon Master that remembers your world and decisions.",
-  "short_description_zh": "与AI地下城主一起进行D&D冒险，它会记住你的世界和决策。",
+  "short_description": "Play D&D with an AI dungeon master that remembers your world and decisions.",
+  "short_description_zh": "与记住你的世界和决定的AI地下城主一起玩D&D。",
   "live_url": "https://dnd.rostad.cc/",
   "primary_category": "games_play",
   "tag_slugs": [
    "fun",
    "agent",
    "narrative",
-   "game"
+   "chatbot",
+   "game",
+   "memory"
   ],
   "detected_stack": [
    "Cloudflare"
@@ -120649,11 +123316,16 @@
  {
   "slug": "levelworks",
   "title": "levelworks.org",
-  "short_description": "Professional estimates, invoices, job tracking, and AI assistant for contractors. Manage your contracting business efficiently.",
-  "short_description_zh": null,
+  "short_description": "AI-powered business management for contractors with estimates, invoices, and job tracking.",
+  "short_description_zh": "Levelworks是一个AI驱动的商务管理平台,为承包商提供估算单、发票和工作跟踪。",
   "live_url": "https://Levelworks.org",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "finance_business",
+  "tag_slugs": [
+   "agent",
+   "finance",
+   "automation",
+   "productivity"
+  ],
   "detected_stack": [
    "Vercel"
   ],
@@ -120931,11 +123603,17 @@
  {
   "slug": "getyourcosmos",
   "title": "get your cosmos - unlock my report",
-  "short_description": "Ask anything. Get answers from your chart.",
-  "short_description_zh": null,
+  "short_description": "Ask questions about your astrological chart and receive personalized cosmic answers.",
+  "short_description_zh": "向你的星盘提问获取个性化的宇宙洞见",
   "live_url": "https://getyourcosmos.com",
-  "primary_category": "other",
-  "tag_slugs": null,
+  "primary_category": "health_wellness",
+  "tag_slugs": [
+   "fun",
+   "astrology",
+   "health",
+   "agent",
+   "chatbot"
+  ],
   "detected_stack": [
    "Cloudflare"
   ],
@@ -121271,14 +123949,16 @@
  {
   "slug": "qianyanwanyu",
   "title": "万国语学习 — 多媒體竹簡 萬國語卷軸",
-  "short_description": "Learn languages through multimedia content including world literature, essays, and language introductions.",
-  "short_description_zh": "通过多媒体内容、世界文学和语言课程学习多种语言。",
+  "short_description": "Learn languages using multimedia content including world literature, essays, and language introductions.",
+  "short_description_zh": "通过多媒体内容学习语言，包括世界文学和散文。",
   "live_url": "https://qianyanwanyu.app",
   "primary_category": "education",
   "tag_slugs": [
    "language-learning",
    "no-login",
    "education",
+   "writing",
+   "multimedia",
    "chinese"
   ],
   "detected_stack": [
@@ -121401,7 +124081,7 @@
   "slug": "everycitymap",
   "title": "Custom City Map Maker · EveryCityMap",
   "short_description": "Create and style custom city maps from 500 curated cities, then download or share.",
-  "short_description_zh": "从500个精选城市创建自定义地图,然后下载或分享。",
+  "short_description_zh": "从500个精选城市创建自定义地图，下载或分享。",
   "live_url": "https://everycitymap.com/",
   "primary_category": "creative_tools",
   "tag_slugs": [
@@ -121629,10 +124309,10 @@
  {
   "slug": "soulmatechart",
   "title": "Soulmate Compatibility by Date of Birth | Free",
-  "short_description": "Enter two birth dates to receive an astrological compatibility score with insights.",
-  "short_description_zh": "输入两个出生日期获得星座相容性评分和关系洞见。",
+  "short_description": "Check astrological compatibility between two people using their birth dates.",
+  "short_description_zh": "输入两个出生日期，获取星座配对分数和关系洞察。",
   "live_url": "https://www.soulmatechart.com/",
-  "primary_category": "health_wellness",
+  "primary_category": "games_play",
   "tag_slugs": [
    "no-login",
    "fun",
@@ -138607,8 +141287,8 @@
  {
   "slug": "pastepile",
   "title": "Pastepile - Memory for your AI. Privacy for your secrets.",
-  "short_description": "Share encrypted code and text with an AI assistant that remembers your context.",
-  "short_description_zh": "与AI助手分享加密代码和文本，它会记住对话上下文。",
+  "short_description": "Share encrypted code and text snippets with AI assistants while maintaining context and privacy.",
+  "short_description_zh": "使用加密方式与AI助手共享代码和文本，保留对话记忆。",
   "live_url": "https://www.pastepile.com/",
   "primary_category": "developer_tools",
   "tag_slugs": [
@@ -138616,6 +141296,7 @@
    "developer-tool",
    "coding-assistant",
    "notes",
+   "encryption",
    "agent",
    "memory",
    "productivity"
@@ -138655,12 +141336,13 @@
  {
   "slug": "lodekeep",
   "title": "Lodekeep · one memory for every AI",
-  "short_description": "Portable memory that persists across Claude, ChatGPT, Cursor, and other AI assistants.",
-  "short_description_zh": "便携式记忆库，可在 Claude、ChatGPT、Cursor 等 AI 助手间持久保存。",
+  "short_description": "Store and share memory across multiple AI assistants like Claude and ChatGPT.",
+  "short_description_zh": "Lodekeep - 在多个 AI 助手间同步和共享记忆的便携系统。",
   "live_url": "https://lodekeep.com",
-  "primary_category": "ai_agents",
+  "primary_category": "productivity",
   "tag_slugs": [
    "developer-tool",
+   "notes",
    "agent",
    "llm",
    "memory",
@@ -138679,12 +141361,13 @@
  {
   "slug": "draftcareer",
   "title": "DraftCareer — Free Resume, CV & Cover Letter Builder",
-  "short_description": "Build multiple resume formats and cover letters from a single profile with AI assistance.",
-  "short_description_zh": "用AI协助从单个档案生成多种简历、CV和求职信格式。",
+  "short_description": "Build professional resumes, CVs, and cover letters with AI assistance from a single profile.",
+  "short_description_zh": "用AI助力从单一档案生成多种简历格式和求职信。",
   "live_url": "https://draftcareer.com",
   "primary_category": "productivity",
   "tag_slugs": [
    "job-search",
+   "agent",
    "resume",
    "writing",
    "ai-assistance",
@@ -139301,9 +141984,9 @@
   "slug": "lp-ledgerinfra",
   "title": "Share AI-Generated HTML Slides | LedgerInfra",
   "short_description": "Create and share AI-generated HTML slides with built-in version control.",
-  "short_description_zh": "AI生成HTML幻灯片，支持创建、分享和版本控制。",
+  "short_description_zh": "创建并共享AI生成的HTML幻灯片，内置版本控制。",
   "live_url": "https://lp.ledgerinfra.com/",
-  "primary_category": "productivity",
+  "primary_category": "creative_tools",
   "tag_slugs": [
    "html-slides",
    "presentations",
@@ -139312,6 +141995,7 @@
    "writing",
    "llm",
    "automation",
+   "presentation",
    "productivity",
    "design"
   ],
@@ -139931,8 +142615,8 @@
  {
   "slug": "murmell",
   "title": "A shared canvas for coding agents | Murmell",
-  "short_description": "Run multiple coding agents on a shared canvas with automatic file conflict prevention.",
-  "short_description_zh": "在共享画布上运行多个编码代理，自动防止文件冲突。",
+  "short_description": "Run multiple AI coding agents on a shared canvas with automatic conflict prevention.",
+  "short_description_zh": "在共享画布上运行多个 AI 编码代理，具有自动文件冲突防止。",
   "live_url": "https://murmell.com/",
   "primary_category": "ai_agents",
   "tag_slugs": [
@@ -142078,7 +144762,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 4,
+  "recent_try_count": 3,
   "published_at": "2026-08-03T02:09:16.75+00:00",
   "live_check_status": "live"
  },
@@ -143180,7 +145864,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 1,
+  "recent_try_count": 0,
   "published_at": "2026-08-02T09:00:44.8+00:00",
   "live_check_status": "live"
  },
@@ -145613,7 +148297,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 1,
+  "recent_try_count": 0,
   "published_at": "2026-08-01T03:21:07.369+00:00",
   "live_check_status": "live"
  },
@@ -152019,7 +154703,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 1,
+  "recent_try_count": 0,
   "published_at": "2026-07-30T01:43:01.27+00:00",
   "live_check_status": "live"
  },
@@ -159196,7 +161880,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 1,
+  "recent_try_count": 0,
   "published_at": "2026-07-27T19:55:17.13+00:00",
   "live_check_status": "live"
  },
@@ -164819,7 +167503,7 @@
    "Cloudflare",
    "Next.js"
   ],
-  "is_featured": true,
+  "is_featured": false,
   "github_stars": null,
   "recent_try_count": 0,
   "published_at": "2026-07-26T01:08:51.792+00:00",
@@ -179758,7 +182442,7 @@
   "slug": "mingshu-help",
   "title": "个人命书｜看见你所处的位置",
   "short_description": "Analyze your birth chart with AI to receive personalized guidance for life decisions.",
-  "short_description_zh": "通过AI解读你的命书，获得个人成长和决策指引。",
+  "short_description_zh": "用AI分析命书，获得人生决策的个性化指导。",
   "live_url": "https://mingshu.help/",
   "primary_category": "health_wellness",
   "tag_slugs": [
@@ -180301,8 +182985,8 @@
  {
   "slug": "reignat",
   "title": "Reignat - Simple, Privacy-First Google Analytics Alternative",
-  "short_description": "Privacy-first web analytics with revenue attribution, real-time visitors, and Core Web Vitals tracking.",
-  "short_description_zh": "隐私优先的网页分析工具，提供收入归因、实时访客和Core Web Vitals监测。",
+  "short_description": "Privacy-first analytics platform tracking real-time visitors and Core Web Vitals.",
+  "short_description_zh": "Reignat：隐私优先的网站分析，实时追踪访客和收入归属。",
   "live_url": "https://reignat.com/",
   "primary_category": "developer_tools",
   "tag_slugs": [
@@ -180310,7 +182994,9 @@
    "seo",
    "marketing",
    "developer-tool",
-   "privacy-focused"
+   "privacy-focused",
+   "data",
+   "privacy"
   ],
   "detected_stack": [
    "Cloudflare",
@@ -184404,7 +187090,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 0,
+  "recent_try_count": 1,
   "published_at": "2026-07-18T22:08:55.838+00:00",
   "live_check_status": "live"
  },
@@ -191616,7 +194302,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 3,
+  "recent_try_count": 4,
   "published_at": "2026-07-17T04:53:12.672+00:00",
   "live_check_status": "live"
  },
@@ -221480,7 +224166,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 0,
+  "recent_try_count": 1,
   "published_at": "2026-07-09T21:47:02.025+00:00",
   "live_check_status": "live"
  },
@@ -226143,7 +228829,7 @@
   ],
   "is_featured": false,
   "github_stars": null,
-  "recent_try_count": 1,
+  "recent_try_count": 0,
   "published_at": "2026-07-08T21:54:25.155+00:00",
   "live_check_status": "live"
  },
@@ -238191,8 +240877,8 @@
  {
   "slug": "olapply",
   "title": "Olapply — We match you with jobs and apply automatically",
-  "short_description": "AI agent automatically applies to matching jobs while career professionals review your applications.",
-  "short_description_zh": "Olapply用AI代理自动投递职位，职业人士审核您的应聘。",
+  "short_description": "AI agent automatically applies to matching jobs while professionals review your applications.",
+  "short_description_zh": "AI代理自动申请匹配的职位，专业人士审查您的申请。",
   "live_url": "https://Olapply.com",
   "primary_category": "ai_agents",
   "tag_slugs": [
@@ -240445,14 +243131,15 @@
  {
   "slug": "debateai",
   "title": "DebateIt · Debate practice, judged live.",
-  "short_description": "Practice debating against AI judges who provide real-time performance feedback.",
-  "short_description_zh": "DebateIt：与AI实时辩论，获得专业性能反馈。",
+  "short_description": "Practice debating against AI judges who provide real-time feedback on your performance.",
+  "short_description_zh": "与AI评委进行辩论练习，获得实时表现反馈。",
   "live_url": "https://DebateAI.com",
   "primary_category": "education",
   "tag_slugs": [
    "fun",
    "education",
    "agent",
+   "chatbot",
    "game",
    "social",
    "productivity"
@@ -241283,7 +243970,7 @@
   "github_stars": null,
   "recent_try_count": 0,
   "published_at": "2026-07-05T11:30:56.942+00:00",
-  "live_check_status": "at_risk"
+  "live_check_status": "unavailable"
  },
  {
   "slug": "corroba",
@@ -242158,14 +244845,16 @@
  {
   "slug": "namefit",
   "title": "NameFit",
-  "short_description": "Reverse auction marketplace connecting domain buyers with sellers who bid on requests.",
-  "short_description_zh": "发布域名需求，卖家竞价的反向拍卖市场",
+  "short_description": "Reverse auction marketplace for buying and selling domain names.",
+  "short_description_zh": "NameFit：域名反向拍卖市场，连接买卖双方。",
   "live_url": "https://NameFit.com",
   "primary_category": "finance_business",
   "tag_slugs": [
    "seo",
+   "search",
    "finance",
    "real-estate",
+   "auction",
    "productivity"
   ],
   "detected_stack": [
@@ -244694,10 +247383,10 @@
  {
   "slug": "deepvista",
   "title": "DeepVista | Your Playbooks. Run by AI.",
-  "short_description": "Build AI workflows to automate your sales and go-to-market processes.",
-  "short_description_zh": "DeepVista: 从笔记生成AI工作流自动化销售和营销流程。",
+  "short_description": "Build AI workflow playbooks to automate your sales and go-to-market processes.",
+  "short_description_zh": "构建AI工作流来自动化您的销售和市场推广流程。",
   "live_url": "https://DeepVista.ai",
-  "primary_category": "productivity",
+  "primary_category": "ai_agents",
   "tag_slugs": [
    "marketing",
    "notes",
@@ -246599,8 +249288,8 @@
  {
   "slug": "app-nz",
   "title": "app.nz | AI Agent Cloud for Coding Agents, Deploy, Models",
-  "short_description": "Deploy autonomous coding agents to your repositories with multi-model routing.",
-  "short_description_zh": "将自主编码代理部署到代码库，支持多模型路由。",
+  "short_description": "Deploy autonomous coding agents to repositories with multi-model routing.",
+  "short_description_zh": "部署自治编码代理到代码库，支持多模型路由。",
   "live_url": "https://app.nz",
   "primary_category": "ai_agents",
   "tag_slugs": [
@@ -248599,11 +251288,12 @@
  {
   "slug": "ithortechnology",
   "title": "Kensho: Anime Fitness App | iThor Technology LLP",
-  "short_description": "Track workouts and fitness routines with an anime-themed interface.",
-  "short_description_zh": "在动漫健身应用中记录锻炼并追踪健身进度。",
+  "short_description": "Track your fitness workouts with an anime-themed interface.",
+  "short_description_zh": "使用动画风格界面追踪健身锻炼和运动计划。",
   "live_url": "https://ithortechnology.com/app/kensho",
   "primary_category": "health_wellness",
   "tag_slugs": [
+   "anime",
    "analytics",
    "fun",
    "health",
@@ -250845,7 +253535,7 @@
   "slug": "outreign",
   "title": "OutReign — Know Who to Email Before Writing a Word",
   "short_description": "Find sales prospects and send personalized email campaigns.",
-  "short_description_zh": "根据客户描述发现销售潜在客户，发起个性化邮件活动",
+  "short_description_zh": "查找销售线索并发送个性化邮件营销活动。",
   "live_url": "https://Outreign.io",
   "primary_category": "finance_business",
   "tag_slugs": [
@@ -251138,8 +253828,8 @@
  {
   "slug": "improvemypage",
   "title": "Landing Page Audit Tool | Improve My Page",
-  "short_description": "Audit landing pages for conversion, SEO, speed, accessibility, security, and design.",
-  "short_description_zh": "为登陆页面审核转化率、SEO、性能和安全。",
+  "short_description": "Audit your landing pages for conversion, SEO, speed, accessibility, security, and design in one tool.",
+  "short_description_zh": "审计您的登陆页面以优化转换、SEO、速度、无障碍访问、安全性和设计。",
   "live_url": "https://Improvemypage.com",
   "primary_category": "developer_tools",
   "tag_slugs": [
@@ -251147,6 +253837,7 @@
    "seo",
    "marketing",
    "developer-tool",
+   "productivity",
    "design"
   ],
   "detected_stack": [
@@ -253521,28 +256212,6 @@
   "live_check_status": "live"
  },
  {
-  "slug": "forclubandcountry",
-  "title": "For Club and Country",
-  "short_description": "Browse which club each 2026 World Cup player plays for, including all squads, groups, and schedule.",
-  "short_description_zh": "浏览每位2026 World Cup球员所在的俱乐部，包括所有球队、小组和赛程。",
-  "live_url": "https://forclubandcountry.football",
-  "primary_category": "utilities",
-  "tag_slugs": [
-   "sports",
-   "no-login",
-   "fun",
-   "data"
-  ],
-  "detected_stack": [
-   "Vercel"
-  ],
-  "is_featured": false,
-  "github_stars": null,
-  "recent_try_count": 0,
-  "published_at": "2026-07-01T15:23:22.302033+00:00",
-  "live_check_status": "live"
- },
- {
   "slug": "verisite",
   "title": "Verisite",
   "short_description": "Paste your URL to get security findings for web apps explained in plain English",
@@ -253558,6 +256227,28 @@
   "detected_stack": [
    "Vercel",
    "Next.js"
+  ],
+  "is_featured": false,
+  "github_stars": null,
+  "recent_try_count": 0,
+  "published_at": "2026-07-01T15:23:22.302033+00:00",
+  "live_check_status": "live"
+ },
+ {
+  "slug": "forclubandcountry",
+  "title": "For Club and Country",
+  "short_description": "Browse which club each 2026 World Cup player plays for, including all squads, groups, and schedule.",
+  "short_description_zh": "浏览每位2026 World Cup球员所在的俱乐部，包括所有球队、小组和赛程。",
+  "live_url": "https://forclubandcountry.football",
+  "primary_category": "utilities",
+  "tag_slugs": [
+   "sports",
+   "no-login",
+   "fun",
+   "data"
+  ],
+  "detected_stack": [
+   "Vercel"
   ],
   "is_featured": false,
   "github_stars": null,
@@ -253614,25 +256305,24 @@
   "live_check_status": "live"
  },
  {
-  "slug": "mcprobe",
-  "title": "MCProbe",
-  "short_description": "Paste a URL to audit an MCP server and get a conformance score with fix recommendations.",
-  "short_description_zh": "粘贴URL来审计MCP服务器，获得符合性评分和修复建议。",
-  "live_url": "https://mcprobe.org",
-  "primary_category": "developer_tools",
+  "slug": "game-buddy",
+  "title": "Game Buddy",
+  "short_description": "Play arcade Keepy-Uppy King and browse FIFA World Cup 2026 fixtures and scores.",
+  "short_description_zh": "玩街机Keepy-Uppy King游戏，浏览FIFA World Cup 2026的赛程和比分。",
+  "live_url": "https://www.game-buddy.co.uk",
+  "primary_category": "games_play",
   "tag_slugs": [
-   "analytics",
-   "developer-tool",
-   "api",
-   "automation"
+   "united-kingdom",
+   "fun",
+   "game",
+   "arcade"
   ],
   "detected_stack": [
    "Vercel",
-   "Next.js",
    "Google Analytics"
   ],
   "is_featured": false,
-  "github_stars": 6,
+  "github_stars": null,
   "recent_try_count": 0,
   "published_at": "2026-07-01T14:55:03.674747+00:00",
   "live_check_status": "live"
@@ -253663,24 +256353,25 @@
   "live_check_status": "live"
  },
  {
-  "slug": "game-buddy",
-  "title": "Game Buddy",
-  "short_description": "Play arcade Keepy-Uppy King and browse FIFA World Cup 2026 fixtures and scores.",
-  "short_description_zh": "玩街机Keepy-Uppy King游戏，浏览FIFA World Cup 2026的赛程和比分。",
-  "live_url": "https://www.game-buddy.co.uk",
-  "primary_category": "games_play",
+  "slug": "mcprobe",
+  "title": "MCProbe",
+  "short_description": "Paste a URL to audit an MCP server and get a conformance score with fix recommendations.",
+  "short_description_zh": "粘贴URL来审计MCP服务器，获得符合性评分和修复建议。",
+  "live_url": "https://mcprobe.org",
+  "primary_category": "developer_tools",
   "tag_slugs": [
-   "united-kingdom",
-   "fun",
-   "game",
-   "arcade"
+   "analytics",
+   "developer-tool",
+   "api",
+   "automation"
   ],
   "detected_stack": [
    "Vercel",
+   "Next.js",
    "Google Analytics"
   ],
   "is_featured": false,
-  "github_stars": null,
+  "github_stars": 6,
   "recent_try_count": 0,
   "published_at": "2026-07-01T14:55:03.674747+00:00",
   "live_check_status": "live"
