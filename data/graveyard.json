@@ -1,5 +1,29 @@
 [
  {
+  "slug": "afterword-spremtlabs",
+  "title": "Afterword",
+  "short_description": "Record the people you love in their own voice.",
+  "live_url": "https://afterword.spremtlabs.com/",
+  "published_at": "2026-08-01T03:14:02.491+00:00",
+  "updated_at": "2026-09-19T16:02:02.288085+00:00"
+ },
+ {
+  "slug": "navigate-dubrovnikcom-lovable",
+  "title": "Navigate Dubrovnik – Premium Private Transfers & Tours",
+  "short_description": "Book private airport transfers and luxury tour services in Dubrovnik.",
+  "live_url": "https://navigate-dubrovnikcom.lovable.app",
+  "published_at": "2026-07-31T19:48:21.2+00:00",
+  "updated_at": "2026-09-19T16:02:01.912555+00:00"
+ },
+ {
+  "slug": "myhermes-host",
+  "title": "MyHermes - 24/7 AI Growth Agent",
+  "short_description": "AI agent that automates business growth: audience research, lead generation, outreach, and competitor tracking.",
+  "live_url": "https://myhermes.host",
+  "published_at": "2026-07-08T21:58:55.909+00:00",
+  "updated_at": "2026-09-19T16:02:01.551741+00:00"
+ },
+ {
   "slug": "conventus-pxxl-click",
   "title": "Conventus — Where Events Come Together",
   "short_description": "Host and discover events with tickets, guest lists, and door check-in.",
