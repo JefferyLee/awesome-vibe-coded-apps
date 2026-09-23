@@ -1,5 +1,37 @@
 [
  {
+  "slug": "testt-1-zguo-onrender",
+  "title": "SottoQR - সত্যQR",
+  "short_description": "SottoQR During the July 2024 uprising, fake and manipulated images obscured the truth, making it difficult to verify evidence or track justice. Our AI powered platform authenticate",
+  "live_url": "https://testt-1-zguo.onrender.com/",
+  "published_at": "2026-08-03T02:11:21.503+00:00",
+  "updated_at": "2026-09-23T16:06:33.965207+00:00"
+ },
+ {
+  "slug": "sticky-city-fly",
+  "title": "Sticky City - a Stick RPG",
+  "short_description": "people keep posting about the AI games they built with Claude so going to share mine... tried to recreate STICK RPG... you can play it here: https://t.co/FTkORGzDOl https://t.co/vL",
+  "live_url": "https://sticky-city.fly.dev/",
+  "published_at": "2026-08-03T02:24:26.28+00:00",
+  "updated_at": "2026-09-23T16:06:33.041431+00:00"
+ },
+ {
+  "slug": "nokiasnakegame",
+  "title": "Enhanced Nokia Snake Game - Play Snake Game Online Free | Nokia Snake Mods",
+  "short_description": "Play classic Nokia snake games with enhancements and mods directly in your browser.",
+  "live_url": "https://nokiasnakegame.org",
+  "published_at": "2026-07-12T12:39:20.238+00:00",
+  "updated_at": "2026-09-23T16:06:32.120495+00:00"
+ },
+ {
+  "slug": "threadquery",
+  "title": "Social data infrastructure",
+  "short_description": "API for querying structured public X data including posts, profiles, trends, and followers.",
+  "live_url": "https://threadquery.com/",
+  "published_at": "2026-07-23T23:35:22.276+00:00",
+  "updated_at": "2026-09-23T16:06:31.116836+00:00"
+ },
+ {
   "slug": "cciudjszjsdds",
   "title": "51Papaya｜原创互动媒体首发平台",
   "short_description": "Stream AI-generated interactive dramas and video content.",
