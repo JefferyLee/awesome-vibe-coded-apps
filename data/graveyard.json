@@ -1,5 +1,21 @@
 [
  {
+  "slug": "thepioneerroom",
+  "title": "The Pioneer Room",
+  "short_description": "A community platform where builders find teammates and collaborate on projects.",
+  "live_url": "https://thepioneerroom.com",
+  "published_at": "2026-07-17T05:03:49.46+00:00",
+  "updated_at": "2026-09-24T16:01:55.520865+00:00"
+ },
+ {
+  "slug": "candrelone-onrender",
+  "title": "CandrelOne | Modern HR Candidate Assessment Platform",
+  "short_description": "Build and grade candidate assessments with automated evaluation.",
+  "live_url": "https://candrelone.onrender.com/",
+  "published_at": "2026-07-29T01:11:28.808+00:00",
+  "updated_at": "2026-09-24T16:01:54.625085+00:00"
+ },
+ {
   "slug": "testt-1-zguo-onrender",
   "title": "SottoQR - সত্যQR",
   "short_description": "SottoQR During the July 2024 uprising, fake and manipulated images obscured the truth, making it difficult to verify evidence or track justice. Our AI powered platform authenticate",
