@@ -1,5 +1,21 @@
 [
  {
+  "slug": "agentforge-ctonew",
+  "title": "AgentForge AI — AI Sales Representative for Small Businesses",
+  "short_description": "AI sales representative that automatically captures, qualifies, and books leads for small businesses.",
+  "live_url": "https://agentforge.ctonew.app/",
+  "published_at": "2026-07-05T11:30:56.942+00:00",
+  "updated_at": "2026-09-25T16:00:30.572426+00:00"
+ },
+ {
+  "slug": "founderstack-tech",
+  "title": "Founder Stack | Find Top 1% Investors & $10M+ in Startup Credits",
+  "short_description": "Match with investors and access startup credits.",
+  "live_url": "https://Founderstack.tech",
+  "published_at": "2026-07-02T14:07:36.451+00:00",
+  "updated_at": "2026-09-25T16:00:30.166678+00:00"
+ },
+ {
   "slug": "thepioneerroom",
   "title": "The Pioneer Room",
   "short_description": "A community platform where builders find teammates and collaborate on projects.",
