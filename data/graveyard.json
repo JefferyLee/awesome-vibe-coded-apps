@@ -1,5 +1,21 @@
 [
  {
+  "slug": "staffexplorer",
+  "title": "Staffexplorer — AI Income OS for Remote Jobs & Gigs",
+  "short_description": "Set income goals and get matched with remote job opportunities with personalized action plans.",
+  "live_url": "https://Staffexplorer.app",
+  "published_at": "2026-07-03T22:20:53.485+00:00",
+  "updated_at": "2026-09-26T16:01:03.282814+00:00"
+ },
+ {
+  "slug": "larpuniverse",
+  "title": "Larp Universe",
+  "short_description": "Social commerce platform for LARP entrepreneurs to connect, buy, and sell.",
+  "live_url": "https://larpuniverse.com",
+  "published_at": "2026-07-24T23:49:51.428+00:00",
+  "updated_at": "2026-09-26T16:01:02.917116+00:00"
+ },
+ {
   "slug": "agentforge-ctonew",
   "title": "AgentForge AI — AI Sales Representative for Small Businesses",
   "short_description": "AI sales representative that automatically captures, qualifies, and books leads for small businesses.",
