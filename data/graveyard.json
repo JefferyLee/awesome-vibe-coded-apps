@@ -1,5 +1,13 @@
 [
  {
+  "slug": "themateflow",
+  "title": "Mateflow",
+  "short_description": "Ask questions to get visual answers as tables, charts, and flows instead of text.",
+  "live_url": "https://themateflow.com",
+  "published_at": "2026-07-17T21:15:09.141+00:00",
+  "updated_at": "2026-09-28T16:00:53.583507+00:00"
+ },
+ {
   "slug": "staffexplorer",
   "title": "Staffexplorer — AI Income OS for Remote Jobs & Gigs",
   "short_description": "Set income goals and get matched with remote job opportunities with personalized action plans.",
