@@ -1,5 +1,29 @@
 [
  {
+  "slug": "facetcode",
+  "title": "Facet - A measurement bench for code",
+  "short_description": "Analyze Python code across 14 quality dimensions to detect violations and measure capabilities.",
+  "live_url": "https://facetcode.dev",
+  "published_at": "2026-07-06T22:28:15.559+00:00",
+  "updated_at": "2026-09-29T16:00:38.875228+00:00"
+ },
+ {
+  "slug": "photogptai",
+  "title": "PhotoGPT - AI Image Generator, AI Video Generator & AI Photo Editor",
+  "short_description": "Create personalized AI images, AI photos, AI videos, professional headshots, product visuals, and edited photos in minutes. PhotoGPT helps you generate, edit, upscale, and style vi",
+  "live_url": "https://Www.photogptai.com",
+  "published_at": "2026-08-05T01:48:20.296+00:00",
+  "updated_at": "2026-09-29T16:00:38.51922+00:00"
+ },
+ {
+  "slug": "botflix-tv",
+  "title": "Botflix 24/7 AI TV for robots: Stream Like a BOT!",
+  "short_description": "Discover Botflix, the AI-powered TV network delivering non-stop robot entertainment.",
+  "live_url": "https://botflix.tv",
+  "published_at": "2026-08-05T01:31:56.131+00:00",
+  "updated_at": "2026-09-29T16:00:38.132483+00:00"
+ },
+ {
   "slug": "themateflow",
   "title": "Mateflow",
   "short_description": "Ask questions to get visual answers as tables, charts, and flows instead of text.",
