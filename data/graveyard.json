@@ -1,5 +1,13 @@
 [
  {
+  "slug": "subprune-vercel",
+  "title": "SubPrune: renewal Alerts without storing your bank data",
+  "short_description": "Drop in a Statement (CSV or text-backed PDF), get Alerts three days before every subscription renews. Parsing happens in your browser; the file is never stored.",
+  "live_url": "https://subprune.vercel.app/",
+  "published_at": "2026-08-12T02:21:37.577+00:00",
+  "updated_at": "2026-09-30T16:00:48.70323+00:00"
+ },
+ {
   "slug": "facetcode",
   "title": "Facet - A measurement bench for code",
   "short_description": "Analyze Python code across 14 quality dimensions to detect violations and measure capabilities.",
