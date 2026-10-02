@@ -1,5 +1,53 @@
 [
  {
+  "slug": "precandle64-trade",
+  "title": "precandle64 — news-driven trading signals",
+  "short_description": "Get Buy/Hold/Sell signals for stocks, crypto, and prediction markets based on live news.",
+  "live_url": "https://precandle64.trade/app",
+  "published_at": "2026-07-31T01:29:13.51+00:00",
+  "updated_at": "2026-10-01T16:00:41.778045+00:00"
+ },
+ {
+  "slug": "gettrustloop",
+  "title": "TrustLoopGuard — Runtime control for AI agents",
+  "short_description": "Check AI agent outputs and actions against your policies before execution; get allow, block, rewrite, or escalate decisions.",
+  "live_url": "https://gettrustloop.app/",
+  "published_at": "2026-07-22T01:33:04.185+00:00",
+  "updated_at": "2026-10-01T16:00:41.395799+00:00"
+ },
+ {
+  "slug": "svalue-bicon-lovable",
+  "title": "Service Design Studio — Design Better Services with AI",
+  "short_description": "Map, analyze and redesign service experiences with AI-generated blueprints and journey maps.",
+  "live_url": "https://svalue-bicon.lovable.app",
+  "published_at": "2026-08-05T19:53:58.459+00:00",
+  "updated_at": "2026-10-01T16:00:41.028545+00:00"
+ },
+ {
+  "slug": "wheesper",
+  "title": "Wheesper: Private discussions for honest conversations",
+  "short_description": "Get honest feedback in private discussions using stable pseudonyms.",
+  "live_url": "https://wheesper.com",
+  "published_at": "2026-07-22T01:27:58.682+00:00",
+  "updated_at": "2026-10-01T16:00:40.664911+00:00"
+ },
+ {
+  "slug": "h-missz-top",
+  "title": "今日热榜 DailyHot | 全网热点聚合、在线工具与热榜 API | 实时榜单更新、跨平台热点追踪",
+  "short_description": "Aggregates real-time trending topics from Chinese social platforms with API access and online tools.",
+  "live_url": "https://h.missz.top",
+  "published_at": "2026-08-05T19:57:31.872+00:00",
+  "updated_at": "2026-10-01T16:00:40.300854+00:00"
+ },
+ {
+  "slug": "digitaltwin-etcc-onrender",
+  "title": "digitaltwin-etcc-onrender",
+  "short_description": "Conversational AI that synthesizes answers from multiple documents using retrieval-augmented generation.",
+  "live_url": "https://digitaltwin-etcc.onrender.com/",
+  "published_at": "2026-08-05T19:51:19.242+00:00",
+  "updated_at": "2026-10-01T16:00:39.939435+00:00"
+ },
+ {
   "slug": "subprune-vercel",
   "title": "SubPrune: renewal Alerts without storing your bank data",
   "short_description": "Drop in a Statement (CSV or text-backed PDF), get Alerts three days before every subscription renews. Parsing happens in your browser; the file is never stored.",
