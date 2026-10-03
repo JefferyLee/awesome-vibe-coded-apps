@@ -1,5 +1,53 @@
 [
  {
+  "slug": "poly-context",
+  "title": "PolyContext — AI-native localization for developers",
+  "short_description": "Translate locale files with context and tone awareness for games and software.",
+  "live_url": "https://poly-context.com",
+  "published_at": "2026-07-08T23:44:35.425+00:00",
+  "updated_at": "2026-10-02T16:00:41.502928+00:00"
+ },
+ {
+  "slug": "node-readout-prestigeestate9-replit",
+  "title": "Node Readout",
+  "short_description": "View and read data from nodes in the Akash Network decentralized computing platform.",
+  "live_url": "https://node-readout--prestigeestate9.replit.app",
+  "published_at": "2026-07-05T08:31:12.598+00:00",
+  "updated_at": "2026-10-02T16:00:40.938524+00:00"
+ },
+ {
+  "slug": "lurkx",
+  "title": "lurkx - Exposure workspace",
+  "short_description": "Search and analyze breach data, threat feeds, and exposed credentials from a single workspace.",
+  "live_url": "https://lurkx.com",
+  "published_at": "2026-07-05T08:33:17.277+00:00",
+  "updated_at": "2026-10-02T16:00:40.57904+00:00"
+ },
+ {
+  "slug": "weiwied",
+  "title": "Sub2API - AI API Gateway",
+  "short_description": "AI API gateway that routes requests to Claude, GPT and other services with token management.",
+  "live_url": "https://weiwied.com/",
+  "published_at": "2026-07-15T20:09:50.941+00:00",
+  "updated_at": "2026-10-02T16:00:40.203585+00:00"
+ },
+ {
+  "slug": "rankd-psi-vercel",
+  "title": "LoL RankBoard",
+  "short_description": "See how your friends are doing in ranked — rank, LP, winrate, recent games.",
+  "live_url": "https://rankd-psi.vercel.app/",
+  "published_at": "2026-07-08T19:54:32.745+00:00",
+  "updated_at": "2026-10-02T16:00:39.826543+00:00"
+ },
+ {
+  "slug": "lovepreet-dev-dev-github",
+  "title": "Machine Learning Studio",
+  "short_description": "Interactive machine learning concepts — edit the input data, read the formula with your own numbers substituted into it, and step the algorithm one iteration at a time.",
+  "live_url": "https://lovepreet-dev-dev.github.io/learnvisualy.github.io/",
+  "published_at": "2026-08-06T01:26:17.212+00:00",
+  "updated_at": "2026-10-02T16:00:39.455287+00:00"
+ },
+ {
   "slug": "precandle64-trade",
   "title": "precandle64 — news-driven trading signals",
   "short_description": "Get Buy/Hold/Sell signals for stocks, crypto, and prediction markets based on live news.",
