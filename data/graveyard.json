@@ -1,5 +1,61 @@
 [
  {
+  "slug": "words-of-word-onrender",
+  "title": "Words of Word — Real-Time Word Battle",
+  "short_description": "Multiplayer real-time word puzzle game where players battle with vocabulary challenges and fast thinking.",
+  "live_url": "https://words-of-word.onrender.com",
+  "published_at": "2026-07-09T21:56:37.527+00:00",
+  "updated_at": "2026-10-06T16:01:06.572634+00:00"
+ },
+ {
+  "slug": "tokenduoduo-cc",
+  "title": "TokenDuoDuo - AI API 网关",
+  "short_description": "API gateway providing discounted access to GPT models including chat and image generation.",
+  "live_url": "https://tokenduoduo.cc",
+  "published_at": "2026-08-06T19:22:50.222+00:00",
+  "updated_at": "2026-10-06T16:01:06.210524+00:00"
+ },
+ {
+  "slug": "cred402-yxwk-onrender",
+  "title": "Cred402 — Pay-per-use credential verification on Hedera",
+  "short_description": "Upload and verify credentials with Hedera-backed tamper detection, paying per use.",
+  "live_url": "https://cred402-yxwk.onrender.com",
+  "published_at": "2026-07-27T19:23:00.551+00:00",
+  "updated_at": "2026-10-06T16:01:05.825788+00:00"
+ },
+ {
+  "slug": "memeverse-lemon-vercel",
+  "title": "MemeVerse — Share Memes, Shorts & Vibes",
+  "short_description": "MemeVerse is the ultimate platform for memes, short-form videos, and viral content. Join the community, fire off reactions, and ride every wave.",
+  "live_url": "https://memeverse-lemon.vercel.app/",
+  "published_at": "2026-08-01T03:02:22.149+00:00",
+  "updated_at": "2026-10-06T16:01:05.454694+00:00"
+ },
+ {
+  "slug": "ruta-financiera-latam-lovable",
+  "title": "Tu Dinero Inteligente — IA financiera para México",
+  "short_description": "AI financial advisor answering why money runs out, when debt ends, and whether you can afford major purchases.",
+  "live_url": "https://ruta-financiera-latam.lovable.app",
+  "published_at": "2026-08-06T20:05:53.961+00:00",
+  "updated_at": "2026-10-06T16:01:04.839921+00:00"
+ },
+ {
+  "slug": "veriwasp",
+  "title": "Automated testing for indie SaaS · VeriWasp",
+  "short_description": "Automated testing platform with browser tests, API testing, and accessibility scanning for SaaS.",
+  "live_url": "https://Veriwasp.com",
+  "published_at": "2026-07-11T22:23:08.546+00:00",
+  "updated_at": "2026-10-06T16:01:04.459609+00:00"
+ },
+ {
+  "slug": "startuphq-site",
+  "title": "Startup HQ — AI Co-Founder for indie founders",
+  "short_description": "AI co-founder platform helping indie founders from idea to launch with multi-agent research, validation, GTM, and planning.",
+  "live_url": "https://startuphq.site/",
+  "published_at": "2026-07-28T02:22:46.755+00:00",
+  "updated_at": "2026-10-06T16:01:04.059364+00:00"
+ },
+ {
   "slug": "poly-context",
   "title": "PolyContext — AI-native localization for developers",
   "short_description": "Translate locale files with context and tone awareness for games and software.",
