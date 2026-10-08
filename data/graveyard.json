@@ -1,5 +1,29 @@
 [
  {
+  "slug": "finance-rauell-systems",
+  "title": "FinTrack | Free Personal Finance Tracker for Kenya & East Africa",
+  "short_description": "Personal finance tracker for M-Pesa, bank, and cash with real-time sync and budget alerts.",
+  "live_url": "https://finance.rauell.systems",
+  "published_at": "2026-07-27T19:22:36.803+00:00",
+  "updated_at": "2026-10-07T16:01:00.344625+00:00"
+ },
+ {
+  "slug": "habit-mood-tracker-mospace36farah-replit",
+  "title": "Habit & Mood Tracker",
+  "short_description": "Track daily habits and moods, earn streaks and points, view analytics.",
+  "live_url": "https://habit-mood-tracker--mospace36farah.replit.app",
+  "published_at": "2026-07-10T19:44:52.142+00:00",
+  "updated_at": "2026-10-07T16:00:59.905081+00:00"
+ },
+ {
+  "slug": "inpodcast",
+  "title": "AI Podcast Generator & Document to Podcast | Inpodcast AI",
+  "short_description": "Convert documents and text into podcast audio with AI voice generation and editing.",
+  "live_url": "https://inpodcast.ai",
+  "published_at": "2026-07-12T11:53:04.409+00:00",
+  "updated_at": "2026-10-07T16:00:59.494801+00:00"
+ },
+ {
   "slug": "words-of-word-onrender",
   "title": "Words of Word — Real-Time Word Battle",
   "short_description": "Multiplayer real-time word puzzle game where players battle with vocabulary challenges and fast thinking.",
