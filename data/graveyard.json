@@ -1,5 +1,21 @@
 [
  {
+  "slug": "xenoraai",
+  "title": "Nora - Legal Aid Assistant",
+  "short_description": "An AI assistant that helps Canadians understand their rights and navigate federal and provincial laws in plain language.",
+  "live_url": "https://xenoraai.com",
+  "published_at": "2026-07-23T23:35:39.325+00:00",
+  "updated_at": "2026-10-08T16:01:39.350186+00:00"
+ },
+ {
+  "slug": "falvox",
+  "title": "Falvox — Stop Watching. Start Mastering.",
+  "short_description": "Transform YouTube videos into personalized AI courses with interactive lessons, quizzes, and flashcards.",
+  "live_url": "https://falvox.app/share.html",
+  "published_at": "2026-08-03T03:15:39.262+00:00",
+  "updated_at": "2026-10-08T16:01:38.9854+00:00"
+ },
+ {
   "slug": "finance-rauell-systems",
   "title": "FinTrack | Free Personal Finance Tracker for Kenya & East Africa",
   "short_description": "Personal finance tracker for M-Pesa, bank, and cash with real-time sync and budget alerts.",
