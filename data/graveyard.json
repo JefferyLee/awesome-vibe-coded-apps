@@ -1,5 +1,13 @@
 [
  {
+  "slug": "cv-express-ai-base44",
+  "title": "Base44 APP",
+  "short_description": "Create professional resumes and CVs using AI assistance.",
+  "live_url": "https://cv-express-ai.base44.app",
+  "published_at": "2026-07-12T23:04:58.682+00:00",
+  "updated_at": "2026-10-09T16:00:14.969868+00:00"
+ },
+ {
   "slug": "xenoraai",
   "title": "Nora - Legal Aid Assistant",
   "short_description": "An AI assistant that helps Canadians understand their rights and navigate federal and provincial laws in plain language.",
