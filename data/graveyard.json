@@ -1,5 +1,29 @@
 [
  {
+  "slug": "bitcroupier-itch",
+  "title": "BitCroupier by bitcroupier",
+  "short_description": "Play roulette as the croupier or player in this free browser game.",
+  "live_url": "https://bitcroupier.itch.io/roulette",
+  "published_at": "2026-08-09T19:50:35.646+00:00",
+  "updated_at": "2026-10-10T16:02:38.192091+00:00"
+ },
+ {
+  "slug": "go-earn-grow-lovable",
+  "title": "Painel do dia — Girô",
+  "short_description": "Track your daily delivery earnings, expenses, distance rates, and hourly rates in one panel.",
+  "live_url": "https://go-earn-grow.lovable.app",
+  "published_at": "2026-08-09T19:53:55.358+00:00",
+  "updated_at": "2026-10-10T16:02:37.827816+00:00"
+ },
+ {
+  "slug": "loop-app-xi-vercel",
+  "title": "Loop - Social Media Reimagined",
+  "short_description": "Connect and collaborate with others through a social media app featuring 3D visual effects.",
+  "live_url": "https://loop-app-xi.vercel.app/",
+  "published_at": "2026-07-29T01:20:43.71+00:00",
+  "updated_at": "2026-10-10T16:02:37.450072+00:00"
+ },
+ {
   "slug": "cv-express-ai-base44",
   "title": "Base44 APP",
   "short_description": "Create professional resumes and CVs using AI assistance.",
