@@ -1,5 +1,45 @@
 [
  {
+  "slug": "good-and-good",
+  "title": "good & good.",
+  "short_description": "trabajá en equipo, ahorrá tokens",
+  "live_url": "https://good-and-good.com",
+  "published_at": "2026-08-04T01:04:57.007+00:00",
+  "updated_at": "2026-10-11T16:00:59.929843+00:00"
+ },
+ {
+  "slug": "anteluca",
+  "title": "anteluca - the operating system for people who build alone",
+  "short_description": "An operating system for solo builders with AI-powered planning, focused work sessions, and personalized coaching.",
+  "live_url": "https://anteluca.com",
+  "published_at": "2026-07-20T19:46:53.985+00:00",
+  "updated_at": "2026-10-11T16:00:59.833261+00:00"
+ },
+ {
+  "slug": "thrilling-world",
+  "title": "This was the quiet one. — SHOCKME",
+  "short_description": "you were told: you are early. A record of one visit to a room that gives everyone a different version.",
+  "live_url": "https://thrilling.world/a/db65d7c8d274",
+  "published_at": "2026-08-10T01:18:42.622+00:00",
+  "updated_at": "2026-10-11T16:00:59.745632+00:00"
+ },
+ {
+  "slug": "penut",
+  "title": "Penut — Growth, on autopilot",
+  "short_description": "Run marketing, content, and customer ops by chatting with AI. Built for founders who'd rather direct than do.",
+  "live_url": "https://www.penut.ai",
+  "published_at": "2026-08-10T01:08:31.645+00:00",
+  "updated_at": "2026-10-11T16:00:59.658409+00:00"
+ },
+ {
+  "slug": "mavero-markets",
+  "title": "Mavero Market",
+  "short_description": "Mavero Market — professional trading insights and subscription management.",
+  "live_url": "https://mavero-markets.com",
+  "published_at": "2026-08-04T02:10:02.649+00:00",
+  "updated_at": "2026-10-11T16:00:59.460314+00:00"
+ },
+ {
   "slug": "bitcroupier-itch",
   "title": "BitCroupier by bitcroupier",
   "short_description": "Play roulette as the croupier or player in this free browser game.",
