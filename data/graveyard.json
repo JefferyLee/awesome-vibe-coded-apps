@@ -1,5 +1,45 @@
 [
  {
+  "slug": "browser-toolkit-daviddokholyan7-replit",
+  "title": "Text Tools",
+  "short_description": "Remove duplicates and clean messy text without uploading your data.",
+  "live_url": "https://browser-toolkit--daviddokholyan7.replit.app",
+  "published_at": "2026-07-24T23:50:24.242+00:00",
+  "updated_at": "2026-10-13T16:00:38.041973+00:00"
+ },
+ {
+  "slug": "previewmate",
+  "title": "Tradie Quotes with Before & After Photos | PreviewMate",
+  "short_description": "Generate professional construction quotes with AI-rendered before-and-after photos in minutes.",
+  "live_url": "https://previewmate.com",
+  "published_at": "2026-07-21T01:44:17.995+00:00",
+  "updated_at": "2026-10-13T16:00:37.219059+00:00"
+ },
+ {
+  "slug": "shift-swap-hub-alpha-vercel",
+  "title": "ShiftSwap",
+  "short_description": "Swap work shifts with coworkers without using group chats.",
+  "live_url": "https://shift-swap-hub-alpha.vercel.app",
+  "published_at": "2026-07-29T19:51:30.316+00:00",
+  "updated_at": "2026-10-13T16:00:36.344714+00:00"
+ },
+ {
+  "slug": "doodlejudge",
+  "title": "Doodle Judge — AI Judges Your Doodles",
+  "short_description": "Draw the same secret prompt as your friends, then let an AI roast your drawings.",
+  "live_url": "https://doodlejudge.com",
+  "published_at": "2026-07-14T20:22:10.222+00:00",
+  "updated_at": "2026-10-13T16:00:35.509349+00:00"
+ },
+ {
+  "slug": "tingge-production-up-railway",
+  "title": "听歌 Next",
+  "short_description": "Listen to music together in shared rooms with chat, skip voting, and AI-powered song requests.",
+  "live_url": "https://tingge-production.up.railway.app/",
+  "published_at": "2026-07-17T19:22:16.214+00:00",
+  "updated_at": "2026-10-13T16:00:34.662387+00:00"
+ },
+ {
   "slug": "good-and-good",
   "title": "good & good.",
   "short_description": "trabajá en equipo, ahorrá tokens",
