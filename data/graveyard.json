@@ -1,5 +1,13 @@
 [
  {
+  "slug": "dukkanpage-vercel",
+  "title": "DukanPage — Catalog pages for Indian sellers",
+  "short_description": "Convert product photos into AI-generated catalog pages shareable on WhatsApp.",
+  "live_url": "https://dukkanpage.vercel.app",
+  "published_at": "2026-07-06T10:31:48.463+00:00",
+  "updated_at": "2026-10-14T16:01:23.723369+00:00"
+ },
+ {
   "slug": "browser-toolkit-daviddokholyan7-replit",
   "title": "Text Tools",
   "short_description": "Remove duplicates and clean messy text without uploading your data.",
