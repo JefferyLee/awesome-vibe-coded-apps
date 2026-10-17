@@ -1,5 +1,37 @@
 [
  {
+  "slug": "analyse-wikawe-online",
+  "title": "Private CSV Excel JSON Analytics in Browser — No Upload | Wikawe Analyse",
+  "short_description": "Build beautiful dashboards from CSV, Excel, or JSON 100% in your browser. No upload, no tracking, no server. Auto charts, KPIs, filters, and shareable .wka files.",
+  "live_url": "https://analyse.wikawe.online",
+  "published_at": "2026-08-05T01:43:57.421+00:00",
+  "updated_at": "2026-10-16T16:01:10.858255+00:00"
+ },
+ {
+  "slug": "tastebud-treasure-delivery-lovable",
+  "title": "Home Made Khana | Fresh Home-Style Food Delivery in Gulistan-e-Johar, Karachi",
+  "short_description": "Order authentic Pakistani home-cooked food for delivery in Karachi via WhatsApp.",
+  "live_url": "https://tastebud-treasure-delivery.lovable.app",
+  "published_at": "2026-08-11T20:59:44.365+00:00",
+  "updated_at": "2026-10-16T16:01:10.061387+00:00"
+ },
+ {
+  "slug": "perenne-ai-vercel",
+  "title": "PerenneAI",
+  "short_description": "Chat with an AI companion to manage tasks, automate workflows, and boost your productivity.",
+  "live_url": "https://perenne-ai.vercel.app",
+  "published_at": "2026-08-05T01:31:13.995+00:00",
+  "updated_at": "2026-10-16T16:01:09.299485+00:00"
+ },
+ {
+  "slug": "cars-wikawe-online",
+  "title": "New Cars in India — Prices, Specs & Ratings | Wikawe Garage",
+  "short_description": "Everything About Every Car. Browse new cars with ex-showroom prices, mileage, safety ratings, Wikawe Garage scores (out of 5), timelines & compare tools. Privacy-first car research",
+  "live_url": "https://cars.wikawe.online",
+  "published_at": "2026-08-05T01:44:30.248+00:00",
+  "updated_at": "2026-10-16T16:01:08.493861+00:00"
+ },
+ {
   "slug": "dukkanpage-vercel",
   "title": "DukanPage — Catalog pages for Indian sellers",
   "short_description": "Convert product photos into AI-generated catalog pages shareable on WhatsApp.",
