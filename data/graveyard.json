@@ -1,5 +1,21 @@
 [
  {
+  "slug": "axiom-v3-rho-vercel",
+  "title": "Axiom — Engineering Memory Infrastructure",
+  "short_description": "Axiom is an engineering memory layer that maps codebase relationships, predicts change impact, and preserves institutional knowledge.",
+  "live_url": "https://axiom-v3-rho.vercel.app/",
+  "published_at": "2026-08-12T02:58:18.915+00:00",
+  "updated_at": "2026-10-17T16:01:12.572538+00:00"
+ },
+ {
+  "slug": "kostlens",
+  "title": "KostLens · All your AI spend in one place, per customer",
+  "short_description": "Track AI API costs from 54 different providers and tools in one unified dashboard.",
+  "live_url": "https://kostlens.com",
+  "published_at": "2026-08-05T19:59:52.049+00:00",
+  "updated_at": "2026-10-17T16:01:11.268307+00:00"
+ },
+ {
   "slug": "analyse-wikawe-online",
   "title": "Private CSV Excel JSON Analytics in Browser — No Upload | Wikawe Analyse",
   "short_description": "Build beautiful dashboards from CSV, Excel, or JSON 100% in your browser. No upload, no tracking, no server. Auto charts, KPIs, filters, and shareable .wka files.",
@@ -166,14 +182,6 @@
   "live_url": "https://falvox.app/share.html",
   "published_at": "2026-08-03T03:15:39.262+00:00",
   "updated_at": "2026-10-08T16:01:38.9854+00:00"
- },
- {
-  "slug": "finance-rauell-systems",
-  "title": "FinTrack | Free Personal Finance Tracker for Kenya & East Africa",
-  "short_description": "Personal finance tracker for M-Pesa, bank, and cash with real-time sync and budget alerts.",
-  "live_url": "https://finance.rauell.systems",
-  "published_at": "2026-07-27T19:22:36.803+00:00",
-  "updated_at": "2026-10-07T16:01:00.344625+00:00"
  },
  {
   "slug": "habit-mood-tracker-mospace36farah-replit",
@@ -470,14 +478,6 @@
   "live_url": "https://steveherbalventures.lovable.app",
   "published_at": "2026-07-27T19:54:19.676+00:00",
   "updated_at": "2026-09-21T16:01:06.644506+00:00"
- },
- {
-  "slug": "seedance2-video",
-  "title": "Seedance 2.0 - AI Video Generation Platform",
-  "short_description": "Generate professional AI videos from your ideas using Seedance 2.0.",
-  "live_url": "https://seedance2.video",
-  "published_at": "2026-07-12T09:18:18.511+00:00",
-  "updated_at": "2026-09-21T16:01:05.742908+00:00"
  },
  {
   "slug": "realjoboffers",
@@ -1078,14 +1078,6 @@
   "live_url": "https://product-tracer.vercel.app/",
   "published_at": "2026-07-05T11:29:14.281+00:00",
   "updated_at": "2026-07-26T07:29:11.121225+00:00"
- },
- {
-  "slug": "paytree-to",
-  "title": "Paytree — The bio link for creators who monetize",
-  "short_description": "AI-powered bio link for creators with commerce, analytics, and 0% platform fees.",
-  "live_url": "https://paytree.to",
-  "published_at": "2026-07-05T21:36:04.775+00:00",
-  "updated_at": "2026-07-26T07:29:10.632665+00:00"
  },
  {
   "slug": "merge-risk-vercel",
