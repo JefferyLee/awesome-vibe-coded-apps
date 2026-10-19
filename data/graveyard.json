@@ -1,5 +1,29 @@
 [
  {
+  "slug": "marqr-codes",
+  "title": "Link in Bio Tool: Everything brands need to host a professional micro-site - Mar",
+  "short_description": "Create a branded link-in-bio page to publish content and track visitor engagement.",
+  "live_url": "https://marqr.codes/h0ffj",
+  "published_at": "2026-07-08T22:03:18.401+00:00",
+  "updated_at": "2026-10-18T16:01:13.133913+00:00"
+ },
+ {
+  "slug": "forge-theutopianspace",
+  "title": "Forge — AI Content Strategy Platform for Creators & Agencies",
+  "short_description": "AI content strategy platform that scores posts and plans your social media calendar across LinkedIn and Instagram.",
+  "live_url": "https://Forge.theutopianspace.com",
+  "published_at": "2026-07-08T02:50:44.241+00:00",
+  "updated_at": "2026-10-18T16:01:12.020311+00:00"
+ },
+ {
+  "slug": "digitalcontentengine",
+  "title": "AI Content Generator for Small Businesses | Digital Content Engine",
+  "short_description": "Every week DCE creates a ready-to-use blog, 3 Instagram posts, 5 social posts and matching images for your business. Choose between two finished versions for £9.99 per month.",
+  "live_url": "https://digitalcontentengine.com/",
+  "published_at": "2026-08-06T01:34:17.463+00:00",
+  "updated_at": "2026-10-18T16:01:10.904012+00:00"
+ },
+ {
   "slug": "axiom-v3-rho-vercel",
   "title": "Axiom — Engineering Memory Infrastructure",
   "short_description": "Axiom is an engineering memory layer that maps codebase relationships, predicts change impact, and preserves institutional knowledge.",
