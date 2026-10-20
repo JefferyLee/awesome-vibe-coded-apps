@@ -1,5 +1,45 @@
 [
  {
+  "slug": "gitscore-mu-vercel",
+  "title": "GitScore — GitHub Profile Analyzer",
+  "short_description": "Analyze any GitHub profile to get a score, badges, language breakdown, and a roast.",
+  "live_url": "https://gitscore-mu.vercel.app",
+  "published_at": "2026-07-18T22:13:28.066+00:00",
+  "updated_at": "2026-10-19T16:01:25.5525+00:00"
+ },
+ {
+  "slug": "tm-wailiwaili",
+  "title": "天命心相",
+  "short_description": "Chinese personality test using daily reactions to reveal your nature, relationship patterns, and stress manifestations.",
+  "live_url": "http://tm.wailiwaili.com/",
+  "published_at": "2026-07-18T21:22:42.084+00:00",
+  "updated_at": "2026-10-19T16:01:24.733452+00:00"
+ },
+ {
+  "slug": "jilge-ch",
+  "title": "JR BucketSim – Withdrawal Calculator (3-Bucket)",
+  "short_description": "Simulate portfolio withdrawals using a three-bucket strategy.",
+  "live_url": "https://www.jilge.ch/JRBucket/web/index-en.php",
+  "published_at": "2026-08-20T19:45:34.968+00:00",
+  "updated_at": "2026-10-19T16:01:23.836544+00:00"
+ },
+ {
+  "slug": "kumoranotes-lovable",
+  "title": "Kumora Notes — offline notes",
+  "short_description": "Offline notebook with folders, tags, and Markdown for notes and tasks.",
+  "live_url": "https://kumoranotes.lovable.app",
+  "published_at": "2026-07-08T20:41:56.486+00:00",
+  "updated_at": "2026-10-19T16:01:22.455169+00:00"
+ },
+ {
+  "slug": "aaas-marketplace-1089237826218-asia-northeast1-run",
+  "title": "AaaS Market — AIエージェントの機械対機械マーケットプレイス",
+  "short_description": "A marketplace for AI agents to buy and sell services to each other using USDC stablecoin payments.",
+  "live_url": "https://aaas-marketplace-1089237826218.asia-northeast1.run.app",
+  "published_at": "2026-08-13T01:11:39.945+00:00",
+  "updated_at": "2026-10-19T16:01:20.874546+00:00"
+ },
+ {
   "slug": "marqr-codes",
   "title": "Link in Bio Tool: Everything brands need to host a professional micro-site - Mar",
   "short_description": "Create a branded link-in-bio page to publish content and track visitor engagement.",
