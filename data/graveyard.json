@@ -1,5 +1,45 @@
 [
  {
+  "slug": "krooko-vercel",
+  "title": "Krooko — Find the partner your idea has been waiting for.",
+  "short_description": "Post your project idea and find co-founders or collaborators who want to build it.",
+  "live_url": "https://krooko.vercel.app",
+  "published_at": "2026-08-06T20:43:38.309+00:00",
+  "updated_at": "2026-10-20T16:02:31.262956+00:00"
+ },
+ {
+  "slug": "middle-earth-portfolio-nicholaspatricksuyat-workers",
+  "title": "Project X — Interactive Portfolio",
+  "short_description": "An interactive Middle-earth inspired pixel RPG portfolio. Build. Automate. Explore.",
+  "live_url": "https://middle-earth-portfolio.nicholaspatricksuyat.workers.dev/",
+  "published_at": "2026-08-14T01:43:35.317+00:00",
+  "updated_at": "2026-10-20T16:02:29.56712+00:00"
+ },
+ {
+  "slug": "soulaudit-soulaudit-vercel",
+  "title": "SoulAudit",
+  "short_description": "Upload AI conversations, get an evidence-backed report.",
+  "live_url": "https://soulaudit-soulaudit.vercel.app",
+  "published_at": "2026-07-09T23:33:45.096+00:00",
+  "updated_at": "2026-10-20T16:02:28.217996+00:00"
+ },
+ {
+  "slug": "vert-quest",
+  "title": "VERT",
+  "short_description": "Set daily pushup goals with financial charges if you miss your streak.",
+  "live_url": "https://vert.quest",
+  "published_at": "2026-07-11T23:15:01.805+00:00",
+  "updated_at": "2026-10-20T16:02:26.041637+00:00"
+ },
+ {
+  "slug": "complaintlead-onrender",
+  "title": "ComplaintLead — Intel Dossier",
+  "short_description": "Generate competitor intelligence dossiers by analyzing customer complaints and market gaps.",
+  "live_url": "https://complaintlead.onrender.com",
+  "published_at": "2026-07-23T01:14:47.028+00:00",
+  "updated_at": "2026-10-20T16:02:24.619663+00:00"
+ },
+ {
   "slug": "gitscore-mu-vercel",
   "title": "GitScore — GitHub Profile Analyzer",
   "short_description": "Analyze any GitHub profile to get a score, badges, language breakdown, and a roast.",
