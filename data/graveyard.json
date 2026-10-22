@@ -1,5 +1,53 @@
 [
  {
+  "slug": "form4-levelfields",
+  "title": "LevelFields AI — Real-Time Insider Trading Monitor",
+  "short_description": "Track insider stock transactions by monitoring SEC Form 4 filings in real time.",
+  "live_url": "https://form4.levelfields.ai/",
+  "published_at": "2026-08-07T20:08:39.875+00:00",
+  "updated_at": "2026-10-21T16:01:18.352075+00:00"
+ },
+ {
+  "slug": "concordhq-us",
+  "title": "Concord — News, compared",
+  "short_description": "Read news stories with AI-generated summaries that compare reporting across different outlets.",
+  "live_url": "https://concordhq.us/",
+  "published_at": "2026-07-28T01:13:40.502+00:00",
+  "updated_at": "2026-10-21T16:01:17.677255+00:00"
+ },
+ {
+  "slug": "lampwatch",
+  "title": "Free site scan · Lampwatch",
+  "short_description": "Scan websites for UI issues like broken images and console errors with instant AI fix prompts.",
+  "live_url": "https://lampwatch.com/scan",
+  "published_at": "2026-08-14T19:52:02.377+00:00",
+  "updated_at": "2026-10-21T16:01:16.582808+00:00"
+ },
+ {
+  "slug": "article2-video",
+  "title": "Article2Video - Turn Articles & Blogs into Explainer Videos",
+  "short_description": "Turn articles and blog posts into publishable explainer videos with AI narration.",
+  "live_url": "https://article2.video",
+  "published_at": "2026-07-28T02:22:05.295+00:00",
+  "updated_at": "2026-10-21T16:01:15.906969+00:00"
+ },
+ {
+  "slug": "earmark-in",
+  "title": "Earmark — Every investment should have a purpose",
+  "short_description": "Match your mutual fund investments to specific financial goals with AI-powered analysis.",
+  "live_url": "https://earmark.in/",
+  "published_at": "2026-07-28T02:15:49.853+00:00",
+  "updated_at": "2026-10-21T16:01:14.802646+00:00"
+ },
+ {
+  "slug": "bashops-site",
+  "title": "BashOps Radar - Turn Open Source Into Paid Work",
+  "short_description": "Analyze GitHub repositories to discover and score paid work and contribution opportunities.",
+  "live_url": "https://bashops.site",
+  "published_at": "2026-07-20T01:26:04.088+00:00",
+  "updated_at": "2026-10-21T16:01:14.081184+00:00"
+ },
+ {
   "slug": "krooko-vercel",
   "title": "Krooko — Find the partner your idea has been waiting for.",
   "short_description": "Post your project idea and find co-founders or collaborators who want to build it.",
