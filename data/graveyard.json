@@ -1,5 +1,29 @@
 [
  {
+  "slug": "web-stockai-trade",
+  "title": "Web AI助手",
+  "short_description": "Free ChatGPT-like assistant with no sign-up, GPT-4o-mini model, and real-time web search.",
+  "live_url": "https://web.stockai.trade",
+  "published_at": "2026-07-12T11:53:34.586+00:00",
+  "updated_at": "2026-10-23T16:02:31.348508+00:00"
+ },
+ {
+  "slug": "music-stockai-trade",
+  "title": "Moono AI Music Generator",
+  "short_description": "Generate full-length songs with vocals or instrumentals from text prompts.",
+  "live_url": "https://music.stockai.trade",
+  "published_at": "2026-07-12T07:56:01.194+00:00",
+  "updated_at": "2026-10-23T16:02:30.236502+00:00"
+ },
+ {
+  "slug": "lucelegale",
+  "title": "LuceLegale - Assistente burocratico legale e fiscale",
+  "short_description": "Get help with legal documents, tax deadlines, complaints, and accounting advice from an AI assistant.",
+  "live_url": "https://lucelegale.com",
+  "published_at": "2026-08-08T19:49:10.607+00:00",
+  "updated_at": "2026-10-23T16:02:28.899161+00:00"
+ },
+ {
   "slug": "muti-tenant-app-vercel",
   "title": "MutiTenant",
   "short_description": "@Sarakhan49309 https://t.co/nZi2YLg2q3",
