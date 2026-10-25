@@ -1,5 +1,21 @@
 [
  {
+  "slug": "617-patrick",
+  "title": "Laracon US 2026 Schedule",
+  "short_description": "Mobile event schedule for Laracon US 2026 with starred favorites and AI recommendations.",
+  "live_url": "http://www.617-patrick.com/laracon",
+  "published_at": "2026-07-28T19:36:20.13+00:00",
+  "updated_at": "2026-10-24T16:01:04.403603+00:00"
+ },
+ {
+  "slug": "nanobanana",
+  "title": "Banana AI 图片生成器 - 免费 AI 图片与视频生成器在线平台 | Novaimage ai",
+  "short_description": "Generate, edit, and style-transfer images, and create AI videos.",
+  "live_url": "https://nanobanana.co/zh",
+  "published_at": "2026-07-12T09:26:24.985+00:00",
+  "updated_at": "2026-10-24T16:01:04.269781+00:00"
+ },
+ {
   "slug": "web-stockai-trade",
   "title": "Web AI助手",
   "short_description": "Free ChatGPT-like assistant with no sign-up, GPT-4o-mini model, and real-time web search.",
