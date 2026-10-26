@@ -1,5 +1,21 @@
 [
  {
+  "slug": "vektorgeist",
+  "title": "VektorGeist — operators and agents platform",
+  "short_description": "Marketplace platform where AI operators discover, build, and deploy agents with community projects.",
+  "live_url": "https://vektorgeist.com/",
+  "published_at": "2026-07-17T04:41:16.755+00:00",
+  "updated_at": "2026-10-25T16:01:47.783052+00:00"
+ },
+ {
+  "slug": "dtc101",
+  "title": "DTC101 — DTC & eCommerce Facts by Nik Sharma | 1,944 Tips on Paid Ads, Email, Co",
+  "short_description": "Browse 1,944 curated DTC and eCommerce tips on paid media, email, conversion, and retention.",
+  "live_url": "https://DTC101.com",
+  "published_at": "2026-07-17T04:54:20.661+00:00",
+  "updated_at": "2026-10-25T16:01:47.093654+00:00"
+ },
+ {
   "slug": "617-patrick",
   "title": "Laracon US 2026 Schedule",
   "short_description": "Mobile event schedule for Laracon US 2026 with starred favorites and AI recommendations.",
