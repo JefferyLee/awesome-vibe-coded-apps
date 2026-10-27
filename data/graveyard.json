@@ -1,5 +1,29 @@
 [
  {
+  "slug": "mrpenetrator",
+  "title": "MrPenetrator",
+  "short_description": "Free website security scanner checking SSL, headers, and compliance for instant trust scores and AI-guided fixes.",
+  "live_url": "Https://mrpenetrator.com",
+  "published_at": "2026-07-02T12:31:31.832+00:00",
+  "updated_at": "2026-10-26T16:01:11.616448+00:00"
+ },
+ {
+  "slug": "bogachyov",
+  "title": "Bogachyov Ledger",
+  "short_description": "Create immutable, SHA-256 certified records of your documents.",
+  "live_url": "https://bogachyov.com",
+  "published_at": "2026-07-02T12:54:20.27+00:00",
+  "updated_at": "2026-10-26T16:01:11.193901+00:00"
+ },
+ {
+  "slug": "textlog-cc",
+  "title": "@hn10 · textlog",
+  "short_description": "Get Hacker News top 10 stories as RSS/Atom feeds with summaries.",
+  "live_url": "https://textlog.cc/u/hn10",
+  "published_at": "2026-08-17T01:13:55.956+00:00",
+  "updated_at": "2026-10-26T16:01:10.84046+00:00"
+ },
+ {
   "slug": "vektorgeist",
   "title": "VektorGeist — operators and agents platform",
   "short_description": "Marketplace platform where AI operators discover, build, and deploy agents with community projects.",
