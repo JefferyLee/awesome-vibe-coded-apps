@@ -1,5 +1,21 @@
 [
  {
+  "slug": "trykailo",
+  "title": "Kailo",
+  "short_description": "AI-powered academic coach for MCAT prep, scheduling study sessions and tracking progress.",
+  "live_url": "https://trykailo.com",
+  "published_at": "2026-08-04T01:25:09.293+00:00",
+  "updated_at": "2026-10-28T16:01:03.803668+00:00"
+ },
+ {
+  "slug": "voxstrike",
+  "title": "VOXSTRIKE — Voxel Tactical FPS · 5v5 Bomb Defusal",
+  "short_description": "Play a free 5v5 voxel tactical FPS with bomb-planting gameplay instantly in your browser.",
+  "live_url": "https://voxstrike.com",
+  "published_at": "2026-07-14T20:02:27.985+00:00",
+  "updated_at": "2026-10-28T16:01:03.444815+00:00"
+ },
+ {
   "slug": "january-offshore-ceo-playlist-trycloudflare",
   "title": "The Trench Desk",
   "short_description": "Behavioural intelligence for Solana memecoin traders.",
