@@ -8,6 +8,8 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 
 ## Contents
 
+- [LiveFaceSwap AI](https://livefaceswap.ai/) - Real-time AI face swap with browser webcam preview and desktop virtual camera.
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time face swap / try-on / restyle on webcam; browser or virtual camera for OBS and calls.
 - [Editor's Picks](#editors-picks)
 - [Games & Play](#games--play) (1,611)
 - [Productivity](#productivity) (1,683)
