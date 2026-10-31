@@ -1,5 +1,29 @@
 [
  {
+  "slug": "utilitysmartai",
+  "title": "UtilitySmart — Compare Electricity & Gas Plans in TX, PA & OH",
+  "short_description": "Browse 1500+ verified electricity, gas and water plans across US deregulated markets. Real-time rates, transparent fees, AI-powered recommendations.",
+  "live_url": "https://www.utilitysmartai.com",
+  "published_at": "2026-08-18T02:58:51.244+00:00",
+  "updated_at": "2026-10-30T16:01:02.065754+00:00"
+ },
+ {
+  "slug": "willowhq",
+  "title": "Willow — Solana token safety checker",
+  "short_description": "Paste a Solana token address to get a SAFE, CAUTION, or DANGER verdict instantly, no account needed.",
+  "live_url": "https://willowhq.app",
+  "published_at": "2026-08-10T22:03:56.7+00:00",
+  "updated_at": "2026-10-30T16:01:01.853361+00:00"
+ },
+ {
+  "slug": "findmymoon",
+  "title": "Find My Moon — Real-time Moon Phase & 3D Sky | findmymoon.app",
+  "short_description": "View real-time moon phases and explore an interactive 3D visualization of the night sky.",
+  "live_url": "https://findmymoon.app",
+  "published_at": "2026-07-17T22:20:16.283+00:00",
+  "updated_at": "2026-10-30T16:01:01.641161+00:00"
+ },
+ {
   "slug": "trykailo",
   "title": "Kailo",
   "short_description": "AI-powered academic coach for MCAT prep, scheduling study sessions and tracking progress.",
