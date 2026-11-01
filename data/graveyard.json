@@ -1,11 +1,27 @@
 [
  {
-  "slug": "utilitysmartai",
-  "title": "UtilitySmart — Compare Electricity & Gas Plans in TX, PA & OH",
-  "short_description": "Browse 1500+ verified electricity, gas and water plans across US deregulated markets. Real-time rates, transparent fees, AI-powered recommendations.",
-  "live_url": "https://www.utilitysmartai.com",
-  "published_at": "2026-08-18T02:58:51.244+00:00",
-  "updated_at": "2026-10-30T16:01:02.065754+00:00"
+  "slug": "pipelo-cc",
+  "title": "Pipelo — Your AI Agent for LinkedIn",
+  "short_description": "AI agent that autonomously finds LinkedIn leads, jobs, candidates, and deals while writing your content.",
+  "live_url": "https://Pipelo.cc",
+  "published_at": "2026-07-05T12:33:45.326+00:00",
+  "updated_at": "2026-10-31T16:01:06.14782+00:00"
+ },
+ {
+  "slug": "hockystick",
+  "title": "Hockystick — Where deals get done",
+  "short_description": "AI-powered platform connecting entrepreneurs with investors through verified deal rooms.",
+  "live_url": "https://hockystick.app",
+  "published_at": "2026-07-06T10:39:31.251+00:00",
+  "updated_at": "2026-10-31T16:01:05.582424+00:00"
+ },
+ {
+  "slug": "tweetstyler-com",
+  "title": "TweetStyler - Transform Your Tweets Into Stylish Unicode Fonts",
+  "short_description": "Convert your tweets into stylish Unicode fonts for sharing on X and Twitter.",
+  "live_url": "https://www.tweetstyler.com/",
+  "published_at": "2026-07-05T07:17:33.392+00:00",
+  "updated_at": "2026-10-31T16:01:04.992252+00:00"
  },
  {
   "slug": "willowhq",
@@ -264,14 +280,6 @@
   "updated_at": "2026-10-19T16:01:24.733452+00:00"
  },
  {
-  "slug": "jilge-ch",
-  "title": "JR BucketSim – Withdrawal Calculator (3-Bucket)",
-  "short_description": "Simulate portfolio withdrawals using a three-bucket strategy.",
-  "live_url": "https://www.jilge.ch/JRBucket/web/index-en.php",
-  "published_at": "2026-08-20T19:45:34.968+00:00",
-  "updated_at": "2026-10-19T16:01:23.836544+00:00"
- },
- {
   "slug": "kumoranotes-lovable",
   "title": "Kumora Notes — offline notes",
   "short_description": "Offline notebook with folders, tags, and Markdown for notes and tasks.",
@@ -392,14 +400,6 @@
   "updated_at": "2026-10-13T16:00:36.344714+00:00"
  },
  {
-  "slug": "doodlejudge",
-  "title": "Doodle Judge — AI Judges Your Doodles",
-  "short_description": "Draw the same secret prompt as your friends, then let an AI roast your drawings.",
-  "live_url": "https://doodlejudge.com",
-  "published_at": "2026-07-14T20:22:10.222+00:00",
-  "updated_at": "2026-10-13T16:00:35.509349+00:00"
- },
- {
   "slug": "tingge-production-up-railway",
   "title": "听歌 Next",
   "short_description": "Listen to music together in shared rooms with chat, skip voting, and AI-powered song requests.",
@@ -416,14 +416,6 @@
   "updated_at": "2026-10-11T16:00:59.929843+00:00"
  },
  {
-  "slug": "anteluca",
-  "title": "anteluca - the operating system for people who build alone",
-  "short_description": "An operating system for solo builders with AI-powered planning, focused work sessions, and personalized coaching.",
-  "live_url": "https://anteluca.com",
-  "published_at": "2026-07-20T19:46:53.985+00:00",
-  "updated_at": "2026-10-11T16:00:59.833261+00:00"
- },
- {
   "slug": "thrilling-world",
   "title": "This was the quiet one. — SHOCKME",
   "short_description": "you were told: you are early. A record of one visit to a room that gives everyone a different version.",
@@ -438,14 +430,6 @@
   "live_url": "https://www.penut.ai",
   "published_at": "2026-08-10T01:08:31.645+00:00",
   "updated_at": "2026-10-11T16:00:59.658409+00:00"
- },
- {
-  "slug": "mavero-markets",
-  "title": "Mavero Market",
-  "short_description": "Mavero Market — professional trading insights and subscription management.",
-  "live_url": "https://mavero-markets.com",
-  "published_at": "2026-08-04T02:10:02.649+00:00",
-  "updated_at": "2026-10-11T16:00:59.460314+00:00"
  },
  {
   "slug": "bitcroupier-itch",
@@ -1056,14 +1040,6 @@
   "updated_at": "2026-08-30T16:00:52.500351+00:00"
  },
  {
-  "slug": "seed-audio",
-  "title": "Seed Audio - AI Voice Generator, Text to Speech & Voice Cloning",
-  "short_description": "Create AI voices, convert text to speech, and clone existing voices.",
-  "live_url": "https://seed-audio.org",
-  "published_at": "2026-07-12T07:08:21.001+00:00",
-  "updated_at": "2026-08-30T16:00:52.170392+00:00"
- },
- {
   "slug": "soulmatedrawing-live",
   "title": "Soulmate Drawing – Draw My Soulmate | Soulmate Sketch",
   "short_description": "Generate personalized AI drawings of your soulmate in seconds.",
@@ -1240,14 +1216,6 @@
   "updated_at": "2026-08-17T16:00:45.667235+00:00"
  },
  {
-  "slug": "stovvy",
-  "title": "Stovvy",
-  "short_description": "Ranks recipes by available ingredients, effort level, and additional shopping needs.",
-  "live_url": "https://stovvy.app",
-  "published_at": "2026-07-05T11:07:25.416+00:00",
-  "updated_at": "2026-08-17T16:00:45.261362+00:00"
- },
- {
   "slug": "httpsfaithhubbible-lovable",
   "title": "FaithHub — Read, Understand & Live the Bible with AI",
   "short_description": "Read the Bible with AI-powered verse insights, follow reading plans, journal prayers, and grow with a faith community.",
@@ -1262,14 +1230,6 @@
   "live_url": "https://www.duiduixia.com",
   "published_at": "2026-07-12T11:01:33.243+00:00",
   "updated_at": "2026-08-16T16:00:46.182912+00:00"
- },
- {
-  "slug": "study-clash-vercel",
-  "title": "StudyClash",
-  "short_description": "Turn your study notes into competitive quiz battles and get AI coaching on weak topics.",
-  "live_url": "https://study-clash.vercel.app/",
-  "published_at": "2026-07-10T01:40:55.281+00:00",
-  "updated_at": "2026-08-14T16:00:49.349576+00:00"
  },
  {
   "slug": "mama-guid-replit",
@@ -1318,14 +1278,6 @@
   "live_url": "https://essora.ai",
   "published_at": "2026-07-03T06:53:53.138+00:00",
   "updated_at": "2026-08-02T16:01:09.44459+00:00"
- },
- {
-  "slug": "quantumdash-agaamiai",
-  "title": "QuantumDash · Beta V2.0",
-  "short_description": "Upload any dataset and query it through natural language to get insights and visualizations.",
-  "live_url": "https://quantumdash.agaamiai.com",
-  "published_at": "2026-07-17T22:53:10.934+00:00",
-  "updated_at": "2026-08-02T16:01:08.638598+00:00"
  },
  {
   "slug": "gravibase",
