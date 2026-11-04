@@ -1,5 +1,21 @@
 [
  {
+  "slug": "unlocalhost-tech",
+  "title": "unlocalhost · Turn localhost into a link only your friends can open",
+  "short_description": "Share your local development app with friends via a secure link with built-in authentication.",
+  "live_url": "https://unlocalhost.tech",
+  "published_at": "2026-07-26T00:08:48.794+00:00",
+  "updated_at": "2026-11-03T16:01:03.389884+00:00"
+ },
+ {
+  "slug": "komo",
+  "title": "Komo MCP Server — Connect Claude to Your Entire Sales Stack — Komo",
+  "short_description": "MCP server connecting Claude to 1000+ sales tools and data sources.",
+  "live_url": "https://komo.ai/mcp",
+  "published_at": "2026-07-30T19:46:28.9+00:00",
+  "updated_at": "2026-11-03T16:01:03.007543+00:00"
+ },
+ {
   "slug": "agentpulse-1-555l-onrender",
   "title": "All Runs — Observability",
   "short_description": "Monitor and investigate failures across multi-agent systems from a live dashboard.",
