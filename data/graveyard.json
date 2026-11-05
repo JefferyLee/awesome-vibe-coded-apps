@@ -1,5 +1,21 @@
 [
  {
+  "slug": "omni-case-flow-lovable",
+  "title": "Operator Inbox — Vodata Networks",
+  "short_description": "Unified omnichannel inbox for managing customer conversations and support cases.",
+  "live_url": "https://omni-case-flow.lovable.app",
+  "published_at": "2026-08-05T19:57:07.46+00:00",
+  "updated_at": "2026-11-04T16:01:01.976488+00:00"
+ },
+ {
+  "slug": "marketing-pack-vercel",
+  "title": "Marketing Pack | Website to campaign kit",
+  "short_description": "Collect source content from a website, then turn it into grounded copy, branded visuals, a short video, and a clean ZIP.",
+  "live_url": "https://marketing-pack.vercel.app",
+  "published_at": "2026-08-20T01:29:49.005+00:00",
+  "updated_at": "2026-11-04T16:01:01.788801+00:00"
+ },
+ {
   "slug": "unlocalhost-tech",
   "title": "unlocalhost · Turn localhost into a link only your friends can open",
   "short_description": "Share your local development app with friends via a secure link with built-in authentication.",
