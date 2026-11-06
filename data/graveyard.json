@@ -1,5 +1,21 @@
 [
  {
+  "slug": "grabscript-site",
+  "title": "GrabScript — Free YouTube Transcript Generator | Instant Captions & Subtitles",
+  "short_description": "Extract timestamped transcripts from YouTube videos instantly, no login needed.",
+  "live_url": "https://grabscript.site",
+  "published_at": "2026-07-08T22:09:48.243+00:00",
+  "updated_at": "2026-11-05T16:01:29.123562+00:00"
+ },
+ {
+  "slug": "dripfind",
+  "title": "DRIPFIND — AI Outfit Finder for Shoppable Wardrobes",
+  "short_description": "Find matching clothes across Indian retailers by uploading a photo or Pinterest URL.",
+  "live_url": "https://dripfind.app/",
+  "published_at": "2026-08-06T01:30:06.043+00:00",
+  "updated_at": "2026-11-05T16:01:28.926408+00:00"
+ },
+ {
   "slug": "omni-case-flow-lovable",
   "title": "Operator Inbox — Vodata Networks",
   "short_description": "Unified omnichannel inbox for managing customer conversations and support cases.",
