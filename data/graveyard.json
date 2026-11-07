@@ -1,5 +1,29 @@
 [
  {
+  "slug": "lab-clayseal",
+  "title": "ClaySeal Arena — Prompt-Injection CTF",
+  "short_description": "A capture-the-flag game where you use prompt injection to make AI agents break their rules.",
+  "live_url": "https://lab.clayseal.com/",
+  "published_at": "2026-07-15T19:40:02.56+00:00",
+  "updated_at": "2026-11-06T16:01:05.072629+00:00"
+ },
+ {
+  "slug": "unlockmedia-shop",
+  "title": "UnlockMedia — Crypto Pay-per-View",
+  "short_description": "Share content and earn crypto, or pay to unlock posts from creators.",
+  "live_url": "https://unlockmedia.shop",
+  "published_at": "2026-07-08T20:27:44.162+00:00",
+  "updated_at": "2026-11-06T16:01:04.758678+00:00"
+ },
+ {
+  "slug": "6ixstudios",
+  "title": "Super Pong Game",
+  "short_description": "Pong-inspired browser game with Street Fighter 2-style combat mechanics.",
+  "live_url": "https://6ixstudios.dev/SuperPong.html",
+  "published_at": "2026-07-18T21:19:04.881+00:00",
+  "updated_at": "2026-11-06T16:01:04.429114+00:00"
+ },
+ {
   "slug": "grabscript-site",
   "title": "GrabScript — Free YouTube Transcript Generator | Instant Captions & Subtitles",
   "short_description": "Extract timestamped transcripts from YouTube videos instantly, no login needed.",
