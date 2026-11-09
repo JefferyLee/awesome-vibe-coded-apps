@@ -1,5 +1,53 @@
 [
  {
+  "slug": "havenai-cn",
+  "title": "Haven — 一天内把你的 AI 项目变成可上线产品 | havenai.cn",
+  "short_description": "Upload your AI project code to automate development planning, deployment, and production integration.",
+  "live_url": "https://havenai.cn",
+  "published_at": "2026-07-16T01:31:38.73+00:00",
+  "updated_at": "2026-11-08T16:01:03.661453+00:00"
+ },
+ {
+  "slug": "concord-news-vercel",
+  "title": "Concord — News, compared",
+  "short_description": "Browse aggregated news and compare how different outlets report the same stories.",
+  "live_url": "https://concord-news.vercel.app/",
+  "published_at": "2026-07-16T02:07:47.259+00:00",
+  "updated_at": "2026-11-08T16:01:03.438206+00:00"
+ },
+ {
+  "slug": "nexusai-forum",
+  "title": "NEXUS AI — The World's Premier AI Community",
+  "short_description": "Join a community of AI professionals and researchers to share knowledge, discover groups, and build your AI career.",
+  "live_url": "https://NexusAI.forum",
+  "published_at": "2026-07-09T21:17:03.077+00:00",
+  "updated_at": "2026-11-08T16:01:03.216546+00:00"
+ },
+ {
+  "slug": "panic-score-replay-lovable",
+  "title": "Panic Score — Avresti venduto nel panico?",
+  "short_description": "Test your investment discipline by replaying stock crashes day by day.",
+  "live_url": "https://panic-score-replay.lovable.app",
+  "published_at": "2026-08-14T01:44:49.916+00:00",
+  "updated_at": "2026-11-08T16:01:02.999832+00:00"
+ },
+ {
+  "slug": "blink-ideas-web-onrender",
+  "title": "Blink Ideas",
+  "short_description": "@TTrimoreau I made a machine that turns customer complaints, into winning startup ideas...ready in seconds, instead of months https://t.co/msX0TkZJgd",
+  "live_url": "https://blink-ideas-web.onrender.com",
+  "published_at": "2026-08-07T01:56:21.494+00:00",
+  "updated_at": "2026-11-08T16:01:02.761021+00:00"
+ },
+ {
+  "slug": "forkcade",
+  "title": "Forkcade — build, play, and fork tiny games",
+  "short_description": "Play a Minesweeper-themed game with flowers, then fork and customize it.",
+  "live_url": "https://forkcade.com/gallery/minesweeper-flowers",
+  "published_at": "2026-08-14T01:13:20.172+00:00",
+  "updated_at": "2026-11-08T16:01:02.519223+00:00"
+ },
+ {
   "slug": "tubeboxd",
   "title": "Home • TubeBoxd",
   "short_description": "Rate YouTube channels and see your friends' favorite channels and ratings.",
