@@ -1,5 +1,45 @@
 [
  {
+  "slug": "intervue",
+  "title": "Interview for Any Job | intervue.xyz",
+  "short_description": "Paste any job posting and start a live AI mock interview built for that exact role. Answer out loud, get job-specific follow-ups, and retry what needs work.",
+  "live_url": "https://intervue.xyz",
+  "published_at": "2026-08-22T01:46:51.184+00:00",
+  "updated_at": "2026-11-09T16:01:01.251651+00:00"
+ },
+ {
+  "slug": "bespotlight-site",
+  "title": "SPOTLIGHT — There is only one #1.",
+  "short_description": "One company owns the Spotlight. Take it by paying more.",
+  "live_url": "https://bespotlight.site",
+  "published_at": "2026-08-22T01:19:56.429+00:00",
+  "updated_at": "2026-11-09T16:01:01.041464+00:00"
+ },
+ {
+  "slug": "justforyou",
+  "title": "Just For You",
+  "short_description": "Just For You is a development workspace that quietly learns how you build, gives teams a shared Workspace Brain, and connects directly to the AI providers you already trust.",
+  "live_url": "https://justforyou.pro",
+  "published_at": "2026-08-22T01:05:32.346+00:00",
+  "updated_at": "2026-11-09T16:01:00.667156+00:00"
+ },
+ {
+  "slug": "undbid",
+  "title": "Undbid — the leaderboard you can only lose",
+  "short_description": "List your product free. You rise as newer listings land below you, and anyone can pay €2 to sink a listing one place. The top belongs to whoever has gone longest unsunk. You cannot",
+  "live_url": "https://undbid.com",
+  "published_at": "2026-08-22T02:30:16.109+00:00",
+  "updated_at": "2026-11-09T16:01:00.440458+00:00"
+ },
+ {
+  "slug": "whenmoon-lol",
+  "title": "whenmoon.lol | pay for #1",
+  "short_description": "Pay-to-rank board for meme coins and crypto projects. Highest bid is #1. USD. No accounts.",
+  "live_url": "https://whenmoon.lol",
+  "published_at": "2026-08-22T01:36:37.912+00:00",
+  "updated_at": "2026-11-09T16:00:59.939131+00:00"
+ },
+ {
   "slug": "havenai-cn",
   "title": "Haven — 一天内把你的 AI 项目变成可上线产品 | havenai.cn",
   "short_description": "Upload your AI project code to automate development planning, deployment, and production integration.",
