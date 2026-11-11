@@ -1,5 +1,21 @@
 [
  {
+  "slug": "swaggertomcp",
+  "title": "No-code MCP Gateway for OpenAPI and Database Tools",
+  "short_description": "Convert OpenAPI specs and databases into MCP tools without coding.",
+  "live_url": "https://swaggertomcp.com",
+  "published_at": "2026-07-10T19:47:18.004+00:00",
+  "updated_at": "2026-11-10T16:01:07.88317+00:00"
+ },
+ {
+  "slug": "cheapytrip",
+  "title": "CheapyTrip",
+  "short_description": "Automates travel booking to find better deals than other websites",
+  "live_url": "https://www.cheapytrip.com",
+  "published_at": "2026-07-05T11:04:48.307+00:00",
+  "updated_at": "2026-11-10T16:01:07.240352+00:00"
+ },
+ {
   "slug": "intervue",
   "title": "Interview for Any Job | intervue.xyz",
   "short_description": "Paste any job posting and start a live AI mock interview built for that exact role. Answer out loud, get job-specific follow-ups, and retry what needs work.",
