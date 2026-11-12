@@ -1,5 +1,61 @@
 [
  {
+  "slug": "screambattle2027-lovable",
+  "title": "Screambattle 2027 — Free Cartoon Screaming Game",
+  "short_description": "Screambattle 2027: the free cartoon screaming game. Shout into your mic to beat Ali, Aicha, the AI or friends. Play in 8 languages.",
+  "live_url": "https://screambattle2027.lovable.app",
+  "published_at": "2026-11-02T21:24:42.016+00:00",
+  "updated_at": "2026-11-11T16:44:06.724495+00:00"
+ },
+ {
+  "slug": "meet-me-by-pelq-netlify",
+  "title": "Meet Me by PELQ — Trade Skills Without the Corporate Nonsense",
+  "short_description": "Meet Me by PELQ — a creator-powered marketplace for trading practical skills directly.",
+  "live_url": "https://meet-me-by-pelq.netlify.app",
+  "published_at": "2026-08-23T01:04:09.075+00:00",
+  "updated_at": "2026-11-11T16:01:04.094923+00:00"
+ },
+ {
+  "slug": "oratorly",
+  "title": "Oratorly — Check your script against ~100 storytelling techniques",
+  "short_description": "Paste scripts or articles to analyze against 100+ storytelling techniques and get AI rewrites.",
+  "live_url": "https://oratorly.com",
+  "published_at": "2026-09-01T19:27:58.321+00:00",
+  "updated_at": "2026-11-11T16:01:03.709583+00:00"
+ },
+ {
+  "slug": "gleaming-vitality-production-6192-up-railway",
+  "title": "React App",
+  "short_description": "AI platform automating hiring decisions and candidate communications.",
+  "live_url": "https://gleaming-vitality-production-6192.up.railway.app/",
+  "published_at": "2026-08-07T20:10:11.877+00:00",
+  "updated_at": "2026-11-11T16:01:03.334092+00:00"
+ },
+ {
+  "slug": "vibepromptstudio-online",
+  "title": "Vibe Prompt Studio",
+  "short_description": "Create production-ready Vibe Coding prompts from raw ideas.",
+  "live_url": "https://vibepromptstudio.online",
+  "published_at": "2026-07-27T19:48:43.055+00:00",
+  "updated_at": "2026-11-11T16:01:02.942198+00:00"
+ },
+ {
+  "slug": "jianzhi-zhenxiangai-xin",
+  "title": "橘猫增重冒险 · 本地视觉原型",
+  "short_description": "Track your daily weight changes with an interactive orange cat that mirrors your progress.",
+  "live_url": "https://jianzhi.zhenxiangai.xin",
+  "published_at": "2026-08-14T19:45:29.145+00:00",
+  "updated_at": "2026-11-11T16:01:02.590399+00:00"
+ },
+ {
+  "slug": "atlas-juniper-xenon-zinc-grok-me-s-2",
+  "title": "Folio",
+  "short_description": "Create a one-page personal homepage from your X (Twitter) account.",
+  "live_url": "https://atlas-juniper-xenon-zinc.grok.me?s=2",
+  "published_at": "2026-08-22T19:17:37.89+00:00",
+  "updated_at": "2026-11-11T16:01:02.220919+00:00"
+ },
+ {
   "slug": "swaggertomcp",
   "title": "No-code MCP Gateway for OpenAPI and Database Tools",
   "short_description": "Convert OpenAPI specs and databases into MCP tools without coding.",
