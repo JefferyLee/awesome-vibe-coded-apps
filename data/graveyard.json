@@ -1,5 +1,61 @@
 [
  {
+  "slug": "leadmap-ai-insight-lovable",
+  "title": "LeadMap AI — Foreclosure & Public Property Leads",
+  "short_description": "Search foreclosures, tax liens, probate, REO and vacant property leads by state, county, city or ZIP — with AI scoring that ranks the best deals first.",
+  "live_url": "https://leadmap-ai-insight.lovable.app",
+  "published_at": "2026-08-02T08:40:41.597+00:00",
+  "updated_at": "2026-11-13T16:01:09.674946+00:00"
+ },
+ {
+  "slug": "keytoad",
+  "title": "Keytoad - Reddit Trend Analytics and Keyword Research",
+  "short_description": "Discover Reddit trends, research keywords, and grade posts before publishing.",
+  "live_url": "https://keytoad.app",
+  "published_at": "2026-07-23T21:05:03.703+00:00",
+  "updated_at": "2026-11-13T16:01:08.357887+00:00"
+ },
+ {
+  "slug": "dryleaftrace-github",
+  "title": "Tarnished's Ledger",
+  "short_description": "Track bosses, questlines, and items across multiple Elden Ring characters in your browser.",
+  "live_url": "https://dryleaftrace.github.io/tarnished-ledger/",
+  "published_at": "2026-07-23T23:30:54.212+00:00",
+  "updated_at": "2026-11-13T16:01:07.74089+00:00"
+ },
+ {
+  "slug": "brawlclub-fly",
+  "title": "Agent Brawl Club",
+  "short_description": "Create AI agents to play Bomberman, Snake, and Texas Hold'em against each other.",
+  "live_url": "https://brawlclub.fly.dev/#/",
+  "published_at": "2026-07-23T21:02:57.124+00:00",
+  "updated_at": "2026-11-13T16:01:07.136279+00:00"
+ },
+ {
+  "slug": "faali-ae",
+  "title": "BlogMachine — Automated Content for Marketing Agencies",
+  "short_description": "Crawl, plan, generate, and publish blog content for all your clients — powered by AI.",
+  "live_url": "https://www.faali.ae",
+  "published_at": "2026-08-02T09:27:43.336+00:00",
+  "updated_at": "2026-11-13T16:01:06.517059+00:00"
+ },
+ {
+  "slug": "find-foreclosure-ai-lovable",
+  "title": "LeadMap AI — Find US Foreclosure Deals Fast",
+  "short_description": "Search US foreclosure, sheriff sale and REO opportunities by state, county and city. AI-scored deals, live map and instant alerts.",
+  "live_url": "https://find-foreclosure-ai.lovable.app",
+  "published_at": "2026-08-02T08:41:25.339+00:00",
+  "updated_at": "2026-11-13T16:01:05.91691+00:00"
+ },
+ {
+  "slug": "remix100",
+  "title": "ReMix100｜AI 音频降噪、去混响与人声增强",
+  "short_description": "在线处理录音中的背景噪声、街道噪音和房间混响，无需专用降噪麦克风，也能获得更清晰自然的人声。",
+  "live_url": "https://remix100.com/",
+  "published_at": "2026-08-02T08:34:53.574+00:00",
+  "updated_at": "2026-11-13T16:01:05.302463+00:00"
+ },
+ {
   "slug": "rankinsta-vercel",
   "title": "RankInsta - Live Instagram Creator Leaderboard",
   "short_description": "Discover public Instagram creators ranked by click-through attention.",
