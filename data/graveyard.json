@@ -1,5 +1,45 @@
 [
  {
+  "slug": "freelanceonthebench-lol",
+  "title": "freelanceonthebench.lol — freelancers & agencies",
+  "short_description": "Available freelancers and agencies, ranked by live value. Burns 10% a day — the top is whoever's actually free.",
+  "live_url": "https://freelanceonthebench.lol/",
+  "published_at": "2026-08-24T02:38:55.797+00:00",
+  "updated_at": "2026-11-14T16:01:01.100328+00:00"
+ },
+ {
+  "slug": "antifystore-vercel",
+  "title": "AntifyStore | Premium Curated Tech & Desk Essentials",
+  "short_description": "Browse and shop a curated collection of premium tech and desk essentials.",
+  "live_url": "https://antifystore.vercel.app",
+  "published_at": "2026-08-15T22:16:26.118+00:00",
+  "updated_at": "2026-11-14T16:01:01.000183+00:00"
+ },
+ {
+  "slug": "highwayboards-online",
+  "title": "Highway Boards",
+  "short_description": "Highway Boards — 100 billboards queued along a 100 km 3D highway, starting at KM 0. Claim KM 0 and put your billboard in the most visible spot.",
+  "live_url": "https://highwayboards.online",
+  "published_at": "2026-08-24T03:05:56.383+00:00",
+  "updated_at": "2026-11-14T16:01:00.904984+00:00"
+ },
+ {
+  "slug": "iambetterthanx",
+  "title": "iambetterthanX — pay to outrank your competition",
+  "short_description": "Claim your product is better than the competition. Rank is decided by one thing: who paid the most.",
+  "live_url": "https://www.iambetterthanx.com/",
+  "published_at": "2026-08-24T03:49:55.955+00:00",
+  "updated_at": "2026-11-14T16:01:00.809492+00:00"
+ },
+ {
+  "slug": "flapbid-de",
+  "title": "flapbid — the leaderboard for X creators",
+  "short_description": "Built exclusively for X creators. Pay €5, play one round of Flappy flapbid — your score becomes your leaderboard rank.",
+  "live_url": "https://flapbid.de",
+  "published_at": "2026-08-24T01:45:49.865+00:00",
+  "updated_at": "2026-11-14T16:01:00.675059+00:00"
+ },
+ {
   "slug": "leadmap-ai-insight-lovable",
   "title": "LeadMap AI — Foreclosure & Public Property Leads",
   "short_description": "Search foreclosures, tax liens, probate, REO and vacant property leads by state, county, city or ZIP — with AI scoring that ranks the best deals first.",
@@ -72,14 +112,6 @@
   "updated_at": "2026-11-12T16:01:04.715317+00:00"
  },
  {
-  "slug": "bilibili",
-  "title": "bilibili",
-  "short_description": "Interactive toy: tap buttons to trigger humorous sounds.",
-  "live_url": "https://www.bilibili.com/toy/Dagou-Tap/index.html",
-  "published_at": "2026-07-22T19:46:53.98+00:00",
-  "updated_at": "2026-11-12T16:01:04.486319+00:00"
- },
- {
   "slug": "screambattle2027-lovable",
   "title": "Screambattle 2027 — Free Cartoon Screaming Game",
   "short_description": "Screambattle 2027: the free cartoon screaming game. Shout into your mic to beat Ali, Aicha, the AI or friends. Play in 8 languages.",
@@ -94,14 +126,6 @@
   "live_url": "https://meet-me-by-pelq.netlify.app",
   "published_at": "2026-08-23T01:04:09.075+00:00",
   "updated_at": "2026-11-11T16:01:04.094923+00:00"
- },
- {
-  "slug": "oratorly",
-  "title": "Oratorly — Check your script against ~100 storytelling techniques",
-  "short_description": "Paste scripts or articles to analyze against 100+ storytelling techniques and get AI rewrites.",
-  "live_url": "https://oratorly.com",
-  "published_at": "2026-09-01T19:27:58.321+00:00",
-  "updated_at": "2026-11-11T16:01:03.709583+00:00"
  },
  {
   "slug": "gleaming-vitality-production-6192-up-railway",
@@ -326,14 +350,6 @@
   "live_url": "https://omni-case-flow.lovable.app",
   "published_at": "2026-08-05T19:57:07.46+00:00",
   "updated_at": "2026-11-04T16:01:01.976488+00:00"
- },
- {
-  "slug": "marketing-pack-vercel",
-  "title": "Marketing Pack | Website to campaign kit",
-  "short_description": "Collect source content from a website, then turn it into grounded copy, branded visuals, a short video, and a clean ZIP.",
-  "live_url": "https://marketing-pack.vercel.app",
-  "published_at": "2026-08-20T01:29:49.005+00:00",
-  "updated_at": "2026-11-04T16:01:01.788801+00:00"
  },
  {
   "slug": "unlocalhost-tech",
@@ -758,14 +774,6 @@
   "live_url": "https://shift-swap-hub-alpha.vercel.app",
   "published_at": "2026-07-29T19:51:30.316+00:00",
   "updated_at": "2026-10-13T16:00:36.344714+00:00"
- },
- {
-  "slug": "tingge-production-up-railway",
-  "title": "听歌 Next",
-  "short_description": "Listen to music together in shared rooms with chat, skip voting, and AI-powered song requests.",
-  "live_url": "https://tingge-production.up.railway.app/",
-  "published_at": "2026-07-17T19:22:16.214+00:00",
-  "updated_at": "2026-10-13T16:00:34.662387+00:00"
  },
  {
   "slug": "good-and-good",
@@ -1342,14 +1350,6 @@
   "live_url": "https://tarotqa.com",
   "published_at": "2026-07-12T11:11:31.288+00:00",
   "updated_at": "2026-09-06T16:00:41.10843+00:00"
- },
- {
-  "slug": "storexray",
-  "title": "StoreXray — Instant Technical Audit & Intelligence for Shopify Stores",
-  "short_description": "Instantly audit any Shopify store to see its technical setup, apps, and bestsellers.",
-  "live_url": "https://storexray.app",
-  "published_at": "2026-07-26T05:18:45.771+00:00",
-  "updated_at": "2026-09-06T16:00:40.932664+00:00"
  },
  {
   "slug": "stockvale-lovable",
