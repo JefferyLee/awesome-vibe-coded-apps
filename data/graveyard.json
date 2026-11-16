@@ -1,5 +1,53 @@
 [
  {
+  "slug": "monitor-synov8studio",
+  "title": "Monitor, from Synov8 — status page + uptime",
+  "short_description": "i built an uptime monitor that doesn't page you when just one region blips    my uptime monitor opens incidents when 2 out of 4 regions agree your site is down, not when one server",
+  "live_url": "https://monitor.synov8studio.com",
+  "published_at": "2026-08-24T19:59:02.73+00:00",
+  "updated_at": "2026-11-15T16:01:05.225144+00:00"
+ },
+ {
+  "slug": "anatomy-livid-vercel",
+  "title": "Anatomy Atelier — Learn anatomy like an artist",
+  "short_description": "Explore medically detailed 3D organs — heart, brain, lungs, liver, kidneys, eye, intestine, pancreas, and skin — through an elegant, interactive anatomy atelier.",
+  "live_url": "https://anatomy-livid.vercel.app",
+  "published_at": "2026-08-03T02:09:16.75+00:00",
+  "updated_at": "2026-11-15T16:01:04.887885+00:00"
+ },
+ {
+  "slug": "yourproject",
+  "title": "YourProject: Gemeinsame Bearbeitung von Bauprojekten",
+  "short_description": "Mit YourProject behalten Sie den Überblick über Ihre Bauprojekte, können in Echtzeit Pläne und Dokumente austauschen und sich gezieltes Feedback einholen.",
+  "live_url": "https://yourproject.io",
+  "published_at": "2026-08-03T03:10:31.077+00:00",
+  "updated_at": "2026-11-15T16:01:04.569422+00:00"
+ },
+ {
+  "slug": "vibehub-up-railway",
+  "title": "Vibehub | Ideas need builders",
+  "short_description": "Track software ideas from concept to shipped code, share publicly, and credit all contributors.",
+  "live_url": "https://vibehub.up.railway.app",
+  "published_at": "2026-07-12T23:01:40.43+00:00",
+  "updated_at": "2026-11-15T16:01:04.246856+00:00"
+ },
+ {
+  "slug": "kiraroute",
+  "title": "KiraRoute - AI API Gateway",
+  "short_description": "Lower your AI costs through one developer-friendly API platform. Start with ChatGPT and Claude, transparent usage billing, and familiar protocols.",
+  "live_url": "https://kiraroute.com/docs",
+  "published_at": "2026-08-03T02:25:09.221+00:00",
+  "updated_at": "2026-11-15T16:01:03.781837+00:00"
+ },
+ {
+  "slug": "aiqa-tester",
+  "title": "AI Mobile App Testing Without Writing Test Scripts | AIQA",
+  "short_description": "Upload Android APKs or iOS apps to automatically test user flows and report issues.",
+  "live_url": "https://aiqa-tester.com",
+  "published_at": "2026-08-03T02:50:27.943+00:00",
+  "updated_at": "2026-11-15T16:01:03.269036+00:00"
+ },
+ {
   "slug": "freelanceonthebench-lol",
   "title": "freelanceonthebench.lol — freelancers & agencies",
   "short_description": "Available freelancers and agencies, ranked by live value. Burns 10% a day — the top is whoever's actually free.",
