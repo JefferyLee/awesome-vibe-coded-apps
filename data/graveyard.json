@@ -1,5 +1,29 @@
 [
  {
+  "slug": "growbiz-lol",
+  "title": "GrowBiz10x Discover — Rank = Your Bid",
+  "short_description": "A paid ranking board where rank equals your bid. Add your site or @handle, bid to move up, and get clicks. $1 to join, no account needed.",
+  "live_url": "https://GrowBiz.lol",
+  "published_at": "2026-08-25T01:25:05.348+00:00",
+  "updated_at": "2026-11-16T16:01:04.81952+00:00"
+ },
+ {
+  "slug": "raisebid-lol",
+  "title": "raisebid.lol — The most useless leaderboard on the internet.",
+  "short_description": "Buy public leaderboard placement for your X handle. Rank by cumulative spend. No prizes, no financial benefit — just the flex.",
+  "live_url": "https://raisebid.lol",
+  "published_at": "2026-08-25T03:19:01.931+00:00",
+  "updated_at": "2026-11-16T16:01:04.507664+00:00"
+ },
+ {
+  "slug": "aistemsplitter",
+  "title": "AI Stem Splitter - Separate Any Song into Professional Stems",
+  "short_description": "Separate any song into professional stems like vocals, drums, bass, and guitar.",
+  "live_url": "https://aistemsplitter.net",
+  "published_at": "2026-07-12T10:59:01.893+00:00",
+  "updated_at": "2026-11-16T16:01:04.19819+00:00"
+ },
+ {
   "slug": "monitor-synov8studio",
   "title": "Monitor, from Synov8 — status page + uptime",
   "short_description": "i built an uptime monitor that doesn't page you when just one region blips    my uptime monitor opens incidents when 2 out of 4 regions agree your site is down, not when one server",
