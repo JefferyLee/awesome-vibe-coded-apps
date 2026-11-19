@@ -1,5 +1,13 @@
 [
  {
+  "slug": "aiimageeditor-photos",
+  "title": "AI Image Editor - Edit photo with text prompt",
+  "short_description": "Edit photos by typing text prompts instead of using traditional editing tools.",
+  "live_url": "https://aiimageeditor.photos",
+  "published_at": "2026-07-12T10:23:22.011+00:00",
+  "updated_at": "2026-11-18T16:01:53.666205+00:00"
+ },
+ {
   "slug": "voice-clone",
   "title": "Voice Clone – Instantly Clone Your Voice with AI Technology",
   "short_description": "Create an AI clone of your voice and generate speech from any text.",
