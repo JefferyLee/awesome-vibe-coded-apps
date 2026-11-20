@@ -1,5 +1,13 @@
 [
  {
+  "slug": "outmark",
+  "title": "Outmark",
+  "short_description": "Trade prediction market coins on Hyperliquid backed by real positions.",
+  "live_url": "https://Outmark.fun",
+  "published_at": "2026-08-25T22:30:27.053+00:00",
+  "updated_at": "2026-11-19T16:01:47.219569+00:00"
+ },
+ {
   "slug": "aiimageeditor-photos",
   "title": "AI Image Editor - Edit photo with text prompt",
   "short_description": "Edit photos by typing text prompts instead of using traditional editing tools.",
