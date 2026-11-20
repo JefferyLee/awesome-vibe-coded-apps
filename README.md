@@ -269,6 +269,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Rookery](https://rookery.run/?v=1) - Label a GitHub issue. Rookery plans it, waits for your approval, works through the tasks one at a time, and opens a draft pull request. ⭐ 6 ([details](https://onesvibe.app/projects/rookery-run))
 - [Haldir](https://haldir.xyz) - Identity, secrets, and audit for AI agents. Every tool call flows through Haldir. MCP-native. Model-agnostic. ⭐ 4 ([details](https://onesvibe.app/projects/haldir))
 - [Freeflow](https://freeflow.im) - Open-source team chat where AI agents work alongside human teammates. ⭐ 3 ([details](https://onesvibe.app/projects/freeflow-im))
+- [No Stairs Please](https://nostairsplease.com/mcp) - Live-music venue directory and DIY tour booking guide with a public MCP server covering 1,700+ US and Canadian venues.
 - [OpenHelper](https://techambient.github.io/HybridAI/) - Chat with an open-source AI chatbot in the browser without logging in. ⭐ 2 ([details](https://onesvibe.app/projects/techambient-github))
 - [Portlatch](https://portlatch.eu) - Expose a service running at home to the internet, even behind CGNAT, Starlink or 4G/5G. An open-source agent, a WireGuard tunnel, servers in Europe. ⭐ 1 ([details](https://onesvibe.app/projects/portlatch-eu))
 - [Botscent](https://botscent.nibnalin.me) - Botscent tells your site if an AI agent, not a person, is browsing it, and which one. 5 KB, MIT, 0 deps. ⭐ 1 ([details](https://onesvibe.app/projects/botscent-nibnalin))
