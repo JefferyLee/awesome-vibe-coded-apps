@@ -1,5 +1,85 @@
 [
  {
+  "slug": "pixelbids-lol",
+  "title": "PixelBids.lol — Buy pixels. Outbid the rest. Get noticed.",
+  "short_description": "A live 1000×1000 internet billboard. Claim your square, upload your brand, and outbid competitors for top leaderboard traffic.",
+  "live_url": "https://pixelbids.lol",
+  "published_at": "2026-08-26T02:03:08.433+00:00",
+  "updated_at": "2026-11-20T16:01:22.989458+00:00"
+ },
+ {
+  "slug": "gavel-lol",
+  "title": "Gavel — the board is for sale",
+  "short_description": "A live leaderboard of indie products, ranked by what their makers pay. Outbid the one above you and take the spot.",
+  "live_url": "https://gavel.lol",
+  "published_at": "2026-08-26T03:13:18.168+00:00",
+  "updated_at": "2026-11-20T16:01:22.686552+00:00"
+ },
+ {
+  "slug": "dropz-money",
+  "title": "dropz.money — Win Cash for AI Art · Daily Creator Drops",
+  "short_description": "Create AI art, images, music or video and compete daily for real cash prizes.",
+  "live_url": "https://Dropz.money",
+  "published_at": "2026-07-20T20:18:26.543+00:00",
+  "updated_at": "2026-11-20T16:01:22.378464+00:00"
+ },
+ {
+  "slug": "freekick-showdown-pages",
+  "title": "Free Kick: Grok vs Claude — AI Build Showdown ⚽",
+  "short_description": "Play and compare AI-built free-kick soccer games from Grok and Claude.",
+  "live_url": "https://freekick-showdown.pages.dev",
+  "published_at": "2026-07-20T19:44:05.432+00:00",
+  "updated_at": "2026-11-20T16:01:22.066389+00:00"
+ },
+ {
+  "slug": "mcpmarketplace-top",
+  "title": "MCP Market - Discover MCP Servers for Your AI Tools",
+  "short_description": "Browse and install 1,800+ MCP servers ranked by trust score and risk level.",
+  "live_url": "https://mcpmarketplace.top",
+  "published_at": "2026-07-05T20:19:09.285+00:00",
+  "updated_at": "2026-11-20T16:01:21.753346+00:00"
+ },
+ {
+  "slug": "pork-works",
+  "title": "Pork — cinematic AI launchpad",
+  "short_description": "Cinematic AI launchpad. Describe a token in one sentence, watch the full launch package render, and deploy to Pons on Robinhood Chain, non-custodial.",
+  "live_url": "https://pork.works",
+  "published_at": "2026-08-26T03:57:11.746+00:00",
+  "updated_at": "2026-11-20T16:01:21.450032+00:00"
+ },
+ {
+  "slug": "kingfor1day",
+  "title": "King for a Day — Bid to wear the crown for 24 hours",
+  "short_description": "Live-bid for the throne. One site reigns over the page for a full 24 hours while the next auction decides who dethrones it.",
+  "live_url": "https://www.kingfor1day.com/",
+  "published_at": "2026-08-26T03:18:59.512+00:00",
+  "updated_at": "2026-11-20T16:01:21.150214+00:00"
+ },
+ {
+  "slug": "nobility-click",
+  "title": "nobility.click — titles, sorted by money",
+  "short_description": "Aristocracy as a service. A public leaderboard of noble titles, sorted by tribute: buy your rank from $1, lose it to someone richer.",
+  "live_url": "https://nobility.click",
+  "published_at": "2026-08-26T03:19:37.138+00:00",
+  "updated_at": "2026-11-20T16:01:20.849124+00:00"
+ },
+ {
+  "slug": "outyell-lol",
+  "title": "outyell.lol — Pay to shout. Rank is your bid.",
+  "short_description": "Pay to shout. Rank is your bid. The louder you pay, the higher you rank.",
+  "live_url": "https://outyell.lol",
+  "published_at": "2026-08-26T03:27:41.08+00:00",
+  "updated_at": "2026-11-20T16:01:20.544317+00:00"
+ },
+ {
+  "slug": "mooncrew",
+  "title": "mooncrew — Trending Solana memecoins",
+  "short_description": "A live feed of trending, new and top-gaining Solana memecoins. Click a coin to trade it instantly from your own wallet.",
+  "live_url": "https://Mooncrew.fun",
+  "published_at": "2026-08-26T02:34:01.928+00:00",
+  "updated_at": "2026-11-20T16:01:20.241069+00:00"
+ },
+ {
   "slug": "outmark",
   "title": "Outmark",
   "short_description": "Trade prediction market coins on Hyperliquid backed by real positions.",
