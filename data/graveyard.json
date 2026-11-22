@@ -1,5 +1,29 @@
 [
  {
+  "slug": "trycortex-up-railway",
+  "title": "Cortex AI — Build & Deploy AI Agents for Your Business",
+  "short_description": "No-code platform to build, connect, and deploy AI agents to Gmail, Slack, Notion, and HubSpot.",
+  "live_url": "https://trycortex.up.railway.app",
+  "published_at": "2026-08-04T01:23:33.669+00:00",
+  "updated_at": "2026-11-21T16:01:35.314073+00:00"
+ },
+ {
+  "slug": "freemarket-fly",
+  "title": "Free Market Marketplace — Buy & Sell Products Online",
+  "short_description": "Browse, buy, and sell fresh produce, groceries, and handmade goods on a free marketplace.",
+  "live_url": "https://freemarket.fly.dev",
+  "published_at": "2026-07-05T19:55:36.411+00:00",
+  "updated_at": "2026-11-21T16:01:35.143594+00:00"
+ },
+ {
+  "slug": "rag-locusbeta",
+  "title": "AI Document Search for Legal, Accounting & Business Teams",
+  "short_description": "Search contracts, case files, audit records, invoices and scanned PDFs across large document collections. Get relevant answers with exact file, page and source-line references.",
+  "live_url": "https://rag.locusbeta.com",
+  "published_at": "2026-08-04T01:31:42.958+00:00",
+  "updated_at": "2026-11-21T16:01:34.960141+00:00"
+ },
+ {
   "slug": "pixelbids-lol",
   "title": "PixelBids.lol — Buy pixels. Outbid the rest. Get noticed.",
   "short_description": "A live 1000×1000 internet billboard. Claim your square, upload your brand, and outbid competitors for top leaderboard traffic.",
