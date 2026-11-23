@@ -1,5 +1,29 @@
 [
  {
+  "slug": "isol8",
+  "title": "isol8 — AI Agents for Autonomous Businesses",
+  "short_description": "Run your company with persistent AI agents, cloud workspaces, and an agent marketplace for autonomous business operations.",
+  "live_url": "https://isol8.co",
+  "published_at": "2026-08-27T02:44:05.275+00:00",
+  "updated_at": "2026-11-22T16:02:30.896836+00:00"
+ },
+ {
+  "slug": "convincer-site",
+  "title": "Product rankings won in public trial — Convincer",
+  "short_description": "Product leaderboards decided by an adversarial AI jury. Every rank is taken from the product that held it, in a trial with graded evidence and published reasoning.",
+  "live_url": "https://convincer.site",
+  "published_at": "2026-08-27T02:00:30.713+00:00",
+  "updated_at": "2026-11-22T16:02:30.487079+00:00"
+ },
+ {
+  "slug": "ryanbuu",
+  "title": "人生有数 · 100 道经历自测",
+  "short_description": "A 100-question life-experience self-assessment quiz with scoring, processed entirely on your device.",
+  "live_url": "https://ryanbuu.dev",
+  "published_at": "2026-08-26T19:59:02.766+00:00",
+  "updated_at": "2026-11-22T16:02:30.074212+00:00"
+ },
+ {
   "slug": "trycortex-up-railway",
   "title": "Cortex AI — Build & Deploy AI Agents for Your Business",
   "short_description": "No-code platform to build, connect, and deploy AI agents to Gmail, Slack, Notion, and HubSpot.",
