@@ -1,5 +1,29 @@
 [
  {
+  "slug": "srttranslator-site",
+  "title": "SRT Context-Aware Translator",
+  "short_description": "SRT Context-Aware Translator helps you organize, track, and share your work in 1 unified workspace. Built for teams and solo users who want clarity and speed.",
+  "live_url": "https://srttranslator.site",
+  "published_at": "2026-08-18T05:37:14.009+00:00",
+  "updated_at": "2026-11-23T16:01:43.836053+00:00"
+ },
+ {
+  "slug": "web3bids-lol",
+  "title": "Web3Bids — Pay-to-Rank Crypto Leaderboard | Pay SOL to Claim #1",
+  "short_description": "Web3Bids is a pay-to-rank leaderboard for crypto projects. Pay SOL to claim the #1 spot. Memecoins, launchpads, crypto services, and groups compete for the top position.",
+  "live_url": "https://web3bids.lol",
+  "published_at": "2026-08-27T03:52:30.441+00:00",
+  "updated_at": "2026-11-23T16:01:43.596247+00:00"
+ },
+ {
+  "slug": "internethrone",
+  "title": "The Internet Throne — one featured placement, one holder at a time",
+  "short_description": "The homepage spot is open. Put your brand, product or name on it for $5 — one-time, no subscription. Held until someone else takes it.",
+  "live_url": "https://internethrone.com",
+  "published_at": "2026-08-27T03:57:54.904+00:00",
+  "updated_at": "2026-11-23T16:01:43.329768+00:00"
+ },
+ {
   "slug": "isol8",
   "title": "isol8 — AI Agents for Autonomous Businesses",
   "short_description": "Run your company with persistent AI agents, cloud workspaces, and an agent marketplace for autonomous business operations.",
