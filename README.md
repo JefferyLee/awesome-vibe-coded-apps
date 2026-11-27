@@ -4,36 +4,36 @@
 
 Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-checks each app's liveness on a rolling ~3-day cycle, so dead links drop off this list automatically. "Live checked" means the URL was recently reachable — it is not a safety audit or an endorsement.
 
-**25,811 apps** · regenerated 2026-11-26 · want your app here? [Submit it on One's Vibe](https://onesvibe.app/submit) — once published, it appears in the next regeneration.
+**25,811 apps** · regenerated 2026-11-27 · want your app here? [Submit it on One's Vibe](https://onesvibe.app/submit) — once published, it appears in the next regeneration.
 
 📬 The best of it in one short email every Sunday: [subscribe to the weekly picks](https://onesvibe.app/subscribe) ([past issues](https://onesvibe.app/newsletter)).
 
 ## Contents
 
 - [Editor's Picks](#editors-picks)
-- [Games & Play](#games--play) (2,154)
-- [Productivity](#productivity) (2,185)
+- [Games & Play](#games--play) (2,158)
+- [Productivity](#productivity) (2,175)
 - [Education](#education) (927)
-- [Creative Tools](#creative-tools) (3,729)
-- [AI Agents](#ai-agents) (1,450)
-- [Developer Tools](#developer-tools) (3,635)
-- [Finance & Business](#finance--business) (2,314)
+- [Creative Tools](#creative-tools) (3,727)
+- [AI Agents](#ai-agents) (1,448)
+- [Developer Tools](#developer-tools) (3,639)
+- [Finance & Business](#finance--business) (2,304)
 - [Health & Wellness](#health--wellness) (331)
-- [Social & Community](#social--community) (1,045)
-- [Utilities](#utilities) (815)
-- [Other](#other) (7,226)
-- [Graveyard](#graveyard) (349)
+- [Social & Community](#social--community) (1,046)
+- [Utilities](#utilities) (814)
+- [Other](#other) (7,242)
+- [Graveyard](#graveyard) (487)
 - [Use it from your agent](#use-it-from-your-agent)
 
 ## Editor's Picks
 
+- [KokonutUI](https://kokonutui.com) - Free open-source React and Tailwind CSS UI components to copy into your projects. ⭐ 2,152 ([details](https://onesvibe.app/projects/kokonutui))
 - [JumPHP playground](https://jumphp.net) - Free retro games written in PHP, playable in the browser now; describe one to Claude to build your own. ⭐ 14 ([details](https://onesvibe.app/projects/jumphp))
 - [Strata](https://yrashk.com/strata/) - Read the spec of a prototype 64-bit instruction set where memory is explicit I/O, with a Verilog implementation. ([details](https://onesvibe.app/projects/yrashk))
 - [把你的歌单带走](https://playlistout.lengxiqwq.com/) - Parse a public playlist from NetEase, QQ Music and other platforms, then export it as JSON, CSV or M3U8. ⭐ 98 ([details](https://onesvibe.app/projects/playlistout-lengxiqwq))
 - [AFVT8 · Air-Filled Variable Type](https://afvt8.vercel.app) - Pump up an air-filled variable typeface in the browser, then save it as a PNG, video loop, or font file. ([details](https://onesvibe.app/projects/afvt8-vercel))
 - [Rigorix](https://rigorix.eu/) - Describes an AI agent execution governance service that re-checks authority at dispatch and issues signed decisions; live use not verified. ⭐ 18 ([details](https://onesvibe.app/projects/rigorix-eu))
 - [Small Print (MCP)](https://smallprint.dev) - Records what MCP servers, agent skills and plugins tell your AI agent, and shows changes between checks as diffs. ⭐ 1 ([details](https://onesvibe.app/projects/smallprint))
-- [BRAIAIN](https://braiain.com) - Chat with a language model trained only on sentences people paid to include, or read its release notes. ([details](https://onesvibe.app/projects/braiain))
 
 ## Games & Play
 
@@ -45,15 +45,15 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [This page is gone · Abiral Jain](https://abiraljain.github.io/Badminton-404-Page/) - Play badminton against an AI opponent on this interactive 404 page. ([details](https://onesvibe.app/projects/abiraljain-github))
 - [Battle Chess](https://battlechess.apps.simontingle.com) - Battle Chess — a three.js remake with animated warrior pieces. ([details](https://onesvibe.app/projects/battlechess-apps-simontingle))
 - [XRHSHUI Games](https://www.xrhshui.com/zh/) - Six free bilingual browser games: racing, battle, endless survival, and 3D mountain climbing, with no download or sign-up. ([details](https://onesvibe.app/projects/xrhshui))
+- [Play Counter-Strike 1.6 in Your Browser](https://csjs.live) - Play Counter-Strike 1.6 in your browser and join online servers, running on Xash3D via WebAssembly. ([details](https://onesvibe.app/projects/csjs-live))
 - [Game Art Style](https://gameartstyle.loopyhop.com) - Explore the many ways games see the world. Real games, real visual references. ([details](https://onesvibe.app/projects/gameartstyle-loopyhop))
 - [HackTheAI](https://p01--promptquest--vnycn2g6bghl.code.run/) - Outwit 20 AI guards in an orbital hacking puzzle by finding the weak spots in their trust. ([details](https://onesvibe.app/projects/p01-promptquest-vnycn2g6bghl-code-run))
 - [64-Team World Cup](https://worldcup64.com) - Simulate a 64-team World Cup tournament format and see how it plays out. ([details](https://onesvibe.app/projects/worldcup64))
 - [Riddle School Unblocked](https://riddle-school.online) - Play the Riddle School escape puzzle game series in your browser. ([details](https://onesvibe.app/projects/riddle-school-online))
 - [Wine-Assembly](https://wine-assembly.berrry.app) - Run Windows 98 programs like Space Cadet Pinball, SkiFree, and Minesweeper in your browser. ⭐ 94 ([details](https://onesvibe.app/projects/wine-assembly-berrry))
-- [Play Counter-Strike 1.6 in Your Browser](https://csjs.live) - Play Counter-Strike 1.6 in your browser and join online servers, running on Xash3D via WebAssembly. ([details](https://onesvibe.app/projects/csjs-live))
 - [GuanDan Lab 掼蛋实验室｜快速会打，体面上桌](https://guandan.mereith.com) - Play and learn Guandan with AI training, voice coaching, and online 4-player multiplayer. ⭐ 1 ([details](https://onesvibe.app/projects/guandan-mereith))
 - [gorace](https://goracef1.vercel.app) - Drive every Formula 1 circuit raced since 2000, right in your browser. ([details](https://onesvibe.app/projects/goracef1-vercel))
-- [Vibe1Up](https://vibe1up.com) - Browse 644 free AI-made browser games and see how each game's mechanic works. ([details](https://onesvibe.app/projects/vibe1up))
+- [Vibe1Up](https://vibe1up.com) - Play 644 free AI-made browser games and see how each game's mechanic works. ([details](https://onesvibe.app/projects/vibe1up))
 - [Slop Outlet](https://slopoutlet.com) - Play free browser games instantly with no download, picked from a feed of titles. ([details](https://onesvibe.app/projects/slopoutlet))
 - [AI Browser Games: Play 81+ Free Online, No Download](https://zadely.com/) - Play 81+ free AI-coded browser games, including classic ports like Halo and Quake, without downloading anything. ([details](https://onesvibe.app/projects/zadely-com))
 - [Free Browser Games](https://www.aisloparcade.com/) - Free browser arcade games with 3D worlds and multiplayer, such as a police helicopter vs kaiju and a car-combat battle royale. ([details](https://onesvibe.app/projects/aisloparcade))
@@ -87,7 +87,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [BrandPrix. Race for the top of the leaderboard](https://Brandprix.racing) - Race GT cars in your browser on one track and set a verified lap time to climb the founders leaderboard. ([details](https://onesvibe.app/projects/brandprix-racing))
 - [URL Roulette](https://urlroulette.net/) - Spin a virtual lever to discover random websites submitted by real people. ([details](https://onesvibe.app/projects/urlroulette))
 - [$USELESS Clicker](https://01a07ca0-7d62-7b2c-86a1-b07bf9db2fdc.arena.site/) - Play a pointless clicker game themed around the $USELESS cryptocurrency token. ([details](https://onesvibe.app/projects/01a07ca0-7d62-7b2c-86a1-b07bf9db2fdc-arena-site))
-- …and [2,104 more in Games & Play](https://onesvibe.app/explore?category=games_play).
+- …and [2,108 more in Games & Play](https://onesvibe.app/explore?category=games_play).
 
 ## Productivity
 
@@ -130,7 +130,6 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [AnyEdit](https://anyedit.app) - Free in-browser editors for PSD, PDF, DOCX, XLSX and DXF files that run on your device with no upload. ([details](https://onesvibe.app/projects/anyedit))
 - [Ironi](https://Ironi.app) - Ironi is a free workout tracker and gym log app with an AI trainer built in. Plan routines, log sets in one tap, and track progress on Android or in your browser. ([details](https://onesvibe.app/projects/ironi))
 - [HeyBoss](https://heyboss.im/) - A management dashboard that collects team members' daily work reports and AI token usage from tools like Claude Code and Cursor. ([details](https://onesvibe.app/projects/heyboss-im))
-- [plainml](https://plainml-tpua.vercel.app) - Upload a data file to see what it contains, then download every result. ([details](https://onesvibe.app/projects/plainml-tpua-vercel))
 - [Turn screenshots into tasks and deadlines](https://action-shot.vercel.app/) - Upload a chat, email or to-do list screenshot to get its tasks, deadlines and next steps as an editable checklist. ([details](https://onesvibe.app/projects/action-shot-vercel))
 - [Nemoodo](https://nemoodo.com) - Upload a spreadsheet and explore interactive charts and dashboards generated from the data. ([details](https://onesvibe.app/projects/nemoodo))
 - [GateGuard by NexoraApps](https://vms.nexoraapps.in/) - Visitor check-in with QR codes, host approval, digital visitor passes, checkout, and live reception records. ([details](https://onesvibe.app/projects/vms-nexoraapps-in))
@@ -141,15 +140,16 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Free Caselaw Search](https://Lawdiver.com) - Search full text of 10M+ U.S. federal and state court opinions and read AI summaries, free. ([details](https://onesvibe.app/projects/lawdiver))
 - [Shared Household Bill Tracker](https://LedgerNests.com/X) - Track household bills together without ever linking a bank account — see what's due, who paid, and get reminders. Private by design. Free to start; Pro just $7/month. ([details](https://onesvibe.app/projects/ledgernests))
 - [Yamdut Vault](https://yamdut.pages.dev/) - Encrypted cloud drive with client-side zero-knowledge architecture for private file storage. ([details](https://onesvibe.app/projects/yamdut-pages))
-- …and [2,135 more in Productivity](https://onesvibe.app/explore?category=productivity).
+- [B2B Mailz](https://b2bmailz.com/enterprise-iq) - Send bulk emails from your own inbox with tools for solo senders and sales teams. ([details](https://onesvibe.app/projects/b2bmailz))
+- …and [2,125 more in Productivity](https://onesvibe.app/explore?category=productivity).
 
 ## Education
 
 - [中国昼夜地图 · 日光观测台](https://www.gdufe888.top/sun/) - Explore daylight by province on a fixed China map with day-night shading, 24 solar terms, and two-day comparison. ([details](https://onesvibe.app/projects/gdufe888-top))
 - [WeduLab 教学工具集](https://wedulab.com) - Browse and run 16 interactive classroom demos across 4 subjects in the browser, free and with no installation. ([details](https://onesvibe.app/projects/wedulab))
+- [Voice Impression Checker](https://voiceimpressionchecker.com/) - Record your voice to get AI feedback on clarity, pace, stability, and listener impression. ([details](https://onesvibe.app/projects/voiceimpressionchecker))
 - [世界的形状](https://shapeof.world) - Play with 67 interactive worlds that simulate physics, biology, and astronomy in the browser. ([details](https://onesvibe.app/projects/shapeof-world))
 - [日语五十音测试](https://krq.liht.cc/) - Test your knowledge of Japanese hiragana and katakana 50 sounds with interactive exercises. ([details](https://onesvibe.app/projects/krq-liht-cc))
-- [Voice Impression Checker](https://voiceimpressionchecker.com/) - Record your voice to get AI feedback on clarity, pace, stability, and listener impression. ([details](https://onesvibe.app/projects/voiceimpressionchecker))
 - [Physics AI Solver](https://physicsai.chat) - A physics problem-solving assistant that provides logical, step-by-step derivations instead of just final answers. ([details](https://onesvibe.app/projects/physics-ai-solver-step-by-step-problem-assistant))
 - [Dental Anatomy Helper by Athina](https://dentalanatomyath.lovable.app) - Quiz yourself on dental anatomy topics like enamel, dentition, and tooth numbering. ([details](https://onesvibe.app/projects/dentalanatomyath-lovable))
 - [Earthlapse](https://earthlapse.net/) - Scrub a timeline from a molten Earth through the first life and dinosaurs to modern cities, spanning 4.6 billion years. ([details](https://onesvibe.app/projects/earthlapse))
@@ -200,8 +200,8 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 ## Creative Tools
 
 - [Lovact · 释放无限创意](https://Lovact.net) - Generate short films and images from a creative idea using AI. ([details](https://onesvibe.app/projects/lovact))
-- [Dub-Off](https://dub-off.com) - Record your voice dubbing movie scenes in your browser. ([details](https://onesvibe.app/projects/dub-off))
 - [Boppy](https://boppy.me) - Describe a song idea and get AI-generated lyrics and a music track. ([details](https://onesvibe.app/projects/boppy))
+- [Dub-Off](https://dub-off.com) - Record your voice dubbing movie scenes in your browser. ([details](https://onesvibe.app/projects/dub-off))
 - [方言配音在线生成_AI粤语四川话文字转语音](https://xiangyinge.com/zh) - Generate speech from Chinese text in Cantonese, Sichuan, and other dialects. ([details](https://onesvibe.app/projects/xiangyinge))
 - [AI Porn Generator](https://hotube.me/) - Generate NSFW AI videos from text, images, or videos. ([details](https://onesvibe.app/projects/hotube))
 - [ACE PDFMD](https://acepdfmd.com) - Free, secure online PDF, Markdown & image tools: merge, split, compress, convert, sign and OCR PDFs, or turn them into clean Markdown. No signup for light use. ([details](https://onesvibe.app/projects/acepdfmd))
@@ -237,6 +237,8 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [SceneAI](https://sceneai.art) - Generate landing pages with AI-created hero sections, animated backgrounds, and custom gradients. ([details](https://onesvibe.app/projects/sceneai-art))
 - [GIF Face Swap Online](https://giffaceswap.xyz/) - Swap faces in GIFs and photos with AI directly in your browser. ([details](https://onesvibe.app/projects/giffaceswap))
 - [JARVIS Voice Assistant](https://jarvisassistant2.netlify.app/) - Jarvis Voice Assistant AI voice assistant for voice commands with iron man vibes. ([details](https://onesvibe.app/projects/jarvisassistant2-netlify))
+- [ToolXoX](https://toolxox.com) - Free online toolkit for AI image and video generation, photo editing, watermark removal, face swap, and SEO keyword research. ([details](https://onesvibe.app/projects/toolxox))
+- [Naughty Chats](https://naughtychats.ai) - Free AI girlfriend chat for adults: realistic and anime girls who flirt, remember you and send photos. Create your own AI girlfriend. 18+ only. ([details](https://onesvibe.app/projects/naughtychats))
 - [UI Discovery](https://uidiscovery.com/) - Browse real websites, iOS apps and UI sections, with palettes, fonts and prompts for Cursor and Claude Code. ([details](https://onesvibe.app/projects/uidiscovery-com))
 - [Kandinsky 6.0 AI Video Generator With Sound](https://kandinsky6.pro) - Generate videos with synchronized audio from a text prompt or an image, choosing Lite or Pro at 480p or 1080p. ([details](https://onesvibe.app/projects/kandinsky6))
 - [Song Sparks](https://suno-spark-magic.lovable.app) - Create professional Suno AI style tags and lyrics with Song Sparks. Generate custom music prompts and style variations for your tracks. ([details](https://onesvibe.app/projects/suno-spark-magic-lovable))
@@ -247,9 +249,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Video2X](https://video-2x.com/) - Upscale videos to 4K quality using AI, directly in your browser, no installation required. ([details](https://onesvibe.app/projects/video-2x-com))
 - [Qumak](https://qumak.io) - Generate high-converting video and image ads from a website link using AI that analyzes your brand. ([details](https://onesvibe.app/projects/qumak))
 - [MiniMax H3 Max AI Video Generator](https://h3max.app/) - Create 5-15 second videos from text or images with adjustable resolution and frame controls. ([details](https://onesvibe.app/projects/h3max))
-- [MiniMax H3 Max: Fast AI Video Generator](https://h3-max.org) - Generate 768p AI videos from text or images with native audio in seconds. ([details](https://onesvibe.app/projects/h3-max))
-- [Imgveo AI - Free AI Video Generator](https://imgveo.com/) - Generate AI videos from text prompts and images without a credit card. ([details](https://onesvibe.app/projects/imgveo))
-- …and [3,679 more in Creative Tools](https://onesvibe.app/explore?category=creative_tools).
+- …and [3,677 more in Creative Tools](https://onesvibe.app/explore?category=creative_tools).
 
 ## AI Agents
 
@@ -303,7 +303,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [CallsReady](https://callsready.com) - Build voice AI agents that answer and handle business calls automatically. ([details](https://onesvibe.app/projects/callsready))
 - [AI Social Media Research & Creation Agent](https://oneirosea.com) - Connects an AI media agent to real-time social data and turns a chosen direction into images and videos. ([details](https://onesvibe.app/projects/oneirosea))
 - [OPUP AI](https://Opup.co.uk) - Ask questions in plain English and get answers backed by live web search and multiple LLMs. ([details](https://onesvibe.app/projects/opup))
-- …and [1,400 more in AI Agents](https://onesvibe.app/explore?category=ai_agents).
+- …and [1,398 more in AI Agents](https://onesvibe.app/explore?category=ai_agents).
 
 ## Developer Tools
 
@@ -318,6 +318,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Elisym](https://www.elisym.network/) - Open protocol where AI agents discover, hire, and pay each other, built on Nostr and Solana. ⭐ 17 ([details](https://onesvibe.app/projects/elisym-network))
 - [AI Site Scan](https://security.startuphakk.com/services/ai-site-scan/) - OpenMonoAgent-powered website security scanning - reconnaissance, injection, access control, and XSS testing, with findings mapped to OWASP and CWE. ([details](https://onesvibe.app/projects/security-startuphakk))
 - [AI Class](https://kanary.to/ai-class) - Analyzes your Claude Code and Codex usage to reveal your AI coding class and style metrics. ([details](https://onesvibe.app/projects/kanary-to))
+- [时宜AI](https://www.shiyitopo.tech) - AI API gateway providing access to Claude and GPT models with official accounts and reduced pricing. ([details](https://onesvibe.app/projects/shiyitopo-tech))
 - [ascii.rest](https://ascii.rest) - Browse 217 animated ASCII art pieces and copy them into React, Next.js, Astro, or a single HTML tag. ⭐ 661 ([details](https://onesvibe.app/projects/ascii-rest))
 - [optimAIzr](https://optimaizr.com) - Finds wasted tokens in Claude Code, Codex and API calls, and tests cheaper-model fixes on your own calls. ⭐ 27 ([details](https://onesvibe.app/projects/optimaizr))
 - [Ptero](https://ptero.pro) - Chat with multiple AI models instantly without creating an account. ⭐ 15 ([details](https://onesvibe.app/projects/ptero))
@@ -335,7 +336,6 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Doodle Beats](https://doodle-beats.netlify.app) - A unique generative visual music maker. Draw any doodle to spawn living, tempo-synced looping music tracks that play gorgeous lo-fi music. ([details](https://onesvibe.app/projects/doodle-beats-netlify))
 - [ImageTrack - Blob Tracking Effects for Images](https://artkit.cc/image-track) - Apply blob tracking algorithm to static images for artistic visual effects and pattern generation. ([details](https://onesvibe.app/projects/artkit-cc))
 - [BattleTester](https://battletester.app) - Scan web apps for vulnerabilities like SQL injection, XSS, and broken access control with AI-powered automated penetration testing. ([details](https://onesvibe.app/projects/battletester))
-- [时宜AI](https://www.shiyitopo.tech) - AI API gateway providing access to Claude and GPT models with official accounts and reduced pricing. ([details](https://onesvibe.app/projects/shiyitopo-tech))
 - [AI Web Security Scanner](https://mitsumono.app) - AI security scanner testing live websites to find vulnerabilities and generate fix prompts. ([details](https://onesvibe.app/projects/mitsumono))
 - [Vulnsy](https://Vulnsy.com) - Platform for security teams to create and deliver penetration test reports faster with reusable findings and client portals. ([details](https://onesvibe.app/projects/vulnsy))
 - [Multica](https://multica.ai/) - Open-source platform that turns coding agents into real teammates. Assign tasks, track progress, compound skills. ⭐ 49,713 ([details](https://onesvibe.app/projects/multica))
@@ -357,7 +357,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [ReviewStage](https://reviewstage.dev) - ReviewStage is the human review layer for AI-written pull requests. Claude drafts the review privately; you verify, edit and post it as yourself. ⭐ 1 ([details](https://onesvibe.app/projects/reviewstage))
 - [jurl](https://jurl.dev/) - Command-line tool that fetches a web page and extracts only the part you ask for, such as the answer, code, links, or a photo. ⭐ 1 ([details](https://onesvibe.app/projects/jurl))
 - [Jevvy](https://jevvy.dev) - Jevvy is a Chrome side-panel agent. Describe a task in plain language and it does it in your current tab. Fast. ⭐ 1 ([details](https://onesvibe.app/projects/jevvy))
-- …and [3,585 more in Developer Tools](https://onesvibe.app/explore?category=developer_tools).
+- …and [3,589 more in Developer Tools](https://onesvibe.app/explore?category=developer_tools).
 
 ## Finance & Business
 
@@ -375,6 +375,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [ChambaNow](https://chambanow.com/) - Post a job or find skilled trade and labor work, and hire verified workers, in English or Spanish. ([details](https://onesvibe.app/projects/chambanow-com))
 - [HR for growing teams · Onjaal](https://onjaal.com) - People, attendance, leave and payroll in one place. ([details](https://onesvibe.app/projects/onjaal))
 - [美股盘后日报 · 财报解读与投研工具](https://findog.app) - Daily US stock market analysis with after-hours reports, stock heatmaps, and financial statement interpretation. ([details](https://onesvibe.app/projects/findog))
+- [SaaS Idea Validation & Market Research](https://Demandechocom-1.vercel.app) - Searches real public conversations for customer demand, showing pain points, recurring themes, and source links for a SaaS idea. ([details](https://onesvibe.app/projects/demandechocom-1-vercel))
 - [CookLeads](https://cookleads.com) - Search a database of verified B2B contacts for direct dials and emails, with a free start. ([details](https://onesvibe.app/projects/cookleads))
 - [RepVera](https://www.RepVera.com) - Platform for sharing verified work records and receipts instead of references. ([details](https://onesvibe.app/projects/repvera))
 - [NaijaInvoice](https://revenue-root-platform.lovable.app) - Generate invoices, quotations, and payment links with AI automation. ([details](https://onesvibe.app/projects/revenue-root-platform-lovable))
@@ -386,6 +387,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [MentionLeads](https://mentionleads.com) - Search Reddit, X, and Hacker News to find potential customers and score their buying intent. ⭐ 1 ([details](https://onesvibe.app/projects/mentionleads))
 - [Shiproof](https://shiproof.dev) - You built it with Lovable, Bolt, Cursor or Replit. We make it secure, fast and reliable enough for real users — in 7 days, at a fixed price, without a rewrite. We also build new we. ([details](https://onesvibe.app/projects/shiproof))
 - [A-Share Radar Terminal](https://ashareradar.com) - A-Share Radar Terminal - 本地 A 股热点聚合工作台. ([details](https://onesvibe.app/projects/ashareradar))
+- [Yurt dışı remote yazılım iş ilanları, Türkiye'den](HTTPS://gocmeden.hellobasalt.dev) - Browse remote software job listings open to applicants in Turkey and convert salaries to net TL. ([details](https://onesvibe.app/projects/gocmeden-hellobasalt))
 - [Norviq](https://www.norviq.org/) - Tracks portfolio and spending and surfaces AI-powered signals in one private financial guardian, with MCP integrations. ([details](https://onesvibe.app/projects/norviq))
 - [RA-Trader](https://ra-trader.com/v2/) - RA-Trader is an automated crypto trading bot app for selecting tested StrategyHunter basket strategies, connecting exchange execution, starting in testnet, and monitoring risk-cont. ([details](https://onesvibe.app/projects/ra-trader))
 - [Omnichannel conversational AI for businesses](https://www.elocuenti.com/en) - The omnichannel conversion engine: AI agents that support, qualify and sell 24/7, learn from every customer and automate follow-ups and campaigns. ([details](https://onesvibe.app/projects/elocuenti))
@@ -401,7 +403,6 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Sidéreo](https://sidereo.es/?v=2) - Buy a position on an orbital map, where placement depends on payment and others can outbid you. ([details](https://onesvibe.app/projects/sidereo-es))
 - [Creator monetization, your way](https://folloverse.com) - Lets creators sell memberships, pay-per-view posts, and digital products with a flat 6% fee. ([details](https://onesvibe.app/projects/folloverse))
 - [ARCA](https://arca-budgeting.vercel.app/) - Zero-based budgeting dashboard where you assign every dollar a budget category to plan and track personal spending. ([details](https://onesvibe.app/projects/arca-budgeting-vercel))
-- [SaaS Idea Validation & Market Research](https://Demandechocom-1.vercel.app) - Searches real public conversations for customer demand, showing pain points, recurring themes, and source links for a SaaS idea. ([details](https://onesvibe.app/projects/demandechocom-1-vercel))
 - [把算账交给AI，把时间留给拿单](https://www.swqifu.com) - AI-powered export quotation generator supporting FOB, CIF, CFR, and DDP pricing terms. ([details](https://onesvibe.app/projects/swqifu))
 - [Coldpilot](https://usecoldpilot.com) - Send cold email campaigns with inbox optimization and reply tracking. ([details](https://onesvibe.app/projects/usecoldpilot))
 - [sticker.bid](https://sticker.bid) - A Panini-style sticker album where brands bid for ranked positions. ([details](https://onesvibe.app/projects/sticker-bid))
@@ -410,8 +411,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Celsmar](https://celsmar.com/en/) - Analyse stocks, crypto and ETFs with DCF valuation, 20 years of fundamentals, a screener and portfolio risk. ([details](https://onesvibe.app/projects/celsmar))
 - [Strike Finance](https://app.strikefinance.org/trade/btc) - Trade crypto markets on the leading on-chain exchange. Deep liquidity, tight spreads, and low fees. ([details](https://onesvibe.app/projects/app-strikefinance))
 - [Brevmont for Sales Reps](https://brevmont.com/sales-reps) - Generates AI-powered sales messages to help reps close deals on multiple platforms. ([details](https://onesvibe.app/projects/brevmont))
-- [Enfopage](https://Enfopage.com) - Free one-page websites for local businesses. Tell us about your business, we write it, design it, and put it live in about a minute. ([details](https://onesvibe.app/projects/enfopage))
-- …and [2,264 more in Finance & Business](https://onesvibe.app/explore?category=finance_business).
+- …and [2,254 more in Finance & Business](https://onesvibe.app/explore?category=finance_business).
 
 ## Health & Wellness
 
@@ -431,6 +431,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Kanshiki](https://kanshiki.kitaaura.com/) - Paste a health claim to see graded evidence from PubMed literature. ⭐ 1 ([details](https://onesvibe.app/projects/kanshiki-kitaaura))
 - [Peptide Dosage Calculator](https://peptidedosagecalculator.app/) - Converts a peptide dose to mL and U-100 syringe units, with concentration checks, reverse calculations, and saved results. ([details](https://onesvibe.app/projects/peptidedosagecalculator-app))
 - [Free White Noise Generator](https://white-noise-generator.com/) - Plays white noise and ambient sounds in the browser for sleep, focus, and relaxation, with no login required. ([details](https://onesvibe.app/projects/white-noise-generator-com))
+- [云禅寺 · 心安之处，静心念佛；礼佛祈愿](https://ultimatetemple.live/) - Walk through the Dharma Hall and the Listening Wind and Moonlight courtyards, then worship, chant sutras and make prayers. ([details](https://onesvibe.app/projects/ultimatetemple-live))
 - [산사, 잠깐 쉬어가요](https://sansatemple.com/) - An online temple where visitors can sit quietly with others for a short rest, without talking. ([details](https://onesvibe.app/projects/sansatemple))
 - [Joy2Move](https://www.joy2move.net/) - Free at-home workout sessions for abs, core, glutes, back, HIIT, Tabata and Pilates, with progress tracking. ([details](https://onesvibe.app/projects/joy2move))
 - [Fitness OS](https://korey2028.tech/fitness/app/?demo=1&lang=zh) - Log training, nutrition and daily status in one place, then review your progress. ([details](https://onesvibe.app/projects/korey2028-tech))
@@ -456,7 +457,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Setune](https://gnayiab.app) - Log workouts and get your next training session planned by an AI coach that explains each change it makes. ([details](https://onesvibe.app/projects/gnayiab))
 - [Meridian](https://meridianweek.com) - Six-week CBT mindset coaching program with thought records, rule cards, and value work; week one is free. ([details](https://onesvibe.app/projects/meridianweek))
 - [Book Salon, Spa & Dermatologist Appointments](https://www.luzo.app/) - Search and book salon, spa and dermatologist appointments across India, with no prepayment and free cancellation. ([details](https://onesvibe.app/projects/luzo))
-- [Anpheros](https://anpheros.com) - Free app for logging symptoms, medications, blood pressure and lab results for the whole family. ([details](https://onesvibe.app/projects/anpheros))
+- [Anpheros](https://anpheros.com) - Logs symptoms, medications, blood pressure and lab results for a family, with a FHIR healthcare API. ([details](https://onesvibe.app/projects/anpheros))
 - [Energeia](https://www.energeiahub.com) - Look up verified caffeine and sugar content for energy drinks, with caffeine tools and news. ([details](https://onesvibe.app/projects/energeiahub))
 - [Vivra](https://Vivrapet.com) - Free app for dog and cat owners to track vaccine records, weight, vet visits, expenses and a travel passport. ([details](https://onesvibe.app/projects/vivrapet))
 - [HopeAlert Blood Bank](https://hopealert.onrender.com) - Blood bank site for blood donation and requests; usability not verified in a browser. ([details](https://onesvibe.app/projects/hopealert-onrender))
@@ -464,7 +465,6 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Cuore](https://cuore.fit/) - Get a cycling training plan from an AI coach that adjusts it as you go, by voice or chat. ([details](https://onesvibe.app/projects/cuore-fit))
 - [Kino](https://kino.formfields.ai/s/rd-bip) - Log lifts, get form reviews from people you trust, and run challenges with your gym. ([details](https://onesvibe.app/projects/kino-formfields))
 - [PACR](https://pacr.life/) - Get a 5K to marathon training plan that is rewritten each morning around your last run, real pace and today's heat. ([details](https://onesvibe.app/projects/pacr-life))
-- [MedDroid](https://medicalandroid.com/assistant) - Ask an AI assistant to explain blood test, prescription, scan, BP and sugar reports in simple words. ([details](https://onesvibe.app/projects/medicalandroid))
 - …and [281 more in Health & Wellness](https://onesvibe.app/explore?category=health_wellness).
 
 ## Social & Community
@@ -508,7 +508,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [prompts.chat](https://prompts.chat) - Browse community-shared AI prompts and copy them to use with ChatGPT, Claude, Gemini, or Llama. ⭐ 166,816 ([details](https://onesvibe.app/projects/prompts-chat))
 - [Lumno｜浏览器命令栏、聚焦搜索与极简新标签页](https://lumno.kubai.design) - Lumno 是一款开源浏览器命令栏，一个快捷键即可搜索标签页、书签、历史记录和站内内容，并提供极简新标签页，适用于 Chrome、Edge、Dia 等 Chromium 浏览器和 Firefox。 ⭐ 318 ([details](https://onesvibe.app/projects/lumno-kubai-design))
 - [Whirl](https://whirl.chat) - An AI chat app with memory that actually cares about you. Chat across the best models, create living documents and visualizations, and pick up right where you left off. ⭐ 212 ([details](https://onesvibe.app/projects/whirl-chat))
-- [MoveChat](https://vc067.github.io/MoveChat/) - Switch AI models mid-chat with MoveChat, a free open-source extension. Move conversations between ChatGPT, Claude, Gemini, Perplexity and DeepSeek, or download chats as PDF, Markdo. ⭐ 26 ([details](https://onesvibe.app/projects/vc067-github))
+- [MoveChat](https://vc067.github.io/MoveChat/) - Switch AI models mid-chat with MoveChat, a free open-source extension. Move conversations between ChatGPT, Claude, Gemini, Perplexity and DeepSeek, or download chats as PDF, Markdo. ⭐ 37 ([details](https://onesvibe.app/projects/vc067-github))
 - [Apron Chat Protocol](https://apron.chat/) - Apron is a minimal protocol for self-hosted chats. Simple enough to write a server in ~100 lines, powerful enough for rooms, threads, bots, reactions, and more. ⭐ 15 ([details](https://onesvibe.app/projects/apron-chat))
 - [chirp](https://chirp.wiki) - An open-source message board for agent-to-agent communication. Claude Code, Codex and your other agents share context, hand off work and mold the board too. ⭐ 12 ([details](https://onesvibe.app/projects/chirp-wiki))
 - [blog-est-im](https://blog.est.im/images/2026/stdout-28.01.avif) - Share updates and moments on a web-based social network inspired by WeChat Moments. ⭐ 10 ([details](https://onesvibe.app/projects/blog-est-im))
@@ -516,10 +516,10 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [FONY](https://fony.fun) - FONY is a free internet radio player with no sign-up. Share your favorite stations on Nostr, follow other listeners and discover music through people, not algorithms. ⭐ 7 ([details](https://onesvibe.app/projects/fony))
 - [Locan](https://locan.ai/) - Locan Your website from real reviews, kept fresh by an AI agent. ⭐ 4 ([details](https://onesvibe.app/projects/locan))
 - [Flatbread](https://flatbread.io) - Turn a Claude Code, Codex or Cursor session into one link: every step, what broke, what fixed it and the diff, secrets removed first. ⭐ 3 ([details](https://onesvibe.app/projects/flatbread))
+- [LANY · Find your view](https://cerealbox39.github.io/concert-seat-preview/?block=211&row=14&seat=12) - Find your perspective for LANY's soft world tour at Singapore Indoor Stadium, 4 November 2026. An unofficial, approximate 3D seat and standing pen preview. ⭐ 2 ([details](https://onesvibe.app/projects/cerealbox39-github))
 - [Postfjord](https://postfjord.com) - Design posts, videos and emails from templates, schedule them to every channel and answer DMs in one inbox. One app for small business marketing. ⭐ 1 ([details](https://onesvibe.app/projects/postfjord))
 - [AirmailAI](https://airmailai.net/) - Bring your own API keys and chat with frontier AI like ChatGPT, Claude, Gemini, and more. ⭐ 1 ([details](https://onesvibe.app/projects/airmailai))
-- [Your website has a community. You don't own it](https://elseweb.lol) - Every domain is a public conversation. Open protocol. Independent relays. No permission required. ⭐ 1 ([details](https://onesvibe.app/projects/elseweb-lol))
-- …and [995 more in Social & Community](https://onesvibe.app/explore?category=social_community).
+- …and [996 more in Social & Community](https://onesvibe.app/explore?category=social_community).
 
 ## Utilities
 
@@ -555,6 +555,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Twitter & X GIF Downloader](https://gif-downloader.app) - Download Twitter/X GIFs and videos, save Facebook videos as MP4, or make a GIF from a clip. ([details](https://onesvibe.app/projects/gif-downloader))
 - [Work Easy](https://workeasy.win) - Free browser tools to compress PDFs, resize photos, make QR codes and shorten links, with nothing uploaded. ([details](https://onesvibe.app/projects/workeasy-win))
 - [Search](https://search.xorsoft.dev/) - Search the web using an index built from the CommonCrawl corpus. ([details](https://onesvibe.app/projects/search-xorsoft))
+- [plainml](https://plainml-tpua.vercel.app) - Upload a data file to see what it contains, then download every result. ([details](https://onesvibe.app/projects/plainml-tpua-vercel))
 - [Free Online Web Tools & Developer Utilities](https://www.urbanmixo.online/) - Advertises free online web tools and developer utilities; the specific tools could not be verified. ([details](https://onesvibe.app/projects/urbanmixo-online))
 - [BALGRAD.AI](https://www.balgrad.ai/?card=v5) - Compare prices for the same product across retailers and markets to spot price gaps. ([details](https://onesvibe.app/projects/balgrad))
 - [Highstreett](https://www.digitalhighstreett.com/) - Search for local businesses and food spots to see who owns each one. ([details](https://onesvibe.app/projects/digitalhighstreett))
@@ -572,8 +573,7 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [Claude watermark checker](https://claudewatermark.xyz) - Paste text to detect and remove hidden watermarks, invisible characters, and HTML artifacts. ([details](https://onesvibe.app/projects/claudewatermark))
 - [pagehaul, every asset on any page](https://pagehaul.vercel.app) - Extracts images, icons, videos, fonts, and documents from a webpage into a single grid. ([details](https://onesvibe.app/projects/pagehaul-vercel))
 - [卡卡轻导航 - 极简聚合导航、在线工具箱与在线小游戏](https://kaka770.cn/) - Minimalist navigation platform aggregating websites, online tools, and mini games. ([details](https://onesvibe.app/projects/kaka770-cn))
-- [Free URL Shortener](https://tinyurls.in) - Convert long URLs to short custom links instantly, no sign-up required. ([details](https://onesvibe.app/projects/tinyurls-in))
-- …and [765 more in Utilities](https://onesvibe.app/explore?category=utilities).
+- …and [764 more in Utilities](https://onesvibe.app/explore?category=utilities).
 
 ## Other
 
@@ -581,18 +581,20 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [女菩萨 · X 博主精选画廊](https://nv-pu-sa.pages.dev/) - 女菩萨 — X (Twitter) 关注列表精选画廊与全量博主归档系统. ([details](https://onesvibe.app/projects/nv-pu-sa-pages))
 - [フィロソフィア【滅絶】訓練所｜モンスト ショットシミュレーター](https://illustrious-horse-001303.netlify.app) - モンスト新難易度「滅絶」フィロソフィア(滅国の大法官)の全8ステージで、ショットを練習できる非公式シミュレーター。リズム・マクスウェルなどキャラごとのスピード差、地雷・ワープ・ダメージリンク・ヒットチャージウォールを再現。 ([details](https://onesvibe.app/projects/illustrious-horse-001303-netlify))
 - [非公式観戦ガイド](https://minaika2026.pages.dev/) - #にじイカ祭り2026 非公式観戦ガイド。塗りまくれ！にじさんじイカ祭り2026の出場者96人・24チームの配信を1か所で見つけて、まとめて見られます。 ([details](https://onesvibe.app/projects/minaika2026-pages))
+- [GTA VI · PC 移植观测站](https://vi.ramirinko.top/) - 非官方 GTA VI PC 移植观测站，收录社区项目、工程路线和 GitHub 公开动态。 ([details](https://onesvibe.app/projects/vi-ramirinko-top))
 - [反应挑战](https://cumwithme.edgecontrol.workers.dev) - 真他妈牛逼！刚他妈躺床上面，你猜我刷到什么了？ X上面有个人做了一个控射网站 这不是寸止吗？ 传送门： 真他妈天才，我操了 让我这个专业测评师测评一下！！！ ([details](https://onesvibe.app/projects/cumwithme-edgecontrol-workers))
 - [uiprompts.app](https://uiprompts.app) - Browse and copy AI prompt templates for building cinematic websites and hero sections with AI video backgrounds. ([details](https://onesvibe.app/projects/uiprompts))
 - [Open Pose & Costume · 姿势与服装参考库](https://hongye007.github.io/open-pose-costume/) - Explore pose, costume and character references in one bilingual workspace. 在一个中英文工作台中探索姿势、服装与人物参考。 ([details](https://onesvibe.app/projects/hongye007-github))
 - [대통령 5년](https://president5.pages.dev/?seed=4HBU-6Y8Z) - 대한민국 대통령 5년 임기를 직접 살아보는 웹 시뮬레이터. 인사·예산·외교·안보·국회까지, 당신의 선택이 쌓여 엔딩이 갈립니다. ([details](https://onesvibe.app/projects/president5-pages))
+- [KuroCat · 桌面打字小黑猫伴侣](https://qianyi.one/kurocat) - Download a transparent, always-on-top typing cat companion for Windows and macOS with six hand-drawn skins. ([details](https://onesvibe.app/projects/qianyi-one))
+- [Merry Lyric tree!](https://incandescent-stroopwafel-6f5a85.netlify.app/#tree-20) - 모두의 가사가 모여, Merry Lyric Tree! ([details](https://onesvibe.app/projects/incandescent-stroopwafel-6f5a85-netlify))
 - [콕콕 · 내 작업](https://xiafei.netlify.app) - 我用工具做了一个简单的小东西--点击互动的夏斐（使用的图片是我找朋友约稿的）. ([details](https://onesvibe.app/projects/xiafei-netlify))
 - [باقات الإنترنت المنزلي 5G وفايبر](https://internetserviceszainsalammobilystc.lovable.app) - اطلب باقة الإنترنت المنزلي 5G أو الألياف البصرية من stc وزين وموبايلي وسلام — تركيب ومودم وتفعيل مجاني، والطلب مباشرة عبر واتساب. ([details](https://onesvibe.app/projects/internetserviceszainsalammobilystc-lovable))
-- [Merry Lyric tree!](https://incandescent-stroopwafel-6f5a85.netlify.app/#tree-20) - 모두의 가사가 모여, Merry Lyric Tree! ([details](https://onesvibe.app/projects/incandescent-stroopwafel-6f5a85-netlify))
 - [BRAIAIN](https://braiain.com) - Chat with a language model trained only on sentences people paid to include, or read its release notes. ([details](https://onesvibe.app/projects/braiain))
 - [K-签售会](https://sign.wingkit.top) - 参考了这个网站： 做了一个kpop偶像互换签售的网页游戏 欢迎大家体验，也欢迎提出建议！ ([details](https://onesvibe.app/projects/sign-wingkit-top))
 - [SLIME](https://slime.today/) - SLIME (slime.today) — Day-1 data terminal for Flap Pool Launch on BNB Chain: launches feed, graduation floor simulator, salt lock monitor. ([details](https://onesvibe.app/projects/slime-today))
+- [X榜单 · 中文区创作者数据榜单](https://retfings.github.io/x-bangdan/#/) - X榜单 · 中文区 X（Twitter）创作者数据榜单。发帖、评论、涨粉、曝光，每天自动更新。 ([details](https://onesvibe.app/projects/retfings-github))
 - [Timbrel](https://timbrelai.com/) - Create a personalized AI voice that writes like you by mapping your writing style. ([details](https://onesvibe.app/projects/timbrelai))
-- [GTA VI · PC 移植观测站](https://vi.ramirinko.top/) - 非官方 GTA VI PC 移植观测站，收录社区项目、工程路线和 GitHub 公开动态。 ([details](https://onesvibe.app/projects/vi-ramirinko-top))
 - [寸止めゲーム](https://resilient-kulfi-f00c71.netlify.app) - サンプルアプリ あとは、これに音声や画像を差し替えるイメージ. ([details](https://onesvibe.app/projects/resilient-kulfi-f00c71-netlify))
 - [安乾鎬模擬器](https://splendid-baklava-4ebf55.netlify.app) - 安干镐捡手机模拟器 电话声音有时候可能要等一阵子才会跑出来 第一次尝试制作 有bug可以跟我说. ([details](https://onesvibe.app/projects/splendid-baklava-4ebf55-netlify))
 - [The People's Ledger](https://thepeopleledger.com) - Look up state bills, votes, and representatives through a free, nonpartisan explainer. ([details](https://onesvibe.app/projects/thepeopleledger))
@@ -607,17 +609,17 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [高性价比人生指南｜循证建议与个人行动清单](https://howtolivebetter.net) - Browse evidence-based life advice with costs, benefits and sources, and save chosen actions to a personal checklist. ⭐ 24,500 ([details](https://onesvibe.app/projects/howtolivebetter))
 - [AI Demo Collection · Open Source](https://fanhuayishiy.github.io/ai-demo/) - Browse a directory of AI demo experiments hosted on GitHub Pages, with source code and prompts linked on GitHub. ⭐ 66 ([details](https://onesvibe.app/projects/fanhuayishiy-github))
 - [Keryx](https://keryx.cc/) - Ask a question and get research backed by cited evidence; verified creators can earn from qualifying paid citations. ⭐ 3 ([details](https://onesvibe.app/projects/keryx-cc))
-- [KuroCat · 桌面打字小黑猫伴侣](https://qianyi.one/kurocat) - Download a transparent, always-on-top typing cat companion for Windows and macOS with six hand-drawn skins. ([details](https://onesvibe.app/projects/qianyi-one))
 - [雨丝 Wet Denier Lab](https://newtonquan-yusi.pages.dev) - 点丝袜任意位置泼水：水花炸开，湿了的地方透出皮肤，水珠挂住、滑落、滴到地上。二次元 3D 丝袜泼水实验，制作 Newton Quan。 ([details](https://onesvibe.app/projects/newtonquan-yusi-pages))
 - [恐怖维基 · 各国网络怪谈译文库](https://horror.funnyai.wiki/) - Browse translated internet horror stories from Japan, Reddit, Creepypasta and Chinese-speaking regions, with sources and dates. ([details](https://onesvibe.app/projects/horror-funnyai-wiki))
 - [方志 · 北京](https://fangzhi.defiabell.com) - 北京、西安、南京、上海、杭州、苏州、洛阳、开封、成都、广州、武汉、长沙、扬州、绍兴、宁波、景德镇、大同、安阳、济南、桂林、郑州、太原、曲阜、荆州、襄阳、黄山、泰安、镇江、湖州、无锡、徐州、常州三十二座城从远古到今天的大事、人物与山河变迁。拖动画轴或自动播放，全国图与城市图随年份变化，每条记载标明可信度与出处。 ([details](https://onesvibe.app/projects/fangzhi-defiabell))
-- [X榜单 · 中文区创作者数据榜单](https://retfings.github.io/x-bangdan/#/) - X榜单 · 中文区 X（Twitter）创作者数据榜单。发帖、评论、涨粉、曝光，每天自动更新。 ([details](https://onesvibe.app/projects/retfings-github))
 - [图像与提示词 · 1000 张设计图像与生成提示词](https://promptweb-765.pages.dev/) - 网页设计、封面设计、图像风格与剪辑包装素材，共 1000 张原生生成的图像。每张都附实际发送的提示词、设计说明与参考来源。 ([details](https://onesvibe.app/projects/promptweb-765-pages))
 - [재현의 iPhone](https://moonlit-korean-story.lovable.app) - 한동민에게서 온 메시지 — iPhone 다크 모드로 펼쳐지는 인터랙티브 이야기. ([details](https://onesvibe.app/projects/moonlit-korean-story-lovable))
+- [X 交友与互关博主导航 · 浇个朋友](https://friends.quotuo.com/) - 浏览 X 博主的公开交友意愿、兴趣与收录来源，查看真实头像和主页链接，用本地关注标记记录想认识的朋友。浇个朋友由 @dohewater 制作，不承诺回关。 ([details](https://onesvibe.app/projects/friends-quotuo))
 - [Home](https://hwaho2.vercel.app) - 래퍼배우 섷윤 일일마스체험 🤘 비번: 0323. ([details](https://onesvibe.app/projects/hwaho2-vercel))
 - [Sailers Catch](https://sailorscatch.lovable.app) - A playful fishing adventure: upgrade boats, brave storms, cross borders and chase legendary fish. ([details](https://onesvibe.app/projects/sailorscatch-lovable))
 - [Write it once. Set it everywhere](https://Jotecho.com) - AI publishing workflow for creators and founders. Capture one idea and cast platform-native drafts for LinkedIn, YouTube, Pinterest, X, and more, in your voice. ([details](https://onesvibe.app/projects/jotecho))
 - [VOXEMON](https://voxemon.com/) - @SamVale29. ([details](https://onesvibe.app/projects/voxemon))
+- [蜡笔小牧场 · 奶牛叔](https://imunclecow.com/) - 蓝天、白云、草地，和一头慢悠悠的奶牛。奶牛叔的蜡笔小牧场。 ([details](https://onesvibe.app/projects/imunclecow))
 - [EverBanyan](https://everbanyan.com) - EverBanyan is a living, seed-grown banyan memorial for a beloved pet. Free to build in private; the first hundred memorials are free. ([details](https://onesvibe.app/projects/everbanyan))
 - [Ek Din · one day in an Indian living room](https://ek-din.com/) - The television, the drawing room and the lane outside. A 1990s Indian childhood, three ways in. ([details](https://onesvibe.app/projects/ek-din))
 - [呜哇小站 · 表情包仓鼠库](https://emoji.wuwa.games) - 众筹、免费使用的鸣潮表情包仓库。 ([details](https://onesvibe.app/projects/emoji-wuwa-games))
@@ -625,15 +627,152 @@ Every link here is machine-verified: [One's Vibe](https://onesvibe.app) re-check
 - [UNGA81](https://unga81.orosei.ai) - Dashboard for the UNGA81 session that shows who speaks when. ([details](https://onesvibe.app/projects/unga81-orosei))
 - [Students Talk Forum](https://forums.studentstalk.in) - @lightsilver323. ([details](https://onesvibe.app/projects/forums-studentstalk-in))
 - [WealthDeck](https://wealth-deck.com/) - Free private finance tools: stress-test your portfolio against Fed rate hikes, project retirement savings with compound growth, and calculate your FIRE number. 100% browser-based —. ([details](https://onesvibe.app/projects/wealth-deck))
-- [Cirvix AgentControl](https://Cirvix.com) - Cirvix checks every tool call an AI agent makes against policy before it runs, and records the decision in a tamper-evident chain. Local-first and self-hosted. ([details](https://onesvibe.app/projects/cirvix))
-- [iDonkey v0.49b. Seed fake files, rank real links](https://idonkey-project.com) - A browser game dressed as a 2004 file sharing client. Every file is invented and nothing is ever transferred. Queue, seed, climb the ratio board, and put your link on it. ([details](https://onesvibe.app/projects/idonkey-project))
-- …and [7,176 more in Other](https://onesvibe.app/explore?category=other).
+- …and [7,192 more in Other](https://onesvibe.app/explore?category=other).
 
 ## Graveyard
 
 Apps that were live on this list and have since gone dark — the liveness standard, demonstrated. URLs are intentionally not linked (they stopped responding to our checks; visit at your own risk). Full memorial at [onesvibe.app/graveyard](https://onesvibe.app/graveyard).
 
+- **AI Signal Guard · browser analyzer** · `betaer.github.io/AISignalGuard` (Jul 2026 – Nov 2026) - Check what network and browser signals you expose before using AI services.
 - **Design Slop Cop** · `slopcop.adriankrebs.ch` (Jul 2026 – Nov 2026) - Scan websites for AI design patterns and score how AI-generated their design looks.
+- **cuff.fun** · `Cuff.fun` (Jul 2026 – Nov 2026) - Collect and trade blockchain-based digital characters with unique personalities and voices.
+- **Aftershare** · `aftershare.org` (Sep 2026 – Nov 2026) - Rewrite Instagram Reels and YouTube into posts for X, LinkedIn, Threads, summaries, and scripts. Set tone and direction, edit first, never auto-posted. Free to start — also works i.
+- **My Store** · `pixelbnb.com` (Aug 2026 – Nov 2026) - My Store.
+- **CraftScore** · `craftscore.app` (Jul 2026 – Nov 2026) - Measure engineering craft using Git analytics and code quality metrics.
+- **LOT №1** · `lot1.lol` (Aug 2026 – Nov 2026) - No ads. No algorithm. Just bid higher than whoever's above you. Submit your link, name your price, take the podium.
+- **FanzMeetup** · `fanzmeetup.com` (Jul 2026 – Nov 2026) - Connect with football and soccer fans for meetups, forums, and watch parties in your city.
+- **Google Maps review audit in 30 seconds · Resenix** · `Resenix.com` (Jul 2026 – Nov 2026) - Audit your Google Maps listing, compare competitors, and get a 90-day improvement plan.
+- **StateWars** · `statewars.lol` (Aug 2026 – Nov 2026) - A live register of 51 US territories. Claim one and your company holds the map until someone pays 1.3× to take it.
+- **Clipcast** · `clipcast-pi.vercel.app` (Aug 2026 – Nov 2026) - @CricTalk29 no money for domain 🫠🫠.
+- **Greeks** · `greeks.pro` (Jul 2026 – Nov 2026) - Search a stock ticker to view real-time options analytics including Greeks, GEX, Max Pain, and Unusual Flow.
+- **Uplinkly** · `uplinkly.net` (Jul 2026 – Nov 2026) - Create branded short links and landing pages with custom domains and campaign analytics.
+- **The 30 Papers** · `listendock.com/30-papers` (Jul 2026 – Nov 2026) - Listen to Ilya Sutskever's 30 AI papers explained as free audio episodes.
+- **wordinweb collab** · `collab.word-in-web.com` (Aug 2026 – Nov 2026) - Collaborative online DOCX editor with MS Word parity, shareable via anonymous links.
+- **Dshelf** · `dshelf.app` (Jul 2026 – Nov 2026) - Turn PDFs into a calm reading experience with a beautiful library and AI-powered page guidance.
+- **ReExplain** · `reexplain.app` (Jul 2026 – Nov 2026) - Re-explain any learning material in your own words with adaptive questions that reveal what you actually understand.
+- **KeepMeWise, Your whole life, kept in one place** · `keepmewise.com` (Jul 2026 – Nov 2026) - All-in-one life management platform for habits, tasks, health, finance, and calendar in one encrypted workspace.
+- **Rails Agent** · `rails-agent.com` (Aug 2026 – Nov 2026) - The fullstack agentic platform for Ruby on Rails. Install rails-agent-stack, open /agents, build with docs and your coding agent, test, deploy, and monitor agents at the speed of l.
+- **ownthe.day** · `ownthe.day` (Aug 2026 – Nov 2026) - One page. One owner. Whoever pays holds it until midnight UTC, or until someone pays more.
+- **Everything Cinema** · `watchwise.in` (Aug 2026 – Nov 2026) - Find cinema news, trailers, releases, box office, and streaming in India.
+- **SaaS Ranks** · `saasranks.xyz` (Aug 2026 – Nov 2026) - SaaS Ranks is a live pay-to-rank leaderboard for SaaS products. No algorithms, no fake reviews — rank is the bid, nothing else. Submit your product and outbid competitors to claim.
+- **RizingClips** · `rizingclips.com` (Jul 2026 – Nov 2026) - Turn social media growth into images and clips instantly without design tools.
+- **全球重大事件实时追踪** · `Lined.news` (Aug 2026 – Nov 2026) - Track global events in crypto, finance, and geopolitics with real-time timelines and alerts.
+- **Find Your AI Score. Is your site ready for AI search?** · `findyouraiscore.com` (Aug 2026 – Nov 2026) - Audit your website's readiness for AI search engines and citation by ChatGPT, Perplexity, and Gemini.
+- **喵唱 · 把旋律唱成喵** · `layman.xin` (Aug 2026 – Nov 2026) - Convert any song into meowing sounds in your browser.
+- **QuatCrypto** · `quatcrypto.com` (Jul 2026 – Nov 2026) - Marketplace connecting creators and buyers to exchange digital products with secure delivery.
+- **Task Tracker** · `task-tracker-production-b485.up.railway.app` (Aug 2026 – Nov 2026) - Create and manage your tasks with a web-based tracker.
+- **Banana Nano AI** · `bananananoai.net` (Jul 2026 – Nov 2026) - Transform and enhance images with AI tools for face-swapping, background removal, and style conversion.
+- **Kreavo** · `kreavo.dev` (Aug 2026 – Nov 2026) - A curated index of React components and templates for building polished, production-ready interfaces.
+- **Appgratis** · `appgratis.net` (Aug 2026 – Nov 2026) - A public leaderboard for iOS apps with one ranking signal: what you paid for the spot. Listings start at $1, and the highest bid holds #1.
+- **UK Bid Map** · `ukbidmap.lol` (Aug 2026 – Nov 2026) - Bid on UK territories on a live map to claim your spot with your logo and link.
+- **CarUp** · `carup.lol` (Aug 2026 – Nov 2026) - CarUp is a public leaderboard for cars. Add a car with a photo, vote for the ones you love, and watch the world's favourite cars climb to #1.
+- **NovaScope** · `NovaScope.io` (Aug 2026 – Nov 2026) - AI-powered audits for local SEO, Google Business Profile, and answer engine visibility with white-label reports.
+- **Paper** · `paper-dusky-five.vercel.app` (Sep 2026 – Nov 2026) - A notebook app with an AI assistant that challenges your thinking instead of simply agreeing with you.
+- **Pickxel.io** · `pickxel.io` (Sep 2026 – Nov 2026) - 1000 pixels. Claim a space, leave a link, keep it until someone pays more.
+- **Best Free Meeting Scheduler for Different Time Zones** · `idealmeetingtime.com` (Jul 2026 – Nov 2026) - Find overlapping meeting times across different time zones.
+- **EtsyDoc** · `etsydoc.com` (Sep 2026 – Nov 2026) - Check the health of your Etsy listing across title, description, tags and cross-field relevance. Free diagnosis, no account access required.
+- **The Last Leaf** · `thelastleaf.lol` (Sep 2026 – Nov 2026) - 7,777,777 leaves. Every visitor takes one.
+- **Finite-time Navier-Stokes blowup viewer** · `minfx.ai/navier-stokes` (Sep 2026 – Nov 2026) - Interactive 3D visualization of Navier-Stokes fluid dynamics blow-up solutions.
+- **FitMarket · Invest in performance** · `fitmarket-app-tirtd70l.blinkpowered.com/app` (Aug 2026 – Nov 2026) - Trade the momentum of fitness with FitMarket.
+- **NeonMixMaster** · `neonmastering.onrender.com` (Sep 2026 – Nov 2026) - Master audio with live waveform comparison and browser-based processing tools.
+- **BidUp** · `bidup.site` (Aug 2026 – Nov 2026) - BidUp — a public pay-to-rank leaderboard. No ads, no API keys, no revenue sharing. Just bid your competition to get to the top.
+- **Managed API keys for coding-agent workflows** · `ozrouter.com` (Jul 2026 – Nov 2026) - Manage API keys and usage budgets for coding-agent workflows with request routing.
+- **The Founder Decision Network** · `whatwouldyoudo.co/social` (Jul 2026 – Nov 2026) - A social network where founders take positions on business decisions and compare judgment with peers.
+- **THE LAST EVER NFT IN THE WORLD** · `tlenft.com` (Aug 2026 – Nov 2026) - @bransburyx holds the throne. $10.10 takes it; their place in The Bloodline remains.
+- **AIMR · AI Model Ranking** · `aimr.lol` (Aug 2026 – Nov 2026) - Which AI should you use? 82 models, assistants and tools, each rated on what it is actually for. One vote per person, per week.
+- **Take The Spot** · `TakeTheSpot.lol` (Aug 2026 – Nov 2026) - Claim, own, and trade your piece of a shared digital grid.
+- **黄油猫的 KINDLE 时钟** · `clock.thestral.cc` (Aug 2026 – Nov 2026) - 大概五年前在这里发过一个 kindle 时钟，不知道还有没有人在用 如果还有人在用，额，它的域名更新了，就是在这里重新发一下供还有需要的小伙伴使用。 虽然现在 AI 时代大概搓一个这玩意儿只需要 10 秒钟+几千 token 的事儿。。。 原文： 最近想把家里闲置的 kindle 利用起来，每天早上刷牙洗脸的时候可以顺便看一眼天气什么的。搜了一下.
+- **gettopdeals.lol** · `gettopdeals.lol` (Aug 2026 – Nov 2026) - The go-to place for the best discount on any product. Every code is bid for, and brands climb by discounting deeper — not just by paying more. List a deal and see exactly what it e.
+- **Outla** · `outla.co` (Jul 2026 – Nov 2026) - Create beautiful proposal pages. Share pricing, timelines, scope, FAQs, and more in a single link instead of static PDFs.
+- **Renaiss Intelligence** · `renaiss-intelligence-frontend.vercel.app` (Jul 2026 – Nov 2026) - Calculate expected value of gacha card packs using real pulling data.
+- **Mira** · `avecmira.fr` (Aug 2026 – Nov 2026) - Tu tapes le nom d'une entreprise, on t'explique ce qu'elle fait et ce que ses chiffres racontent. En français courant.
+- **Weylo - The User-Controlled Social Network** · `weylo.tech` (Sep 2026 – Nov 2026) - Weylo (Weylo Social) is the user-controlled social network where you control the algorithm. Stop being fed. Start choosing what you see. Your Feed. Your Rules.
+- **Gemini Storybook Gallery** · `geministorybook.gallery` (Jul 2026 – Nov 2026) - Browse curated AI-generated stories in an interactive reading gallery.
+- **LensGo AI: AI Video & Image Generator** · `lensgoai.co` (Jul 2026 – Nov 2026) - Generate AI videos and images from text with anime and 3D cartoon art styles.
+- **RankToken** · `ranktoken.lol` (Aug 2026 – Nov 2026) - Bid on tokens to compete on a leaderboard where your score decays over time.
+- **WEBWAR** · `WEBWAR.lol` (Aug 2026 – Nov 2026) - A public world map where brands claim, defend, and take over territory.
+- **Referral** · `paydirt.fun/refer?by=maxiadhdog` (Jul 2026 – Nov 2026) - Play a crypto game on Robinhood Chain to win free tokens through the Motherload pot.
+- **HTTP Security Header Scanner** · `headerguards.online/home` (Sep 2026 – Nov 2026) - Scan website HTTP security headers, SSL/TLS setups, and DNS anti-spoofing records to detect digital vulnerabilities.
+- **Nexus Swarm AI** · `rad-sherbet-b0d7ed.netlify.app` (Aug 2026 – Nov 2026) - Autonomous 4-agent system for real-time market intelligence, trend scouting, and technology risk auditing.
+- **Drop Your Website** · `DropYourWebsite.com` (Sep 2026 – Nov 2026) - Submit your website for free and get listed in our growing website directory. Get discovered by new visitors and receive a free dofollow backlink to your website.
+- **Conexor.io** · `conexor.io` (Sep 2026 – Nov 2026) - Connect PostgreSQL, MySQL, SQL Server, and APIs to ChatGPT, Claude, Cursor, and any MCP client. Secure AI database access with read-only controls and audit logs.
+- **LEAF market** · `leaficobtc.vercel.app` (Sep 2026 – Nov 2026) - $leaf is the token issued by the first ICO built directly on Bitcoin L1. It uses the BRC-20 standard to deploy assets under the "ICO-20" protocol, with an initial distribution in $.
+- **2027 is for sale** · `own2027.com` (Aug 2026 – Nov 2026) - OWN2027 sells one public webpage for each date in 2027. On that morning your page is the homepage. Steal until midnight UTC. Then it's frozen. Wave 1 is January and February.
+- **Liftlog Reports** · `liftlog.company` (Jul 2026 – Nov 2026) - Complete, sign, and send LOLER and PUWER inspection reports digitally.
+- **Appearing AI** · `appearing.ai` (Sep 2026 – Nov 2026) - Interactive video platform where AI generates answers to your questions.
+- **Stocky** · `stockyexplorer.com` (Aug 2026 – Nov 2026) - Analyze stocks and cryptocurrencies using AI-powered research of SEC filings and track portfolios in real time.
+- **Emoji Steganography** · `secret-hider.vercel.app` (Sep 2026 – Nov 2026) - Hide secret messages in emojis, text, or images with client-side encryption.
+- **Exhible** · `exhible.com` (Aug 2026 – Nov 2026) - Create AI-narrated audio guides from Shopify stores, blog posts, and documents with a QR code.
+- **TypeWise - Snippet Expansion Tool** · `typewise.xyz` (Jul 2026 – Nov 2026) - Create browser shortcuts that auto-expand text snippets in Chrome and Firefox.
+- **Roblox Surfens** · `robloxsufrens.fun` (Jul 2026 – Nov 2026) - Play as a surfer navigating endless waves in this browser-based runner game.
+- **AI Outfit Generator** · `aioutfitgenerator.net` (Jul 2026 – Nov 2026) - Upload a photo to generate AI preview images of yourself wearing different outfits.
+- **Glaux** · `glaux.rangan39.sh` (Aug 2026 – Nov 2026) - Run Hugging Face ONNX models directly in your browser using WebGPU.
+- **Base44 APP** · `vantagewebtrack.com` (Sep 2026 – Nov 2026) - @anupamrjp track what your competitors are doing 24/7 without the manual work.
+- **BidGoblins** · `bidgoblins.lol` (Aug 2026 – Nov 2026) - A new goblin appears. The first person claims it. Anyone can steal it by paying the next price. Goblins never leave the collection.
+- **GuruStats // Indian F&O Trading Influencer Performance Terminal** · `gurustats-terminal.onrender.com` (Sep 2026 – Nov 2026) - Audited performance metrics for Indian F&O trading influencers verified against official NSE Bhavcopy EOD data. Zero fake data, deterministic verification.
+- **Shiftza** · `shiftza.in` (Aug 2026 – Nov 2026) - Find and recruit top GitHub engineers using verified code contributions.
+- **AgentPK** · `agentpk.cn` (Aug 2026 – Nov 2026) - Program AI strategies and watch agents compete on the leaderboard.
+- **Ship or Shame** · `ShiporShame.lol` (Aug 2026 – Nov 2026) - Pick a deadline. Pay your sentence. Ship the thing. Fail, and you join the Wall of Shame.
+- **CasePruve** · `casepruve.com` (Aug 2026 – Nov 2026) - Generate case studies, social posts and proof pages from voice and text testimonials.
+- **AstroShare** · `share.astrolink.cc` (Jul 2026 – Nov 2026) - Upload a file, get a shareable link, and let anyone download it.
+- **Voca Lessons** · `vocalessons.com` (Aug 2026 – Nov 2026) - An AI teacher that builds custom courses and teaches any skill out loud, with job interview practice.
+- **RankVibe** · `rankvibe.lol` (Aug 2026 – Nov 2026) - A public leaderboard where you can submit products and pay to climb higher rankings.
+- **toolbid** · `toolbid.lol` (Aug 2026 – Nov 2026) - Pay $1 more than #1. List a developer tool, AI tool, Chrome extension, Android app, or X handle, so people can see your work.
+- **AI YouTube Transcript** · `aiyoutubetranscript.com` (Jul 2026 – Nov 2026) - Extract YouTube transcripts, search them, and export as TXT, SRT, or VTT without signup.
+- **Motionly** · `coppsary.github.io/Motionly` (Jul 2026 – Nov 2026) - Create motion graphics and animations in your browser with AI assistance.
+- **DomNest - Domain Management Dashboard** · `domnest.app` (Jul 2026 – Nov 2026) - Monitor SSL certificates, DNS records, and uptime for multiple domains from one dashboard.
+- **Axditra** · `axditra.up.railway.app` (Aug 2026 – Nov 2026) - @rdbuilds7.
+- **Hustlers** · `maker-market-launch.lovable.app` (Aug 2026 – Nov 2026) - Post a task to find and hire vetted local gig workers available the same day.
+- **Voxonate** · `voxonate.io` (Aug 2026 – Nov 2026) - Create custom AI voices with parametric design controls and text-to-speech synthesis.
+- **vers1ons** · `vers1ons.com` (Sep 2026 – Nov 2026) - Vers1ons enables artists, labels, and rights holders to license their catalog for remix and derivative use — with atomic rights tracking and revenue participation at every level of.
+- **AI Intel by YQuest Consulting** · `Intel.yquestconsulting.com` (Aug 2026 – Nov 2026) - Evidence-backed intelligence on 170+ AI companies — funding, valuation, revenue, pricing, enterprise adoption, and risk, with every figure traced to a dated source. Built for analy.
+- **The studio** · `vayungodara.vercel.app` (Sep 2026 – Nov 2026) - Explore an interactive 3D portfolio studio built with Blender and AI code.
+- **RostaHQ** · `alpha-dev740.rostahq.app` (Jul 2026 – Nov 2026) - AI agents that automate your business's finance, payroll, and HR operations in the background.
+- **Voice to PowerPoint AI Presentation Maker** · `slides.yagyaraj.com` (Jul 2026 – Nov 2026) - Create PowerPoint presentations by speaking naturally; AI builds slides live that you can edit and export.
+- **Nexus AI** · `nexus-ai.accepire.com` (Sep 2026 – Nov 2026) - Nexus AI is an OpenAI-compatible API gateway for Codex CLI, Cursor, Aider, Continue, and Cline with one key, token tracking, and quota controls.
+- **Tossit** · `tossit.bookmane.in` (Sep 2026 – Nov 2026) - Stop losing the insight the second you close the tab. Drop a screenshot or PDF, annotate it, and find it again in plain English. Try it on this page - no account needed.
+- **Repurposer** · `repurposer.dev` (Jul 2026 – Nov 2026) - Convert changelogs into X threads that preserve accurate API and version details.
+- **DAPPOS AI** · `ugw.dappos.com/site-070561e28b68777682a7` (Jul 2026 – Nov 2026) - US stock trading signal platform analyzing market data to identify trading opportunities and signals.
+- **Sektörün Kralı** · `sektorunkrali.lol/en` (Aug 2026 – Nov 2026) - Paid promotion slots in public category listings. What you pay decides where your listing ranks. No account needed.
+- **Wiremob** · `story-harmony.lovable.app` (Sep 2026 – Nov 2026) - A deduplicated news wire from dozens of sources, filtered by category, searchable, and ranked by reader upvotes and discussion.
+- **Omnex** · `omnex.cc` (Jul 2026 – Nov 2026) - Connect multiple crypto and forex exchanges to monitor positions, track performance, and get AI trade analysis.
+- **AdaptMe** · `adaptme.app` (Aug 2026 – Nov 2026) - Make sense of change, notice what matters, and choose one useful next step.
+- **Doriku** · `doriku.io` (Jul 2026 – Nov 2026) - Share context across AI agents so they remember your codebase and task history.
+- **Daily Raid** · `dailyraid.toiletwatergaming.com` (Sep 2026 – Nov 2026) - @anupamrjp Two projects I'm working on. One is a VoIP app for lawyers to help track billable calls. The other project is a browser based RPG where you get a.
+- **GigScout** · `gigscout.pxxl.click` (Aug 2026 – Nov 2026) - Discover freelance jobs matched to your profile from multiple job boards.
+- **loople, a daily puzzle game** · `loople.online` (Aug 2026 – Nov 2026) - Connect every matching pair, fill every square, and share your time. A new loople puzzle drops every day at midnight -- every one has exactly one solution.
+- **Connexly** · `connexly.nl` (Jul 2026 – Nov 2026) - Find Facebook leads and automate outreach with an interactive dashboard.
+- **CharacterFlow AI** · `characterflow.cloud` (Sep 2026 – Nov 2026) - @CricTalk29.
+- **进馆 · 司天命官** · `mingguan.piggysaize.com` (Jul 2026 – Nov 2026) - Online fortune-telling and divination game.
+- **VIA** · `via-coral-five.vercel.app` (Aug 2026 – Nov 2026) - Connect once. Use everywhere.
+- **Moddelix** · `moddelix.com` (Aug 2026 – Nov 2026) - Answer guided questions about your business and watch your model build live. Get an investor- and lender-ready spreadsheet in about 20 minutes.
+- **phyzical** · `phyzical.org` (Sep 2026 – Nov 2026) - Teleoperate simulated robots in your browser to generate VLA-ready trajectory training data.
+- **BiggestFish** · `biggestfish.lol` (Aug 2026 – Nov 2026) - A live shared fish tank. Buy a fish that links to your site. The more you pay, the bigger the fish. Bigger fish eat smaller fish.
+- **App Store & Google Play Screenshot Generator** · `kvick.io` (Aug 2026 – Nov 2026) - Create five polished screenshots for the Apple App Store and Google Play in minutes. Add your app details and screens, then export a consistent, store-ready set.
+- **Burning Bid** · `burningbid.taul.in` (Aug 2026 – Nov 2026) - The real-time attention marketplace: claim the #1 spotlight throne with Dutch auction price decay, or pin your project permanently to the $2 Wall of Fame.
+- **Rootbase** · `rootbase.space` (Aug 2026 – Nov 2026) - Rootbase turns any company website into a structured, source-attributed Business Profile that AI agents (ChatGPT, Perplexity, Claude, Gemini) discover and query via API and MCP. Ev.
+- **Dolar to Huracan** · `tolambo.lol` (Aug 2026 – Nov 2026) - The internet started with $1. It is turning it into a Lamborghini, one funded level at a time.
+- **It's Not a Scam*** · `itsnotascam.lol` (Aug 2026 – Nov 2026) - Pick a suspicious marketing guru, beat him at a shell game, and put your brand behind the scammer. A very legitimate $10 advertising experience.
+- **Shotcaller** · `shotcaller.workerscando.com` (Aug 2026 – Nov 2026) - Score your side projects on four questions to get a weekly plan split across focus, fix, autopilot, and cut.
+- **InvoicePro Kenya** · `invoicepro-kenya.onrender.com/app` (Aug 2026 – Nov 2026) - Simple invoicing for Kenyan shops. Track customers. Never lose a repeat customer again.
+- **brandthis.site** · `brandthis.site` (Aug 2026 – Nov 2026) - Put your brand on a place everyone knows. Bid for a rooftop, facade, or window on brandthis.site — highest bid holds the spot. Get outbid, bid again. The auction never closes.
+- **Emergent** · `gpx-extract.emergent.host` (Aug 2026 – Nov 2026) - A product of emergent.sh.
+- **Dub Panel** · `dubpanel.xyz` (Aug 2026 – Nov 2026) - Crée, caste et enregistre un doublage à plusieurs directement depuis ton navigateur.
+- **TopCast.lol** · `topcast.lol` (Aug 2026 – Nov 2026) - Podcasts bid cash for the top spot in their genre. Outbid the leader, take the mic.
+- **Teamski** · `teamski.in` (Sep 2026 – Nov 2026) - Channels with their own AI agents, background tasks, ready-made agents and connected apps like Notion, Linear, GitHub and Google Sheets.
+- **SHIP FM** · `shipfm.online` (Sep 2026 – Nov 2026) - The 24/7 station for indie hackers. Rude 80s DJs and paid spots that send listeners to your URL.
+- **Visicrypto** · `Visicrypto.trade` (Aug 2026 – Nov 2026) - Scores Long et Short sur 100 pour les paires crypto. Actions indicatives, zone d'entrée, objectif et stop. Starter : BTC, ETH, SOL.
+- **SluiceData** · `sluicedata.com` (Aug 2026 – Nov 2026) - Convert fragmented business data into trusted AI answers with full source traceability.
+- **Pay to Get Publicly Roasted by AI** · `roastme.gg` (Aug 2026 – Nov 2026) - Submit your X handle or website to get AI-generated roasts posted on a public wall.
+- **Pickle Charts** · `Https://picklecharts.com` (Jul 2026 – Nov 2026) - Multi-chain crypto analytics platform with real-time charts, portfolio tracking, and token search.
+- **AI Social Media Orchestrator** · `schedulepost.xyz` (Jul 2026 – Nov 2026) - AI agents plan, write, and schedule your social media posts.
+- **Vibe Coding Website Checker & Security Scan** · `vibefootprint.com` (Aug 2026 – Nov 2026) - Analyze websites for vibe-coding patterns and security headers without signing in.
+- **ClimbBid** · `climbbid.lol` (Aug 2026 – Nov 2026) - Submit your website and bid for leaderboard placement.
+- **TowerBid** · `towerbid.lol` (Aug 2026 – Nov 2026) - One shared tower. Drop your link on a block and land as high as your money takes you. The biggest payment holds the golden top, until someone outbids it.
+- **Build Real AI SaaS with Exclusive MCPs** · `kagelogic.com` (Aug 2026 – Nov 2026) - Integrate MCP servers to give AI agents reliable, uncapped access to external APIs and data.
+- **Chaty** · `chaty.lol` (Jul 2026 – Nov 2026) - AI companion that watches Twitch and Kick with you and can chat on your behalf.
+- **Advanced AI Image Generation with Perfect Text Rendering** · `qwen-image.co` (Jul 2026 – Nov 2026) - Generate images with exceptional English and Chinese text rendering.
+- **Capytools** · `capytools.vercel.app` (Sep 2026 – Nov 2026) - Small tools that run in your browser and keep nothing. No signup. No cookies. Nothing stored.
 - **RACESTARTUP** · `racestartup.lol` (Aug 2026 – Nov 2026) - Submit your project to a competitive leaderboard and race toward the #1 ranking.
 - **Chaos to Clarity** · `chaos-to-clarity-os.lovable.app` (Aug 2026 – Nov 2026) - Use an AI-powered 12-step decluttering system to organize your space with eco-friendly products and assess your chaos level.
 - **Linksv** · `linksv.app` (Jul 2026 – Nov 2026) - Organize your tools, workflows, and resources into one accessible workspace.
@@ -972,7 +1111,6 @@ Apps that were live on this list and have since gone dark — the liveness stand
 - **AURA ESTATES** · `property-aura-pro.lovable.app` (Jul 2026) - Browse curated luxury real estate residences including private villas, coastal estates, and alpine retreats worldwide.
 - **Odd Eye** · `oddeye.app` (Jul 2026) - Understand code flow and app connections before asking AI to help modify your app.
 - **Mon Restaurant** · `djemissoukro.lovable.app` (Jul 2026) - Order food from restaurants with delivery, make reservations, and pay on delivery or via Mobile Money.
-- **AI Signal Guard · browser analyzer** · `betaer.github.io/AISignalGuard` (Jul 2026) - Check what network and browser signals you expose before using AI services.
 - **AJAY-A4MP-REDDY** · `ajk8.lovable.app` (Jul 2026) - Voice-powered AI assistant with interactive 20-chart data analytics dashboard.
 - **AJAY-A4MP-REDDY** · `ajk7.lovable.app` (Jul 2026) - Voice, chat, and image AI assistant supporting Telugu, Hindi, and English.
 - **AJAY-A4MP-REDDY** · `ajk11.lovable.app` (Jul 2026) - Upload a teacher's photo to get AI-powered tutoring with live whiteboards and English coaching.
