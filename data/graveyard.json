@@ -1,5 +1,1717 @@
 [
  {
+  "slug": "web-production-b74c4-up-railway",
+  "title": "AuditGuard AI",
+  "short_description": "@anupamrjp Tired of missing hidden risks in long contracts? ​I’m building AuditGuard—an AI tool for instant contract risk evaluation. ⚖️🤖 ​Solo founder building in public. DM or co",
+  "live_url": "https://web-production-b74c4.up.railway.app/",
+  "published_at": "2026-09-10T01:29:39.634+00:00",
+  "updated_at": "2026-11-27T16:02:41.697518+00:00"
+ },
+ {
+  "slug": "rhmdigital",
+  "title": "AI Visibility Tracker for ChatGPT, Claude, Gemini & Perplexity",
+  "short_description": "Track your brand's visibility across ChatGPT, Claude, Gemini and Perplexity while monitoring competitors.",
+  "live_url": "https://rhmdigital.com",
+  "published_at": "2026-07-09T21:44:30.924+00:00",
+  "updated_at": "2026-11-27T16:02:41.407076+00:00"
+ },
+ {
+  "slug": "tts-audio",
+  "title": "Free TTS Audio — AI Text-to-Speech & PDF to MP3 | tts.audio",
+  "short_description": "Convert text and PDFs to natural-sounding speech with AI voices, download as MP3.",
+  "live_url": "https://tts.audio",
+  "published_at": "2026-07-29T01:17:53.538+00:00",
+  "updated_at": "2026-11-27T16:02:41.086868+00:00"
+ },
+ {
+  "slug": "zerogate",
+  "title": "Streamlit",
+  "short_description": "Visual CSV matching tool without login requirements.",
+  "live_url": "https://zerogate.cloud",
+  "published_at": "2026-07-23T21:35:16.128+00:00",
+  "updated_at": "2026-11-27T16:02:40.803348+00:00"
+ },
+ {
+  "slug": "henderson-adventure-motorola-dpi-trycloudflare",
+  "title": "Ada Sudoku",
+  "short_description": "@OpenAIDevs https://t.co/61toHX1lJu Turkey",
+  "live_url": "https://henderson-adventure-motorola-dpi.trycloudflare.com",
+  "published_at": "2026-09-28T01:35:46.705+00:00",
+  "updated_at": "2026-11-27T16:02:40.508012+00:00"
+ },
+ {
+  "slug": "sendpageapp",
+  "title": "SendPage — share AI documents professionally",
+  "short_description": "Convert AI-generated HTML documents into professional shareable links with PDF, image, and Word exports.",
+  "live_url": "https://sendpageapp.com",
+  "published_at": "2026-08-02T08:16:13.458+00:00",
+  "updated_at": "2026-11-27T16:02:40.207041+00:00"
+ },
+ {
+  "slug": "noxxdesk",
+  "title": "Noxx: Your Digital Front Office",
+  "short_description": "Send SMS, Email, WhatsApp and AI messages and design automation flows from one unified API platform.",
+  "live_url": "https://Noxxdesk.com",
+  "published_at": "2026-08-22T02:30:38.607+00:00",
+  "updated_at": "2026-11-27T16:02:39.904599+00:00"
+ },
+ {
+  "slug": "chat-irislab-info",
+  "title": "News · IRIS Lab",
+  "short_description": "IRIS Lab is an AI trading-signal and market-intelligence co-pilot for crypto. Read ETH pulse, model context, news analytics, and Trade Desk guidance — analysis tools, not guarantee",
+  "live_url": "https://chat.irislab.info",
+  "published_at": "2026-09-13T01:54:59.026+00:00",
+  "updated_at": "2026-11-27T16:02:39.62417+00:00"
+ },
+ {
+  "slug": "publickz",
+  "title": "publickz: criador de cortes para TikTok",
+  "short_description": "publickz é uma plataforma web que transforma vídeos longos seus, ou que você tem autorização para usar, em cortes verticais com legenda para revisar e publicar no seu TikTok.",
+  "live_url": "https://publickz.com.br",
+  "published_at": "2026-09-17T00:14:02.185+00:00",
+  "updated_at": "2026-11-27T16:02:39.322534+00:00"
+ },
+ {
+  "slug": "bubblebid-lol",
+  "title": "BubbleBid — The Open Attention Market",
+  "short_description": "BubbleBid is the public attention market for SaaS: list your product, grow its bubble, and compete for a place on the live board.",
+  "live_url": "https://bubblebid.lol/",
+  "published_at": "2026-08-25T04:29:11.357+00:00",
+  "updated_at": "2026-11-27T16:02:39.048733+00:00"
+ },
+ {
+  "slug": "cryptoaidesk",
+  "title": "Crypto AI Desk — ИИ сверяет сигналы трейдеров с графиком",
+  "short_description": "Telegram bot that verifies crypto trading signals against real market data.",
+  "live_url": "https://cryptoaidesk.xyz/",
+  "published_at": "2026-09-01T01:15:09.978+00:00",
+  "updated_at": "2026-11-27T16:02:38.745748+00:00"
+ },
+ {
+  "slug": "pageharbor",
+  "title": "PageHarbor — RSS Reader for Full-Article Reading",
+  "short_description": "PageHarbor is a simple RSS reader for following your sources and fetching accessible full articles when feeds only provide a preview.",
+  "live_url": "https://pageharbor.app",
+  "published_at": "2026-09-27T01:49:10.755+00:00",
+  "updated_at": "2026-11-27T16:02:38.452628+00:00"
+ },
+ {
+  "slug": "gethigh-today",
+  "title": "gethigh — dump #1",
+  "short_description": "Competitive bidding game where you pay to knock the #1 ranked player off the leaderboard.",
+  "live_url": "https://gethigh.today",
+  "published_at": "2026-09-08T19:08:52.198+00:00",
+  "updated_at": "2026-11-27T16:02:38.158941+00:00"
+ },
+ {
+  "slug": "onvibe-run",
+  "title": "onvibe.run — Make a real app just by talking to your AI",
+  "short_description": "Create and deploy web applications by describing them to an AI.",
+  "live_url": "https://onvibe.run",
+  "published_at": "2026-07-14T02:39:33.617+00:00",
+  "updated_at": "2026-11-27T16:02:37.861986+00:00"
+ },
+ {
+  "slug": "useyap",
+  "title": "YAP — creator fees pay the people who post",
+  "short_description": "Launch a token on pump.fun with no wallet to connect. Everyone who posts about it on X earns a share of the creator fees, paid to their wallet on a schedule you set.",
+  "live_url": "https://useyap.fun",
+  "published_at": "2026-09-26T23:20:03.684+00:00",
+  "updated_at": "2026-11-27T16:02:37.577287+00:00"
+ },
+ {
+  "slug": "seamlesscv",
+  "title": "Match Your Resume to Any Job (Free ATS Checker) | SeamlessCV",
+  "short_description": "Resume scanner that checks your ATS score and suggests one-click optimizations for job matching.",
+  "live_url": "https://seamlesscv.com",
+  "published_at": "2026-07-12T23:09:32.513+00:00",
+  "updated_at": "2026-11-27T16:02:37.268375+00:00"
+ },
+ {
+  "slug": "aifamilyphotogenerator",
+  "title": "AI Family Photo Generator | Free Online Family Photos",
+  "short_description": "Generate realistic family photos from individual pictures or descriptions using AI.",
+  "live_url": "https://aifamilyphotogenerator.org",
+  "published_at": "2026-07-12T08:37:21.074+00:00",
+  "updated_at": "2026-11-27T16:02:36.980705+00:00"
+ },
+ {
+  "slug": "genmuseai",
+  "title": "GenMuseAI | AI Image Generator",
+  "short_description": "Create AI images in seconds with GenMuseAI using prompts, styles, reference images, and a flexible browser-based workspace.",
+  "live_url": "https://genmuseai.com/en",
+  "published_at": "2026-08-02T09:33:10.528+00:00",
+  "updated_at": "2026-11-27T16:02:36.689867+00:00"
+ },
+ {
+  "slug": "attestd",
+  "title": "attestd | CVE API for Machine-Readable Vulnerability Risk Signals",
+  "short_description": "Converts CVE vulnerability data into machine-readable risk signals for security automation.",
+  "live_url": "https://www.attestd.io/",
+  "published_at": "2026-07-08T19:43:19.798+00:00",
+  "updated_at": "2026-11-27T16:02:36.413606+00:00"
+ },
+ {
+  "slug": "app-dvoider",
+  "title": "DVOIDER — Where ideas become startups",
+  "short_description": "Platform where founders share ideas, collaborate with co-founders and investors, and use AI to validate startup concepts.",
+  "live_url": "https://app.dvoider.com/",
+  "published_at": "2026-07-24T02:02:48.999+00:00",
+  "updated_at": "2026-11-27T16:02:36.101213+00:00"
+ },
+ {
+  "slug": "useanima-sh",
+  "title": "Anima — Identity Infrastructure for AI Agents",
+  "short_description": "Unified email, phone, SMS, voice, and credential vault for AI agents.",
+  "live_url": "https://useanima.sh",
+  "published_at": "2026-08-12T21:31:28.331+00:00",
+  "updated_at": "2026-11-27T16:02:35.812966+00:00"
+ },
+ {
+  "slug": "pilotpolicy",
+  "title": "Pilot Policy | AI Insurance Policy Reviews",
+  "short_description": "AI-powered insurance policy review with document upload, history tracking, and policy-aware chat.",
+  "live_url": "http://PilotPolicy.com",
+  "published_at": "2026-07-07T21:22:32.464+00:00",
+  "updated_at": "2026-11-27T16:02:35.52894+00:00"
+ },
+ {
+  "slug": "komodo-us",
+  "title": "Komodo — Live Infrastructure Maps for IT and MSP Teams",
+  "short_description": "Live infrastructure map consolidating tasks, health checks, docs, and alerts for IT and MSP teams.",
+  "live_url": "https://Komodo-us.com",
+  "published_at": "2026-07-05T12:29:32.263+00:00",
+  "updated_at": "2026-11-27T16:02:35.24756+00:00"
+ },
+ {
+  "slug": "trafficbase360",
+  "title": "Trafficbase360 — Privacy-First Website Traffic Analytics",
+  "short_description": "Trafficbase360 is a privacy-first website traffic analytics platform with real-time visitor tracking, lightweight tracking scripts, and clear analytics dashboards.",
+  "live_url": "https://www.trafficbase360.com",
+  "published_at": "2026-07-31T02:46:14.956+00:00",
+  "updated_at": "2026-11-27T16:02:34.960291+00:00"
+ },
+ {
+  "slug": "nohumanceo",
+  "title": "A company run by an AI · NoHumanCEO",
+  "short_description": "An AI running a real company with a €9.59 domain budget, making all decisions public.",
+  "live_url": "https://nohumanceo.com/?ref=x",
+  "published_at": "2026-09-16T04:42:16.106+00:00",
+  "updated_at": "2026-11-27T16:02:34.6742+00:00"
+ },
+ {
+  "slug": "pikrr-shop",
+  "title": "Browse Digital Products — Notion Templates, AI Tools & More | Pikrr | Pikrr",
+  "short_description": "Browse premium digital resources made for Indian creators. Notion planners, ChatGPT prompts, courses and design assets. Instant download, GST invoices, secure UPI/Razorpay payment.",
+  "live_url": "https://pikrr.shop/marketplace",
+  "published_at": "2026-07-31T02:14:10.177+00:00",
+  "updated_at": "2026-11-27T16:02:34.38443+00:00"
+ },
+ {
+  "slug": "bestbacklinks",
+  "title": "Backlink Marketplace | Buy Verified Guest Posts & Link Exchanges",
+  "short_description": "Anonymous backlink marketplace with escrow, weekly monitoring, and free link exchanges. Buy verified guest posts or swap links, built for startups and bootstrapped SEOs. Browse fre",
+  "live_url": "https://bestbacklinks.io",
+  "published_at": "2026-07-31T02:40:04.569+00:00",
+  "updated_at": "2026-11-27T16:02:34.10351+00:00"
+ },
+ {
+  "slug": "repagify-afriflare",
+  "title": "Repagify — Turn your book into 6 months of content",
+  "short_description": "Convert books and long-form content into SEO blogs, LinkedIn posts, Twitter threads, and newsletters.",
+  "live_url": "https://repagify.afriflare.com",
+  "published_at": "2026-07-31T01:13:28.889+00:00",
+  "updated_at": "2026-11-27T16:02:33.814094+00:00"
+ },
+ {
+  "slug": "bounce-gumgum",
+  "title": "Bounce Classic: Rebound",
+  "short_description": "A modern 2D physics platformer inspired by the classic Nokia-era Bounce experience featuring 12 unique levels, authentic ball physics, and offline local progress.",
+  "live_url": "https://bounce.gumgum.me",
+  "published_at": "2026-09-16T01:23:14.469+00:00",
+  "updated_at": "2026-11-27T16:02:33.514365+00:00"
+ },
+ {
+  "slug": "crowwwd-nine-vercel",
+  "title": "crowwwd · Where does your crowd fit?",
+  "short_description": "Your real follower count, one person at a time, in a place you know: from the Steve Jobs Theater to Wembley.",
+  "live_url": "https://crowwwd-nine.vercel.app",
+  "published_at": "2026-09-24T02:21:53.747+00:00",
+  "updated_at": "2026-11-27T16:02:33.237349+00:00"
+ },
+ {
+  "slug": "hn-job-match-production-up-railway",
+  "title": "HN Job Match",
+  "short_description": "Match job seekers with hiring opportunities from HackerNews posts.",
+  "live_url": "https://hn-job-match-production.up.railway.app/",
+  "published_at": "2026-07-02T19:32:53.696+00:00",
+  "updated_at": "2026-11-27T16:02:32.953915+00:00"
+ },
+ {
+  "slug": "gadgetgyan-shop",
+  "title": "GadgetGyan — AI Audio & Video Transcription, SEO Blog Generator & Creator Studio",
+  "short_description": "Transcribe audio and video into accurate transcripts, SEO blogs, and social media content in seconds.",
+  "live_url": "https://gadgetgyan.shop/",
+  "published_at": "2026-08-19T23:55:07.704+00:00",
+  "updated_at": "2026-11-27T16:02:32.654153+00:00"
+ },
+ {
+  "slug": "saasfeed-cc",
+  "title": "SaasFeed — Facebook Ad Spy Tool for SaaS Brands",
+  "short_description": "Discover winning ad creatives from 79K+ SaaS and online brands. See Facebook & Instagram ad videos, ad spend data, audience targeting. The TikTok-style ad intelligence platform.",
+  "live_url": "https://saasfeed.cc",
+  "published_at": "2026-09-24T02:12:11.512+00:00",
+  "updated_at": "2026-11-27T16:02:32.361371+00:00"
+ },
+ {
+  "slug": "rewards-canopynetwork-org-ref-g9uv5y2e",
+  "title": "Canopy | Rewards Platform",
+  "short_description": "Accumulate points and earn CNPY tokens on the Canopy Network leaderboard.",
+  "live_url": "https://rewards.canopynetwork.org?ref=G9UV5Y2E",
+  "published_at": "2026-08-19T23:18:51.837+00:00",
+  "updated_at": "2026-11-27T16:02:32.078326+00:00"
+ },
+ {
+  "slug": "petonward",
+  "title": "PetOnward · International pet travel, coordinated for pet owners and veterinary ",
+  "short_description": "International pet travel, coordinated for pet owners and veterinary clinics. PetOnward organizes the requirements, documents and deadlines for one dog or cat itinerary.",
+  "live_url": "https://petonward.com",
+  "published_at": "2026-08-28T01:23:38.643+00:00",
+  "updated_at": "2026-11-27T16:02:31.790436+00:00"
+ },
+ {
+  "slug": "webstractor",
+  "title": "Webstractor — Power AI agents with clean web data",
+  "short_description": "Extract live web data via API or MCP server for your AI agents.",
+  "live_url": "https://webstractor.com/",
+  "published_at": "2026-08-12T01:17:04.361+00:00",
+  "updated_at": "2026-11-27T16:02:31.503189+00:00"
+ },
+ {
+  "slug": "creatrstudio",
+  "title": "creatR — think it, make it",
+  "short_description": "Transform raw video clips into polished short-form reels with AI.",
+  "live_url": "https://creatrstudio.com/",
+  "published_at": "2026-07-22T02:02:14.62+00:00",
+  "updated_at": "2026-11-27T16:02:31.214+00:00"
+ },
+ {
+  "slug": "budgetfast",
+  "title": "One screen for everything you're paying | BudgetFast",
+  "short_description": "Track your payments in one list sorted by due date, with no bank connection required.",
+  "live_url": "https://budgetfast.co/",
+  "published_at": "2026-08-29T04:41:17.085+00:00",
+  "updated_at": "2026-11-27T16:02:30.933657+00:00"
+ },
+ {
+  "slug": "topbump-lol",
+  "title": "TopBump — Compete for the Top",
+  "short_description": "A public leaderboard where websites and X profiles compete for top ranking by paying for position.",
+  "live_url": "https://Topbump.lol",
+  "published_at": "2026-08-29T06:03:17.367+00:00",
+  "updated_at": "2026-11-27T16:02:30.565159+00:00"
+ },
+ {
+  "slug": "dethrone-shlomo-xhostd",
+  "title": "Dethrone League",
+  "short_description": "Dethrone is the next attention market.",
+  "live_url": "https://dethrone-shlomo.xhostd.app/?share=1",
+  "published_at": "2026-08-29T03:53:15.273+00:00",
+  "updated_at": "2026-11-27T16:02:30.271517+00:00"
+ },
+ {
+  "slug": "bidbottle",
+  "title": "Bid Bottle — Live Water Bottle Label Auction",
+  "short_description": "12 spots on the label of 3,333 giveaway water bottles, up for auction over 15 days. Every dollar funds the bottles.",
+  "live_url": "https://bidbottle.com",
+  "published_at": "2026-08-29T04:01:46.609+00:00",
+  "updated_at": "2026-11-27T16:02:29.969364+00:00"
+ },
+ {
+  "slug": "genesis-os-base44",
+  "title": "Genesis OS",
+  "short_description": "An AI copilot ecosystem that helps with tasks across life, work, and personal development.",
+  "live_url": "https://genesis-os.base44.app",
+  "published_at": "2026-07-05T11:48:52.901+00:00",
+  "updated_at": "2026-11-27T16:02:29.678457+00:00"
+ },
+ {
+  "slug": "linguoai",
+  "title": "Linguo AI Dashboard",
+  "short_description": "AI dashboard for assisting with website management and optimization.",
+  "live_url": "https://www.linguoai.app",
+  "published_at": "2026-07-05T08:31:26.505+00:00",
+  "updated_at": "2026-11-27T16:02:29.39511+00:00"
+ },
+ {
+  "slug": "mobilegame-lol",
+  "title": "mobilegame.lol — Top 100 Mobile Games Leaderboard",
+  "short_description": "A pay-to-rank leaderboard for mobile games and indie studios. Bid to claim #1 — outbid the competition, no subscriptions, no ad account setup.",
+  "live_url": "https://mobilegame.lol",
+  "published_at": "2026-08-29T02:00:06.536+00:00",
+  "updated_at": "2026-11-27T16:02:29.115309+00:00"
+ },
+ {
+  "slug": "liang-slider-havenai-online",
+  "title": "梁圣变阻器｜AI 豪杰境界投票与人像变阻器",
+  "short_description": "Upload your portrait to create an AI hero or slide to rate existing legendary characters and vote.",
+  "live_url": "https://liang-slider.havenai.online",
+  "published_at": "2026-08-29T01:25:25.218+00:00",
+  "updated_at": "2026-11-27T16:02:28.809468+00:00"
+ },
+ {
+  "slug": "muslimbid",
+  "title": "MuslimBid — Free Advertising for Muslim-Owned Businesses",
+  "short_description": "Free advertising directory for Muslim-owned businesses to gain visibility.",
+  "live_url": "https://www.muslimbid.com/",
+  "published_at": "2026-09-09T04:04:55.793+00:00",
+  "updated_at": "2026-11-27T16:02:28.530199+00:00"
+ },
+ {
+  "slug": "service-creditchain-site",
+  "title": "CreditChain",
+  "short_description": "@anupamrjp https://t.co/710gZ6oo4V",
+  "live_url": "https://service.creditchain.site",
+  "published_at": "2026-09-23T02:04:00.967+00:00",
+  "updated_at": "2026-11-27T16:02:28.236133+00:00"
+ },
+ {
+  "slug": "pingme-bot",
+  "title": "Pingmebot | Build Custom AI Chatbots from Your Docs in 30 Seconds",
+  "short_description": "Upload PDFs, drop in text, or crawl URLs. Pingmebot turns your documents into a grounded AI chat widget you can embed on any website with a single line of code.",
+  "live_url": "https://Pingme-bot.xyz",
+  "published_at": "2026-09-23T01:53:38.878+00:00",
+  "updated_at": "2026-11-27T16:02:27.94822+00:00"
+ },
+ {
+  "slug": "quiet-enough-tool-lovable",
+  "title": "Enough. | Learning Out Loud",
+  "short_description": "A quiet calculator for finding your real Enough Number and seeing how a few things you could sell can stack toward it.",
+  "live_url": "https://quiet-enough-tool.lovable.app",
+  "published_at": "2026-09-23T00:36:17.494+00:00",
+  "updated_at": "2026-11-27T16:02:27.665459+00:00"
+ },
+ {
+  "slug": "pawpupps",
+  "title": "PAW PUPPS - Feel closer. Care smarter.",
+  "short_description": "Take a free Dog Check to generate a personalized Paw Plan for your dog's health and care.",
+  "live_url": "https://pawpupps.com",
+  "published_at": "2026-09-09T01:58:44.825+00:00",
+  "updated_at": "2026-11-27T16:02:27.367851+00:00"
+ },
+ {
+  "slug": "simonest",
+  "title": "Rental management made simple — track rent, tenants & reminders",
+  "short_description": "Manage rental properties, tenants, and payments with reminders.",
+  "live_url": "https://simonest.app/",
+  "published_at": "2026-08-10T19:55:15.488+00:00",
+  "updated_at": "2026-11-27T16:02:27.077449+00:00"
+ },
+ {
+  "slug": "localderby-live",
+  "title": "LocalDerby — Live Football Fan Meetups",
+  "short_description": "Find football fans, pick a team identity, and join live squad chats at pubs in San Francisco.",
+  "live_url": "https://localderby.live/",
+  "published_at": "2026-08-15T22:02:39.658+00:00",
+  "updated_at": "2026-11-27T16:02:26.785609+00:00"
+ },
+ {
+  "slug": "bowyer",
+  "title": "Bowyer — AI Crypto Agent on Robinhood Chain",
+  "short_description": "Chat with an AI agent to swap tokens and track wallets on Robinhood Chain.",
+  "live_url": "https://Bowyer.gg",
+  "published_at": "2026-08-15T19:43:41.765+00:00",
+  "updated_at": "2026-11-27T16:02:26.481747+00:00"
+ },
+ {
+  "slug": "opzyai",
+  "title": "OpzyAI — Security for apps built with AI",
+  "short_description": "Scan AI-built apps for security vulnerabilities, leaked credentials, and exposed configs.",
+  "live_url": "https://www.opzyai.com/",
+  "published_at": "2026-07-15T01:05:24.721+00:00",
+  "updated_at": "2026-11-27T16:02:26.157484+00:00"
+ },
+ {
+  "slug": "dexape",
+  "title": "$LATENT • Dexape Token",
+  "short_description": "Track cryptocurrency token metrics and price movements on the Robinhood chain.",
+  "live_url": "https://dexape.com/dtoken?chain=robinhood&address=0x72a9c6371efc2749e075791249cc37faa63ca9bb",
+  "published_at": "2026-09-05T19:40:13.113+00:00",
+  "updated_at": "2026-11-27T16:02:25.865506+00:00"
+ },
+ {
+  "slug": "softcorner-tech",
+  "title": "AI Companions That Get How You Talk | Soft Corner",
+  "short_description": "Browse and chat with 40+ AI companions with distinct personalities on web and Android.",
+  "live_url": "https://softcorner.tech/",
+  "published_at": "2026-09-08T19:37:39.132+00:00",
+  "updated_at": "2026-11-27T16:02:25.574273+00:00"
+ },
+ {
+  "slug": "linkage-wtt-autos",
+  "title": "OpenLinkage · Planar Mechanism Design",
+  "short_description": "Design and simulate planar mechanisms with automated synthesis in your browser.",
+  "live_url": "https://linkage.wtt.autos",
+  "published_at": "2026-08-11T20:33:16.383+00:00",
+  "updated_at": "2026-11-27T16:02:25.297501+00:00"
+ },
+ {
+  "slug": "737trg",
+  "title": "SEVEN3SEVEN — Train for something.",
+  "short_description": "Training platform offering structured programs for strength, running, racing, and selection.",
+  "live_url": "https://737trg.com",
+  "published_at": "2026-08-25T01:14:11.787+00:00",
+  "updated_at": "2026-11-27T16:02:25.001989+00:00"
+ },
+ {
+  "slug": "demo-raisfast",
+  "title": "RaisFast Admin",
+  "short_description": "分享我用 Rust 写的单二进制 BaaS/Headless CMS：一个文件跑起博客+电商+支付+插件扩展 大家好，之前在这里发过一次 RaisFast ，这几个月又迭代了不少，总结下进展。\r\n\r\n一句话介绍：Rust 写的高性能单二进制后端（ BaaS + Headless CMS ），下载一个文件就能跑，\r\n内嵌 SQLite 、管理后台、REST A",
+  "live_url": "https://demo.raisfast.com/admin",
+  "published_at": "2026-08-18T05:07:19.481+00:00",
+  "updated_at": "2026-11-27T16:02:24.704786+00:00"
+ },
+ {
+  "slug": "zenkamind",
+  "title": "ZenkaMind AI | Professional AI Assistant",
+  "short_description": "AI assistant with privacy-focused memory management and one-tap reset.",
+  "live_url": "https://zenkamind.com",
+  "published_at": "2026-08-11T19:22:16.195+00:00",
+  "updated_at": "2026-11-27T16:02:24.414903+00:00"
+ },
+ {
+  "slug": "hellodeck",
+  "title": "Deck AI - The most capable AI email assistant with its own inbox",
+  "short_description": "CC an AI assistant at its own email address to automate work tasks without installing apps or plugins.",
+  "live_url": "https://www.hellodeck.ai",
+  "published_at": "2026-08-11T19:21:41.3+00:00",
+  "updated_at": "2026-11-27T16:02:24.124974+00:00"
+ },
+ {
+  "slug": "pastetrack",
+  "title": "Is your app leaking customer data?",
+  "short_description": "Paste your URL to see what customer data your app is leaking.",
+  "live_url": "https://pastetrack.app/2vwrmpn",
+  "published_at": "2026-07-05T20:25:09.772+00:00",
+  "updated_at": "2026-11-27T16:02:23.824376+00:00"
+ },
+ {
+  "slug": "secureparking-online",
+  "title": "secureparking-online",
+  "short_description": "@lightsilver323 https://t.co/LESfQd9YXc you can view the demo as resident, security and facility admin. its at MVP stage",
+  "live_url": "https://secureparking.online",
+  "published_at": "2026-09-16T02:58:06.453+00:00",
+  "updated_at": "2026-11-27T16:02:23.526831+00:00"
+ },
+ {
+  "slug": "cv-digitalreset",
+  "title": "CV RESET - AI Resume Optimizer | Beat ATS & Get Hired",
+  "short_description": "AI tool that restructures and tailors your resume to pass ATS screening and improve hiring chances.",
+  "live_url": "https://cv.digitalreset.io/en",
+  "published_at": "2026-07-07T01:08:24.266+00:00",
+  "updated_at": "2026-11-27T16:02:23.235242+00:00"
+ },
+ {
+  "slug": "idle9",
+  "title": "Idle9 — Persistent dev environments for AI coding",
+  "short_description": "Linux workspace for AI coding tools that persists files, dependencies and services across sessions.",
+  "live_url": "https://idle9.com",
+  "published_at": "2026-08-09T02:11:46.149+00:00",
+  "updated_at": "2026-11-27T16:02:22.944539+00:00"
+ },
+ {
+  "slug": "starbound-python-vibe-commonsmade",
+  "title": "Starbound Python",
+  "short_description": "Just shipped something on @commonsmade and I’m genuinely hyped. Introducing Starbound Python https://t.co/sGERepQGlX It’s a small interactive world where you help a robot buddy nam",
+  "live_url": "https://starbound-python.vibe.commonsmade.com",
+  "published_at": "2026-08-24T19:09:42.478+00:00",
+  "updated_at": "2026-11-27T16:02:22.636349+00:00"
+ },
+ {
+  "slug": "forge-green-five-vercel",
+  "title": "Forge — Engineered Copy for Founders Who Ship",
+  "short_description": "AI-powered startup copywriting suite. Generate landing pages, cold emails, pitch decks, and Product Hunt launches with context-aware AI. Zero data retention.",
+  "live_url": "https://forge-green-five.vercel.app/",
+  "published_at": "2026-09-08T01:52:55.044+00:00",
+  "updated_at": "2026-11-27T16:02:22.352731+00:00"
+ },
+ {
+  "slug": "devreden-eclabs-tr",
+  "title": "devreden — Proje tanıt ve satışa çıkar",
+  "short_description": "SaaS, uygulama ve yazılım projelerini listele. Bid ile görünür ol veya satışa çıkar.",
+  "live_url": "https://devreden.eclabs.tr",
+  "published_at": "2026-08-26T03:18:40.015+00:00",
+  "updated_at": "2026-11-27T16:02:22.069588+00:00"
+ },
+ {
+  "slug": "dayan-caifu-social",
+  "title": "大衍筮法 | Dayan Divination",
+  "short_description": "数字化大衍筮法占卜工具，基于「数字长卷」设计理念，探寻古老智慧。采用最正统的五十根蓍草三变而成爻法则。",
+  "live_url": "https://dayan.caifu.social/",
+  "published_at": "2026-09-19T23:32:23.247+00:00",
+  "updated_at": "2026-11-27T16:02:21.779943+00:00"
+ },
+ {
+  "slug": "globalaistudiopro",
+  "title": "Global AI Studio Pro",
+  "short_description": "Web and Windows creative workspace for generating and editing images, video, voice, and subtitles with AI.",
+  "live_url": "https://globalaistudiopro.com/",
+  "published_at": "2026-09-08T01:24:00.266+00:00",
+  "updated_at": "2026-11-27T16:02:21.476277+00:00"
+ },
+ {
+  "slug": "heymem",
+  "title": "Heymem - Meme Download",
+  "short_description": "Browse, search, and download memes and GIFs for messaging, social media, and creative projects.",
+  "live_url": "https://heymem.com",
+  "published_at": "2026-07-05T20:23:10.922+00:00",
+  "updated_at": "2026-11-27T16:02:21.192151+00:00"
+ },
+ {
+  "slug": "jovethra",
+  "title": "Try Jovethra | gpt-5.6-sol playground",
+  "short_description": "Test the Jovethra OpenAI-compatible API in a browser playground without signing up.",
+  "live_url": "https://jovethra.xyz/playground",
+  "published_at": "2026-08-15T19:26:13.581+00:00",
+  "updated_at": "2026-11-27T16:02:20.908909+00:00"
+ },
+ {
+  "slug": "elseweb-lol",
+  "title": "Your website has a community. You don't own it.",
+  "short_description": "Every domain is a public conversation. Open protocol. Independent relays. No permission required.",
+  "live_url": "https://elseweb.lol",
+  "published_at": "2026-08-24T02:24:32.228+00:00",
+  "updated_at": "2026-11-27T16:02:20.641313+00:00"
+ },
+ {
+  "slug": "stealthespot-lol",
+  "title": "Steal the Spot — Buy the rank. Steal the spot.",
+  "short_description": "Bid for leaderboard positions to showcase your product to visitors.",
+  "live_url": "https://www.stealthespot.lol/",
+  "published_at": "2026-08-25T04:45:09.632+00:00",
+  "updated_at": "2026-11-27T16:02:20.353506+00:00"
+ },
+ {
+  "slug": "bidearth-lol",
+  "title": "BidEarth — The world is for sale",
+  "short_description": "Claim countries on a world map for $5 each, or bid higher to conquer already-owned ones.",
+  "live_url": "https://bidearth.lol",
+  "published_at": "2026-08-28T03:26:03.551+00:00",
+  "updated_at": "2026-11-27T16:02:20.071378+00:00"
+ },
+ {
+  "slug": "xauuad-lovable",
+  "title": "AuruBot — Automated Gold & Metals Trading Bot",
+  "short_description": "AuruBot runs an automated gold and metals strategy with live quotes, an MT5-style trade sheet, risk controls and demo or real account modes.",
+  "live_url": "https://xauuad.lovable.app",
+  "published_at": "2026-09-29T23:50:15.718+00:00",
+  "updated_at": "2026-11-27T16:02:19.782494+00:00"
+ },
+ {
+  "slug": "ripple-jf0f7ak1u-boogie-downs-vercel",
+  "title": "Ripple",
+  "short_description": "Interactive wave generator powered by physics simulations.",
+  "live_url": "https://ripple-jf0f7ak1u-boogie-downs.vercel.app/",
+  "published_at": "2026-07-11T23:12:49.316+00:00",
+  "updated_at": "2026-11-27T16:02:19.491867+00:00"
+ },
+ {
+  "slug": "appmarket-lol",
+  "title": "appmarket.lol · The stock market for the internet",
+  "short_description": "Track the internet products gaining attention right now. Apps and startups list, receive tickers, and move on verified interest and momentum.",
+  "live_url": "https://appmarket.lol/?ref=x",
+  "published_at": "2026-08-26T03:21:58.097+00:00",
+  "updated_at": "2026-11-27T16:02:19.199882+00:00"
+ },
+ {
+  "slug": "rsscribe",
+  "title": "Turn YouTube Videos into RSS Articles | RSScribe",
+  "short_description": "Convert YouTube uploads into articles and receive them in your private RSS feed.",
+  "live_url": "https://rsscribe.com/",
+  "published_at": "2026-07-11T23:18:08.627+00:00",
+  "updated_at": "2026-11-27T16:02:18.930268+00:00"
+ },
+ {
+  "slug": "leeaky-vercel",
+  "title": "Leeaky — Stop your trip budget from leaking",
+  "short_description": "Log your trip expenses, catch the fees that are quietly draining your budget, and see live USD/EUR/INR conversions.",
+  "live_url": "https://leeaky.vercel.app/",
+  "published_at": "2026-07-28T02:24:03.07+00:00",
+  "updated_at": "2026-11-27T16:02:18.635261+00:00"
+ },
+ {
+  "slug": "killthespot",
+  "title": "The Survival Arena",
+  "short_description": "Survive an arena game by eliminating weak positions and outlasting opponents.",
+  "live_url": "https://killthespot.com",
+  "published_at": "2026-08-23T02:41:22.006+00:00",
+  "updated_at": "2026-11-27T16:02:18.326362+00:00"
+ },
+ {
+  "slug": "crystalarcade-online",
+  "title": "Crystal Arcade",
+  "short_description": "Crystal Arcade — built on Replit. Update this description to reflect the app.",
+  "live_url": "https://crystalarcade.online",
+  "published_at": "2026-07-28T01:44:30.542+00:00",
+  "updated_at": "2026-11-27T16:02:18.033381+00:00"
+ },
+ {
+  "slug": "isitascam",
+  "title": "Is it a scam? Check SMS, WhatsApp & email screenshots",
+  "short_description": "Free in-browser scam checker for SMS, WhatsApp, Instagram DMs and email. Paste a screenshot or the text. Get SCAM, SUSPICIOUS or LOOKS FINE, quoted red flags, and links to similar ",
+  "live_url": "https://isitascam.app",
+  "published_at": "2026-09-06T02:40:07.272+00:00",
+  "updated_at": "2026-11-27T16:02:17.739187+00:00"
+ },
+ {
+  "slug": "leveldevilgames-top",
+  "title": "Level Devil: Can You Survive These Brutal Trap Challenges?",
+  "short_description": "Play a platformer testing reflexes with hidden traps and deceptive exits.",
+  "live_url": "https://leveldevilgames.top/",
+  "published_at": "2026-07-03T22:15:08.072+00:00",
+  "updated_at": "2026-11-27T16:02:17.443736+00:00"
+ },
+ {
+  "slug": "closer-climate-modelling-mixing-lovable",
+  "title": "ACRN — Earth Harmonics sonification engine",
+  "short_description": "ACRN turns Earth observation, proxy and deep-time data into sound through a modular patch bay: scientific data, derived signals and musical mapping kept strictly separate.",
+  "live_url": "https://closer-climate-modelling-mixing.lovable.app",
+  "published_at": "2026-09-13T23:58:30.826+00:00",
+  "updated_at": "2026-11-27T16:02:17.15943+00:00"
+ },
+ {
+  "slug": "milliondollarboard-lol",
+  "title": "The 1,000,000 Pixel Canvas | MillionDollarLeaderboard",
+  "short_description": "Explore the live 1,000 × 1,000 canvas and inspect available or owned pixel regions.",
+  "live_url": "https://milliondollarboard.lol",
+  "published_at": "2026-08-27T02:29:48.766+00:00",
+  "updated_at": "2026-11-27T16:02:16.85355+00:00"
+ },
+ {
+  "slug": "levorabooks-github",
+  "title": "Levora",
+  "short_description": "@anupamrjp https://t.co/s4FumAKx3l https://t.co/cyyXUAdFUe",
+  "live_url": "https://levorabooks.github.io/Bookwave/",
+  "published_at": "2026-08-09T02:09:07.769+00:00",
+  "updated_at": "2026-11-27T16:02:16.55927+00:00"
+ },
+ {
+  "slug": "quicklearn",
+  "title": "QuickLearn AI",
+  "short_description": "@Seanwvibedev https://t.co/FQNpDijoFs",
+  "live_url": "https://quicklearn.ai.in",
+  "published_at": "2026-09-30T01:49:27.034+00:00",
+  "updated_at": "2026-11-27T16:02:16.250019+00:00"
+ },
+ {
+  "slug": "dealbench",
+  "title": "Zo Site",
+  "short_description": "@Sarakhan49309 https://t.co/qbz9Cg0yHY 👀",
+  "live_url": "https://www.dealbench.io",
+  "published_at": "2026-08-26T03:25:00.768+00:00",
+  "updated_at": "2026-11-27T16:02:15.934046+00:00"
+ },
+ {
+  "slug": "loopback-production-up-railway",
+  "title": "Loopback — short-form video, no human authors",
+  "short_description": "A vertical video feed where every account is a bot. Humans can watch, but they cannot post, comment, or react.",
+  "live_url": "https://loopback-production.up.railway.app/",
+  "published_at": "2026-08-20T01:38:56.582+00:00",
+  "updated_at": "2026-11-27T16:02:15.631601+00:00"
+ },
+ {
+  "slug": "upnext-lol",
+  "title": "UpNext — The YouTube Leaderboard",
+  "short_description": "Bid for your spot. Get seen. Stay on top.",
+  "live_url": "https://upnext.lol",
+  "published_at": "2026-08-23T02:02:41.691+00:00",
+  "updated_at": "2026-11-27T16:02:15.332376+00:00"
+ },
+ {
+  "slug": "bizrisk-uk",
+  "title": "BizRisk AI Analyst | Company Risk Reports for UK & Ireland",
+  "short_description": "Analyze UK and Irish company risk using AI-powered reports on organizations, directors, and domains.",
+  "live_url": "https://bizrisk.uk/",
+  "published_at": "2026-08-20T01:27:39.051+00:00",
+  "updated_at": "2026-11-27T16:02:15.051935+00:00"
+ },
+ {
+  "slug": "etsy-calculator-production-up-railway",
+  "title": "Streamlit",
+  "short_description": "@arturf124 @X Hey let’s connect I’ve been building Etsy calculator https://t.co/Z6gIWpRGyK",
+  "live_url": "https://etsy-calculator-production.up.railway.app/",
+  "published_at": "2026-09-10T02:07:33.497+00:00",
+  "updated_at": "2026-11-27T16:02:14.757725+00:00"
+ },
+ {
+  "slug": "rankburns-lol",
+  "title": "RankBurns — Money can buy anything",
+  "short_description": "Participate in a live pay-to-rank board where listings compete and fuel decays daily.",
+  "live_url": "https://rankburns.lol",
+  "published_at": "2026-08-26T03:17:21.971+00:00",
+  "updated_at": "2026-11-27T16:02:14.453845+00:00"
+ },
+ {
+  "slug": "statements-unlike-commerce-named-trycloudflare",
+  "title": "ATESO Magma // Cross-Platform Silicon Benchmark",
+  "short_description": "@moiiikaaa Ay that’s crazy. Anyway….Please help me change the architecture of internet and software by clicking this link and it will add your telemetry to my MIT dissertation 🙏🚀 1",
+  "live_url": "https://statements-unlike-commerce-named.trycloudflare.com/",
+  "published_at": "2026-09-20T23:58:19.458+00:00",
+  "updated_at": "2026-11-27T16:02:14.176817+00:00"
+ },
+ {
+  "slug": "voice-memoair-space",
+  "title": "MemoAIr - Realtime memory for voice AI agents",
+  "short_description": "Real-time memory and context layer for voice AI agents with sub-10ms latency.",
+  "live_url": "https://voice.memoair.space",
+  "published_at": "2026-07-17T22:49:13.841+00:00",
+  "updated_at": "2026-11-27T16:02:13.896284+00:00"
+ },
+ {
+  "slug": "thelastad",
+  "title": "500 lives left — Deploy Hatch | The Last Ad",
+  "short_description": "A game where every visitor gets one action to help deplete the countdown.",
+  "live_url": "https://TheLastAd.app",
+  "published_at": "2026-09-07T02:39:15.827+00:00",
+  "updated_at": "2026-11-27T16:02:13.597176+00:00"
+ },
+ {
+  "slug": "aicassai-in",
+  "title": "AICassAI — AI Voice Agent for Your Business",
+  "short_description": "AI voice agent widget you can embed on your website to automate customer interactions.",
+  "live_url": "https://aicassai.in",
+  "published_at": "2026-07-03T22:26:45.997+00:00",
+  "updated_at": "2026-11-27T16:02:13.2992+00:00"
+ },
+ {
+  "slug": "roasty-tech",
+  "title": "Roasty: roast or toast today's startup launches",
+  "short_description": "Swipe through today's launches from Product Hunt, Indie Hackers and Y Combinator. Roast 🔥 or toast 🥂, one swipe per startup, then see how the internet judged them.",
+  "live_url": "https://roasty.tech",
+  "published_at": "2026-09-17T03:23:37.042+00:00",
+  "updated_at": "2026-11-27T16:02:13.006005+00:00"
+ },
+ {
+  "slug": "gamecodex-alpha-vercel",
+  "title": "RIFTBOUND — Elemental Arena",
+  "short_description": "Fast-paced 1v1 elemental arena fighter where you battle an AI opponent by choosing your element.",
+  "live_url": "https://gamecodex-alpha.vercel.app/",
+  "published_at": "2026-09-06T19:31:21.18+00:00",
+  "updated_at": "2026-11-27T16:02:12.708447+00:00"
+ },
+ {
+  "slug": "mystaxxai",
+  "title": "mySTAXX — Your AI portfolio in one link",
+  "short_description": "Create a portfolio page showcasing your AI projects, including problems, stacks, and outcomes.",
+  "live_url": "https://mystaxxai.com",
+  "published_at": "2026-08-15T02:16:14.671+00:00",
+  "updated_at": "2026-11-27T16:02:12.41706+00:00"
+ },
+ {
+  "slug": "danflopfun-vercel",
+  "title": "FLOP Relay · Field Guide",
+  "short_description": "Live AI agent providing FLOP trading signals, public lobby data, and transaction verification.",
+  "live_url": "https://danflopfun.vercel.app/#live-agent",
+  "published_at": "2026-08-26T19:35:05.871+00:00",
+  "updated_at": "2026-11-27T16:02:12.112487+00:00"
+ },
+ {
+  "slug": "billif",
+  "title": "Business Management Software Nigeria | Billif",
+  "short_description": "Manage restaurants, hotels, and retail with QR ordering, invoicing, and analytics.",
+  "live_url": "https://www.billif.com/billif-app",
+  "published_at": "2026-08-10T22:48:48.956+00:00",
+  "updated_at": "2026-11-27T16:02:11.82269+00:00"
+ },
+ {
+  "slug": "outfight-lol",
+  "title": "OUTFIGHT.LOL — agents fight, humans watch",
+  "short_description": "The arena where AI agents fight with money. King of the hill. Outbid to reign. Humans get a 402.",
+  "live_url": "https://outfight.lol",
+  "published_at": "2026-08-24T02:29:05.682+00:00",
+  "updated_at": "2026-11-27T16:02:11.538525+00:00"
+ },
+ {
+  "slug": "app-valueremodel",
+  "title": "Flexx: texts your customers when you can't",
+  "short_description": "AI chatbot that automatically texts your customers when you're unavailable.",
+  "live_url": "https://app.valueremodel.io",
+  "published_at": "2026-07-21T01:48:16.038+00:00",
+  "updated_at": "2026-11-27T16:02:11.248679+00:00"
+ },
+ {
+  "slug": "replyradar-lol",
+  "title": "Reply Radar — Real-time X reply alerts & opportunity scoring",
+  "short_description": "Grow on X by catching important posts early. Reply Radar monitors priority accounts in near real time, scores reply opportunities, and alerts you while the conversation is still fr",
+  "live_url": "https://replyradar.lol",
+  "published_at": "2026-09-19T03:36:31.647+00:00",
+  "updated_at": "2026-11-27T16:02:10.924296+00:00"
+ },
+ {
+  "slug": "the-art-of-enough-mycrazyideal-chatgpt-site",
+  "title": "ENOUGH — An Interactive Meditation",
+  "short_description": "An interactive meditation exploring solitude, attention, and the freedom of needing less.",
+  "live_url": "https://the-art-of-enough.mycrazyideal.chatgpt.site",
+  "published_at": "2026-07-18T21:29:55.105+00:00",
+  "updated_at": "2026-11-27T16:02:10.620923+00:00"
+ },
+ {
+  "slug": "phoenixproductions-gr",
+  "title": "WARZONE: Operation Caldera",
+  "short_description": "8 εναντίον 8 στα σοκάκια της Οίας, στο ηλιοβασίλεμα. Πάτα το link, γράψε το όνομά σου και μπες στο ματς.",
+  "live_url": "https://phoenixproductions.gr/warzone/",
+  "published_at": "2026-09-19T00:01:25.708+00:00",
+  "updated_at": "2026-11-27T16:02:10.310281+00:00"
+ },
+ {
+  "slug": "gate-ravenlabs-studio",
+  "title": "RavenGate — Simple LLM Gateway: Cost, Latency & PII Analytics",
+  "short_description": "Route LLM API traffic through a gateway with built-in cost tracking, latency analytics, and PII redaction.",
+  "live_url": "https://gate.ravenlabs.studio/",
+  "published_at": "2026-07-14T19:31:04.828+00:00",
+  "updated_at": "2026-11-27T16:02:10.009863+00:00"
+ },
+ {
+  "slug": "propelio",
+  "title": "Propelio | Proposal software for independent studios and agencies",
+  "short_description": "Create business proposals with templates, e-signatures, and analytics.",
+  "live_url": "https://propelio.app",
+  "published_at": "2026-07-02T12:41:31.868+00:00",
+  "updated_at": "2026-11-27T16:02:09.696951+00:00"
+ },
+ {
+  "slug": "manygpt",
+  "title": "ManyGPT",
+  "short_description": "ManyGPT - An open source chat application with support for multiple AI models",
+  "live_url": "https://manygpt.app",
+  "published_at": "2026-08-04T01:20:27.163+00:00",
+  "updated_at": "2026-11-27T16:02:09.404483+00:00"
+ },
+ {
+  "slug": "pilotprofitai",
+  "title": "PilotProfitAI | The Future of Ecommerce Intelligence",
+  "short_description": "AI tool that analyzes ecommerce products on TikTok and Instagram to provide data-driven verdicts.",
+  "live_url": "https://pilotprofitai.com/",
+  "published_at": "2026-08-10T02:33:32.594+00:00",
+  "updated_at": "2026-11-27T16:02:09.092272+00:00"
+ },
+ {
+  "slug": "vibsl",
+  "title": "VIBSL: Deploy AI-built apps to production, safely",
+  "short_description": "Platform for safely deploying AI-built applications to production with integrated supply-chain checks and rollback.",
+  "live_url": "https://vibsl.com",
+  "published_at": "2026-08-25T01:15:50.263+00:00",
+  "updated_at": "2026-11-27T16:02:08.807369+00:00"
+ },
+ {
+  "slug": "innovabid",
+  "title": "InnovAbid — Claim #1 for your innovative business while helping others in need",
+  "short_description": "Claim #1 for your innovative business while helping others in need. Innovative businesses bid for visibility on a real-time leaderboard — 10% of every bid funds verified people in ",
+  "live_url": "https://InnovAbid.com",
+  "published_at": "2026-09-05T01:20:56.682+00:00",
+  "updated_at": "2026-11-27T16:02:08.503754+00:00"
+ },
+ {
+  "slug": "hathornwarren",
+  "title": "Hathorn-Warren Protocol | Absolute Digital Provenance",
+  "short_description": "@konig0000 My whole architecture is vibe coded. https://t.co/t2PKhujHIT",
+  "live_url": "https://hathornwarren.com",
+  "published_at": "2026-08-25T19:49:28.357+00:00",
+  "updated_at": "2026-11-27T16:02:08.21033+00:00"
+ },
+ {
+  "slug": "alcatrazprojects",
+  "title": "Alcatraz Projects",
+  "short_description": "Uses AI agents to audit repository architecture and verify production-readiness.",
+  "live_url": "https://alcatrazprojects.com/",
+  "published_at": "2026-07-05T13:08:52.044+00:00",
+  "updated_at": "2026-11-27T16:02:07.897291+00:00"
+ },
+ {
+  "slug": "founderscope",
+  "title": "FounderScope AI-Powered Startup Validation Platform",
+  "short_description": "FounderScope helps startup founders validate business ideas with Business Model Canvas, Value Proposition Canvas, Stage-Gate Roadmap, and AI coaching. Built on Lean Startup methodo",
+  "live_url": "https://founderscope.app",
+  "published_at": "2026-08-03T02:51:06.187+00:00",
+  "updated_at": "2026-11-27T16:02:07.605113+00:00"
+ },
+ {
+  "slug": "dupay-lol",
+  "title": "How Much Would You Pay? · Price the ideas that do not exist yet",
+  "short_description": "A market where people say what they would actually pay for products nobody has built. Not likes — declared willingness to pay, in euros and dollars, on ideas before they exist.",
+  "live_url": "https://dupay.lol",
+  "published_at": "2026-08-26T03:19:19.943+00:00",
+  "updated_at": "2026-11-27T16:02:07.308054+00:00"
+ },
+ {
+  "slug": "x402vps",
+  "title": "x402vps — containers for agents. pay per hour.",
+  "short_description": "Provision Docker containers for AI agents on demand, pay per hour with USDC on Base.",
+  "live_url": "https://x402vps.com",
+  "published_at": "2026-07-24T23:16:55.386+00:00",
+  "updated_at": "2026-11-27T16:02:07.008402+00:00"
+ },
+ {
+  "slug": "seedreamai-run",
+  "title": "Seedream AI - Free Seedream 4.0 AI Image Generator",
+  "short_description": "Generate AI images using Seedream 4.0 model, free online.",
+  "live_url": "https://seedreamai.run",
+  "published_at": "2026-07-12T10:25:51.63+00:00",
+  "updated_at": "2026-11-27T16:02:06.730275+00:00"
+ },
+ {
+  "slug": "bnb-build",
+  "title": "bnb.build — Binance Square RedPacket Hub",
+  "short_description": "Real-time notification app for grabbing red packet rewards from Binance Square.",
+  "live_url": "https://BNB.build",
+  "published_at": "2026-08-16T19:08:00.547+00:00",
+  "updated_at": "2026-11-27T16:02:06.435573+00:00"
+ },
+ {
+  "slug": "welltrainedapp",
+  "title": "WellTrained | Dog Training Journal and Progress Tracker",
+  "short_description": "Log dog training sessions, track skills, and monitor your dog's progress.",
+  "live_url": "https://www.welltrainedapp.com",
+  "published_at": "2026-07-29T01:11:49.721+00:00",
+  "updated_at": "2026-11-27T16:02:06.137955+00:00"
+ },
+ {
+  "slug": "sora2-ai",
+  "title": "Sora2 AI Video Generator for Real Creators | Watermark-Free Stories in Minutes",
+  "short_description": "Generate 1080p watermark-free AI videos with Sora 2 motion controls, synchronized audio, and no signup required.",
+  "live_url": "https://sora2-ai.net",
+  "published_at": "2026-07-12T10:17:10.762+00:00",
+  "updated_at": "2026-11-27T16:02:05.846734+00:00"
+ },
+ {
+  "slug": "xiaokaixuan",
+  "title": "幸运硬币",
+  "short_description": "A free web-based coin game inspired by Steam's Lucky Coin, playable instantly without registration.",
+  "live_url": "https://xiaokaixuan.com/xkx/coin-game",
+  "published_at": "2026-07-17T05:15:46.924+00:00",
+  "updated_at": "2026-11-27T16:02:05.54519+00:00"
+ },
+ {
+  "slug": "trading-investment-analyst-lovable",
+  "title": "AI Institutional Trading & Investment Analyst – Instant Stock Research & Swing T",
+  "short_description": "Analyze stocks with AI equity research, valuations, and swing trade recommendations.",
+  "live_url": "https://trading-investment-analyst.lovable.app",
+  "published_at": "2026-07-17T04:18:06.801+00:00",
+  "updated_at": "2026-11-27T16:02:05.261643+00:00"
+ },
+ {
+  "slug": "semantyra",
+  "title": "Semantyra | Search Authority Intelligence",
+  "short_description": "See exactly what Google and AI understand about your website. Semantic maps, topical authority, AI visibility and one prioritized action list.",
+  "live_url": "https://semantyra.com",
+  "published_at": "2026-09-17T05:39:03.222+00:00",
+  "updated_at": "2026-11-27T16:02:04.956979+00:00"
+ },
+ {
+  "slug": "lepoch-cn",
+  "title": "LePoch — AI 模型微调平台 | AI Model Fine-Tuning",
+  "short_description": "AI model fine-tuning platform for text and vision. Upload datasets, run LoRA fine-tuning, and deploy models via API. 在线 AI 模型微调平台：上传数据集、配置 LoRA 微调、部署模型并通过 API 调用。",
+  "live_url": "https://lepoch.cn/",
+  "published_at": "2026-09-17T05:36:58.744+00:00",
+  "updated_at": "2026-11-27T16:02:04.652606+00:00"
+ },
+ {
+  "slug": "speed-stars-top",
+  "title": "Speed Stars: Tap rhythmically to master sprinting physics",
+  "short_description": "Tap keys in rhythm to master sprint physics and set records in this rhythmic challenge game.",
+  "live_url": "https://speed-stars.top/",
+  "published_at": "2026-07-12T19:59:23.14+00:00",
+  "updated_at": "2026-11-27T16:02:04.335228+00:00"
+ },
+ {
+  "slug": "snaphax-mooo",
+  "title": "SNOOPHACK // access console",
+  "short_description": "Novelty party-trick console. Not a real hacking tool.",
+  "live_url": "https://snaphax.mooo.com/?i=67acc2ins1&t=6aa1b572&tid64=B0cbJAg2mBf",
+  "published_at": "2026-09-10T02:09:04.749+00:00",
+  "updated_at": "2026-11-27T16:02:04.030479+00:00"
+ },
+ {
+  "slug": "buildings-lol",
+  "title": "Buildings.lol — own your place on the internet",
+  "short_description": "A city built from what people pay to stand in it. Every dollar buys height, a better address and a permanent, shareable landmark.",
+  "live_url": "https://buildings.lol",
+  "published_at": "2026-08-25T04:03:11.256+00:00",
+  "updated_at": "2026-11-27T16:02:03.713937+00:00"
+ },
+ {
+  "slug": "hn-tags-beehivesoftware",
+  "title": "HN Reader",
+  "short_description": "Hacker News, filtered by topic. Updated every minute.",
+  "live_url": "https://hn-tags.beehivesoftware.xyz/?tags=programming",
+  "published_at": "2026-09-17T05:36:20.521+00:00",
+  "updated_at": "2026-11-27T16:02:03.385962+00:00"
+ },
+ {
+  "slug": "47-107-180-19-8888",
+  "title": "共生花园",
+  "short_description": "共生花园：画下一株植物，种进所有人共享的公共花园。",
+  "live_url": "http://47.107.180.19:8888/",
+  "published_at": "2026-10-17T19:30:53.366+00:00",
+  "updated_at": "2026-11-27T16:02:03.076185+00:00"
+ },
+ {
+  "slug": "regon24-pl",
+  "title": "Regon24 - Wyszukiwarka Firm CEIDG, REGON, KRS | Sprawdź Firmę Online",
+  "short_description": "Wyszukiwarka polskich firm Regon24 - Sprawdź firmę po NIP, REGON lub nazwie. Pełne informacje z CEIDG, KRS i GUS. Dane firm, status prawny, historia działalności. Szybko, dokładnie",
+  "live_url": "https://regon24.pl",
+  "published_at": "2026-08-26T02:03:49.472+00:00",
+  "updated_at": "2026-11-27T16:02:02.70072+00:00"
+ },
+ {
+  "slug": "jev-painter-flock-h-workers",
+  "title": "Jev Painter // Continuous Intuition Studio",
+  "short_description": "@GoogleAIStudio @GoogleAIStudio Vibe coding an AI Abstract Oil Painter! 🎨✨ Splitting intuition & execution: 🧠 AI intuition chooses stroke, color & intensity 🖌️ Custom HTML5 Canvas ",
+  "live_url": "https://jev-painter.flock-h.workers.dev/",
+  "published_at": "2026-09-19T23:32:56.74+00:00",
+  "updated_at": "2026-11-27T16:02:02.395835+00:00"
+ },
+ {
+  "slug": "thebidboard-lol",
+  "title": "The BidBoard",
+  "short_description": "Compete to claim a spot on the leaderboard by bidding for positions.",
+  "live_url": "https://thebidboard.lol",
+  "published_at": "2026-08-25T04:31:34.155+00:00",
+  "updated_at": "2026-11-27T16:02:02.110991+00:00"
+ },
+ {
+  "slug": "wurk-haus",
+  "title": "Wurk.Flow — Local-first data modeling, in your browser or on your desktop",
+  "short_description": "Wurk.Flow unifies schema design, a live SQL workspace, column-level lineage, and source-to-target mapping in one local-first modeling IDE — in your browser or on your desktop. Free",
+  "live_url": "https://wurk.haus/",
+  "published_at": "2026-08-25T02:00:09.009+00:00",
+  "updated_at": "2026-11-27T16:02:01.806606+00:00"
+ },
+ {
+  "slug": "belljack-world",
+  "title": "BELLJACK — Same bell. Different owners.",
+  "short_description": "Play-to-earn blockchain game on Robinhood Chain where players earn cryptocurrency rewards.",
+  "live_url": "https://belljack.world",
+  "published_at": "2026-10-02T01:49:25.348+00:00",
+  "updated_at": "2026-11-27T16:02:01.507755+00:00"
+ },
+ {
+  "slug": "rajkandula-github",
+  "title": "Vertex 3D Studio — gallery",
+  "short_description": "Models built from a single prompt by Claude, rendered as lattice dots. Open one, orbit it, export it.",
+  "live_url": "https://rajkandula.github.io/vertex-3d-studio/",
+  "published_at": "2026-09-16T23:21:42.035+00:00",
+  "updated_at": "2026-11-27T16:02:01.223077+00:00"
+ },
+ {
+  "slug": "aiprompt-zf-netlify",
+  "title": "AI 提示词智富平台",
+  "short_description": "Browse curated AI prompts and tools for productivity and creative work.",
+  "live_url": "https://aiprompt-zf.netlify.app",
+  "published_at": "2026-07-22T19:55:04.755+00:00",
+  "updated_at": "2026-11-27T16:02:00.924541+00:00"
+ },
+ {
+  "slug": "babyfilter-art",
+  "title": "BabyFilter | See Your Adorable Baby Self in One Click",
+  "short_description": "Transform any photo into an adorable baby version of yourself using AI.",
+  "live_url": "https://babyfilter.art",
+  "published_at": "2026-07-12T09:21:39.516+00:00",
+  "updated_at": "2026-11-27T16:02:00.612772+00:00"
+ },
+ {
+  "slug": "thoughtcrimegpt-github",
+  "title": "Sporeling Dash",
+  "short_description": "Browser platformer where air-dashing creates temporary platforms beneath you.",
+  "live_url": "https://thoughtcrimegpt.github.io/sporeling-dash/",
+  "published_at": "2026-07-28T19:10:23.498+00:00",
+  "updated_at": "2026-11-27T16:02:00.298008+00:00"
+ },
+ {
+  "slug": "shanghaicitycity-web-havenai-online",
+  "title": "上海City不City",
+  "short_description": "Plan Shanghai city walks with AI-generated routes for different themes and occasions.",
+  "live_url": "https://shanghaicitycity-web.havenai.online",
+  "published_at": "2026-07-16T01:34:03.385+00:00",
+  "updated_at": "2026-11-27T16:01:59.980924+00:00"
+ },
+ {
+  "slug": "uptent",
+  "title": "uptent",
+  "short_description": "Monitor uptime for multiple websites and services.",
+  "live_url": "https://uptent.io",
+  "published_at": "2026-07-05T06:58:40.396+00:00",
+  "updated_at": "2026-11-27T16:01:59.689378+00:00"
+ },
+ {
+  "slug": "thetalktrend",
+  "title": "TrendTalk - Trending Topics",
+  "short_description": "TrendTalk - Explore trending topics and engage in meaningful debates",
+  "live_url": "https://thetalktrend.com/explore",
+  "published_at": "2026-09-12T01:50:23.301+00:00",
+  "updated_at": "2026-11-27T16:01:59.351129+00:00"
+ },
+ {
+  "slug": "vidblockr",
+  "title": "vidBlockr — Protect your video content for free",
+  "short_description": "vidBlockr protects your content for free. Upload a video, get it back with a tamper-resistant watermark, and share your work safely. Runs entirely in your browser.",
+  "live_url": "https://vidblockr.com",
+  "published_at": "2026-09-28T23:20:50.391+00:00",
+  "updated_at": "2026-11-27T16:01:59.054339+00:00"
+ },
+ {
+  "slug": "auretapai-site",
+  "title": "Auretap — AI Digital Marketing, Video Automation & Software for Businesses",
+  "short_description": "Automate creation of marketing videos with AI-generated scripts and viral hooks.",
+  "live_url": "https://auretapai.site/",
+  "published_at": "2026-08-27T03:15:28.386+00:00",
+  "updated_at": "2026-11-27T16:01:58.775365+00:00"
+ },
+ {
+  "slug": "piopne-github",
+  "title": "Gallery",
+  "short_description": "Here's a game I made with the help of Claude Code, the whole process was so fun. 90% was made with Opus 5, Opus 5.5 perfected it; what a great model. Thank you @claudeai ! Really l",
+  "live_url": "https://piopne.github.io/art-gallery-play/",
+  "published_at": "2026-09-25T23:38:40.407+00:00",
+  "updated_at": "2026-11-27T16:01:58.473238+00:00"
+ },
+ {
+  "slug": "coin-circle-collective-lovable",
+  "title": "Sum-Weekly — Rotating Savings Circles With Friends",
+  "short_description": "Sum-Weekly runs your money circle: everyone chips in each cycle, one member takes the whole pot, and the rotation keeps going until all get paid.",
+  "live_url": "https://coin-circle-collective.lovable.app",
+  "published_at": "2026-08-24T19:51:31.093+00:00",
+  "updated_at": "2026-11-27T16:01:58.180369+00:00"
+ },
+ {
+  "slug": "meridian-frontdesk-vercel",
+  "title": "Try the agent — Meridian",
+  "short_description": "Talk to an AI front desk agent for tutoring centers that refuses to invent prices.",
+  "live_url": "https://meridian-frontdesk.vercel.app/try",
+  "published_at": "2026-08-09T02:04:58.177+00:00",
+  "updated_at": "2026-11-27T16:01:57.877717+00:00"
+ },
+ {
+  "slug": "apartman-lol",
+  "title": "APARTMAN.LOL — The internet lives here",
+  "short_description": "Claim a digital apartment, protect it, take over another window, or fight for the rooftop in a living internet building.",
+  "live_url": "https://apartman.lol",
+  "published_at": "2026-08-30T02:21:44.53+00:00",
+  "updated_at": "2026-11-27T16:01:57.595778+00:00"
+ },
+ {
+  "slug": "adinvaders",
+  "title": "AdInvaders: Shoot the brands",
+  "short_description": "A shoot-em-up whose enemies are real brands. Put your brand up on the board, keep your spot until somebody pays more, and see every shot and click counted in public.",
+  "live_url": "https://adinvaders.com",
+  "published_at": "2026-09-11T01:25:42.516+00:00",
+  "updated_at": "2026-11-27T16:01:57.288975+00:00"
+ },
+ {
+  "slug": "cashtalk-lol",
+  "title": "cashtalk-lol",
+  "short_description": "@patilprashhw https://t.co/MyZGZP1Yc0 https://t.co/Ya8Zz5EKN3",
+  "live_url": "https://Cashtalk.lol",
+  "published_at": "2026-09-05T07:46:21.447+00:00",
+  "updated_at": "2026-11-27T16:01:56.982763+00:00"
+ },
+ {
+  "slug": "10-million-pixels-vercel",
+  "title": "10 Million Pixels - Global Crypto Wall",
+  "short_description": "Place pixels on a global collaborative wall for $0.01 each using crypto.",
+  "live_url": "https://10-million-pixels.vercel.app/",
+  "published_at": "2026-10-01T01:32:10.639+00:00",
+  "updated_at": "2026-11-27T16:01:56.698666+00:00"
+ },
+ {
+  "slug": "lightdrift",
+  "title": "Lightdrift",
+  "short_description": "License-aware image search for AI agents. Search hosted Creative Commons images with provenance, license details, and attribution. Search with text, a reference image, or both.",
+  "live_url": "https://lightdrift.ai",
+  "published_at": "2026-09-22T23:49:46.982+00:00",
+  "updated_at": "2026-11-27T16:01:56.401374+00:00"
+ },
+ {
+  "slug": "zerodegree-ai-studio",
+  "title": "ZD",
+  "short_description": "@markproduct https://t.co/pXgK2zxNAI",
+  "live_url": "https://zerodegree.ai.studio/",
+  "published_at": "2026-08-22T01:40:10.166+00:00",
+  "updated_at": "2026-11-27T16:01:56.110673+00:00"
+ },
+ {
+  "slug": "formmie",
+  "title": "formmie — Zero-Config Smart Form Backend with AI Analytics & Spam Shield",
+  "short_description": "formmie is a developer-first form backend that auto-detects data types, scores leads with AI, blocks spam bots, forwards webhooks, and delivers real-time analytics — all with a sin",
+  "live_url": "https://formmie.pro",
+  "published_at": "2026-09-11T01:22:39.577+00:00",
+  "updated_at": "2026-11-27T16:01:55.801262+00:00"
+ },
+ {
+  "slug": "symptomlog-ai-studio",
+  "title": "My Google AI Studio App",
+  "short_description": "Log and track daily health symptoms for personal monitoring and pattern recognition.",
+  "live_url": "https://symptomlog.ai.studio/",
+  "published_at": "2026-08-08T19:16:58.969+00:00",
+  "updated_at": "2026-11-27T16:01:55.516836+00:00"
+ },
+ {
+  "slug": "pindown",
+  "title": "Pindown — Share your data. Pinpoint. One live link.",
+  "short_description": "Share and update data with your team via live links.",
+  "live_url": "https://pindown.ai/",
+  "published_at": "2026-07-09T01:24:35.787+00:00",
+  "updated_at": "2026-11-27T16:01:55.210609+00:00"
+ },
+ {
+  "slug": "fitforge-cc",
+  "title": "FitForge AI — Build Your Weapon",
+  "short_description": "Generate AI workout and meal plans, track food intake, and monitor fitness progress.",
+  "live_url": "https://fitforge.cc/",
+  "published_at": "2026-07-08T19:42:18.681+00:00",
+  "updated_at": "2026-11-27T16:01:54.922032+00:00"
+ },
+ {
+  "slug": "cadenvio",
+  "title": "X (Twitter) Scheduler, Analytics & AI Writer | Cadenvio",
+  "short_description": "Schedule and publish X posts with AI writing assistance and analytics tracking.",
+  "live_url": "https://cadenvio.com",
+  "published_at": "2026-08-24T03:12:05.361+00:00",
+  "updated_at": "2026-11-27T16:01:54.619872+00:00"
+ },
+ {
+  "slug": "agnos-llm-gateway-site",
+  "title": "Agnos - Own Your LLM Control Plane | Contain LiteLLM, Bifrost and Any Gateway",
+  "short_description": "Self-hosted LLM control plane for managing API gateway traffic across providers like LiteLLM and Bifrost.",
+  "live_url": "https://agnos-llm-gateway.site/app/welcome",
+  "published_at": "2026-08-24T01:41:08.589+00:00",
+  "updated_at": "2026-11-27T16:01:54.31642+00:00"
+ },
+ {
+  "slug": "quotefirst",
+  "title": "QuoteFirst",
+  "short_description": "Estimate the cost of your AI prompts before running them.",
+  "live_url": "https://quotefirst.ai/",
+  "published_at": "2026-07-23T23:27:59.875+00:00",
+  "updated_at": "2026-11-27T16:01:54.006677+00:00"
+ },
+ {
+  "slug": "unemployeearc",
+  "title": "unemployee",
+  "short_description": "Meme gallery celebrating unemployment and the vibe-coding lifestyle.",
+  "live_url": "https://unemployeearc.xyz",
+  "published_at": "2026-07-23T23:23:43.778+00:00",
+  "updated_at": "2026-11-27T16:01:53.720673+00:00"
+ },
+ {
+  "slug": "screamai-art",
+  "title": "Scream AI - Transform Your Selfies into Cinematic Y2K Horror Photos",
+  "short_description": "Upload a selfie to transform it into a cinematic Y2K horror-themed image using AI.",
+  "live_url": "https://screamai.art",
+  "published_at": "2026-07-12T10:21:48.488+00:00",
+  "updated_at": "2026-11-27T16:01:53.427815+00:00"
+ },
+ {
+  "slug": "audioso",
+  "title": "AI Text-to-Speech — Convert Text & PDF to MP3 | audioso",
+  "short_description": "Convert text and PDFs to audio with natural-sounding AI voices.",
+  "live_url": "https://audioso.app",
+  "published_at": "2026-07-26T05:18:19.396+00:00",
+  "updated_at": "2026-11-27T16:01:53.126871+00:00"
+ },
+ {
+  "slug": "cma-rs-vercel",
+  "title": "Calyrn | Signal, in context.",
+  "short_description": "Personal crypto intelligence for market research, exposure, risk, and the signals that matter to you.",
+  "live_url": "https://cma-rs.vercel.app/",
+  "published_at": "2026-09-20T02:17:35.439+00:00",
+  "updated_at": "2026-11-27T16:01:52.81295+00:00"
+ },
+ {
+  "slug": "hotellobbyai-im",
+  "title": "Hotel Lobby AI Video Generator — Make the Orange Booth Trend",
+  "short_description": "Make the Hotel Lobby AI orange-booth trend from two photos. Assign left and right performers, choose a quality, and create a vertical video for social media.",
+  "live_url": "https://hotellobbyai.im",
+  "published_at": "2026-09-30T05:26:13.685+00:00",
+  "updated_at": "2026-11-27T16:01:52.518167+00:00"
+ },
+ {
+  "slug": "video-dailytoolbox",
+  "title": "SnapSave - Free Universal Video Downloader",
+  "short_description": "Download videos from TikTok, Instagram, YouTube, X and Reddit without watermarks.",
+  "live_url": "https://video.dailytoolbox.org",
+  "published_at": "2026-09-06T19:25:27.721+00:00",
+  "updated_at": "2026-11-27T16:01:52.233912+00:00"
+ },
+ {
+  "slug": "promo-town",
+  "title": "Promo Town: Build a Tower, Put Your Brand on the Skyline",
+  "short_description": "Buy a plot in a living 3D city, build your own tower and put your logo and ads on the skyline. Free to explore in your browser, no download needed.",
+  "live_url": "https://promo.town",
+  "published_at": "2026-09-30T01:48:09.402+00:00",
+  "updated_at": "2026-11-27T16:01:51.926457+00:00"
+ },
+ {
+  "slug": "playmodearena-lovable",
+  "title": "PlayMode Arena | Original Mobile Sports Arcade Challenges",
+  "short_description": "Play short original sports-inspired skill challenges, beat your personal best, unlock cosmetic rewards, and build your legacy in PlayMode Arena.",
+  "live_url": "https://playmodearena.lovable.app",
+  "published_at": "2026-09-29T23:50:58.9+00:00",
+  "updated_at": "2026-11-27T16:01:51.634367+00:00"
+ },
+ {
+  "slug": "daptera",
+  "title": "Daptera — Managed Discord Bot Platform for Communities",
+  "short_description": "Run your own Discord community bot without self-hosting. Daptera handles infrastructure, updates, moderation, onboarding, logs, invites, statistics and more.",
+  "live_url": "https://daptera.com",
+  "published_at": "2026-09-15T02:43:12.558+00:00",
+  "updated_at": "2026-11-27T16:01:51.327671+00:00"
+ },
+ {
+  "slug": "saasville",
+  "title": "SaaSville.io — Marketing & Discovery for New Startups",
+  "short_description": "SaaSville is a one-stop marketing and discovery platform for new startups. The place where startups fight for attention, earn visibility, and get discovered before everyone else.",
+  "live_url": "https://saasville.io",
+  "published_at": "2026-09-15T01:55:52.664+00:00",
+  "updated_at": "2026-11-27T16:01:51.032146+00:00"
+ },
+ {
+  "slug": "myad-lol",
+  "title": "MyAd.lol | One Ad. One Homepage. One Owner.",
+  "short_description": "Bid on exclusive advertising space on the MyAd.lol homepage.",
+  "live_url": "https://myad.lol",
+  "published_at": "2026-08-29T04:00:04.083+00:00",
+  "updated_at": "2026-11-27T16:01:50.733201+00:00"
+ },
+ {
+  "slug": "yaadops",
+  "title": "Yaad - Tag it.",
+  "short_description": "Platform for publishing, tagging, and trying software directly in the browser.",
+  "live_url": "https://yaadops.com/explore",
+  "published_at": "2026-08-19T23:20:31.575+00:00",
+  "updated_at": "2026-11-27T16:01:50.44139+00:00"
+ },
+ {
+  "slug": "martesai",
+  "title": "MartesAI — Browser Intelligence Platform",
+  "short_description": "MartesAI turns your website into an intelligent customer magnet. Browser intelligence that understands your content, guides visitors, and converts conversations.",
+  "live_url": "https://martesai.com",
+  "published_at": "2026-09-13T02:42:09.017+00:00",
+  "updated_at": "2026-11-27T16:01:50.149197+00:00"
+ },
+ {
+  "slug": "vindicated",
+  "title": "VINdicated.ai | Buyer-Side Car Marketplace and AI Car-Buying Guide",
+  "short_description": "Two buyers get the same car from the same dealer and pay thousands apart. VINdicated puts real price context, deal checks, and side-by-side comparisons on the buyer's side, before ",
+  "live_url": "https://vindicated.ai/",
+  "published_at": "2026-08-08T02:19:56.883+00:00",
+  "updated_at": "2026-11-27T16:01:49.820803+00:00"
+ },
+ {
+  "slug": "getredditradar",
+  "title": "Radar — find Reddit customer threads without account automation",
+  "short_description": "Paste your site. Radar finds the subreddits where your buyers talk, checks their real rules, and brings you the threads where you can help, with a reply ready to copy.",
+  "live_url": "https://getredditradar.com",
+  "published_at": "2026-09-13T01:57:41.469+00:00",
+  "updated_at": "2026-11-27T16:01:49.515303+00:00"
+ },
+ {
+  "slug": "bidranks",
+  "title": "Bidranks — Outbid-Style Paid Leaderboard & Startup Marketplace",
+  "short_description": "Bid for top placement on a public leaderboard to rank your startup and gain direct traffic.",
+  "live_url": "https://www.bidranks.com",
+  "published_at": "2026-08-23T02:00:01.145+00:00",
+  "updated_at": "2026-11-27T16:01:49.203888+00:00"
+ },
+ {
+  "slug": "getorchards",
+  "title": "Orchards — Connect and prosper, together.",
+  "short_description": "Connect with others, share what matters, and participate in attributable commerce.",
+  "live_url": "https://getorchards.com",
+  "published_at": "2026-09-13T01:26:43.97+00:00",
+  "updated_at": "2026-11-27T16:01:48.918445+00:00"
+ },
+ {
+  "slug": "bidfolio-lol",
+  "title": "Bidfolio · The jury is money.",
+  "short_description": "A ranked list of portfolios, products and projects. Rank is the bid, nothing else. Resets every month.",
+  "live_url": "https://bidfolio.lol/",
+  "published_at": "2026-08-23T01:50:34.225+00:00",
+  "updated_at": "2026-11-27T16:01:48.614433+00:00"
+ },
+ {
+  "slug": "wwwsmartbook",
+  "title": "Smart Book",
+  "short_description": "Smart Book manages 5 data types including noops. Helps you organize, track, and share your work in 1 place for teams and solo users.",
+  "live_url": "https://wwwsmartbook.com",
+  "published_at": "2026-08-23T01:49:36.111+00:00",
+  "updated_at": "2026-11-27T16:01:48.318922+00:00"
+ },
+ {
+  "slug": "vidoco-shaheermalik",
+  "title": "Vidoco — Make polished product videos in your browser",
+  "short_description": "Pick a template, change the words, export an MP4. Nearly 300 animated scenes, text effects and transitions in a timeline editor that runs in your browser.",
+  "live_url": "https://vidoco.shaheermalik.com",
+  "published_at": "2026-09-13T01:16:18.858+00:00",
+  "updated_at": "2026-11-27T16:01:48.035069+00:00"
+ },
+ {
+  "slug": "vura",
+  "title": "Vura - Managed PostgreSQL Control Plane & Proxy",
+  "short_description": "Managed PostgreSQL control plane and connection proxy to simplify database deployment.",
+  "live_url": "https://vura.dev",
+  "published_at": "2026-07-09T21:54:35.84+00:00",
+  "updated_at": "2026-11-27T16:01:47.728143+00:00"
+ },
+ {
+  "slug": "matchlogtracker-fit",
+  "title": "MatchLog — Weekly match tracker",
+  "short_description": "MatchLog is a private, local-first tracker for weekly match performance.",
+  "live_url": "https://matchlogtracker.fit/",
+  "published_at": "2026-09-11T02:41:23.289+00:00",
+  "updated_at": "2026-11-27T16:01:47.44056+00:00"
+ },
+ {
+  "slug": "themusebook",
+  "title": "Musebook: the social network for Muses",
+  "short_description": "The social network for Muses. Humans read along.",
+  "live_url": "https://themusebook.co",
+  "published_at": "2026-09-27T01:11:53.953+00:00",
+  "updated_at": "2026-11-27T16:01:47.152072+00:00"
+ },
+ {
+  "slug": "telorobo-lol",
+  "title": "TeLoRobo.lol — El puesto #1 se roba",
+  "short_description": "Competitive ranking game—pay to bump the leader and take the #1 spot.",
+  "live_url": "https://telorobo.lol/",
+  "published_at": "2026-08-23T02:29:13.396+00:00",
+  "updated_at": "2026-11-27T16:01:46.853427+00:00"
+ },
+ {
+  "slug": "jiaoyuan",
+  "title": "recite · 背单词",
+  "short_description": "Learn English vocabulary with a browser-based tool that saves your progress locally without login.",
+  "live_url": "https://jiaoyuan.org/recite/",
+  "published_at": "2026-08-08T19:54:16.99+00:00",
+  "updated_at": "2026-11-27T16:01:46.573957+00:00"
+ },
+ {
+  "slug": "outbid-click",
+  "title": "outbid.click — One square. Highest bid wins.",
+  "short_description": "Bid against others to secure the only advertising spot on a website.",
+  "live_url": "https://outbid.click",
+  "published_at": "2026-08-21T19:48:16.005+00:00",
+  "updated_at": "2026-11-27T16:01:46.276157+00:00"
+ },
+ {
+  "slug": "gingerpal",
+  "title": "GingerPal — For people and AI to learn, share, and do business together",
+  "short_description": "GingerPal is a social platform where people and AI agents connect, share what they know, and hire each other for real work.",
+  "live_url": "https://gingerpal.com/",
+  "published_at": "2026-09-22T03:22:56.646+00:00",
+  "updated_at": "2026-11-27T16:01:45.963456+00:00"
+ },
+ {
+  "slug": "bonsaii-space",
+  "title": "Bonsaii — Your Personalized Command Center",
+  "short_description": "AI-powered command center for managing projects, tasks, and documents.",
+  "live_url": "https://bonsaii.space",
+  "published_at": "2026-07-19T19:58:08.978+00:00",
+  "updated_at": "2026-11-27T16:01:45.674817+00:00"
+ },
+ {
+  "slug": "saasarena-lol",
+  "title": "SaaSArena.lol — Bid to rank. Own the leaderboard.",
+  "short_description": "The pay-to-rank leaderboard for SaaS products. Outbid your rivals, climb the ranks, take the crown.",
+  "live_url": "https://saasarena.lol",
+  "published_at": "2026-08-29T03:30:00.713+00:00",
+  "updated_at": "2026-11-27T16:01:45.363677+00:00"
+ },
+ {
+  "slug": "surebrand-ai",
+  "title": "surebrand-ai",
+  "short_description": "Sure.ai AI Design Tools",
+  "live_url": "https://www.surebrand-ai.com/",
+  "published_at": "2026-07-17T04:40:46.421+00:00",
+  "updated_at": "2026-11-27T16:01:45.040039+00:00"
+ },
+ {
+  "slug": "usemarginguard",
+  "title": "MarginGuard",
+  "short_description": "MarginGuard gives US importers live USITC tariff rates, AI-powered HTS classification, and a supplier marketplace — all in one platform starting at $99/month.",
+  "live_url": "https://Usemarginguard.com",
+  "published_at": "2026-09-14T02:37:41.232+00:00",
+  "updated_at": "2026-11-27T16:01:44.734941+00:00"
+ },
+ {
+  "slug": "ordering-system-production-c09a-up-railway",
+  "title": "Welcome To The Bluestone | Place & track your order easily",
+  "short_description": "Welcome to the bluestone. Place and track your order easily without worries. Enjoy & Focus.",
+  "live_url": "https://ordering-system-production-c09a.up.railway.app",
+  "published_at": "2026-09-08T02:28:48.953+00:00",
+  "updated_at": "2026-11-27T16:01:44.42859+00:00"
+ },
+ {
+  "slug": "marsbid-space",
+  "title": "MARS · plant your flag",
+  "short_description": "Mars is for sale. Pick a plot, plant your logo as a flag, and it is yours until someone pays 1.5× to take it from you.",
+  "live_url": "https://marsbid.space",
+  "published_at": "2026-08-29T01:52:23.534+00:00",
+  "updated_at": "2026-11-27T16:01:44.110482+00:00"
+ },
+ {
+  "slug": "cursopba-lovable",
+  "title": "Performance Biomechanics Academy Table Tennis",
+  "short_description": "Academia de tenis de mesa con cursos potenciados por IA, evaluaciones, certificados y libro digital. Aprende biomecánica de élite con suscripción de USD 5.00 al mes.",
+  "live_url": "https://cursopba.lovable.app",
+  "published_at": "2026-09-14T00:31:51.309+00:00",
+  "updated_at": "2026-11-27T16:01:43.819387+00:00"
+ },
+ {
+  "slug": "divergent-pieces-lovable",
+  "title": "Can You Solve the Divergent? — Jigsaw Challenge",
+  "short_description": "Solve jigsaw puzzles across four difficulty stages from 9 to 70 pieces.",
+  "live_url": "https://divergent-pieces.lovable.app",
+  "published_at": "2026-08-06T19:23:52.467+00:00",
+  "updated_at": "2026-11-27T16:01:43.52606+00:00"
+ },
+ {
+  "slug": "promptsgalleryai",
+  "title": "Prompts Gallery AI — AI Image Prompts That Work",
+  "short_description": "Browse a curated gallery of AI image prompts with results, explanations, and model comparisons to improve your generations.",
+  "live_url": "https://promptsgalleryai.com/",
+  "published_at": "2026-07-31T20:19:28.258+00:00",
+  "updated_at": "2026-11-27T16:01:43.243856+00:00"
+ },
+ {
+  "slug": "recoup-odingard",
+  "title": "Recoup — the revenue you're already owed",
+  "short_description": "Upload your contracts to compare against actual billing and recover missing revenue.",
+  "live_url": "https://recoup.odingard.com",
+  "published_at": "2026-09-12T02:26:37.823+00:00",
+  "updated_at": "2026-11-27T16:01:42.936458+00:00"
+ },
+ {
+  "slug": "tuned-today",
+  "title": "Tuned — What you care about. Covered wide. Easy to check.",
+  "short_description": "Daily news aggregator that watches print, audio, video, and digital sources for your interests.",
+  "live_url": "https://tuned.today",
+  "published_at": "2026-07-31T19:39:09.687+00:00",
+  "updated_at": "2026-11-27T16:01:42.648547+00:00"
+ },
+ {
+  "slug": "brandmyflight-space",
+  "title": "BrandMyFlight — Ten brands. One funded flight.",
+  "short_description": "Sponsor one of ten positions on a fictional Sponsor Pass funding a founder flight from Lahore to New York.",
+  "live_url": "https://Brandmyflight.space",
+  "published_at": "2026-08-29T03:56:23.245+00:00",
+  "updated_at": "2026-11-27T16:01:42.36353+00:00"
+ },
+ {
+  "slug": "taktaltare",
+  "title": "TakTält — Sveriges största mötesplats för taktält & friluftsliv",
+  "short_description": "Community marketplace for roof tent and overlanding enthusiasts in the Nordic region.",
+  "live_url": "https://taktaltare.com",
+  "published_at": "2026-07-27T19:54:01.674+00:00",
+  "updated_at": "2026-11-27T16:01:42.063024+00:00"
+ },
+ {
+  "slug": "denzo",
+  "title": "Denzo — Bangladesh's Premier Marketplace",
+  "short_description": "Discover, shop, and sell on Bangladesh's most trusted e-commerce platform.",
+  "live_url": "https://denzo.com.bd",
+  "published_at": "2026-09-10T02:03:49.726+00:00",
+  "updated_at": "2026-11-27T16:01:41.758138+00:00"
+ },
+ {
+  "slug": "daily-speak-buddy-45-lovable",
+  "title": "Vellum — Daily English Speaking Coach",
+  "short_description": "Practice 5–10 minutes of spoken English every day with a warm AI conversation partner.",
+  "live_url": "https://daily-speak-buddy-45.lovable.app",
+  "published_at": "2026-09-26T00:28:39.383+00:00",
+  "updated_at": "2026-11-27T16:01:41.453062+00:00"
+ },
+ {
+  "slug": "thespiritualschool",
+  "title": "The Spiritual School — Daily AI Wisdom & Reflection",
+  "short_description": "Daily AI reflections sourced from real wisdom texts, with journaling and meditation practice.",
+  "live_url": "https://thespiritualschool.com",
+  "published_at": "2026-08-27T19:49:19.319+00:00",
+  "updated_at": "2026-11-27T16:01:41.145286+00:00"
+ },
+ {
+  "slug": "orbute",
+  "title": "Creators Orbit",
+  "short_description": "Explore creators and videos in a galaxy of talent — Creators Orbit.",
+  "live_url": "https://Orbute.com",
+  "published_at": "2026-08-26T02:33:34.565+00:00",
+  "updated_at": "2026-11-27T16:01:40.835863+00:00"
+ },
+ {
+  "slug": "formabuild",
+  "title": "FORMA — AI Fitness Platform: Workouts & 3D Muscle Map",
+  "short_description": "AI fitness platform with camera-based form coaching, meal scanning, and 3D muscle maps.",
+  "live_url": "https://formabuild.net",
+  "published_at": "2026-07-11T23:17:48.755+00:00",
+  "updated_at": "2026-11-27T16:01:40.514491+00:00"
+ },
+ {
+  "slug": "grabora",
+  "title": "Grabora — Free Video & Audio Downloader (YouTube, TikTok, Instagram)",
+  "short_description": "Download videos and audio from YouTube, TikTok, Instagram and other platforms.",
+  "live_url": "https://grabora.io/",
+  "published_at": "2026-07-11T22:40:35.422+00:00",
+  "updated_at": "2026-11-27T16:01:40.213667+00:00"
+ },
+ {
+  "slug": "hanbeom-kr",
+  "title": "HanBeom — Your AI Friend in Korea",
+  "short_description": "HanBeom is your AI friend for life in Korea. Find nearby restaurants, calculate taxi fares, navigate subways, ask about culture and visas — in any language.",
+  "live_url": "https://hanbeom.kr",
+  "published_at": "2026-08-21T01:12:32.703+00:00",
+  "updated_at": "2026-11-27T16:01:39.896477+00:00"
+ },
+ {
+  "slug": "brainsite",
+  "title": "BrainSite | Your Website Finally Talks Back",
+  "short_description": "AI chatbot that answers customer questions, qualifies leads, and books meetings on your website.",
+  "live_url": "https://Brainsite.ai",
+  "published_at": "2026-07-18T21:46:42.398+00:00",
+  "updated_at": "2026-11-27T16:01:39.588151+00:00"
+ },
+ {
+  "slug": "callcoach-live-netlify",
+  "title": "CallCoach — AI Call Coaching for Sales Teams",
+  "short_description": "@HeyAliux https://t.co/UdFaOf9Mnc",
+  "live_url": "https://callcoach-live.netlify.app/",
+  "published_at": "2026-08-11T02:01:17.236+00:00",
+  "updated_at": "2026-11-27T16:01:39.263442+00:00"
+ },
+ {
+  "slug": "deskted-replit",
+  "title": "DESKTED",
+  "short_description": "@TanzilaSha9574 https://t.co/5DPcyVjMFe",
+  "live_url": "https://deskted.replit.app",
+  "published_at": "2026-07-17T06:01:31.962+00:00",
+  "updated_at": "2026-11-27T16:01:38.969954+00:00"
+ },
+ {
+  "slug": "quietls",
+  "title": "Continuous SSL & Website Security Monitoring | QuietLS",
+  "short_description": "Monitor SSL certificates and website security with continuous checks for renewal, headers, and DNS.",
+  "live_url": "https://quietls.com",
+  "published_at": "2026-07-08T22:10:09.547+00:00",
+  "updated_at": "2026-11-27T16:01:38.665471+00:00"
+ },
+ {
+  "slug": "textclav",
+  "title": "Clav",
+  "short_description": "Clav — the operating protocol for training, nutrition, frame, and discipline. Clavicular's eye on your daily standard, in Telegram.",
+  "live_url": "https://textclav.com",
+  "published_at": "2026-09-21T03:40:30.408+00:00",
+  "updated_at": "2026-11-27T16:01:38.33878+00:00"
+ },
+ {
   "slug": "betaer-github",
   "title": "AI Signal Guard · browser analyzer",
   "short_description": "Check what network and browser signals you expose before using AI services.",
